@@ -4,7 +4,7 @@
   "description": "",
   "type": "platform",
   "dependencies": [
-    "field:cloud_infrastructure"
+    "field/cloud_infrastructure"
   ],
   "resources": {
     "articles": [],

@@ -4,7 +4,7 @@
   "description": "MySQL is an open-source relational database management system (RDBMS) that was first released in 1995. It is widely known for its speed, reliability, and ease of use. MySQL uses Structured Query Language (SQL) for managing and manipulating the data stored in relational tables. It is an essential component of the LAMP stack, which stands for Linux, Apache, MySQL, and PHP, and is a popular choice for web applications.\nMySQL is particularly favored for web development and is used by a range of applications, from small websites to large-scale enterprise systems. It supports a variety of features including stored procedures, triggers, cursors, and transactions, which are essential for data integrity and consistency.\nOver the years, MySQL has gained widespread adoption due to its performance and open-source nature. It has been used by some of the largest websites in the world, including Facebook and Twitter. There are also several forks and variants of MySQL, such as MariaDB, which was created by the original developers of MySQL.\nMySQL is maintained and distributed by Oracle Corporation, but as an open-source project, it also has a strong community of developers contributing to its ongoing development and support.",
   "type": "database",
   "dependencies": [
-    "language:sql"
+    "language/sql"
   ],
   "resources": {
     "articles": [

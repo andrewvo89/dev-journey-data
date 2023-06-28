@@ -4,7 +4,7 @@
   "description": "",
   "type": "paradigm",
   "dependencies": [
-    "field:api_development"
+    "field/api_development"
   ],
   "resources": {
     "articles": [],

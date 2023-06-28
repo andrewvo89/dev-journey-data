@@ -4,7 +4,7 @@
   "description": "",
   "type": "language",
   "dependencies": [
-    "paradigm:functional_programming"
+    "paradigm/functional_programming"
   ],
   "resources": {
     "articles": [],

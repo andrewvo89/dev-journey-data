@@ -4,7 +4,7 @@
   "description": "",
   "type": "tool",
   "dependencies": [
-    "field:devops"
+    "field/devops"
   ],
   "resources": {
     "articles": [],

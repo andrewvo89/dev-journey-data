@@ -4,7 +4,7 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "language:python"
+    "language/python"
   ],
   "resources": {
     "articles": [],

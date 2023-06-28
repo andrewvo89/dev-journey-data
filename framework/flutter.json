@@ -4,7 +4,7 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "language:dart"
+    "language/dart"
   ],
   "resources": {
     "articles": [],

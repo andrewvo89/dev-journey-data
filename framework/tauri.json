@@ -4,8 +4,8 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "field:desktop_development",
-    "language:javascript"
+    "field/desktop_development",
+    "language/javascript"
   ],
   "resources": {
     "articles": [],

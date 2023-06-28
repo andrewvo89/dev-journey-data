@@ -4,9 +4,9 @@
   "description": "",
   "type": "language",
   "dependencies": [
-    "runtime:jre",
-    "runtime:jdk",
-    "field:mobile_development"
+    "runtime/jre",
+    "runtime/jdk",
+    "field/mobile_development"
   ],
   "resources": {
     "articles": [],

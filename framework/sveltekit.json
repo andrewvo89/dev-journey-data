@@ -4,7 +4,7 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "library:svelte"
+    "library/svelte"
   ],
   "resources": {
     "articles": [],

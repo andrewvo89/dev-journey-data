@@ -4,7 +4,7 @@
   "description": "",
   "type": "tool",
   "dependencies": [
-    "runtime:nodejs"
+    "runtime/nodejs"
   ],
   "resources": {
     "articles": [],

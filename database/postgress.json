@@ -4,7 +4,7 @@
   "description": "PostgreSQL, often simply called Postgres, is an open-source relational database management system (RDBMS) that was initially released in 1996. It is known for its advanced features, extensibility, and adherence to SQL standards. PostgreSQL supports both SQL for relational data and JSON for non-relational data, which makes it a popular choice for a variety of applications, from web services to data warehousing and analytics.\nOne of the distinguishing features of PostgreSQL is its support for custom data types and operators. Users can define their own data types, develop custom functions, and even write code in different programming languages without recompiling the database.\nPostgreSQL also boasts a robust set of features including transactions, multi-version concurrency control (MVCC), point-in-time recovery, table partitioning, and replication. Its ability to handle large volumes of data and perform complex queries efficiently makes it well-suited for high-performance environments and critical business applications.\nThe active community around PostgreSQL contributes to its continuous development and supports a rich ecosystem of tools and extensions. Moreover, its open-source nature and license, which allows for modification and distribution without any restrictions, make it a preferred choice for businesses and developers looking for a powerful and flexible RDBMS.",
   "type": "database",
   "dependencies": [
-    "language:sql"
+    "language/sql"
   ],
   "resources": {
     "articles": [

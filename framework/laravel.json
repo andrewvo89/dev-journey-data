@@ -4,7 +4,7 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "language:php"
+    "language/php"
   ],
   "resources": {
     "articles": [],
