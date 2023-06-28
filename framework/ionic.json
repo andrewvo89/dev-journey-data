@@ -4,8 +4,8 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "mobile_development",
-    "javascript"
+    "field:mobile_development",
+    "language:javascript"
   ],
   "resources": {
     "articles": [],

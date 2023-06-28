@@ -4,7 +4,7 @@
   "description": "",
   "type": "runtime",
   "dependencies": [
-    "backend_development"
+    "field:backend_development"
   ],
   "resources": {
     "articles": [],

@@ -4,7 +4,7 @@
   "description": "MongoDB is a widely used open-source NoSQL database management system that was first released in 2009. Unlike traditional relational databases that store data in structured tables, MongoDB is document-oriented, meaning it stores data in flexible, JSON-like documents (BSON format). Each document can have a different number of fields, content, and size, which makes MongoDB highly adaptable to various data models and applications.\nMongoDB is known for its scalability, performance, and flexibility. It supports sharding, which distributes data across multiple servers, making it possible to handle very large datasets and high traffic loads. Furthermore, it offers replication and automatic failover, ensuring high availability.\nMongoDB is particularly popular among developers working on big data, content management, mobile and IoT applications, where the schema can evolve rapidly or is not well-defined. Its query language is powerful and expressive, allowing for sophisticated querying and data manipulation.\nMongoDB also offers MongoDB Atlas, which is a fully managed cloud-based version of MongoDB, providing automated backups, scaling, and other features, making it easier for users to run MongoDB in the cloud.",
   "type": "database",
   "dependencies": [
-    "nosql"
+    "paradigm:nosql"
   ],
   "resources": {
     "articles": [

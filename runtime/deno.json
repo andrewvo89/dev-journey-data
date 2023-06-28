@@ -4,8 +4,8 @@
   "description": "",
   "type": "runtime",
   "dependencies": [
-    "nodejs",
-    "typescript"
+    "runtime:nodejs",
+    "language:typescript"
   ],
   "resources": {
     "articles": [],

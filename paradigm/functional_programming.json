@@ -4,7 +4,7 @@
   "description": "",
   "type": "paradigm",
   "dependencies": [
-    "backend_development"
+    "field:backend_development"
   ],
   "resources": {
     "articles": [],

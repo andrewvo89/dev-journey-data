@@ -4,7 +4,7 @@
   "description": "Angular is a popular open-source web application framework developed and maintained by Google. Initially released in 2010 as AngularJS, it was completely rewritten and rebranded as Angular, with the release of Angular 2 in 2016. As of my last knowledge update in September 2021, Angular continues to receive updates and improvements.\nAngular is primarily used for building single-page applications (SPAs), which are web applications or websites that interact with the user by dynamically rewriting the current page rather than loading entire new pages from the server. It employs TypeScript, a strict syntactical superset of JavaScript, as its primary programming language.\nOne of Angular's defining features is its declarative approach to building user interfaces. It employs a powerful template language that allows developers to declaratively describe the structure and behavior of the user interface. Combined with its component-based architecture, this allows for highly modular and reusable code, making it easier to build and maintain complex web applications.\nAngular also offers a rich set of tools and features such as two-way data binding, dependency injection, and a robust ecosystem of third-party libraries and tools. Additionally, it is backed by Google, which gives it strong support and credibility in the developer community.",
   "type": "framework",
   "dependencies": [
-    "typescript"
+    "language:typescript"
   ],
   "resources": {
     "articles": [

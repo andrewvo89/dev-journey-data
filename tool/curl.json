@@ -4,8 +4,8 @@
   "description": "",
   "type": "tool",
   "dependencies": [
-    "graphql",
-    "rest"
+    "language:graphql",
+    "paradigm:rest"
   ],
   "resources": {
     "articles": [],

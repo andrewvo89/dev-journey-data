@@ -4,9 +4,9 @@
   "description": "",
   "type": "language",
   "dependencies": [
-    "css",
-    "nodejs",
-    "desktop_development"
+    "language:css",
+    "runtime:nodejs",
+    "field:desktop_development"
   ],
   "resources": {
     "articles": [],

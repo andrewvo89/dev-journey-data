@@ -4,7 +4,7 @@
   "description": "",
   "type": "framework",
   "dependencies": [
-    "react"
+    "library:react"
   ],
   "resources": {
     "articles": [],

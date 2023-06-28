@@ -4,7 +4,7 @@
   "description": "",
   "type": "language",
   "dependencies": [
-    "relational"
+    "paradigm:relational"
   ],
   "resources": {
     "articles": [],

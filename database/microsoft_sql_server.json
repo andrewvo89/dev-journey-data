@@ -4,7 +4,7 @@
   "description": "Microsoft SQL Server is a relational database management system (RDBMS) developed by Microsoft. It was first released in 1989 and has since evolved into a comprehensive database solution for various data workloads. SQL Server is used to store, retrieve, and manage structured data in the form of tables. It supports the standard Structured Query Language (SQL) and offers various tools for database administration and business intelligence applications.\nSQL Server is known for its performance, security, and ease of use. It is widely used by businesses of all sizes for critical applications such as data warehousing, online transaction processing (OLTP), and business analytics. It offers a rich set of features including support for stored procedures, user-defined functions, transaction control, data replication, and advanced querying.\nIn addition to its on-premises version, Microsoft offers a cloud-based service called Azure SQL Database, which is a fully managed relational database service built on SQL Server technologies. This enables businesses to harness the scalability, availability, and flexibility of the cloud while using SQL Server for their database needs. Microsoft SQL Server is a popular choice among enterprises due to its comprehensive features, strong performance, and extensive ecosystem.",
   "type": "database",
   "dependencies": [
-    "sql"
+    "language:sql"
   ],
   "resources": {
     "articles": [
