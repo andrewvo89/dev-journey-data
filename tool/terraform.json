@@ -1,0 +1,16 @@
+{
+  "id": "terraform",
+  "title": "Terraform",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "devops"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

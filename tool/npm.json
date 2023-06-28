@@ -1,0 +1,16 @@
+{
+  "id": "npm",
+  "title": "NPM",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "nodejs"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

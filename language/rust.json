@@ -1,0 +1,16 @@
+{
+  "id": "rust",
+  "title": "Rust",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "functional_programming"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

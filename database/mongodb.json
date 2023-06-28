@@ -1,0 +1,653 @@
+{
+  "id": "mongodb",
+  "title": "MongoDB",
+  "description": "MongoDB is a widely used open-source NoSQL database management system that was first released in 2009. Unlike traditional relational databases that store data in structured tables, MongoDB is document-oriented, meaning it stores data in flexible, JSON-like documents (BSON format). Each document can have a different number of fields, content, and size, which makes MongoDB highly adaptable to various data models and applications.\nMongoDB is known for its scalability, performance, and flexibility. It supports sharding, which distributes data across multiple servers, making it possible to handle very large datasets and high traffic loads. Furthermore, it offers replication and automatic failover, ensuring high availability.\nMongoDB is particularly popular among developers working on big data, content management, mobile and IoT applications, where the schema can evolve rapidly or is not well-defined. Its query language is powerful and expressive, allowing for sophisticated querying and data manipulation.\nMongoDB also offers MongoDB Atlas, which is a fully managed cloud-based version of MongoDB, providing automated backups, scaling, and other features, making it easier for users to run MongoDB in the cloud.",
+  "type": "database",
+  "dependencies": [
+    "nosql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://javascript.plainenglish.io/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274",
+        "title": "Let’s build a full stack MongoDB, React, Node and Express (MERN) app",
+        "authors": [
+          "jelo rivera"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/mongodb-vs-mysql-comparison-which-database-is-better-e714b699c38b",
+        "title": "MongoDB vs MySQL Comparison: Which Database is Better?",
+        "authors": [
+          "Yevheniia Korotia"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/mongoaudit/how-to-enable-authentication-on-mongodb-b9e8a924efac",
+        "title": "How to Enable Authentication on MongoDB",
+        "authors": [
+          "Stampery Inc."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/fetch-api-data-with-axios-and-display-it-in-a-react-app-with-hooks-3f9c8fa89e7b",
+        "title": "Fetch API data with Axios and display it in a React app with hooks",
+        "authors": [
+          "JB"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/founding-ithaka/setting-up-and-connecting-to-a-remote-mongodb-database-5df754a4da89",
+        "title": "Setting up and connecting to a remote MongoDB database",
+        "authors": [
+          "Mithilesh Said"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/stackfame/run-mongodb-as-a-service-in-windows-b0acd3a4b712",
+        "title": "Run MongoDB as a Service in Windows",
+        "authors": [
+          "VithalReddy"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://tomanagle.medium.com/strongly-typed-models-with-mongoose-and-typescript-7bc2f7197722",
+        "title": "Strongly typed models with Mongoose and TypeScript",
+        "authors": [
+          "Tom Nagle"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.exploratory.io/an-introduction-to-mongodb-query-for-beginners-bd463319aa4c",
+        "title": "An Introduction to MongoDB Query for Beginners",
+        "authors": [
+          "Kan Nishida"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@alvenw/how-to-store-images-to-mongodb-with-node-js-fb3905c37e6d",
+        "title": "How to store images to MongoDB with Node.js",
+        "authors": [
+          "alven"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.meteor.com/mongodb-queries-dont-always-return-all-matching-documents-654b6594a827",
+        "title": "MongoDB queries don’t always return all matching documents!",
+        "authors": [
+          "David Glasser"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/createdd-notes/5-steps-to-build-a-rest-api-in-node-js-with-mongodb-e1f2113a39bd",
+        "title": "5 Steps to build a REST API in Node.js with MongoDB",
+        "authors": [
+          "Daniel Deutsch"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@agentwhs/complete-guide-for-typescript-for-mongoose-for-node-js-8cc0a7e470c1",
+        "title": "Complete guide for Typescript for Mongoose for Node.js",
+        "authors": [
+          "Hansen Wang"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/mongodb-cowboys/troubleshooting-mongodb-100-cpu-load-and-slow-queries-da622c6e1339",
+        "title": "Troubleshooting MongoDB 100% CPU load and slow queries",
+        "authors": [
+          "Igor Khomenko"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/how-to-deploy-a-mongodb-replica-set-using-docker-6d0b9ac00e49",
+        "title": "How to deploy a MongoDB Replica Set using Docker",
+        "authors": [
+          "Cristian Ramirez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://rossbulat.medium.com/using-promises-async-await-with-mongodb-613ed8243900",
+        "title": "Using Promises, async / await with MongoDB",
+        "authors": [
+          "Ross Bulat"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@xoor/indexing-mongodb-with-elasticsearch-2c428b676343",
+        "title": "Indexing MongoDB with ElasticSearch",
+        "authors": [
+          "XOOR"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://engineering.universe.com/mongo-aggregations-in-5-minutes-b8e1d9c274bb",
+        "title": "Mongo Aggregations in 5 Minutes",
+        "authors": [
+          "Joshua Kelly"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://engineering.peerislands.io/mongodb-schema-design-aaecb48e0e4c",
+        "title": "MongoDB Schema Design : Guidelines",
+        "authors": [
+          "Rajesh Vinayagam"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://infosecwriteups.com/nosql-injection-8732c2140576",
+        "title": "NoSQL Injection",
+        "authors": [
+          "Fiddly Cookie"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com.au/MongoDB-Basics-David-Hows/dp/148420896X",
+        "title": "MongoDB Basics",
+        "authors": [
+          "Peter Membrey",
+          "David Hows",
+          "Eelco Plugge"
+        ],
+        "pages": 158,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Beginning-Node-js-Express-MongoDB-Development/dp/1078379556",
+        "title": "Beginning Node.js, Express & MongoDB Development",
+        "authors": [
+          "Greg Lim"
+        ],
+        "pages": 152,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Data-Modeling-MongoDB-Steve-Hoberman/dp/1935504703",
+        "title": "Data Modeling for MongoDB: Building Well-Designed and Supportable MongoDB Databases",
+        "authors": [
+          "Steve Hoberman"
+        ],
+        "pages": 226,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/NoSQL-MongoDB-Hours-Teach-Yourself/dp/0672337134",
+        "title": "NoSQL with MongoDB in 24 Hours, Sams Teach Yourself (Sams Teach Yourself in 24 Hours)",
+        "authors": [
+          "Brad Dayley"
+        ],
+        "pages": 542,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Node-js-MongoDB-Native-Full-Stack-Fundamentals/dp/0997196688",
+        "title": "Node.js, MongoDB, React, React Native Full-Stack Fundamentals and Beyond",
+        "authors": [
+          "Eric Bush"
+        ],
+        "pages": 394,
+        "type": "book"
+      },
+      {
+        "url": "https://www.booktopia.com.au/mongodb-and-php-steve-francia/book/9781449314361.html",
+        "title": "MongoDB and PHP",
+        "authors": [
+          "Steve Francia"
+        ],
+        "pages": 50,
+        "type": "book"
+      },
+      {
+        "url": "https://www.booktopia.com/mongodb-the-definitive-guide-3e-shannon-bradshaw/book/9781491954461.html",
+        "title": "MongoDB: The Definitive Guide 3e",
+        "authors": [
+          "Shannon Bradshaw",
+          "Eoin Brazil",
+          "Kristina Chodorow"
+        ],
+        "pages": 425,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/mongodb-applied-design/9781449340056/",
+        "title": "MongoDB Applied Design Patterns",
+        "authors": [
+          "Rick Copeland"
+        ],
+        "pages": 176,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-mongodb-4x-second-edition/9781789617870",
+        "title": "Mastering MongoDB 4.x - Second Edition",
+        "authors": [
+          "Alex Giamas"
+        ],
+        "pages": 394,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mongodb-fundamentals/9781839210648",
+        "title": "MongoDB Fundamentals",
+        "authors": [
+          "Amit Phaltankar",
+          "Juned Ahsan",
+          "Michael Harrison\nand 1 more"
+        ],
+        "pages": 748,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://learn.mongodb.com/learning-paths/atlas-essentials",
+        "title": "Atlas Essentials",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 750,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/introduction-to-mongodb",
+        "title": "Introduction to MongoDB",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 720,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/mongodb-associate-database-administrator-path",
+        "title": "MongoDB Associate Database Administrator Path",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 1710,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/mongodb-for-sql-professionals",
+        "title": "MongoDB for SQL Professionals",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path",
+        "title": "MongoDB Node.js Developer Path",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 900,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/mongodb-python-developer-path",
+        "title": "MongoDB Python Developer Path",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 900,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/using-mongodb-with-csharp",
+        "title": "Using MongoDB with C#",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://learn.mongodb.com/learning-paths/using-mongodb-with-java",
+        "title": "Using MongoDB with Java",
+        "platform": "MongoDB University",
+        "authors": [
+          "MongoDB University"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-mongodb",
+        "title": "Learn MongoDB",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/introduction-to-mongodb",
+        "title": "Introduction to MongoDB",
+        "platform": "Coursera",
+        "authors": [
+          "MongoDB University",
+          "MongoDB for Academia"
+        ],
+        "duration": 1087,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/mongodb-aggregation-framework",
+        "title": "MongoDB Aggregation Framework",
+        "platform": "Coursera",
+        "authors": [
+          "Nathan Leniz",
+          "Kirby Kohlmorgen"
+        ],
+        "duration": 1172,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-mongodb",
+        "title": "Advanced MongoDB",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Naomi Pentrel"
+        ],
+        "duration": 145,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/introduction-to-mongodb-22120765",
+        "title": "Introduction to MongoDB",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "MongoDB"
+        ],
+        "duration": 107,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-mongodb-17360744",
+        "title": "Learning MongoDB",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Justin Jenkins"
+        ],
+        "duration": 145,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/mongodb-essential-training",
+        "title": "MongoDB Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Naomi Pentrel"
+        ],
+        "duration": 194,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/cloud-guru/courses/mongodb-deep-dive",
+        "title": "MongoDB Deep Dive",
+        "platform": "Pluralsight",
+        "authors": [
+          "A Cloud Guru"
+        ],
+        "duration": 395,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/code-school-the-magical-marvels-of-mongodb",
+        "title": "Code School: The Magical Marvels of MongoDB",
+        "platform": "Pluralsight",
+        "authors": [
+          "Joel Taylor"
+        ],
+        "duration": 56,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/foundations-document-databases-mongodb",
+        "title": "Foundations of Document Databases with MongoDB",
+        "platform": "Pluralsight",
+        "authors": [
+          "Pinal Dave"
+        ],
+        "duration": 148,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/fundamentals-mongoose-for-node-mongodb",
+        "title": "Fundamentals of Mongoose for Node and MongoDB",
+        "platform": "Pluralsight",
+        "authors": [
+          "Mark Scott"
+        ],
+        "duration": 116,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/mongodb-introduction",
+        "title": "Introduction to MongoDB 2",
+        "platform": "Pluralsight",
+        "authors": [
+          "Nuri Halperin"
+        ],
+        "duration": 147,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/querying-data-mongodb",
+        "title": "Querying Data from MongoDB",
+        "platform": "Pluralsight",
+        "authors": [
+          "Dan Geabunea"
+        ],
+        "duration": 105,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/visualizing-data-with-mongodb-charts",
+        "title": "Visualizing Data with MongoDB Charts",
+        "platform": "Pluralsight",
+        "authors": [
+          "Deeksha Sharma"
+        ],
+        "duration": 68,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/introduction-to-the-mongodb/",
+        "title": "Introduction to the MongoDB",
+        "platform": "Udemy",
+        "authors": [
+          "Bogdan Stashchuk | Software Engineer, MBA, PhD"
+        ],
+        "duration": 93,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-mongodb-leading-nosql-database-from-scratch/",
+        "title": "Learn MongoDB & Neo4j - Leading NoSQL Databases from scratch",
+        "platform": "Udemy",
+        "authors": [
+          "Sunil Kumar Gupta"
+        ],
+        "duration": 1217,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/mongodb-essentials-m/",
+        "title": "Complete MongoDB Administration Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Bogdan Stashchuk | Software Engineer, MBA, PhD"
+        ],
+        "duration": 617,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/mongodb-the-complete-developers-guide/",
+        "title": "MongoDB - The Complete Developer's Guide 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1054,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/mongodb-with-spring-boot-spring-data-mongorepository-mlab-cloudfoundry/",
+        "title": "MongoDB with Java Spring Boot & Spring Framework",
+        "platform": "Udemy",
+        "authors": [
+          "Infybuzz Learning"
+        ],
+        "duration": 253,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/",
+        "title": "Master MongoDB & Mongoose (With a Test-Driven Approach)",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 784,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-mongodb-course/",
+        "title": "The Complete MongoDB Course 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Malvik Vaghadia"
+        ],
+        "duration": 488,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://learn.mongodb.com/",
+        "title": "MongoDB University",
+        "type": "documentation"
+      },
+      {
+        "url": "https://www.mongodb.com/docs/",
+        "title": "MongoDB Documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/-bt_y4Loofg",
+        "title": "MongoDB in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA",
+        "title": "Complete MongoDB Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 174,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ofme2o29ngU",
+        "title": "MongoDB Crash Course",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 30,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/RGfFpQF0NpE",
+        "title": "MongoDB Explained in 10 Minutes | SQL vs NoSQL | Jumpstart",
+        "authors": [
+          "MongoDB"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OdgZ0jr4jpM",
+        "title": "MySQL vs MongoDB",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/SnqPyqRh4r4",
+        "title": "What Is MongoDB? | What Is MongoDB And How It Works | MongoDB Tutorial For Beginners | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/c2M-rlkkT5o",
+        "title": "Learn MongoDB in 1 Hour 🍃 (2023)",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/2QQGWYe7IDU",
+        "title": "MongoDB Crash Course 2022",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 28,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/3GHZd0zv170",
+        "title": "Data Modeling with MongoDB",
+        "authors": [
+          "MongoDB"
+        ],
+        "duration": 35,
+        "type": "video"
+      }
+    ]
+  }
+}

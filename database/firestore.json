@@ -1,0 +1,304 @@
+{
+  "id": "firestore",
+  "title": "Firestore",
+  "description": "Firestore, also known as Cloud Firestore, is a flexible, scalable NoSQL cloud database developed by Google for storing and syncing data for serverless, cloud-based, and mobile development. Released in 2017 as an evolution of Google's Realtime Database, Firestore offers robust, real-time capabilities and support for various data types, including complex nested objects.\nIn Firestore, data is stored as documents, which are organized into collections. Documents operate similarly to a JSON object, supporting a variety of data types like strings, numbers, dates, nested arrays, and objects. Firestore provides seamless synchronization, offline support, and the ability to query data within collections, making it suitable for a wide array of applications, from simple websites to complex, data-intensive applications.\\nFirestore's built-in security rules and automatic scaling make it a compelling choice for developers requiring a secure and reliable backend without the overhead of server management. It seamlessly integrates with other Google Cloud products and supports major programming languages, making it a versatile tool for multi-platform applications.",
+  "type": "database",
+  "dependencies": [
+    "firebase",
+    "nosql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://www.codemag.com/Article/1905071/Introduction-to-Cloud-Firestore",
+        "title": "Introduction to Cloud Firestore",
+        "authors": [
+          "John V. Petersen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@supun.muthutantrige/a-practical-guideline-to-firestore-50281732bcbc",
+        "title": "A practical guideline to Firestore",
+        "authors": [
+          "Supun Muthutantrige"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://khreniak.medium.com/cloud-firestore-security-rules-basics-fac6b6bea18e",
+        "title": "Basic examples of using Cloud Firestore Security Rules",
+        "authors": [
+          "Kacper Hreniak"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/firebase-tips-tricks/how-to-update-an-array-of-objects-in-firestore-cdb611a56073",
+        "title": "How to update an array of objects in Firestore?",
+        "authors": [
+          "Alex Mamo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/using-firestore-with-typescript-65bd2a602945",
+        "title": "Using Firestore With Typescript",
+        "authors": [
+          "Jamie Curnow"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/firebase-tips-tricks/how-to-secure-many-to-many-relationships-in-firestore-d19f972fd4d3",
+        "title": "How to model a many-to-many relationship in Firestore",
+        "authors": [
+          "Louis Coulet"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://saveyourtime.medium.com/firebase-cloud-firestore-add-set-update-delete-get-data-6da566513b1b",
+        "title": "[Firebase] Cloud Firestore — Add, Set, Update, Delete Get data",
+        "authors": [
+          "Aaron Lu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/firebase-tips-tricks/how-to-count-documents-in-firestore-a0527f792d04",
+        "title": "How to count documents in Firestore",
+        "authors": [
+          "Louis Coulet"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@xathis/import-json-into-firebase-firestore-without-code-9084e919f54a",
+        "title": "Import JSON into Firebase Firestore without Code",
+        "authors": [
+          "Mathis"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://khreniak.medium.com/cloud-firestore-security-rules-basics-fac6b6bea18e",
+        "title": "Basic examples of using Cloud Firestore Security Rules",
+        "authors": [
+          "Kacper Hreniak"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/firebase-firestore-crash-course/",
+        "title": "Firebase Cloud Firestore – Database Crash Course",
+        "authors": [
+          "Ihechikara Vincent Abba"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/firebase-cookbook/9781788296335/",
+        "title": "Firebase Cookbook",
+        "authors": [
+          "Houssem Yahiaoui"
+        ],
+        "pages": 288,
+        "type": "book"
+      },
+      {
+        "url": "https://www.scribd.com/book/384703902/Firebase-The-Ultimate-Step-By-Step-Guide",
+        "title": "Firebase: The Ultimate Step-By-Step Guide",
+        "authors": [
+          "Gerardus Blokdyk"
+        ],
+        "pages": 122,
+        "type": "book"
+      },
+      {
+        "url": "https://www.roadtofirebase.com/",
+        "title": "Road to Firebase",
+        "authors": [
+          "Robin Wieruch"
+        ],
+        "pages": 200,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://fireship.io/courses/firestore-data-modeling/",
+        "title": "Firestore Data Modeling",
+        "platform": "fireship.io",
+        "authors": [
+          "Jeff Delaney"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/complete-guide-firebase-web",
+        "title": "The Complete Guide to Firebase",
+        "platform": "Educative",
+        "authors": [
+          "Dera Okeke"
+        ],
+        "duration": 405,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/fullstack-web-apps-with-firebase",
+        "title": "Fullstack Web Apps with Firebase",
+        "platform": "Educative",
+        "authors": [
+          "Eric Wallen"
+        ],
+        "duration": 780,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-firebase-build-full-stack-web-apps-faster/",
+        "title": "Firebase 9 & JavaScript: Build Full-Stack Web Apps Faster",
+        "platform": "Udemy",
+        "authors": [
+          "Raja Tamil"
+        ],
+        "duration": 283,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/firebase-course/",
+        "title": "Firebase In Depth",
+        "platform": "Udemy",
+        "authors": [
+          "Angular University"
+        ],
+        "duration": 601,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/firebase-fundamentals",
+        "title": "Firebase Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Joe Eames"
+        ],
+        "duration": 224,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/devslopes-firestore-ios/",
+        "title": "Firebase Firestore for iOS",
+        "platform": "Udemy",
+        "authors": [
+          "Devslopes by Mark Wahlbeck"
+        ],
+        "duration": 356,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://firebase.google.com/docs/firestore",
+        "title": "Cloud Firestore  |  Google Cloud",
+        "type": "documentation"
+      },
+      {
+        "url": "https://cloud.google.com/firestore/docs",
+        "title": "Cloud Firestore Documentation  |  Google Cloud",
+        "type": "documentation"
+      },
+      {
+        "url": "https://googleapis.dev/nodejs/firestore/latest/Firestore.html",
+        "title": "Class: Firestore  |  Google Cloud Node.js",
+        "type": "documentation"
+      },
+      {
+        "url": "https://firebase.flutter.dev/docs/firestore/usage/",
+        "title": "Usage  |  FlutterFire",
+        "type": "documentation"
+      },
+      {
+        "url": "https://rnfirebase.io/firestore/usage",
+        "title": "Firestore Usage | React Native Firebase",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB",
+        "title": "Firebase Firestore Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 65,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb",
+        "title": "Firebase 9 Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 88,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BjtxPj6jRM8",
+        "title": "Getting started with Cloud Firestore for the web",
+        "authors": [
+          "Firebase"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/v_hR4K4auoQ",
+        "title": "What is a NoSQL Database? How is Cloud Firestore structured? | Get to know Cloud Firestore #1",
+        "authors": [
+          "Firebase"
+        ],
+        "duration": 16,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/35RlydUf6xo",
+        "title": "Firestore Data Modeling - Five Cool Techniques",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/IemOAESlWKw",
+        "title": "Firestore in a minute",
+        "authors": [
+          "Google Cloud Tech"
+        ],
+        "duration": 2,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/fgdpvwEWJ9M",
+        "title": "Firebase – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 225,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/b7PUm7LmAOw",
+        "title": "Firestore Security Rules - How to Hack a Firebase App",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 11,
+        "type": "video"
+      }
+    ]
+  }
+}

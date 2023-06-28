@@ -1,0 +1,310 @@
+{
+  "id": "sqlite",
+  "title": "SQLite",
+  "description": "SQLite is a lightweight, self-contained, open-source relational database management system (RDBMS) that was first released in 2000. What sets SQLite apart from other traditional RDBMSs is its serverless architecture. Instead of running as a separate server process, SQLite is embedded into the application, and the database itself is stored in a single file on disk. This makes it extremely portable and easy to integrate into applications without the need for complex setup or administration.\nSQLite is known for its simplicity, reliability, and efficiency. It supports most of the SQL standard, including transactions, subqueries, and triggers. Despite its small footprint, SQLite is fully ACID-compliant, ensuring that database transactions are atomic, consistent, isolated, and durable.\nBecause of its serverless nature and ease of use, SQLite is a popular choice for embedded databases, particularly in mobile applications, desktop applications, and small to medium-sized web applications. It's also widely used as a local data store in browsers and for prototyping and development purposes.\nSQLite's source code is in the public domain, which allows it to be used for any purpose, including in commercial products, without any licensing fees or restrictions. This, coupled with its robustness and performance, has contributed to its widespread adoption across various industries and platforms.",
+  "type": "database",
+  "dependencies": [
+    "sql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-indexes-indexes-c4e175f3c346",
+        "title": "Squeezing Performance from SQLite: Indexes? Indexes!",
+        "authors": [
+          "Jason Feinstein"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://koistya.medium.com/node-js-and-sqlite-for-rapid-prototyping-bc9cf1f26f10",
+        "title": "Using SQLite /w Node.js for Rapid Prototyping",
+        "authors": [
+          "Konstantin Tarkus"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://fmacedoo.medium.com/standalone-application-with-electron-react-and-sqlite-stack-9536a8b5a7b9",
+        "title": "Standalone application with Electron, React, and SQLite stack.",
+        "authors": [
+          "Filipe Macêdo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.flutterdevs.com/data-persistence-with-sqlite-flutter-47a6f67b973f",
+        "title": "Data Persistence with SQLite | Flutter",
+        "authors": [
+          "Ashish Rawat"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd",
+        "title": "Do You Know Python Has A Built-In Database?",
+        "authors": [
+          "Christopher Tao"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.twilio.com/blog/sqlite-postgresql-complicated",
+        "title": "SQLite or PostgreSQL? It's Complicated!",
+        "authors": [
+          "Miguel Grinberg"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/a-beginners-guide-to-setting-up-and-using-sqlite-3-in-a-browser-based-application-9e60cefe75ce",
+        "title": "SQLite 3 in Action: A Beginner’s Guide to Using a Relational Database in the Browser",
+        "authors": [
+          "Samuele"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems",
+        "title": "SQLite vs MySQL vs PostgreSQL: A Comparison of Relational Database Management Systems",
+        "authors": [
+          "Mark Drake"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/infinitbility/react-native-sqlite-storage-422503634dd2",
+        "title": "React Native SQLite Storage",
+        "authors": [
+          "Infinitbility"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.simplilearn.com/tutorials/sql-tutorial/what-is-sqlite",
+        "title": "What is SQLite? Everything You Need to Know",
+        "authors": [
+          "Ravikiran A S"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/dp/product/B00M3OVSRK",
+        "title": "SQLite for Mobile Apps Simplified: Step by step details to create and access database from Android, BlackBerry and iPhone Apps",
+        "authors": [
+          "Sribatsa Das"
+        ],
+        "pages": 112,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/using-sqlite/9781449394592/",
+        "title": "Using SQLite",
+        "authors": [
+          "Jay A. Kreibich"
+        ],
+        "pages": 526,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/product/dp/0557076765",
+        "title": "The SQL Guide to SQLite",
+        "authors": [
+          "Rick F. van der Lans"
+        ],
+        "pages": 542,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/the-definitive-guide/9781430232254/",
+        "title": "The Definitive Guide to SQLite, Second Edition",
+        "authors": [
+          "Grant Allen",
+          "Mike Owens"
+        ],
+        "pages": 387,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/creating-a-database/9781484238998/",
+        "title": "Creating a Database with SQLite",
+        "authors": [
+          "Allen Taylor"
+        ],
+        "pages": 148,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/introduction-to-sqlite/9781838982867/",
+        "title": "Introduction to SQLite Databases for Python Programming",
+        "authors": [
+          "John Elder"
+        ],
+        "pages": 156,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sqlite/067232685X/",
+        "title": "SQLite",
+        "authors": [
+          "Chris Newman"
+        ],
+        "pages": 340,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/sqlite-for-beginners-f/",
+        "title": "SQLite for Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Dermot Downey"
+        ],
+        "duration": 34,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/using-sqlite3-databases-with-python/",
+        "title": "Intro To SQLite Databases for Python Programming",
+        "platform": "Udemy",
+        "authors": [
+          "John Elder"
+        ],
+        "duration": 97,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sqlite-databases-python-programming-build-app-and-api/",
+        "title": "SQLite Databases | Python Programming: (Build App and API )",
+        "platform": "Udemy",
+        "authors": [
+          "Bluelime Learning Solutions"
+        ],
+        "duration": 574,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sqlite-for-beginners-learn-sql-from-scratch/",
+        "title": "SQLite For Beginners - Learn SQL from Scratch",
+        "platform": "Udemy",
+        "authors": [
+          "Eduonix Learning Solutions",
+          "Eduonix-Tech ."
+        ],
+        "duration": 114,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sqlite-sql-beginners/",
+        "title": "SQLite Fundamentals - Comprehensive SQL course on SQLite",
+        "platform": "Udemy",
+        "authors": [
+          "Saad Qureshi"
+        ],
+        "duration": 293,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/introduction-to-sqlite",
+        "title": "Introduction to SQLite",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Brian Jepson"
+        ],
+        "duration": 76,
+        "type": "course"
+      },
+      {
+        "url": "https://www.eduonix.com/courses/Web-Development/sqlite-for-beginners-learn-sql-from-scratch",
+        "title": "SQLite For Beginners - Learn SQL from Scratch",
+        "platform": "Eduonix",
+        "authors": [
+          "Eduonix Learning Solutions"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-node-sqlite",
+        "title": "Learn Node-SQLite",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 60,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://www.sqlitetutorial.net/",
+        "title": "SQLite Tutorial - An Easy Way to Master SQLite Fast",
+        "type": "documentation"
+      },
+      {
+        "url": "https://www.sqlite.org/docs.html",
+        "title": "SQLite Documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/HQKwgk6XkIA",
+        "title": "SQLite Tutorial For Beginners - Make A Database In No Time",
+        "authors": [
+          "Avery Makes Games"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/byHcYRpMgI4",
+        "title": "SQLite Databases With Python - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 90,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Ohj-CqALrwk",
+        "title": "SQLite Backend for Beginners - Create Quick Databases with Python and SQL",
+        "authors": [
+          "Python Simplified"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/GMHK-0TKRVk",
+        "title": "SQLite Tutorial for Beginners in 1 Hour",
+        "authors": [
+          "TutorialBrain"
+        ],
+        "duration": 62,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/312RhjfetP8",
+        "title": "SQLite Database for Android - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 89,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL-1QdJ8od_eyxntzYQhwCkcVZlqWVrmSf",
+        "title": "Learn SQLite Database and SQL",
+        "authors": [
+          "Programming Tutorials"
+        ],
+        "duration": 40,
+        "type": "video"
+      }
+    ]
+  }
+}

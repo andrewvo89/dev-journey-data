@@ -1,0 +1,16 @@
+{
+  "id": "yarn",
+  "title": "Yarn",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "nodejs"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

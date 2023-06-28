@@ -1,0 +1,16 @@
+{
+  "id": "tailwind",
+  "title": "Tailwind CSS",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "css"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

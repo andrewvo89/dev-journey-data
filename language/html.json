@@ -1,0 +1,16 @@
+{
+  "id": "html",
+  "title": "HTML",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "web_browser"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

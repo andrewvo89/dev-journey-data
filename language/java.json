@@ -1,0 +1,18 @@
+{
+  "id": "java",
+  "title": "Java",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "jre",
+    "jdk",
+    "mobile_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

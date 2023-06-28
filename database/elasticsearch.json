@@ -1,0 +1,414 @@
+{
+  "id": "elasticsearch",
+  "title": "Elasticsearch",
+  "description": "Firestore, also known as Cloud Firestore, is a flexible, scalable NoSQL cloud database developed by Google for storing and syncing data for serverless, cloud-based, and mobile development. Released in 2017 as an evolution of Google's Realtime Database, Firestore offers robust, real-time capabilities and support for various data types, including complex nested objects.\nIn Firestore, data is stored as documents, which are organized into collections. Documents operate similarly to a JSON object, supporting a variety of data types like strings, numbers, dates, nested arrays, and objects. Firestore provides seamless synchronization, offline support, and the ability to query data within collections, making it suitable for a wide array of applications, from simple websites to complex, data-intensive applications.\nFirestore's built-in security rules and automatic scaling make it a compelling choice for developers requiring a secure and reliable backend without the overhead of server management. It seamlessly integrates with other Google Cloud products and supports major programming languages, making it a versatile tool for multi-platform applications.",
+  "type": "database",
+  "dependencies": [
+    "nosql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://sukhadanand.medium.com/how-discord-indexes-billions-of-messages-f242e605e47c",
+        "title": "How Discord Indexes Billions Of Messages?",
+        "authors": [
+          "Sukhad Anand"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/geekculture/elasticsearch-architecture-1f40b93da719",
+        "title": "Elasticsearch Architecture",
+        "authors": [
+          "JIN"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/how-to-run-elasticsearch-8-on-docker-for-local-development-401fd3fff829",
+        "title": "How to Run Elasticsearch 8 on Docker for Local Development",
+        "authors": [
+          "Lynn Kwong"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/elucidata/how-to-build-a-scalable-backend-to-query-and-search-billions-of-records-16a532433fda",
+        "title": "How to build a scalable backend to query and search billions of records?",
+        "authors": [
+          "Saiful Khan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/qonto-way/do-you-need-elasticsearch-when-you-have-postgresql-94ef69f5570f",
+        "title": "Do you need ElasticSearch when you have PostgreSQL?",
+        "authors": [
+          "mdebelle"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/getting-started-with-elasticsearch-in-python-c3598e718380",
+        "title": "Getting started with Elasticsearch in Python",
+        "authors": [
+          "Adnan Siddiqi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/deep-dive-into-querying-elasticsearch-filter-vs-query-full-text-search-b861b06bd4c0",
+        "title": "Deep Dive into Querying Elasticsearch. Filter vs Query. Full text search",
+        "authors": [
+          "Artem"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/how-to-synchronize-elasticsearch-with-mysql-ed32fc57b339",
+        "title": "How to synchronize Elasticsearch with MySQL",
+        "authors": [
+          "Redouane Achouri"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@bhongaleprathamesh/elasticsearch-vs-opensearch-feature-comparison-and-considerations-cd9c990e1482",
+        "title": "Elasticsearch vs OpenSearch — Feature Comparison and Considerations !!",
+        "authors": [
+          "Prathamesh Sandesh Bhongale"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.elastic.co/blog/setting-up-elasticsearch-for-a-blog",
+        "title": "Setting Up Elasticsearch for a Blog",
+        "authors": [
+          "Nicolás Bevacqua"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/velotio-perspectives/elasticsearch-101-fundamentals-core-components-a1fdc6090a5e",
+        "title": "Elasticsearch 101: Fundamentals & Core Components",
+        "authors": [
+          "Velotio Technologies"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/expedia-group-tech/getting-started-with-elastic-search-6af62d7df8dd",
+        "title": "Getting Started with Elastic Search",
+        "authors": [
+          "Arjun Rajpal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.knowi.com/blog/what-is-elastic-search/",
+        "title": "What is Elasticsearch and How Can It Be Useful?",
+        "authors": [
+          "Knowi Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://logz.io/blog/elasticsearch-tutorial/",
+        "title": "Elasticsearch Tutorial: Your Detailed Guide to Getting Started",
+        "authors": [
+          "Daniel Berman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/elastic-search-101-de7ef8aa2469",
+        "title": "Elastic Search 101: Getting Started with Elasticsearch",
+        "authors": [
+          "Cyber Drudge"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a",
+        "title": "An Overview on Elasticsearch and its usage",
+        "authors": [
+          "Giovanni Pagano Dritto"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://sematext.com/guides/elasticsearch/",
+        "title": "Elasticsearch Tutorial & Getting Started Guide",
+        "authors": [
+          "Sematext Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch",
+        "title": "A Practical Introduction to Elasticsearch",
+        "authors": [
+          "Alex Brasetvik"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.elastic.co/blog/what-is-an-elasticsearch-index",
+        "title": "What is an Elasticsearch Index?",
+        "authors": [
+          "Alex Brasetvik"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/elasticsearch-the-definitive/9781449358532/",
+        "title": "Elasticsearch: The Definitive Guide",
+        "authors": [
+          "Clinton Gormley",
+          "Zachary Tong"
+        ],
+        "pages": 690,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kibana-7-quick-start-guide/9781789804034",
+        "title": "Kibana 7 Quick Start Guide",
+        "authors": [
+          "Anurag Srivastava"
+        ],
+        "pages": 172,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/advanced-elasticsearch-70/9781789957754",
+        "title": "Advanced Elasticsearch 7.0",
+        "authors": [
+          "Wai Tak Wong"
+        ],
+        "pages": 560,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/elasticsearch-indexing/9781783987023/",
+        "title": "Elasticsearch Indexing",
+        "authors": [
+          "Hüseyin Akdoğan"
+        ],
+        "pages": 176,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/elasticsearch-blueprints/9781783984923/",
+        "title": "Elasticsearch Blueprints",
+        "authors": [
+          "Vineeth Mohan"
+        ],
+        "pages": 192,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/elasticsearch-essentials/9781784391010/",
+        "title": "Elasticsearch Essentials",
+        "authors": [
+          "Bharvi Dixit"
+        ],
+        "pages": 240,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/mastering-elasticsearch-5x/9781786460189/",
+        "title": "Mastering Elasticsearch 5.x - Third Edition",
+        "authors": [
+          "Bharvi Dixit"
+        ],
+        "pages": 508,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-elasticsearch/9781787128453/",
+        "title": "Learning Elasticsearch",
+        "authors": [
+          "Abhishek Andhavarapu"
+        ],
+        "pages": 404,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/elasticsearch-5x-cookbook/9781786465580/",
+        "title": "Elasticsearch 5.x Cookbook - Third Edition",
+        "authors": [
+          "Alberto Paro"
+        ],
+        "pages": 590,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-complete-guide/",
+        "title": "Elasticsearch Answers: The Complete Guide to Elasticsearch",
+        "platform": "Udemy",
+        "authors": [
+          "Bo Andersen"
+        ],
+        "duration": 752,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-7-and-elastic-stack/",
+        "title": "Elasticsearch 7 and the Elastic Stack Training",
+        "platform": "Udemy",
+        "authors": [
+          "Sundog Education by Frank Kane",
+          "Frank Kane",
+          "Coralogix Ltd.",
+          "Sundog Education Team"
+        ],
+        "duration": 911,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-logstash-kibana-learn-elasticsearch-search-server/",
+        "title": "ElasticSearch, LogStash, Kibana ELK #1 - Learn ElasticSearch",
+        "platform": "Udemy",
+        "authors": [
+          "TetraNoodle Team",
+          "Manuj Aggarwal"
+        ],
+        "duration": 205,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-masterclass/",
+        "title": "Elasticsearch Masterclass [Incl., Elasticsearch 7 update]",
+        "platform": "Udemy",
+        "authors": [
+          "Vinoth Parthasarathy"
+        ],
+        "duration": 368,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-in-action/",
+        "title": "Elasticsearch in Action",
+        "platform": "Udemy",
+        "authors": [
+          "Sezin Karli"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/elasticsearch-and-kibana-tutorial-for-beginners/",
+        "title": "The Complete Elasticsearch and Kibana Tutorial for beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Tutorial Drive"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/elastic-stack-getting-started",
+        "title": "Elastic Stack: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Aaron Rosenmund"
+        ],
+        "duration": 101,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/elasticsearch-essential-training-18773441",
+        "title": "Elasticsearch Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ben Sullins"
+        ],
+        "duration": 100,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-the-elastic-stack-2",
+        "title": "Learning the Elastic Stack",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Josh Samuelson"
+        ],
+        "duration": 110,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/administering-elasticsearch-cluster",
+        "title": "Administering an Elasticsearch Cluster",
+        "platform": "Pluralsight",
+        "authors": [
+          "JP Toto"
+        ],
+        "duration": 128,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://www.elastic.co/guide/index.html",
+        "title": "Elastic Docs",
+        "type": "documentation"
+      },
+      {
+        "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
+        "title": "Elasticsearch Reference [7.15]",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/C3tlMqaNSaI",
+        "title": "Elasticsearch Tutorial for Beginners | Learn the Elastic Stack Architecture | Frank Kane",
+        "authors": [
+          "Udemy"
+        ],
+        "duration": 27,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/gS_nHTWZEJ8",
+        "title": "Beginner's Crash Course to Elastic Stack -  Part 1: Intro to Elasticsearch and Kibana",
+        "authors": [
+          "Official Elastic Community"
+        ],
+        "duration": 57,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ZP0NmfyfsoM",
+        "title": "What is Elasticsearch?",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_mJOmq4zsHZYAyK606y7wjQtC0aoE6Es",
+        "title": "Beginner's Crash Course to Elastic Stack",
+        "authors": [
+          "Official Elastic Community"
+        ],
+        "duration": 310,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/DR-zJXxtefE",
+        "title": "Elasticsearch Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 19,
+        "type": "video"
+      }
+    ]
+  }
+}

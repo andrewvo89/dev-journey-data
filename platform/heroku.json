@@ -1,0 +1,16 @@
+{
+  "id": "heroku",
+  "title": "Heroku",
+  "description": "",
+  "type": "platform",
+  "dependencies": [
+    "cloud_infrastructure"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

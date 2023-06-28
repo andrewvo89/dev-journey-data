@@ -1,0 +1,16 @@
+{
+  "id": "swift",
+  "title": "Swift",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "mobile_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

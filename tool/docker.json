@@ -1,0 +1,16 @@
+{
+  "id": "docker",
+  "title": "Docker",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "devops"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

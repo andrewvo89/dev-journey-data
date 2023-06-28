@@ -1,0 +1,16 @@
+{
+  "id": "svelte",
+  "title": "Svelte",
+  "description": "",
+  "type": "library",
+  "dependencies": [
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

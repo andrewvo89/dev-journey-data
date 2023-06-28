@@ -1,0 +1,16 @@
+{
+  "id": "amazon_web_services",
+  "title": "Amazon Web Services",
+  "description": "",
+  "type": "platform",
+  "dependencies": [
+    "cloud_infrastructure"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

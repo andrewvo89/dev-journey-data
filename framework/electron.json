@@ -1,0 +1,17 @@
+{
+  "id": "electron",
+  "title": "Electron",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "desktop_development",
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

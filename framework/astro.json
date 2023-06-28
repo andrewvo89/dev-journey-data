@@ -1,0 +1,16 @@
+{
+  "id": "astro",
+  "title": "Astro",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "react"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

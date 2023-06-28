@@ -1,0 +1,16 @@
+{
+  "id": "oop_programming",
+  "title": "Object Oriented Programming",
+  "description": "",
+  "type": "paradigm",
+  "dependencies": [
+    "backend_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

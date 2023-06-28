@@ -1,0 +1,16 @@
+{
+  "id": "nuxt",
+  "title": "Nuxt",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "vue"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

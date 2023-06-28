@@ -1,0 +1,16 @@
+{
+  "id": "less",
+  "title": "Less",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "css"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "id": "redis",
+  "title": "Redis",
+  "description": "Redis, which stands for Remote Dictionary Server, is an open-source, in-memory data structure store that was first released in 2009. It is often referred to as a database, cache, or message broker, due to its versatility in handling various data structures such as strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and geospatial indexes.\nOne of the most prominent features of Redis is its performance. As an in-memory store, Redis can handle large volumes of data with low latency, making it an ideal choice for caching, session storage, real-time analytics, and message queuing.\nRedis also supports various features such as data persistence, replication, transactions, and support for Lua scripting. Moreover, it offers built-in support for master-slave replication, allowing data to be copied from a master Redis server to one or more replicas, which adds to its high availability and scaling capabilities.\nThe simplicity and high performance of Redis have made it one of the most popular NoSQL databases, and it is widely used in web development, gaming, IoT, and other applications where speed and scalability are critical. Additionally, Redis Enterprise extends the capabilities of Redis by providing features such as automated scaling, high availability, and enhanced security for enterprise-level applications.",
+  "type": "database",
+  "dependencies": [
+    "nosql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://amangoeliitb.medium.com/improving-database-performance-with-redis-dbd38fdf3cb",
+        "title": "Improving database performance with Redis",
+        "authors": [
+          "Aman Goel"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/redis-53183e91f968",
+        "title": "Redis",
+        "authors": [
+          "Aditi Mittal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/redis-what-and-why-d52b6829813",
+        "title": "Redis: What and Why?",
+        "authors": [
+          "Prateek Gogia"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://instagram-engineering.com/storing-hundreds-of-millions-of-simple-key-value-pairs-in-redis-1091ae80f74c",
+        "title": "Storing hundreds of millions of simple key-value pairs in Redis",
+        "authors": [
+          "Instagram Engineering"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@amila922/redis-sentinel-high-availability-everything-you-need-to-know-from-dev-to-prod-complete-guide-deb198e70ea6",
+        "title": "Redis Sentinel — High Availability: Everything you need to know from DEV to PROD: Complete Guide",
+        "authors": [
+          "Amila Iddamalgoda"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@petehouston/install-and-config-redis-on-mac-os-x-via-homebrew-eb8df9a4f298",
+        "title": "Install and config Redis on Mac OS X via Homebrew",
+        "authors": [
+          "Pete Houston"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@stockholmux/store-javascript-objects-in-redis-with-node-js-the-right-way-1e2e89dbbf64",
+        "title": "Store Javascript objects in Redis with Node.js the right way",
+        "authors": [
+          "Kyle"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-socket-io-redis-and-aws-fargate-4ed63fb1b681",
+        "title": "Scaling a realtime chat app on AWS using Socket.io, Redis, and AWS Fargate",
+        "authors": [
+          "Nathan Peck"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/using-redis-with-node-js-8d87a48c5dd7",
+        "title": "Using Redis with Node JS",
+        "authors": [
+          "Chamara Madhushan Liyanage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/session-management-in-nodejs-using-redis-as-session-store-64186112aa9",
+        "title": "Session Management in Nodejs Using Redis as Session Store",
+        "authors": [
+          "Chamith Madusanka"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://tech.oyorooms.com/finding-and-deleting-the-redis-keys-by-pattern-the-right-way-123629d7730",
+        "title": "Find and Delete multiple keys matching by a pattern in Redis the right way.",
+        "authors": [
+          "Ankit Jain AJ"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/redis-in-memory-data-store-easily-explained-3b92457be424",
+        "title": "Exploring the Power of Redis: A High-Performance In-Memory Data Store",
+        "authors": [
+          "Niklas Lang"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/guide-to-fully-understanding-redis/",
+        "title": "A guide to fully understanding Redis",
+        "authors": [
+          "Alexander Nnakwue"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.crio.do/blog/what-is-redis/",
+        "title": "What is Redis and Why is it used by leading industries?",
+        "authors": [
+          "Jaidev Singh Bhui"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/redis-cookbook/9781449311353/",
+        "title": "Redis Cookbook",
+        "authors": [
+          "Tiago Macedo",
+          "Fred Oliveira"
+        ],
+        "pages": 73,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/redis-in-action/9781617290855/",
+        "title": "Redis in Action",
+        "authors": [
+          "Dr. Josiah L. Carlson"
+        ],
+        "pages": 320,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/redis-essentials/9781784392451/",
+        "title": "Redis Essentials",
+        "authors": [
+          "Maxwell Dayvson Da Silva",
+          "Hugo Lopes Tavares"
+        ],
+        "pages": 230,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-redis/9781783980123/",
+        "title": "Learning Redis",
+        "authors": [
+          "Vinoo Das"
+        ],
+        "pages": 318,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/mastering-redis/9781783988181/",
+        "title": "Mastering Redis",
+        "authors": [
+          "Jeremy Nelson"
+        ],
+        "pages": 366,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Redis-Applied-Design-Patterns-Chinnachamy/dp/1783286717",
+        "title": "Redis Applied Design Patterns",
+        "authors": [
+          "Arun Chinnachamy"
+        ],
+        "pages": 316,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/instant-redis-optimization-how-to/9781782164807",
+        "title": "Instant Redis Optimization How-to",
+        "authors": [
+          "Arun Chinnachamy"
+        ],
+        "pages": 56,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/dp/0655321608",
+        "title": "Redis Labs The Ultimate Step-By-Step Guide",
+        "authors": [
+          "Gerardus Blokdyk"
+        ],
+        "pages": 302,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/masterredis/",
+        "title": "Master Redis - From Beginner to Advanced, 20+ hours",
+        "platform": "Udemy",
+        "authors": [
+          "Adnan Waheed"
+        ],
+        "duration": 1309,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-redis-and-utilize-jedis-with-spring-data-redis/",
+        "title": "Learn Redis And Use Jedis With Spring Data Redis",
+        "platform": "Udemy",
+        "authors": [
+          "Bassem Abuein"
+        ],
+        "duration": 174,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/redis-latest/",
+        "title": "Redis - World's Fastest Database - Beginners to Advance",
+        "platform": "Udemy",
+        "authors": [
+          "Vikas Kumar Jha",
+          "Poonam Jha"
+        ],
+        "duration": 358,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-redis-from-scratch/",
+        "title": "Learn Redis from Scratch for High Performance Key-Value Storage",
+        "platform": "Udemy",
+        "authors": [
+          "Eduonix Learning Solutions",
+          "Eduonix-Tech ."
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/redis-the-complete-developers-guide-p/",
+        "title": "Redis: The Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 934,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/redis-essential-training-15012713",
+        "title": "Redis Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Fernando Doglio"
+        ],
+        "duration": 86,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-redis",
+        "title": "Advanced Redis",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Janani Ravi"
+        ],
+        "duration": 127,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/complete-guide-to-redis",
+        "title": "The Complete Guide to Redis",
+        "platform": "Educative",
+        "authors": [
+          "Saurav Aggarwal"
+        ],
+        "duration": 120,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://redis.io/docs/",
+        "title": "Redis Documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/8A_iNFRP0F4",
+        "title": "What is Redis and What Does It Do?",
+        "authors": [
+          "CBT Nuggets"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/G1rOthIU-uo",
+        "title": "Redis in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/jgpVdJB2sKQ",
+        "title": "Redis Crash Course",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 28,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OqCK95AS-YE",
+        "title": "Redis Crash Course - the What, Why and How to use Redis as your primary database",
+        "authors": [
+          "TechWorld with Nana"
+        ],
+        "duration": 24,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/a4yX7RUgTxI",
+        "title": "Top 5 Redis Use Cases",
+        "authors": [
+          "ByteByteGo"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5TRFpFBccQM",
+        "title": "System Design: Why is single-threaded Redis so fast?",
+        "authors": [
+          "ByteByteGo"
+        ],
+        "duration": 4,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/muqiHwa8UvQ",
+        "title": "What is Redis?",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/oa1ns12KFhQ",
+        "title": "Redis as a Cache vs Redis as a Primary Database",
+        "authors": [
+          "Redis"
+        ],
+        "duration": 2,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_4HwUVNl9Nc",
+        "title": "Why Your MySQL Needs Redis",
+        "authors": [
+          "Redis"
+        ],
+        "duration": 61,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Z8qcpXyMAiA",
+        "title": "Redis Streams Explained",
+        "authors": [
+          "Redis"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/XCsS_NVAa1g",
+        "title": "Redis Course - In-Memory Database Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 87,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/-5RTyEim384",
+        "title": "How to use Redis Caching for Incredible Performance",
+        "authors": [
+          "Josh tried coding"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/oaJq1mQ3dFI",
+        "title": "Redis Caching in Node.js",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 18,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/AzQ6_DTcG6c",
+        "title": "Redis with Node Crash Course - Cache Data for Improved Performance",
+        "authors": [
+          "Laith Academy"
+        ],
+        "duration": 45,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Hbt56gFj998",
+        "title": "Redis Crash Course Tutorial",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 40,
+        "type": "video"
+      }
+    ]
+  }
+}

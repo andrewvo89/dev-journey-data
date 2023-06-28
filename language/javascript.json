@@ -1,0 +1,18 @@
+{
+  "id": "javascript",
+  "title": "JavaScript",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "css",
+    "nodejs",
+    "desktop_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

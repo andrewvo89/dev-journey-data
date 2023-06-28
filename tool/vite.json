@@ -1,0 +1,16 @@
+{
+  "id": "vite",
+  "title": "Vite",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

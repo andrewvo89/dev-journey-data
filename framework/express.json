@@ -1,0 +1,16 @@
+{
+  "id": "express",
+  "title": "Express",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "nodejs"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

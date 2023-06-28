@@ -1,0 +1,386 @@
+{
+  "id": "microsoft_sql_server",
+  "title": "Microsoft SQL Sever",
+  "description": "Microsoft SQL Server is a relational database management system (RDBMS) developed by Microsoft. It was first released in 1989 and has since evolved into a comprehensive database solution for various data workloads. SQL Server is used to store, retrieve, and manage structured data in the form of tables. It supports the standard Structured Query Language (SQL) and offers various tools for database administration and business intelligence applications.\nSQL Server is known for its performance, security, and ease of use. It is widely used by businesses of all sizes for critical applications such as data warehousing, online transaction processing (OLTP), and business analytics. It offers a rich set of features including support for stored procedures, user-defined functions, transaction control, data replication, and advanced querying.\nIn addition to its on-premises version, Microsoft offers a cloud-based service called Azure SQL Database, which is a fully managed relational database service built on SQL Server technologies. This enables businesses to harness the scalability, availability, and flexibility of the cloud while using SQL Server for their database needs. Microsoft SQL Server is a popular choice among enterprises due to its comprehensive features, strong performance, and extensive ecosystem.",
+  "type": "database",
+  "dependencies": [
+    "sql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://medium.com/@kelechiogbogu/data-cleaning-and-preparation-with-sql-f5f7e539808",
+        "title": "Data Cleaning and Preparation With SQL",
+        "authors": [
+          "Kelechi Ogbogu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@chriskuchar/connecting-to-ms-sql-server-from-a-mac-with-windows-authentication-44375ec1953e",
+        "title": "Connecting to MS Sql Server from a Mac with Windows Authentication",
+        "authors": [
+          "Chris Kuchar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://sancaa94.medium.com/build-a-relational-database-for-a-data-analyst-portfolio-project-d92660f6d0e",
+        "title": "Build a Relational Database For a Data Analyst Portfolio Project",
+        "authors": [
+          "Angel Sanchez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@itssaad.muhammad/cleaning-and-injecting-data-into-microsoft-sql-server-from-google-colab-4e248dfffc5f",
+        "title": "Cleaning and Injecting data into Microsoft SQL server from Google Colab.",
+        "authors": [
+          "Muhammad Saad Uddin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/java-development-with-microsoft-sql-server-ee6efd13f799",
+        "title": "Java Development with Microsoft SQL Server",
+        "authors": [
+          "Gary A. Stafford"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://paggyru.medium.com/how-to-transfer-data-from-microsoft-sql-server-to-a-mysql-database-f63f30608d00",
+        "title": "How to transfer data from Microsoft SQL Server to a MySQL database",
+        "authors": [
+          "Akademily"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://paggyru.medium.com/import-data-from-excel-to-microsoft-sql-server-in-t-sql-language-c53914894d05",
+        "title": "Import data from Excel to Microsoft SQL Server in T-SQL language",
+        "authors": [
+          "Akademily"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://paggyru.medium.com/how-to-execute-python-code-in-microsoft-sql-server-on-t-sql-e185adef400f",
+        "title": "How to execute Python code in Microsoft SQL Server on T-SQL",
+        "authors": [
+          "Akademily"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://ip-specialist.medium.com/microsoft-sql-server-vs-oracle-48fcdae837f7",
+        "title": "Microsoft SQL Server vs. Oracle",
+        "authors": [
+          "IPSpecialist"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.simplilearn.com/what-is-microsoft-sql-server-architecture-article",
+        "title": "SQL Server Architecture Explained",
+        "authors": [
+          "John Terra"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.c-sharpcorner.com/article/getting-started-with-sql-server-2022/",
+        "title": "Getting Started With SQL Server 2022",
+        "authors": [
+          "Chittaranjan Swain"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.SQLServer.html",
+        "title": "Using a Microsoft SQL Server database as a source for AWS DMS",
+        "authors": [
+          "AWS"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://datacom.com/au/en/discover/articles/blog-five-ways-to-avoid-costly-microsoft-sql-database-licensing",
+        "title": "Five ways to avoid costly Microsoft SQL database licensing",
+        "authors": [
+          "Kevin Nicholas"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/t-sql-fundamentals-third/9781509302031/",
+        "title": "T-SQL Fundamentals, Third Edition",
+        "authors": [
+          "Itzik Ben-Gan"
+        ],
+        "pages": 464,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/microsoft-sql-server/9781260458886/",
+        "title": "Microsoft SQL Server 2019: A Beginner's Guide, Seventh Edition, 7th Edition",
+        "authors": [
+          "Dusan Petkovic"
+        ],
+        "pages": 896,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-cookbook/0596009763/",
+        "title": "SQL Cookbook",
+        "authors": [
+          "Anthony Molinaro"
+        ],
+        "pages": 632,
+        "type": "book"
+      },
+      {
+        "url": "https://www.booktopia.com/sql-quickstart-guide-walter-shields/book/9781945051234.html",
+        "title": "SQL QuickStart Guide",
+        "authors": [
+          "Walter Shields"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.murach.com/shop/murach-s-sql-server-2019-for-developers-detail",
+        "title": "Murach's SQL Server 2019 for Developers",
+        "authors": [
+          "Joel Murach",
+          "Bryan Syverson"
+        ],
+        "pages": 672,
+        "type": "book"
+      },
+      {
+        "url": "https://www.booktopia.com/expert-scripting-and-automation-for-sql-server-dbas-peter-a-carter/book/9781484219423.html",
+        "title": "Expert Scripting and Automation for SQL Server DBAs",
+        "authors": [
+          "Peter A. Carter"
+        ],
+        "pages": 304,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Troubleshooting-SQL-Server-Guide-Accidental/dp/1906434786",
+        "title": "Troubleshooting SQL Server - A Guide for the Accidental DBA",
+        "authors": [
+          "Jonathan Kehayias",
+          "Ted Krueger"
+        ],
+        "pages": 370,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-Practice-Problems-learn-doing/dp/1520807635",
+        "title": "SQL Practice Problems: 57 beginning, intermediate, and advanced challenges for you to solve using a “learn-by-doing” approach",
+        "authors": [
+          "Sylvia Moestl Vasilik"
+        ],
+        "pages": 147,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/microsoft-sql-server-for-beginners/",
+        "title": "Microsoft SQL Server For Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Valiveti Sekhar"
+        ],
+        "duration": 211,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/microsoft-sql-server-2017-for-everyone/",
+        "title": "Complete Microsoft SQL Server Database Design Masterclass",
+        "platform": "Udemy",
+        "authors": [
+          "Trevoir Williams",
+          "Learn IT University",
+          "Andrii Piatakha"
+        ],
+        "duration": 499,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/mastering-sql-server/",
+        "title": "Learn Microsoft SQL Server from Scratch",
+        "platform": "Udemy",
+        "authors": [
+          "Yasir Mehmood"
+        ],
+        "duration": 106,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/how-to-become-a-real-world-sql-server-dba/",
+        "title": "How To Begin Your Career As a SQL Server DBA",
+        "platform": "Udemy",
+        "authors": [
+          "Mike West"
+        ],
+        "duration": 112,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-sql-course-2021-learn-by-doing/",
+        "title": "The Complete SQL Course 2023 - Learn by Doing - SQL Server",
+        "platform": "Udemy",
+        "authors": [
+          "Daniel Tait"
+        ],
+        "duration": 794,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-microsoft-sql-masterclass-beginner-advanced/",
+        "title": "Complete Microsoft SQL Server Masterclass:Beginner to Expert",
+        "platform": "Udemy",
+        "authors": [
+          "Sandeep Kumar"
+        ],
+        "duration": 668,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-server-2019-sql-for-the-beginners-with-50-exercices/",
+        "title": "SQL Server 2022 for complete beginners (7 hours of practice)",
+        "platform": "Udemy",
+        "authors": [
+          "ELOA FORMATION | SQL | Postgres | Powershell| MySQL | Python | TSQL Administration,TSQL, and SQL Server performance."
+        ],
+        "duration": 437,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/intro-sql-server",
+        "title": "Introduction to SQL Server",
+        "platform": "Pluralsight",
+        "authors": [
+          "Dan Sullivan"
+        ],
+        "duration": 129,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/beginning-sql-server",
+        "title": "Beginning SQL Server",
+        "platform": "Coursera",
+        "authors": [
+          "Mark Veljkov"
+        ],
+        "duration": 90,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/microsoft-sql-server-2022-essential-training",
+        "title": "Microsoft SQL Server 2022 Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Adam Wilbert"
+        ],
+        "duration": 85,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/sql-server-first-instance-getting-started",
+        "title": "Getting Started with Your First SQL Server Instance",
+        "platform": "Pluralsight",
+        "authors": [
+          "Kevin Hill"
+        ],
+        "duration": 164,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/sql-server-indexing",
+        "title": "SQL Server Performance: Indexing Basics",
+        "platform": "Pluralsight",
+        "authors": [
+          "Pinal Dave",
+          "Vinod Kumar"
+        ],
+        "duration": 119,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16",
+        "title": "SQL Server 2019 documentation",
+        "type": "documentation"
+      },
+      {
+        "url": "https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16",
+        "title": "SQL documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/h0nxCDiD-zg",
+        "title": "SQL for Beginners Tutorial",
+        "authors": [
+          "Kevin Stratvert"
+        ],
+        "duration": 45,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/8vTCyhDyRjg",
+        "title": "SQL Server Tutorial For Beginners | SQL Server Management Studio Install & Tips 2022",
+        "authors": [
+          "Teddy Smith"
+        ],
+        "duration": 16,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/-EPMOaV7h_Q",
+        "title": "SQL Server Tutorial For Beginners | Microsoft SQL Server Tutorial | SQL Server Training | Edureka",
+        "authors": [
+          "edureka!"
+        ],
+        "duration": 106,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Q8gBvsUjTLw",
+        "title": "SQL Server Management Studio (SSMS) | Full Course",
+        "authors": [
+          "Joey Blue"
+        ],
+        "duration": 83,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lo80Q8C0nXk",
+        "title": "SQL Server Crash course | Microsoft SQL Server Tutorial | From Absolute Beginners to Advanced",
+        "authors": [
+          "TutorialBrain"
+        ],
+        "duration": 128,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/7GVFYt6_ZFM",
+        "title": "Install SQL Server 2019 Step by Step | Developer Edition | Free Software | Install SSMS",
+        "authors": [
+          "kudvenkat"
+        ],
+        "duration": 6,
+        "type": "video"
+      }
+    ]
+  }
+}

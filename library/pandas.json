@@ -1,0 +1,16 @@
+{
+  "id": "pandas",
+  "title": "Pandas",
+  "description": "",
+  "type": "library",
+  "dependencies": [
+    "python"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "firebase",
+  "title": "Firebase",
+  "description": "",
+  "type": "platform",
+  "dependencies": [
+    "cloud_infrastructure"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

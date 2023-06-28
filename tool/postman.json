@@ -1,0 +1,17 @@
+{
+  "id": "postman",
+  "title": "Postman",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "graphql",
+    "rest"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "laravel",
+  "title": "Laravel",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "php"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

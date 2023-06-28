@@ -1,0 +1,16 @@
+{
+  "id": "typescript",
+  "title": "TypeScript",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

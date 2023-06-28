@@ -1,0 +1,16 @@
+{
+  "id": "sveltekit",
+  "title": "SvelteKit",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "svelte"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

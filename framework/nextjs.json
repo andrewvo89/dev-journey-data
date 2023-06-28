@@ -1,0 +1,16 @@
+{
+  "id": "nextjs",
+  "title": "Next.js",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "react"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

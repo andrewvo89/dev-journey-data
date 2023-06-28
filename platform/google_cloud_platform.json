@@ -1,0 +1,16 @@
+{
+  "id": "google_cloud_platform",
+  "title": "Google Cloud Platform",
+  "description": "",
+  "type": "platform",
+  "dependencies": [
+    "cloud_infrastructure"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

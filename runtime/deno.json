@@ -1,0 +1,17 @@
+{
+  "id": "deno",
+  "title": "Deno",
+  "description": "",
+  "type": "runtime",
+  "dependencies": [
+    "nodejs",
+    "typescript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

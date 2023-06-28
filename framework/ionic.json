@@ -1,0 +1,17 @@
+{
+  "id": "ionic",
+  "title": "Ionic",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "mobile_development",
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

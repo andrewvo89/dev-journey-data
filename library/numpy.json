@@ -1,0 +1,16 @@
+{
+  "id": "numpy",
+  "title": "NumPy",
+  "description": "",
+  "type": "library",
+  "dependencies": [
+    "python"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

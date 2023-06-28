@@ -1,0 +1,16 @@
+{
+  "id": "sql",
+  "title": "SQL",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "relational"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "django",
+  "title": "Django",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "python"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "solidjs",
+  "title": "SolidJS",
+  "description": "",
+  "type": "library",
+  "dependencies": [
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "vue",
+  "title": "Vue.js",
+  "description": "",
+  "type": "library",
+  "dependencies": [
+    "javascript"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "id": "postgress",
+  "title": "PostgreSQL",
+  "description": "PostgreSQL, often simply called Postgres, is an open-source relational database management system (RDBMS) that was initially released in 1996. It is known for its advanced features, extensibility, and adherence to SQL standards. PostgreSQL supports both SQL for relational data and JSON for non-relational data, which makes it a popular choice for a variety of applications, from web services to data warehousing and analytics.\nOne of the distinguishing features of PostgreSQL is its support for custom data types and operators. Users can define their own data types, develop custom functions, and even write code in different programming languages without recompiling the database.\nPostgreSQL also boasts a robust set of features including transactions, multi-version concurrency control (MVCC), point-in-time recovery, table partitioning, and replication. Its ability to handle large volumes of data and perform complex queries efficiently makes it well-suited for high-performance environments and critical business applications.\nThe active community around PostgreSQL contributes to its continuous development and supports a rich ecosystem of tools and extensions. Moreover, its open-source nature and license, which allows for modification and distribution without any restrictions, make it a preferred choice for businesses and developers looking for a powerful and flexible RDBMS.",
+  "type": "database",
+  "dependencies": [
+    "sql"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0",
+        "title": "How a single PostgreSQL config change improved slow query performance by 50x",
+        "authors": [
+          "Pavan Patibandla"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/connect-from-local-machine-to-postgresql-docker-container-f785f00461a7",
+        "title": "Connect From Your Local Machine to a PostgreSQL Database in Docker",
+        "authors": [
+          "Lorenz Vanthillo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://gajus.medium.com/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067",
+        "title": "Lessons learned scaling PostgreSQL database to 1.2bn records/ month",
+        "authors": [
+          "Gajus Kuizinas"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/working-with-a-jsonb-array-of-objects-in-postgresql-d2b7e7f4db87",
+        "title": "Working with a JSONB Array of Objects in PostgreSQL",
+        "authors": [
+          "gravity well (Rob Tomlin)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@viviennediegoencarnacion/getting-started-with-postgresql-on-mac-e6a5f48ee399",
+        "title": "Getting started with PostgreSQL on Mac",
+        "authors": [
+          "Vivi E"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/little-programming-joys/finding-and-killing-long-running-queries-on-postgres-7c4f0449e86d",
+        "title": "Finding and killing long running queries on PostgreSQL",
+        "authors": [
+          "Anderson Dias"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
+        "title": "10 Things I Hate About PostgreSQL",
+        "authors": [
+          "Rick Branson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/local-development-set-up-of-postgresql-with-docker-c022632f13ea",
+        "title": "Local Development Set-Up of PostgreSQL with Docker",
+        "authors": [
+          "Cesar Flores"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/python-and-postgresql-how-to-access-a-postgresql-database-like-a-data-scientist-b5a9c5a0ea43",
+        "title": "Python and PostgreSQL: How To Access A PostgreSQL Database Like A Data Scientist",
+        "authors": [
+          "Alex Mitrani"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/some-important-key-concepts-to-start-using-postgresql-c6de63ab683f",
+        "title": "Some Important Key Concepts to start using PostgreSQL",
+        "authors": [
+          "Papa Moryba Kouate"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa",
+        "title": "SQL Cheat Sheet",
+        "authors": [
+          "Jason"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://zhao-li.medium.com/getting-started-with-postgresql-using-docker-compose-34d6b808c47c",
+        "title": "Getting Started with PostgreSQL using Docker-Compose",
+        "authors": [
+          "Zhao Li"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://mastermind.dev/indexes-in-postgresql",
+        "title": "Understanding database Indexes in PostgreSQL",
+        "authors": [
+          "Paweł Dąbrowski"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.packtpub.com/product/postgresql-14-administration-cookbook/9781803248974",
+        "title": "PostgreSQL 14 Administration Cookbook",
+        "authors": [
+          "Simon Riggs",
+          "Gianni Ciolli"
+        ],
+        "pages": 608,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-postgresql-13-fourth-edition/9781800567498",
+        "title": "Mastering PostgreSQL 13 - Fourth Edition",
+        "authors": [
+          "Hans-Jürgen Schönig"
+        ],
+        "pages": 476,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-postgresql/9781838985288",
+        "title": "Learn PostgreSQL",
+        "authors": [
+          "Luca Ferrari",
+          "Enrico Pirozzi"
+        ],
+        "pages": 650,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/troubleshooting-postgresql/9781783555314",
+        "title": "Troubleshooting PostgreSQL",
+        "authors": [
+          "Vasilis Ventirozos",
+          "Hans-Jürgen Schönig",
+          "kevin vicrey"
+        ],
+        "pages": 164,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/postgresql-server-programming/9781849516983",
+        "title": "PostgreSQL Server Programming",
+        "authors": [
+          "Kirk Roybal",
+          "Jim Mlodgenski",
+          "Hannu Krosing\n and 1 more"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/postgresql-administration-essentials/9781783988983",
+        "title": "PostgreSQL Administration Essentials",
+        "authors": [
+          "Hans-Jürgen Schönig",
+          "Hans-Jürgen Schönig"
+        ],
+        "pages": 142,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/",
+        "title": "PostgreSQL: Up and Running, 3rd Edition",
+        "authors": [
+          "Regina O. Obe",
+          "Leo S. Hsu"
+        ],
+        "pages": 314,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/developing-modern-database/9781838648145/",
+        "title": "Developing Modern Database Applications with PostgreSQL",
+        "authors": [
+          "Dr. Quan Ha Le",
+          "Marcelo Diaz"
+        ],
+        "pages": 440,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/sql-and-postgresql-for-beginners/",
+        "title": "Learn SQL, PostgreSQL, and PgAdmin 4: Master Database Queries",
+        "platform": "Udemy",
+        "authors": [
+          "Jon Avis - SQL Instructor"
+        ],
+        "duration": 554,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/postgresqlmasterclass/",
+        "title": "PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours",
+        "platform": "Udemy",
+        "authors": [
+          "Adnan Waheed"
+        ],
+        "duration": 4040,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-python-postgresql-database-course/",
+        "title": "The Complete Python/PostgreSQL Course 2.0",
+        "platform": "Udemy",
+        "authors": [
+          "Codestars • over 2 million students worldwide!",
+          "Jose Salvatierra",
+          "Teclado by Jose Salvatierra"
+        ],
+        "duration": 820,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/postgresql-from-zero-to-hero/",
+        "title": "Learn SQL Using PostgreSQL: From Zero to Hero",
+        "platform": "Udemy",
+        "authors": [
+          "Will Bunker"
+        ],
+        "duration": 973,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/",
+        "title": "Intro To PostgreSQL Databases With PgAdmin For Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "John Elder"
+        ],
+        "duration": 111,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/postgresql-for-everybody",
+        "title": "PostgreSQL for Everybody",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Severance"
+        ],
+        "duration": 3300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/intermediate-postgresql",
+        "title": "Intermediate PostgreSQL",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 448,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/database-design-postgresql",
+        "title": "Database Design and Basic SQL in PostgreSQL",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 359,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/postgresql-getting-started",
+        "title": "PostgreSQL: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Pinal Dave"
+        ],
+        "duration": 112,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/postgresql-advanced-sql-queries",
+        "title": "PostgreSQL: Advanced SQL Queries",
+        "platform": "Pluralsight",
+        "authors": [
+          "Pinal Dave"
+        ],
+        "duration": 101,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/postgresql-essential-training",
+        "title": "PostgreSQL Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Adam Wilbert"
+        ],
+        "duration": 163,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-postgresql",
+        "title": "Advanced PostgreSQL",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Janani Ravi"
+        ],
+        "duration": 140,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/postgresql-advanced-queries",
+        "title": "PostgreSQL: Advanced Queries",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Adam Wilbert"
+        ],
+        "duration": 170,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://www.postgresql.org/docs/",
+        "title": "PostgreSQL: Documentation",
+        "type": "documentation"
+      },
+      {
+        "url": "https://wiki.postgresql.org/wiki/Main_Page",
+        "title": "PostgreSQL wiki",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/qw--VYLpxG4",
+        "title": "Learn PostgreSQL Tutorial - Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 260,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/btjBNKP49Rk",
+        "title": "PostgreSQL vs MySQL",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zw4s3Ey8ayo",
+        "title": "PostgreSQL CRASH COURSE - Learn PostgreSQL in 2022",
+        "authors": [
+          "Troy Amelotte"
+        ],
+        "duration": 51,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/WFT5MaZN6g4",
+        "title": "pgAdmin Tutorial - How to Use pgAdmin",
+        "authors": [
+          "Database Star"
+        ],
+        "duration": 16,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/eMIxuk0nOkU",
+        "title": "PostgreSQL Tutorial For Beginners | What Is PostgreSQL? | Learn PostgreSQL | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 94,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ldYcgPKEZC8",
+        "title": "PERN Stack Course - Postgres, Express, React, and Node",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 83,
+        "type": "video"
+      }
+    ]
+  }
+}

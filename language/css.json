@@ -1,0 +1,16 @@
+{
+  "id": "css",
+  "title": "CSS",
+  "description": "",
+  "type": "language",
+  "dependencies": [
+    "html"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

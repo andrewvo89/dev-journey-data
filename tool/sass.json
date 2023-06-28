@@ -1,0 +1,16 @@
+{
+  "id": "sass",
+  "title": "Sass",
+  "description": "",
+  "type": "tool",
+  "dependencies": [
+    "css"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

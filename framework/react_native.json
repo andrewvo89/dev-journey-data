@@ -1,0 +1,16 @@
+{
+  "id": "react_native",
+  "title": "React Native",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "react"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

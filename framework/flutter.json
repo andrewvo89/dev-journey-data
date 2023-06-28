@@ -1,0 +1,16 @@
+{
+  "id": "flutter",
+  "title": "Flutter",
+  "description": "",
+  "type": "framework",
+  "dependencies": [
+    "dart"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "id": "dynamodb",
+  "title": "DynamoDB",
+  "description": "Amazon DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). Launched in 2012, it offers fast and predictable performance, making it an ideal choice for applications that require seamless scalability and high throughput. Unlike traditional relational databases, DynamoDB stores data in tables made up of items, which in turn are composed of attributes. It supports key-value and document data models, allowing developers to work with flexible data structures. DynamoDB is well-suited for a wide range of applications including gaming, mobile, web, IoT, and many more, where low latency and high availability are critical. It also offers features like automatic scaling, global tables for multi-region replication, and various consistency models, which makes it a powerful and versatile database service. Additionally, DynamoDB integrates well with other AWS services, allowing developers to create comprehensive and feature-rich applications.",
+  "type": "database",
+  "dependencies": [
+    "nosql",
+    "amazon_web_services"
+  ],
+  "resources": {
+    "articles": [
+      {
+        "url": "https://medium.com/edureka/amazon-dynamodb-tutorial-74d032bde759",
+        "title": "Amazon DynamoDB Tutorial — A Comprehensive Guide To DynamoDB",
+        "authors": [
+          "Vishal Padghan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08",
+        "title": "DynamoDB: Data Modeling",
+        "authors": [
+          "Sasidhar Sekar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/data-modeling-in-aws-dynamodb-dcec6798e955",
+        "title": "Data Modeling in AWS DynamoDB",
+        "authors": [
+          "Jake Richards"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://awstip.com/what-ive-learned-from-using-aws-dynamodb-in-production-for-more-than-3-years-49a077886b5c",
+        "title": "What I’ve Learned From Using AWS DynamoDB in Production for More Than 3 Years",
+        "authors": [
+          "Borislav Stoilov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/dynamodb-5-specific-ways-to-supercharge-your-database-design-574ffb7f5b8a",
+        "title": "DynamoDB: 5 specific ways to supercharge your database design",
+        "authors": [
+          "Rawad Haber"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/analytics-vidhya/how-to-delete-huge-data-from-dynamodb-table-f3be586c011c",
+        "title": "How to delete huge data from DynamoDB table?",
+        "authors": [
+          "Satya Thirumani"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://collin-smith.medium.com/single-table-design-with-aws-dynamodb-and-the-inverted-index-185aa65c3a7c",
+        "title": "Single Table Design with AWS DynamoDB and the Inverted Index",
+        "authors": [
+          "Collin Smith"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/platform-engineer/running-aws-dynamodb-local-with-docker-compose-6f75850aba1e",
+        "title": "Running AWS DynamoDB Local with Docker-Compose",
+        "authors": [
+          "Thilina Ashen Gamage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/event-driven-utopia/aws-dynamodb-streams-change-data-capture-for-dynamodb-tables-d4c92f9639d3",
+        "title": "AWS DynamoDB Streams — Change Data Capture for DynamoDB Tables",
+        "authors": [
+          "Dunith Dhanushka"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/cloud-native-the-gathering/querying-dynamodb-by-date-range-899b751a6ef2",
+        "title": "Querying DynamoDB by Date Range",
+        "authors": [
+          "Kathy Daniels"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.alexdebrie.com/posts/dynamodb-single-table/",
+        "title": "The What, Why, and When of Single-Table Design with DynamoDB",
+        "authors": [
+          "Alex DeBrie"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb",
+        "title": "Lessons learned from 10 years of DynamoDB",
+        "authors": [
+          "Somu Perianayagam",
+          "Akshat Vig"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/aws-builders/why-dynamodb-streams-is-very-useful-24e7",
+        "title": "Why DynamoDB Streams is Very Useful",
+        "authors": [
+          "awedis"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/shavz/dynamodb-gotchas-bjm",
+        "title": "Dynamodb Gotchas",
+        "authors": [
+          "Shiveen Pandita"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.dynamodbbook.com/",
+        "title": "The DynamoDB Book",
+        "authors": [
+          "Alex DeBrie"
+        ],
+        "pages": 450,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/mastering-dynamodb/9781783551958/",
+        "title": "Mastering DynamoDB",
+        "authors": [
+          "Tanmay Deshpande"
+        ],
+        "pages": 236,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/dynamodb-cookbook/9781784393755/",
+        "title": "DynamoDB Cookbook",
+        "authors": [
+          "Tanmay Deshpande"
+        ],
+        "pages": 266,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/dynamodb-applied-design/9781783551897/",
+        "title": "DynamoDB Applied Design Patterns",
+        "authors": [
+          "Uchit Vyas",
+          "Prabhakaran Kuppusamy"
+        ],
+        "pages": 202,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://acloudguru.com/course/amazon-dynamodb-deep-dive",
+        "title": "Amazon DynamoDB Deep Dive",
+        "platform": "A Cloud Guru",
+        "authors": [
+          "A Cloud Guru"
+        ],
+        "duration": 1198,
+        "type": "course"
+      },
+      {
+        "url": "https://explore.skillbuilder.aws/learn/course/external/view/elearning/1525/developing-with-amazon-dynamodb",
+        "title": "Developing with Amazon DynamoDB",
+        "platform": "AWS Skill Builder",
+        "authors": [
+          "AWS Skill Builder"
+        ],
+        "duration": 1010,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/aws-dynamodb-fundamentals",
+        "title": "AWS DynamoDB Fundamentals",
+        "platform": "Coursera",
+        "authors": [
+          "Whizlabs Instructor"
+        ],
+        "duration": 1133,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/aws-dynamodb-deep-dive-2019",
+        "title": "AWS DynamoDB Deep Dive",
+        "platform": "Pluralsight",
+        "authors": [
+          "Ivan Mushketyk"
+        ],
+        "duration": 367,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/aws-dynamodb-getting-started",
+        "title": "AWS Developer: Getting Started with DynamoDB",
+        "platform": "Pluralsight",
+        "authors": [
+          "Abhaya Chauhan"
+        ],
+        "duration": 167,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/amazon-dynamodb-build-out-nosql-databases-in-the-aws-cloud/",
+        "title": "Amazon DynamoDB: Build out NoSQL Databases in the AWS Cloud",
+        "platform": "Udemy",
+        "authors": [
+          "AWS Data Consultant"
+        ],
+        "duration": 144,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dynamodb-data-modeling/",
+        "title": "Amazon DynamoDB Data Modeling for Architects & Developers",
+        "platform": "Udemy",
+        "authors": [
+          "Rajeev Sakhuja"
+        ],
+        "duration": 386,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dynamodb/",
+        "title": "AWS DynamoDB - The Complete Guide (Build 18+ Hands On Demos)",
+        "platform": "Udemy",
+        "authors": [
+          "Riyaz Sayyad | AWS Certified and SAP Certified Professional",
+          "RIZMAXed by Riyaz Sayyad"
+        ],
+        "duration": 993,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-dynamodb-bootcamp/",
+        "title": "Amazon DynamoDB for Beginners: The Complete Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Ram Mohan"
+        ],
+        "duration": 201,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide",
+        "title": "Amazon DynamoDB Developer Guide",
+        "type": "documentation"
+      },
+      {
+        "url": "https://docs.aws.amazon.com/amazondynamodb/latest/APIReference",
+        "title": "Amazon DynamoDB API Reference",
+        "type": "documentation"
+      },
+      {
+        "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CheatSheet.html",
+        "title": "Cheat sheet for DynamoDB",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/2k2GINpO308",
+        "title": "AWS DynamoDB Tutorial For Beginners",
+        "authors": [
+          "Be A Better Dev"
+        ],
+        "duration": 39,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/2mVR_Qgx_RU",
+        "title": "AWS DynamoDB Tutorial | AWS Services | AWS Tutorial For Beginners | AWS Training Video | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/XvD2FrS5yYM",
+        "title": "AWS DynamoDB Schema Design | How to choose the right key",
+        "authors": [
+          "Be A Better Dev"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OfZgHXsYqNE",
+        "title": "Amazon DynamoDB - A Crash Course (Demos Included)",
+        "authors": [
+          "Enlear Academy"
+        ],
+        "duration": 76,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ummOosOW4lE",
+        "title": "DynamoDB: Its purpose, main features, and key concepts | Jason Hunter | AWS Events",
+        "authors": [
+          "AWS Events"
+        ],
+        "duration": 45,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/k0fcbRj_pZE",
+        "title": "AWS DynamoDB Tutorial | Amazon DynamoDB | AWS Tutorial for Beginners | Edureka",
+        "authors": [
+          "edureka!"
+        ],
+        "duration": 29,
+        "type": "video"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nosql",
+  "title": "No SQL Database",
+  "description": "",
+  "type": "paradigm",
+  "dependencies": [
+    "database_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "documentation": [],
+    "videos": []
+  }
+}
