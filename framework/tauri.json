@@ -1,8 +1,6 @@
 {
-  "id": "tauri",
   "title": "Tauri",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "field/desktop_development",
     "language/javascript"

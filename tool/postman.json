@@ -1,8 +1,6 @@
 {
-  "id": "postman",
   "title": "Postman",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "language/graphql",
     "paradigm/rest"

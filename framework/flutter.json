@@ -1,8 +1,6 @@
 {
-  "id": "flutter",
   "title": "Flutter",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "language/dart"
   ],

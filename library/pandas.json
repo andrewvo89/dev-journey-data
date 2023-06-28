@@ -1,8 +1,6 @@
 {
-  "id": "pandas",
   "title": "Pandas",
   "description": "",
-  "type": "library",
   "dependencies": [
     "language/python"
   ],

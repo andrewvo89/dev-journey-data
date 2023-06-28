@@ -1,8 +1,6 @@
 {
-  "id": "rest",
   "title": "REST",
   "description": "",
-  "type": "paradigm",
   "dependencies": [
     "field/api_development"
   ],

@@ -1,8 +1,6 @@
 {
-  "id": "google_cloud_platform",
   "title": "Google Cloud Platform",
   "description": "",
-  "type": "platform",
   "dependencies": [
     "field/cloud_infrastructure"
   ],

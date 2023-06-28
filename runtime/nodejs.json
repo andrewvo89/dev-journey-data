@@ -1,8 +1,6 @@
 {
-  "id": "nodejs",
   "title": "Node.js",
   "description": "",
-  "type": "runtime",
   "dependencies": [
     "field/backend_development"
   ],

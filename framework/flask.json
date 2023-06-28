@@ -1,8 +1,6 @@
 {
-  "id": "flask",
   "title": "Flask",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "language/python"
   ],

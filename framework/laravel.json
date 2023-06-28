@@ -1,8 +1,6 @@
 {
-  "id": "laravel",
   "title": "Laravel",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "language/php"
   ],

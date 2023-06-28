@@ -1,8 +1,6 @@
 {
-  "id": "astro",
   "title": "Astro",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "library/react"
   ],

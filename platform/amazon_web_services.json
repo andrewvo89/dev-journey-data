@@ -1,8 +1,6 @@
 {
-  "id": "amazon_web_services",
   "title": "Amazon Web Services",
   "description": "",
-  "type": "platform",
   "dependencies": [
     "field/cloud_infrastructure"
   ],

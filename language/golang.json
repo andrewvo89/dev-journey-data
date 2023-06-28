@@ -1,8 +1,6 @@
 {
-  "id": "golang",
   "title": "Golang",
   "description": "",
-  "type": "language",
   "dependencies": [
     "field/backend_development"
   ],

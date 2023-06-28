@@ -1,8 +1,6 @@
 {
-  "id": "curl",
   "title": "cURL",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "language/graphql",
     "paradigm/rest"

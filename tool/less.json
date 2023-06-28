@@ -1,8 +1,6 @@
 {
-  "id": "less",
   "title": "Less",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "language/css"
   ],

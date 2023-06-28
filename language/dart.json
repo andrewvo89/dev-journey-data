@@ -1,8 +1,6 @@
 {
-  "id": "dart",
   "title": "Dart",
   "description": "",
-  "type": "language",
   "dependencies": [
     "field/mobile_development"
   ],

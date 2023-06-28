@@ -1,8 +1,6 @@
 {
-  "id": "pytorch",
   "title": "PyTorch",
   "description": "",
-  "type": "library",
   "dependencies": [
     "language/python"
   ],

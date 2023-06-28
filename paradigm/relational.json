@@ -1,8 +1,6 @@
 {
-  "id": "relational",
   "title": "Relational Database",
   "description": "",
-  "type": "paradigm",
   "dependencies": [
     "field/database_development"
   ],

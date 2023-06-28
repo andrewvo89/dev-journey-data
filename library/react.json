@@ -1,8 +1,6 @@
 {
-  "id": "react",
   "title": "React",
   "description": "React.js, often simply referred to as React, is an open-source JavaScript library for building user interfaces, particularly single-page applications (SPAs) where you need a fast, interactive user experience. It was developed by Facebook and has been maintained by Facebook and a community of individual developers and companies since it was first released in 2013.\nThe main idea behind React is to create reusable UI components, which helps in maintaining the code when working on large scale projects. React allows developers to create large web applications that can update and render efficiently in response to data changes, without requiring a page reload.",
-  "type": "library",
   "dependencies": [
     "language/javascript",
     "language/typescript"

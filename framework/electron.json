@@ -1,8 +1,6 @@
 {
-  "id": "electron",
   "title": "Electron",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "field/desktop_development",
     "language/javascript"

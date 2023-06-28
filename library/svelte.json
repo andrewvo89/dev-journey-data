@@ -1,8 +1,6 @@
 {
-  "id": "svelte",
   "title": "Svelte",
   "description": "",
-  "type": "library",
   "dependencies": [
     "language/javascript"
   ],

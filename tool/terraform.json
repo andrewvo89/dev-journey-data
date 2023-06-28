@@ -1,8 +1,6 @@
 {
-  "id": "terraform",
   "title": "Terraform",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "field/devops"
   ],

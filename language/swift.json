@@ -1,8 +1,6 @@
 {
-  "id": "swift",
   "title": "Swift",
   "description": "",
-  "type": "language",
   "dependencies": [
     "field/mobile_development"
   ],

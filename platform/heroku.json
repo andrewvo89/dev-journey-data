@@ -1,8 +1,6 @@
 {
-  "id": "heroku",
   "title": "Heroku",
   "description": "",
-  "type": "platform",
   "dependencies": [
     "field/cloud_infrastructure"
   ],

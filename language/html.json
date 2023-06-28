@@ -1,8 +1,6 @@
 {
-  "id": "html",
   "title": "HTML",
   "description": "",
-  "type": "language",
   "dependencies": [
     "runtime/web_browser"
   ],

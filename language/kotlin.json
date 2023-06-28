@@ -1,8 +1,6 @@
 {
-  "id": "kotlin",
   "title": "Kotlin",
   "description": "",
-  "type": "language",
   "dependencies": [
     "field/mobile_development"
   ],

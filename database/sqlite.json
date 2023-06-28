@@ -1,8 +1,6 @@
 {
-  "id": "sqlite",
   "title": "SQLite",
   "description": "SQLite is a lightweight, self-contained, open-source relational database management system (RDBMS) that was first released in 2000. What sets SQLite apart from other traditional RDBMSs is its serverless architecture. Instead of running as a separate server process, SQLite is embedded into the application, and the database itself is stored in a single file on disk. This makes it extremely portable and easy to integrate into applications without the need for complex setup or administration.\nSQLite is known for its simplicity, reliability, and efficiency. It supports most of the SQL standard, including transactions, subqueries, and triggers. Despite its small footprint, SQLite is fully ACID-compliant, ensuring that database transactions are atomic, consistent, isolated, and durable.\nBecause of its serverless nature and ease of use, SQLite is a popular choice for embedded databases, particularly in mobile applications, desktop applications, and small to medium-sized web applications. It's also widely used as a local data store in browsers and for prototyping and development purposes.\nSQLite's source code is in the public domain, which allows it to be used for any purpose, including in commercial products, without any licensing fees or restrictions. This, coupled with its robustness and performance, has contributed to its widespread adoption across various industries and platforms.",
-  "type": "database",
   "dependencies": [
     "language/sql"
   ],

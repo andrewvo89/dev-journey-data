@@ -1,8 +1,6 @@
 {
-  "id": "rust",
   "title": "Rust",
   "description": "",
-  "type": "language",
   "dependencies": [
     "paradigm/functional_programming"
   ],

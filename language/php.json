@@ -1,8 +1,6 @@
 {
-  "id": "php",
   "title": "PHP",
   "description": "",
-  "type": "language",
   "dependencies": [
     "paradigm/oop_programming"
   ],

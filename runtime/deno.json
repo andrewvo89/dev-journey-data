@@ -1,8 +1,6 @@
 {
-  "id": "deno",
   "title": "Deno",
   "description": "",
-  "type": "runtime",
   "dependencies": [
     "runtime/nodejs",
     "language/typescript"

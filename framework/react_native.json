@@ -1,8 +1,6 @@
 {
-  "id": "react_native",
   "title": "React Native",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "library/react"
   ],

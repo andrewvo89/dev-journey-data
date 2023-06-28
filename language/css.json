@@ -1,8 +1,6 @@
 {
-  "id": "css",
   "title": "CSS",
   "description": "",
-  "type": "language",
   "dependencies": [
     "language/html"
   ],

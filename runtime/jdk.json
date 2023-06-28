@@ -1,8 +1,6 @@
 {
-  "id": "jdk",
   "title": "Java Development Kit",
   "description": "",
-  "type": "runtime",
   "dependencies": [
     "field/backend_development"
   ],

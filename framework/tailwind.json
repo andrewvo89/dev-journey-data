@@ -1,8 +1,6 @@
 {
-  "id": "tailwind",
   "title": "Tailwind CSS",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "language/css"
   ],

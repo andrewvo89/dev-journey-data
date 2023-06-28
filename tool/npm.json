@@ -1,8 +1,6 @@
 {
-  "id": "npm",
   "title": "NPM",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "runtime/nodejs"
   ],

@@ -1,8 +1,6 @@
 {
-  "id": "oop_programming",
   "title": "Object Oriented Programming",
   "description": "",
-  "type": "paradigm",
   "dependencies": [
     "field/backend_development"
   ],

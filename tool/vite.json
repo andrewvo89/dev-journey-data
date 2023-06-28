@@ -1,8 +1,6 @@
 {
-  "id": "vite",
   "title": "Vite",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "language/javascript"
   ],

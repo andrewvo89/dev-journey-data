@@ -1,8 +1,6 @@
 {
-  "id": "jre",
   "title": "Java Runtime Environment",
   "description": "",
-  "type": "runtime",
   "dependencies": [
     "field/backend_development"
   ],

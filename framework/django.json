@@ -1,8 +1,6 @@
 {
-  "id": "django",
   "title": "Django",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "language/python"
   ],

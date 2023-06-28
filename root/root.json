@@ -1,8 +1,6 @@
 {
-  "id": "root",
   "title": "Start of journey",
   "description": "",
-  "type": "root",
   "dependencies": [],
   "resources": {
     "articles": [],

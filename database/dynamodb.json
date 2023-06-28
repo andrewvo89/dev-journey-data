@@ -1,8 +1,6 @@
 {
-  "id": "dynamodb",
   "title": "DynamoDB",
   "description": "Amazon DynamoDB is a fully managed NoSQL database service provided by Amazon Web Services (AWS). Launched in 2012, it offers fast and predictable performance, making it an ideal choice for applications that require seamless scalability and high throughput. Unlike traditional relational databases, DynamoDB stores data in tables made up of items, which in turn are composed of attributes. It supports key-value and document data models, allowing developers to work with flexible data structures. DynamoDB is well-suited for a wide range of applications including gaming, mobile, web, IoT, and many more, where low latency and high availability are critical. It also offers features like automatic scaling, global tables for multi-region replication, and various consistency models, which makes it a powerful and versatile database service. Additionally, DynamoDB integrates well with other AWS services, allowing developers to create comprehensive and feature-rich applications.",
-  "type": "database",
   "dependencies": [
     "paradigm/nosql",
     "platform/amazon_web_services"

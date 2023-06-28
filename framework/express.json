@@ -1,8 +1,6 @@
 {
-  "id": "express",
   "title": "Express",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "runtime/nodejs"
   ],

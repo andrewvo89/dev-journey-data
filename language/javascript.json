@@ -1,8 +1,6 @@
 {
-  "id": "javascript",
   "title": "JavaScript",
   "description": "",
-  "type": "language",
   "dependencies": [
     "language/css",
     "runtime/nodejs",

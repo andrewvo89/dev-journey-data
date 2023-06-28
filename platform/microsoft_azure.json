@@ -1,8 +1,6 @@
 {
-  "id": "microsoft_azure",
   "title": "Microsoft Azure",
   "description": "",
-  "type": "platform",
   "dependencies": [
     "field/cloud_infrastructure"
   ],

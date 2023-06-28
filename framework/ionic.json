@@ -1,8 +1,6 @@
 {
-  "id": "ionic",
   "title": "Ionic",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "field/mobile_development",
     "language/javascript"

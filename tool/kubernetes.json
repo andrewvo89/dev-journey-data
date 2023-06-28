@@ -1,8 +1,6 @@
 {
-  "id": "kubernetes",
   "title": "Kubernetes",
   "description": "",
-  "type": "tool",
   "dependencies": [
     "field/devops"
   ],

@@ -1,8 +1,6 @@
 {
-  "id": "nextjs",
   "title": "Next.js",
   "description": "",
-  "type": "framework",
   "dependencies": [
     "library/react"
   ],
