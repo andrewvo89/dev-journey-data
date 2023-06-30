@@ -1,6 +1,6 @@
 {
   "title": "Astro",
-  "description": "Astro is an all-in-one web framework designed for speed. It allows you to pull your content from anywhere and deploy it everywhere, all powered by your favorite UI components and libraries. One of its key features is its unique zero-JS frontend architecture, which optimizes your website like no other framework can, potentially unlocking higher conversion rates with better SEO​.\nAstro was designed with a focus on content. You can fetch data from any Content Management System (CMS) or work locally with type-safe Markdown and MDX APIs. The framework allows existing UI components to run without requiring any changes, and new integrations can be easily added to your project​1.\nYou can start your first Astro project directly in the browser, without needing a local development environment or signup. Moreover, Astro is free and open source software, supported by a community of contributors and sponsors​.",
+  "description": "Astro is an all-in-one web framework designed for speed. It allows you to pull your content from anywhere and deploy it everywhere, all powered by your favorite UI components and libraries. One of its key features is its unique zero-JS frontend architecture, which optimizes your website like no misc framework can, potentially unlocking higher conversion rates with better SEO​.\nAstro was designed with a focus on content. You can fetch data from any Content Management System (CMS) or work locally with type-safe Markdown and MDX APIs. The framework allows existing UI components to run without requiring any changes, and new integrations can be easily added to your project​1.\nYou can start your first Astro project directly in the browser, without needing a local development environment or signup. Moreover, Astro is free and open source software, supported by a community of contributors and sponsors​.",
   "dependencies": [
     "library/react"
   ],
@@ -121,16 +121,16 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://astro.build/blog/",
         "title": "Astro Blog",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://docs.astro.build/en/getting-started/",
         "title": "Astro Documentation",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [

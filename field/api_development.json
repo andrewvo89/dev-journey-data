@@ -1,6 +1,6 @@
 {
   "title": "API Development",
-  "description": "API Development is the process of creating Application Programming Interfaces (APIs), which are sets of rules and tools that allow different software applications to communicate with each other. Through APIs, one application can access features or data of another application, without the need for the user to intervene. This communication can occur between different parts of the same system or across different systems altogether.\nThere are several types of APIs, including web APIs, operating system APIs, and library APIs. However, in modern parlance, API development often refers specifically to web APIs. Web APIs enable communication between different web services and applications over the internet, typically using HTTP as the communication protocol.\nA common practice in API development is to follow the REST (Representational State Transfer) architecture, which uses standard HTTP methods such as GET, POST, PUT, DELETE, and others to facilitate communication. There is also the GraphQL approach, which is an alternative to REST, allowing the client to request specific data as needed.\nAPI development is an essential skill in modern software development, as APIs facilitate the integration and interoperability of diverse systems, leading to more versatile and powerful applications.",
+  "description": "API Development is the process of creating Application Programming Interfaces (APIs), which are sets of rules and tools that allow different software applications to communicate with each misc. Through APIs, one application can access features or data of another application, without the need for the user to intervene. This communication can occur between different parts of the same system or across different systems altogether.\nThere are several types of APIs, including web APIs, operating system APIs, and library APIs. However, in modern parlance, API development often refers specifically to web APIs. Web APIs enable communication between different web services and applications over the internet, typically using HTTP as the communication protocol.\nA common practice in API development is to follow the REST (Representational State Transfer) architecture, which uses standard HTTP methods such as GET, POST, PUT, DELETE, and others to facilitate communication. There is also the GraphQL approach, which is an alternative to REST, allowing the client to request specific data as needed.\nAPI development is an essential skill in modern software development, as APIs facilitate the integration and interoperability of diverse systems, leading to more versatile and powerful applications.",
   "dependencies": [
     "root/root"
   ],
@@ -8,7 +8,7 @@
     "articles": [],
     "books": [],
     "courses": [],
-    "other": [],
+    "misc": [],
     "videos": []
   }
 }

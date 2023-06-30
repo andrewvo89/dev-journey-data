@@ -459,11 +459,11 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://docs.djangoproject.com/",
         "title": "Django Documentation",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [

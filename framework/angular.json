@@ -478,21 +478,21 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://angular-university.io/",
         "title": "Angular University",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://angular.io/docs",
         "title": "Angular Docs",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://blog.angular.io/",
         "title": "Angular Blog",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [

@@ -362,21 +362,21 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://dev.mysql.com/doc/",
         "title": "MySQL :: MySQL Documentation",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://docs.oracle.com/cd/E17952_01/index.html",
         "title": "MySQL 5.7 Reference Manual",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://docs.digitalocean.com/products/databases/mysql/",
         "title": "MySQL Databases | DigitalOcean Product Documentation",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [

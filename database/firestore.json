@@ -1,6 +1,6 @@
 {
   "title": "Firestore",
-  "description": "Firestore, also known as Cloud Firestore, is a flexible, scalable NoSQL cloud database developed by Google for storing and syncing data for serverless, cloud-based, and mobile development. Released in 2017 as an evolution of Google's Realtime Database, Firestore offers robust, real-time capabilities and support for various data types, including complex nested objects.\nIn Firestore, data is stored as documents, which are organized into collections. Documents operate similarly to a JSON object, supporting a variety of data types like strings, numbers, dates, nested arrays, and objects. Firestore provides seamless synchronization, offline support, and the ability to query data within collections, making it suitable for a wide array of applications, from simple websites to complex, data-intensive applications.\\nFirestore's built-in security rules and automatic scaling make it a compelling choice for developers requiring a secure and reliable backend without the overhead of server management. It seamlessly integrates with other Google Cloud products and supports major programming languages, making it a versatile tool for multi-platform applications.",
+  "description": "Firestore, also known as Cloud Firestore, is a flexible, scalable NoSQL cloud database developed by Google for storing and syncing data for serverless, cloud-based, and mobile development. Released in 2017 as an evolution of Google's Realtime Database, Firestore offers robust, real-time capabilities and support for various data types, including complex nested objects.\nIn Firestore, data is stored as documents, which are organized into collections. Documents operate similarly to a JSON object, supporting a variety of data types like strings, numbers, dates, nested arrays, and objects. Firestore provides seamless synchronization, offline support, and the ability to query data within collections, making it suitable for a wide array of applications, from simple websites to complex, data-intensive applications.\\nFirestore's built-in security rules and automatic scaling make it a compelling choice for developers requiring a secure and reliable backend without the overhead of server management. It seamlessly integrates with misc Google Cloud products and supports major programming languages, making it a versatile tool for multi-platform applications.",
   "dependencies": [
     "platform/firebase",
     "paradigm/nosql"
@@ -197,31 +197,31 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://firebase.google.com/docs/firestore",
         "title": "Cloud Firestore  |  Google Cloud",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://cloud.google.com/firestore/docs",
         "title": "Cloud Firestore Documentation  |  Google Cloud",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://googleapis.dev/nodejs/firestore/latest/Firestore.html",
         "title": "Class: Firestore  |  Google Cloud Node.js",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://firebase.flutter.dev/docs/firestore/usage/",
         "title": "Usage  |  FlutterFire",
-        "type": "other"
+        "type": "misc"
       },
       {
         "url": "https://rnfirebase.io/firestore/usage",
         "title": "Firestore Usage | React Native Firebase",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [

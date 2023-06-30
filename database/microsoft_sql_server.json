@@ -312,16 +312,16 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16",
-        "title": "SQL Server 2019 other",
-        "type": "other"
+        "title": "SQL Server 2019 misc",
+        "type": "misc"
       },
       {
         "url": "https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16",
-        "title": "SQL other",
-        "type": "other"
+        "title": "SQL misc",
+        "type": "misc"
       }
     ],
     "videos": [

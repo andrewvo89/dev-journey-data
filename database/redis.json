@@ -1,6 +1,6 @@
 {
   "title": "Redis",
-  "description": "Redis, which stands for Remote Dictionary Server, is an open-source, in-memory data structure store that was first released in 2009. It is often referred to as a database, cache, or message broker, due to its versatility in handling various data structures such as strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and geospatial indexes.\nOne of the most prominent features of Redis is its performance. As an in-memory store, Redis can handle large volumes of data with low latency, making it an ideal choice for caching, session storage, real-time analytics, and message queuing.\nRedis also supports various features such as data persistence, replication, transactions, and support for Lua scripting. Moreover, it offers built-in support for master-slave replication, allowing data to be copied from a master Redis server to one or more replicas, which adds to its high availability and scaling capabilities.\nThe simplicity and high performance of Redis have made it one of the most popular NoSQL databases, and it is widely used in web development, gaming, IoT, and other applications where speed and scalability are critical. Additionally, Redis Enterprise extends the capabilities of Redis by providing features such as automated scaling, high availability, and enhanced security for enterprise-level applications.",
+  "description": "Redis, which stands for Remote Dictionary Server, is an open-source, in-memory data structure store that was first released in 2009. It is often referred to as a database, cache, or message broker, due to its versatility in handling various data structures such as strings, hashes, lists, sets, sorted sets, bitmaps, hyperloglogs, and geospatial indexes.\nOne of the most prominent features of Redis is its performance. As an in-memory store, Redis can handle large volumes of data with low latency, making it an ideal choice for caching, session storage, real-time analytics, and message queuing.\nRedis also supports various features such as data persistence, replication, transactions, and support for Lua scripting. Moreover, it offers built-in support for master-slave replication, allowing data to be copied from a master Redis server to one or more replicas, which adds to its high availability and scaling capabilities.\nThe simplicity and high performance of Redis have made it one of the most popular NoSQL databases, and it is widely used in web development, gaming, IoT, and misc applications where speed and scalability are critical. Additionally, Redis Enterprise extends the capabilities of Redis by providing features such as automated scaling, high availability, and enhanced security for enterprise-level applications.",
   "dependencies": [
     "paradigm/nosql"
   ],
@@ -279,11 +279,11 @@
         "type": "course"
       }
     ],
-    "other": [
+    "misc": [
       {
         "url": "https://redis.io/docs/",
         "title": "Redis Documentation",
-        "type": "other"
+        "type": "misc"
       }
     ],
     "videos": [
