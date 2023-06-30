@@ -1,14 +1,238 @@
 {
   "title": "Astro",
-  "description": "",
+  "description": "Astro is an all-in-one web framework designed for speed. It allows you to pull your content from anywhere and deploy it everywhere, all powered by your favorite UI components and libraries. One of its key features is its unique zero-JS frontend architecture, which optimizes your website like no other framework can, potentially unlocking higher conversion rates with better SEO​.\nAstro was designed with a focus on content. You can fetch data from any Content Management System (CMS) or work locally with type-safe Markdown and MDX APIs. The framework allows existing UI components to run without requiring any changes, and new integrations can be easily added to your project​1.\nYou can start your first Astro project directly in the browser, without needing a local development environment or signup. Moreover, Astro is free and open source software, supported by a community of contributors and sponsors​.",
   "dependencies": [
     "library/react"
   ],
   "resources": {
-    "articles": [],
+    "articles": [
+      {
+        "url": "https://medium.com/@jerrychangdev/introduction-79da4972f412",
+        "title": "Introduction to Astro",
+        "authors": [
+          "Jerry Chang"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/quick-programming/checking-out-astro-the-new-js-framework-c62d5681b7d6",
+        "title": "Introduction to Astro, The New JS Framework",
+        "authors": [
+          "mbvissers.eth"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/working-with-astro-the-super-fast-web-framework-5dadd98f8e39",
+        "title": "Working With Astro — The Super Fast Web Framework",
+        "authors": [
+          "Jennifer Fu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://shramko.dev/blog/astro",
+        "title": "What is Astro Framework?",
+        "authors": [
+          "Serhii Shramko"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://css-tricks.com/a-look-at-building-with-astro/",
+        "title": "A Look at Building with Astro",
+        "authors": [
+          "Chris Coyier"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://hackernoon.com/optimizing-component-development-in-astro-without-astro-files",
+        "title": "Optimizing Component Development in Astro Without Astro Files",
+        "authors": [
+          "Zell Liew"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://cult.honeypot.io/reads/astro-the-new-javascript-framework/",
+        "title": "Astro: How Good Is the New JavaScript Framework?",
+        "authors": [
+          "Kaleb McKelvey"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://semaphoreci.com/blog/astro-framework",
+        "title": "Getting Started With Astro",
+        "authors": [
+          "Tomas Fernandez",
+          "Dan Ackerson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://bejamas.io/blog/practical-guide-to-astro-js-framework/",
+        "title": "Astro JS Framework: A Practical Guide To Building Faster Websites",
+        "authors": [
+          "Mojtaba Seyedi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.contentful.com/blog/what-is-astro/",
+        "title": "What is Astro? All about the JS framework of all frameworks",
+        "authors": [
+          "Alvin Bryan"
+        ],
+        "type": "article"
+      }
+    ],
     "books": [],
-    "courses": [],
-    "documentation": [],
-    "videos": []
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/astro-the-complete-guide/",
+        "title": "Getting started with Astro (GraphQL, REST APIs, and more)",
+        "platform": "Udemy",
+        "authors": [
+          "Robert Guss"
+        ],
+        "duration": 62,
+        "type": "course"
+      },
+      {
+        "url": "https://astrocourse.dev/",
+        "title": "Astro Course",
+        "platform": "James Q Quick",
+        "authors": [
+          "James Q Quick"
+        ],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://courses.jamstack.training/p/ship-less-javascript-with-astro",
+        "title": "Ship Less JavaScript with Astro",
+        "platform": "Jam Stack Training",
+        "authors": [
+          "Tamas Piros"
+        ],
+        "duration": 152,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://astro.build/blog/",
+        "title": "Astro Blog",
+        "type": "documentation"
+      },
+      {
+        "url": "https://docs.astro.build/en/getting-started/",
+        "title": "Astro Documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/gxBkghlglTg",
+        "title": "Astro just Launched.... Could it be the ultimate web framework?",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 4,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dsTXcSeAZq8",
+        "title": "Astro in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/NniT0vKyn-E",
+        "title": "Astro Crash Course in 60 Minutes",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 71,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Oi9z5gfIHJs",
+        "title": "Astro Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 96,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zrPVTf761OI",
+        "title": "Astro Crash Course in 20 Minutes!",
+        "authors": [
+          "Coding in Public"
+        ],
+        "duration": 23,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/wND4lSml31A",
+        "title": "I Tried Astro Build and I LOVE IT - 5 Reasons You Will TOO!",
+        "authors": [
+          "James Q Quick"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/YtaR_I65wmI",
+        "title": "Why I Switched To Astro But You Probably Shouldn’t",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Sqp5VSqbQOY",
+        "title": "Astro IS SO GOOD",
+        "authors": [
+          "ThePrimeagen"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5sILqJyvxIM",
+        "title": "Astro is doing WHAT?!",
+        "authors": [
+          "Awesome"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/acgIGT0J99U",
+        "title": "Astro makes websites faster & easier to build",
+        "authors": [
+          "Kevin Powell"
+        ],
+        "duration": 23,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/6XzyobQYQVQ",
+        "title": "Astro Blog Course - Full 3.5 hour course",
+        "authors": [
+          "Coding in Public"
+        ],
+        "duration": 211,
+        "type": "video"
+      }
+    ]
   }
 }
