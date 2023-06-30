@@ -1,14 +1,553 @@
 {
   "title": "Django",
-  "description": "",
+  "description": "Django is a high-level web framework written in Python that enables rapid development of secure and maintainable websites. Founded in 2003 and released to the public in 2005, Django encourages the use of reusable code and emphasizes the principle of \"Don't Repeat Yourself\" (DRY). It follows the Model-View-Template (MVT) architectural pattern, which is similar to the Model-View-Controller (MVC) pattern. With a built-in Object-Relational Mapping (ORM) system, Django simplifies database interactions and supports various database backends. It also includes many out-of-the-box features such as authentication, URL routing, form handling, and an automatic admin interface, which make it easier for developers to handle common web development tasks. Moreover, Django’s thriving community offers a plethora of third-party packages and extensions, further expanding its capabilities. Its scalability, robustness, and ease of use have made Django a popular choice for building a wide range of applications, from small-scale projects to large, complex web services.",
   "dependencies": [
     "language/python"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "documentation": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/swlh/build-your-first-rest-api-with-django-rest-framework-e394e39a482c",
+        "title": "Build your first REST API with Django REST Framework",
+        "authors": [
+          "Bennett Garner"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a",
+        "title": "Top 10 Python Web Frameworks to Learn in 2018",
+        "authors": [
+          "SteelKiwi Inc."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3",
+        "title": "Web REST API Benchmark on a Real Life Application",
+        "authors": [
+          "Mihai Cracan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5",
+        "title": "Let’s build an API with Django REST Framework",
+        "authors": [
+          "Emmanuel King Kasulani"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/creating-websites-using-react-and-django-rest-framework-b14c066087c7",
+        "title": "Creating websites using React and Django REST Framework",
+        "authors": [
+          "Mark Winter"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@omaraamir19966/connect-django-with-mysql-database-f946d0f6f9e3",
+        "title": "Connect DJango with MySQL Database",
+        "authors": [
+          "Omar Aamir"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/quick-code/crud-app-using-vue-js-and-django-516edf4e4217",
+        "title": "CRUD App using Vue.js and Django",
+        "authors": [
+          "Shubham Bansal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@DoorDash/tips-for-building-high-quality-django-apps-at-scale-a5a25917b2b5",
+        "title": "Tips for Building High-Quality Django Apps at Scale",
+        "authors": [
+          "DoorDash"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/python-pandemonium/building-and-deploying-an-enterprise-django-web-app-in-16-hours-79e018f7b94c",
+        "title": "Building and deploying an Enterprise Django Web App in 16 hours",
+        "authors": [
+          "Anthony Shaw"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://hakibenita.medium.com/9-django-tips-for-working-with-databases-beba787ed7d3",
+        "title": "9 Django Tips for Working with Databases",
+        "authors": [
+          "Haki Benita"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@humble_bee/django-basics-for-a-beginner-5d864e6aa084",
+        "title": "Django Basics for a Beginner",
+        "authors": [
+          "Dinesh"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.toptal.com/django/django-top-10-mistakes",
+        "title": "Top 10 Mistakes That Django Developers Make",
+        "authors": [
+          "Alexandr Shurigin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://studygyaan.com/django/best-practice-to-structure-django-project-directories-and-files",
+        "title": "Django Project Structure Best Practice 2022",
+        "authors": [
+          "Samyak"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/dp/1735467200",
+        "title": "Django for Beginners: Build Websites with Python and Django (Welcome to Django)",
+        "authors": [
+          "William S. Vincent"
+        ],
+        "pages": 294,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/django-standalone-apps/9781484256329/",
+        "title": "Django Standalone Apps: Learn to Develop Reusable Django Libraries",
+        "authors": [
+          "Ben Lopatin"
+        ],
+        "pages": 169,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/django-unleashed/9780133812497/",
+        "title": "Django Unleashed",
+        "authors": [
+          "Andrew Pinkham"
+        ],
+        "pages": 840,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/lightweight-django/9781491946275/",
+        "title": "Lightweight Django",
+        "authors": [
+          "Julia Elman",
+          "Mark Lavin"
+        ],
+        "pages": 246,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/modern-full-stack-development/9781484288115/",
+        "title": "Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, Python, Django, and Docker",
+        "authors": [
+          "Frank Zammetti"
+        ],
+        "pages": 395,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/pro-django-second/9781430258094/",
+        "title": "Pro Django, Second Edition",
+        "authors": [
+          "Marty Alchin"
+        ],
+        "pages": 290,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/secure-web-application/9781484285961/",
+        "title": "Secure Web Application Development : A Hands-On Guide with Python and Django",
+        "authors": [
+          "Matthew Baker"
+        ],
+        "pages": 483,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/becoming-an-enterprise-django-developer/9781801073639",
+        "title": "Becoming an Enterprise Django Developer",
+        "authors": [
+          "Michael Dinder"
+        ],
+        "pages": 526,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-spas-with-django-and-html-over-the-wire/9781803240190",
+        "title": "Building SPAs with Django and HTML Over the Wire",
+        "authors": [
+          "Andros Fenollosa"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/django-4-by-example-fourth-edition/9781801813051",
+        "title": "Django 4 By Example - Fourth Edition",
+        "authors": [
+          "Antonio Melé"
+        ],
+        "pages": 766,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/django-4-for-the-impatient/9781803245836",
+        "title": "Django 4 for the Impatient",
+        "authors": [
+          "Greg Lim",
+          "Daniel Correa"
+        ],
+        "pages": 190,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/django-design-patterns-and-best-practices-second-edition/9781788831345",
+        "title": "Django Design Patterns and Best Practices - Second Edition",
+        "authors": [
+          "Arun Ravindran"
+        ],
+        "pages": 282,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/django-restful-web-services/9781788833929",
+        "title": "Django RESTful Web Services",
+        "authors": [
+          "Gaston C. Hillar"
+        ],
+        "pages": 326,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-django-and-react/9781803242972",
+        "title": "Full Stack Django and React",
+        "authors": [
+          "Kolawole Mangabo"
+        ],
+        "pages": 432,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/web-development-with-django-second-edition/9781803230603",
+        "title": "Web Development with Django - Second Edition",
+        "authors": [
+          "Ben Shaw",
+          "Saurabh Badhwar",
+          "Chris Guest\n and 1 more"
+        ],
+        "pages": 764,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/web-development-with-django/9781839212505",
+        "title": "Web Development with Django",
+        "authors": [
+          "Ben Shaw",
+          "Saurabh Badhwar",
+          "Andrew Bird\n and 2 more"
+        ],
+        "pages": 826,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.coursera.org/specializations/codio-advanced-django-and-django-rest-framework",
+        "title": "Advanced Django: Mastering Django and Django Rest Framework",
+        "platform": "Coursera",
+        "authors": [
+          "Patrick Ester",
+          "Ben Shaw"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/django-web-framework",
+        "title": "Django Web Framework",
+        "platform": "Coursera",
+        "authors": [
+          "Meta Staff"
+        ],
+        "duration": 2700,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/django-javascript-jquery-json",
+        "title": "Using JavaScript, JQuery, and JSON in Django",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 1080,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/developing-applications-with-sql-databases-and-django",
+        "title": "Developing Applications with SQL, Databases, and Django",
+        "platform": "Coursera",
+        "authors": [
+          "Yan Luo",
+          "Rav Ahuja"
+        ],
+        "duration": 277,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1914,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/django-python-advanced/",
+        "title": "Build a Backend REST API with Python & Django - Advanced",
+        "platform": "Udemy",
+        "authors": [
+          "Mark Winterbottom",
+          "Brooke Rutherford"
+        ],
+        "duration": 1376,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/",
+        "title": "Dominant Django 2 & Python Web Development (Total Bootcamp)",
+        "platform": "Udemy",
+        "authors": [
+          "Nick Walter"
+        ],
+        "duration": 603,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-django-dev-to-deployment/",
+        "title": "Python Django Dev To Deployment",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 666,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-django-the-practical-guide/",
+        "title": "Python Django - The Practical Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1385,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/django-essential-training",
+        "title": "Django Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Leticia Portella"
+        ],
+        "duration": 126,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-django",
+        "title": "Advanced Django",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ryan Mitchell"
+        ],
+        "duration": 112,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-django-2",
+        "title": "Learning Django",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Caleb Smith"
+        ],
+        "duration": 100,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-restful-web-apis-with-django",
+        "title": "Building RESTful Web APIs with Django",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Rudolf Olah"
+        ],
+        "duration": 69,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-react-and-django-apps",
+        "title": "Building React and Django Apps",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Rudolf Olah"
+        ],
+        "duration": 56,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/django-forms",
+        "title": "Django: Forms",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Nick Walter"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/securing-django-applications",
+        "title": "Securing Django Applications",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Rudolf Olah"
+        ],
+        "duration": 78,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/django-fundamentals-update",
+        "title": "Django Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reindert-Jan Ekker"
+        ],
+        "duration": 222,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/django-angularjs-web-development",
+        "title": "Web Development with Django and AngularJS",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reindert-Jan Ekker"
+        ],
+        "duration": 221,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/django-getting-started",
+        "title": "Django: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reindert-Jan Ekker"
+        ],
+        "duration": 153,
+        "type": "course"
+      }
+    ],
+    "documentation": [
+      {
+        "url": "https://docs.djangoproject.com/",
+        "title": "Django Documentation",
+        "type": "documentation"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/rHux0gMZ3Eg",
+        "title": "Python Django Tutorial for Beginners",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 63,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PtQiiknWUcI",
+        "title": "Python Django 7 Hour Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 431,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ZxMB6Njs3ck",
+        "title": "Learn Django by Building an Online Marketplace – Python Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 144,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/F5mRW0jo-U4",
+        "title": "Python Django Web Framework - Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 226,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/t_p4ZyAYyaY",
+        "title": "What is Django?",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-kQkZp-j9PNyKq7Yw5VYjq9",
+        "title": "Python Django Tutorials",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 196,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/t10QcFx7d5k",
+        "title": "Django Project – Code a CRM App Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 144,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/sPZeuiViku8",
+        "title": "What Is Django And How It Works? | Django Rest Framework Python | Django Tutorial | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/EEiqGjCNLRs",
+        "title": "Django QuickStart Web Application for Beginners",
+        "authors": [
+          "Python Simplified"
+        ],
+        "duration": 24,
+        "type": "video"
+      }
+    ]
   }
 }
