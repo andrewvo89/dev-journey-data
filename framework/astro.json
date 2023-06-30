@@ -121,16 +121,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://astro.build/blog/",
         "title": "Astro Blog",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://docs.astro.build/en/getting-started/",
         "title": "Astro Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

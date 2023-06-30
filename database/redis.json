@@ -279,11 +279,11 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://redis.io/docs/",
         "title": "Redis Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

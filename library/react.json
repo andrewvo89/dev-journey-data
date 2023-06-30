@@ -280,16 +280,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://react.dev/",
         "title": "React Documentation",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://legacy.reactjs.org/",
         "title": "Legacy React Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

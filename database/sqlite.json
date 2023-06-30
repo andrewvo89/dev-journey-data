@@ -236,16 +236,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://www.sqlitetutorial.net/",
         "title": "SQLite Tutorial - An Easy Way to Master SQLite Fast",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://www.sqlite.org/docs.html",
         "title": "SQLite Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

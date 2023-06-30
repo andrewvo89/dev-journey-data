@@ -197,31 +197,31 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://firebase.google.com/docs/firestore",
         "title": "Cloud Firestore  |  Google Cloud",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://cloud.google.com/firestore/docs",
         "title": "Cloud Firestore Documentation  |  Google Cloud",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://googleapis.dev/nodejs/firestore/latest/Firestore.html",
         "title": "Class: Firestore  |  Google Cloud Node.js",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://firebase.flutter.dev/docs/firestore/usage/",
         "title": "Usage  |  FlutterFire",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://rnfirebase.io/firestore/usage",
         "title": "Firestore Usage | React Native Firebase",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

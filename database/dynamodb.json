@@ -253,21 +253,21 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide",
         "title": "Amazon DynamoDB Developer Guide",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://docs.aws.amazon.com/amazondynamodb/latest/APIReference",
         "title": "Amazon DynamoDB API Reference",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/CheatSheet.html",
         "title": "Cheat sheet for DynamoDB",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

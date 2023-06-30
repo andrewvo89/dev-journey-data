@@ -349,16 +349,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://www.elastic.co/guide/index.html",
         "title": "Elastic Docs",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html",
         "title": "Elasticsearch Reference [7.15]",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

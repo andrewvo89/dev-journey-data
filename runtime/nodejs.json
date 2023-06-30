@@ -363,16 +363,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://nodejs.org/en/docs/",
         "title": "Node.js Documentation",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://nodejs.org/api/",
         "title": "Node.js API Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

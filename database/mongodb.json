@@ -552,16 +552,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://learn.mongodb.com/",
         "title": "MongoDB University",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://www.mongodb.com/docs/",
         "title": "MongoDB Documentation",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [

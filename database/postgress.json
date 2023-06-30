@@ -328,16 +328,16 @@
         "type": "course"
       }
     ],
-    "documentation": [
+    "other": [
       {
         "url": "https://www.postgresql.org/docs/",
         "title": "PostgreSQL: Documentation",
-        "type": "documentation"
+        "type": "other"
       },
       {
         "url": "https://wiki.postgresql.org/wiki/Main_Page",
         "title": "PostgreSQL wiki",
-        "type": "documentation"
+        "type": "other"
       }
     ],
     "videos": [
