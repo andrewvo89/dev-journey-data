@@ -1,6 +1,6 @@
 {
   "title": "Electron",
-  "description": "",
+  "description": "Electron is an open-source framework developed and maintained by GitHub. It allows for the development of desktop GUI applications using web technologies: it combines the Chromium rendering engine and the Node.js runtime to allow for the development of applications using JavaScript, HTML, and CSS. This means that you can create a desktop application for OS X, Windows, and Linux with a single codebase.\nElectron provides a rich set of APIs that handle the intricacies of talking to different operating systems, allowing developers to focus on the core functionality of their application. With Electron, applications are packaged and run in a standalone executable, allowing users to install and use them like any other desktop application. Notable applications built with Electron include Atom, VS Code, and Slack.\nPlease note that while Electron has many benefits, it is often critiqued for its high memory usage and slow performance compared to native applications. This is because each Electron app includes a complete copy of Chromium, leading to larger application size and greater resource consumption. However, the ease of development and cross-platform compatibility often outweigh these downsides for many developers.",
   "dependencies": [
     "field/desktop_development",
     "language/javascript"
