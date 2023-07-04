@@ -1,15 +1,371 @@
 {
   "title": "Ionic",
-  "description": "",
+  "description": "Ionic Framework is an open-source UI toolkit and platform for building high-quality, cross-platform mobile and web applications. Developed and maintained by Max Lynch, Ben Sperry, and Adam Bradley of Drifty Co., Ionic was first released in 2013. The framework utilizes web technologies such as HTML, CSS, and JavaScript to create apps that can run on various platforms including iOS, Android, and the web.\nOne of the key features of Ionic is that it provides a rich set of pre-designed UI components and tools that help developers to quickly build visually appealing and functional apps. It allows for the development of apps with a single codebase, which can be deployed across multiple platforms, thus saving time and resources compared to developing separate applications for each platform.\nIonic integrates seamlessly with popular frameworks like Angular, React, and Vue.js, making it a versatile option for developers familiar with these technologies. It also has a powerful CLI (Command Line Interface) which aids in creating, building, and deploying applications efficiently.\nIn addition, Ionic embraces the capabilities of modern web browsers, leveraging Web Components, Progressive Web Apps (PWA) features, and other modern web APIs, to deliver a near-native experience across different platforms.\nIonic is widely used in the developer community for its ease of use, efficiency, and the ability to create high-performance applications with a consistent look and feel across different devices.",
   "dependencies": [
     "field/mobile_development",
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://javascript.plainenglish.io/i-replaced-my-native-ios-app-with-a-cross-platform-web-app-and-no-one-noticed-1653901ce244",
+        "title": "I Replaced My Native iOS App with a Cross-Platform Web App and No One Noticed",
+        "authors": [
+          "Chris Nielsen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@ankushaggarwal/ionic-vs-react-native-3eb62f8943f8",
+        "title": "Ionic vs React Native",
+        "authors": [
+          "Ankush Aggarwal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/react-id/ionic-framework-hybrid-app-vs-react-native-4facdd93f690",
+        "title": "Ionic Framework vs React Native",
+        "authors": [
+          "Sonny Lazuardi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/passing-data-between-pages-in-an-ionic-application-129b387c93b8",
+        "title": "Passing Data Between Pages in an Ionic Application",
+        "authors": [
+          "Aman Mittal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.openreplay.com/bulding-a-mobile-app-with-react-and-ionic/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://mhamri.com/why-i-regret-using-ionic-for-app-development-c8b21b88d83a",
+        "title": "Why I regret using Ionic for app development",
+        "authors": [
+          "Mohammad Hossein Amri"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/how-to-build-your-first-ionic-4-app-with-api-calls-f6ea747dc17a/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Ionic-Create-awesome-Android-Desktop/dp/3945102588",
+        "title": "Ionic 6: Create awesome apps for iOS, Android, Desktop and Web",
+        "authors": [
+          "Andreas Dormann"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/dp/148422616X",
+        "title": "Learn Ionic 2: Develop Multi-platform Mobile Apps",
+        "authors": [
+          "Joyce Justin",
+          "Joseph Jude"
+        ],
+        "pages": 105,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/ionic-in-action",
+        "title": "Ionic in Action",
+        "authors": [
+          "Jeremy Wilken"
+        ],
+        "pages": 280,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/mobile-app-development/9781491998113/",
+        "title": "Mobile App Development with Ionic, Revised Edition",
+        "authors": [
+          "Chris Griffith"
+        ],
+        "pages": 292,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/getting-started-with-ionic/9781784390570",
+        "title": "Getting Started with Ionic",
+        "authors": [
+          "Rahat Khanna"
+        ],
+        "pages": 168,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hybrid-mobile-development-with-ionic/9781785286056",
+        "title": "Hybrid Mobile Development with Ionic",
+        "authors": [
+          "Gaurav Saini"
+        ],
+        "pages": 242,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/ionic-2-cookbook-second-edition/9781786465962",
+        "title": "Ionic 2 Cookbook - Second Edition",
+        "authors": [
+          "Hoc Phan"
+        ],
+        "pages": 320,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/ionic-cookbook-third-edition/9781788623230",
+        "title": "Ionic Cookbook - Third Edition",
+        "authors": [
+          "Indermohan Singh"
+        ],
+        "pages": 390,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/ionic-cookbook/9781785287978",
+        "title": "Ionic Cookbook",
+        "authors": [
+          "Hoc Phan"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/ionic-framework-by-example/9781785282720",
+        "title": "Ionic Framework By Example",
+        "authors": [
+          "Sani Yusuf"
+        ],
+        "pages": 158,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-ionic-second-edition/9781786466051",
+        "title": "Learning Ionic - Second Edition",
+        "authors": [
+          "Arvind Ravulavaru"
+        ],
+        "pages": 378,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-ionic/9781783552603",
+        "title": "Learning Ionic",
+        "authors": [
+          "Arvind Ravulavaru"
+        ],
+        "pages": 388,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/ionic-2-the-practical-guide-to-building-ios-android-apps/",
+        "title": "Ionic - Build iOS, Android & Web Apps with Ionic & Angular",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1225,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-ionic-3-from-scratch/",
+        "title": "Learn Ionic 3 From Scratch",
+        "platform": "Udemy",
+        "authors": [
+          "Paul Halliday (BSc Hons)"
+        ],
+        "duration": 754,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/ionic-react/",
+        "title": "Ionic React: Cross-Platform Mobile Development with Ionic",
+        "platform": "Udemy",
+        "authors": [
+          "Mirko Nasato"
+        ],
+        "duration": 574,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/ionic-basics/",
+        "title": "Ionic Basics",
+        "platform": "Udemy",
+        "authors": [
+          "Radiant Training",
+          "Jason Taylor",
+          "Samarth Agarwal"
+        ],
+        "duration": 148,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/ionic-4-0-essential-training",
+        "title": "Ionic 4.0 Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Sani Yusuf"
+        ],
+        "duration": 304,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/ionic-4-0-deploying-ionic-apps",
+        "title": "Ionic 4.0 : Deploying Ionic Apps",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Sani Yusuf"
+        ],
+        "duration": 136,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/ionic-6-big-picture",
+        "title": "Ionic 6: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reggie Dawson"
+        ],
+        "duration": 66,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/ionic-6-fundamentals",
+        "title": "Ionic 6 Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reggie Dawson"
+        ],
+        "duration": 139,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/mobile-apps-ionic-angular",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://fireship.io/courses/ionic/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://ionicacademy.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://ionicframework.com/docs/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://go.ionic.io/hybrid-vs-native-guide",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://ionic.io/blog/tag/framework",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLYxzS__5yYQljbuGjaeugpqs9U07gS5P5",
+        "title": "Ionic Framework Tutorials",
+        "authors": [
+          "codedamn"
+        ],
+        "duration": 196,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLlyAM-8-I7S9iNcZRfP4SQJhm4Mw5q5ku",
+        "title": "Ionic Tutorial",
+        "authors": [
+          "IT with Paulo Alves"
+        ],
+        "duration": 359,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/34fDUKaJBtw",
+        "title": "Ionic 4: Should you Build a Hybrid App?",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/AvbuIRg8_Jg",
+        "title": "Ionic Framework 4 - Full Tutorial - iOS / Android App Development",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 179,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/K7ghUiXLef8",
+        "title": "Ionic & Capacitor for Building Native Mobile Apps – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 191,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mQ4zmFy4d7Y",
+        "title": "Ionic & Vue.js - Full Tutorial (Build a Complete App)",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 135,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/r2ga-iXS5i4",
+        "title": "Ionic 4 & Angular Tutorial For Beginners - Crash Course",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 235,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/y_vwf15eADs",
+        "title": "How to Build Your First Ionic 6 App with API Calls",
+        "authors": [
+          "Simon Grimm"
+        ],
+        "duration": 58,
+        "type": "video"
+      }
+    ]
   }
 }

@@ -1,14 +1,595 @@
 {
   "title": "Flutter",
-  "description": "",
+  "description": "Flutter is an open-source UI software development kit (SDK) developed by Google, aimed at enabling developers to create high-performance applications across multiple platforms - including Android, iOS, web, and desktop - using a single codebase. Initially released in 2017, Flutter quickly gained popularity among developers due to its focus on high-fidelity rendering, expressive UIs, and its ability to speed up the development process.\nOne of Flutter's standout features is its rendering engine. Unlike some other cross-platform solutions, which rely on native UI components, Flutter has its own rendering engine, built using C/C++, that draws UIs directly to the screen. This ensures a consistent look and feel across platforms and allows for highly-customizable and animated UI components. Moreover, because Flutter compiles to native code, performance is generally on par with traditional, platform-specific applications.\nFlutter uses the Dart programming language, also developed by Google. Dart is object-oriented and strongly typed, and it’s known for its performance and scalability. One of the reasons Dart was chosen for Flutter is its support for \"just-in-time\" (JIT) compilation, which enables the hot reload feature in Flutter. Hot reload allows developers to see changes made to the code almost instantaneously without losing the state of the app. This is particularly useful during the development phase as it significantly speeds up the iteration process.\nAnother strength of Flutter is its widget-based architecture. Everything in Flutter, including layout, text, and images, is a widget. This makes building UIs in Flutter similar to building a Lego set; you create small, reusable pieces (widgets) and combine them to create a fully functional app. There are a plethora of widgets available out-of-the-box, and the community keeps creating new ones.\nFurthermore, the Flutter community is vibrant and growing. There is an increasing number of libraries and tools available that extend Flutter’s capabilities. Additionally, Flutter has been adopted by various companies for building consumer-facing apps, and this trend seems to be growing.\nIn conclusion, Flutter is an excellent choice for developers who want to create beautiful, high-performance applications without the overhead of maintaining multiple codebases for different platforms. Its rich set of features and tools, coupled with a strong community, make it a competitive and viable option for app development.",
   "dependencies": [
     "language/dart"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e",
+        "title": "Flutter Layout Cheat Sheet",
+        "authors": [
+          "Tomek Polański"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade",
+        "title": "Learning Flutter’s new Navigation and Routing system",
+        "authors": [
+          "John Ryan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/a-deep-dive-into-flutter-textfields-f0e676aaab7a",
+        "title": "A Deep Dive Into Flutter TextFields",
+        "authors": [
+          "Deven Joshi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/simple-ways-to-pass-to-and-share-data-with-widgets-pages-f8988534bd5b",
+        "title": "Simple ways to pass to and share data with widgets/pages",
+        "authors": [
+          "Francesco Mineo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/jlouage/flutter-row-column-cheat-sheet-78c38d242041",
+        "title": "Flutter - Row/Column Cheat Sheet",
+        "authors": [
+          "Julien Louage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/flutter-listview-and-scrollphysics-a-detailed-look-7f0912df2754",
+        "title": "Flutter ListView and ScrollPhysics: A Detailed Look",
+        "authors": [
+          "Deven Joshi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9",
+        "title": "Flutter: the good, the bad and the ugly",
+        "authors": [
+          "Marco Bellinaso"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter/introducing-flutter-3-5eb69151622f",
+        "title": "Introducing Flutter 3",
+        "authors": [
+          "Tim Sneath"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/jlouage/container-de5b0d3ad184",
+        "title": "Flutter — Container Cheat Sheet",
+        "authors": [
+          "Julien Louage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/why-flutter-uses-dart-dd635a054ebf",
+        "title": "Why Flutter Uses Dart",
+        "authors": [
+          "Wm Leler"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/flutter-is-about-to-win-over-the-web-be0a205af03d",
+        "title": "Flutter Is About To Win Over the Web",
+        "authors": [
+          "Lew C"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/developing-for-multiple-screen-sizes-and-orientations-in-flutter-fragments-in-flutter-a4c51b849434",
+        "title": "Developing for Multiple Screen Sizes and Orientations in Flutter (Fragments in Flutter)",
+        "authors": [
+          "Deven Joshi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/flutter-for-desktop-create-and-run-a-desktop-application-ebeb1604f1e0",
+        "title": "Flutter for Desktop: Create and Run a Desktop Application",
+        "authors": [
+          "Ayush Shekhar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/jlouage/flutter-boxdecoration-cheat-sheet-72cedaa1ba20",
+        "title": "Flutter — BoxDecoration Cheat Sheet",
+        "authors": [
+          "Julien Louage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/flutter-vs-react-native-vs-native-deep-performance-comparison-990b90c11433",
+        "title": "Flutter vs Native vs React Native: Deep Performance Comparison",
+        "authors": [
+          "inVerita"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/flutter-community/using-sqlite-in-flutter-187c1a82e8b",
+        "title": "Using SQLite in Flutter",
+        "authors": [
+          "Raouf Rahiche"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://surf.dev/what-you-should-know-about-flutter/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.packtpub.com/product/flutter-cookbook-second-edition/9781803245430",
+        "title": "Flutter Cookbook - Second Edition",
+        "authors": [
+          "Simone Alessandria"
+        ],
+        "pages": 712,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flutter-for-beginners-second-edition/9781800565999",
+        "title": "Flutter for Beginners - Second Edition",
+        "authors": [
+          "Thomas Bailey",
+          "Alessandro Biessek"
+        ],
+        "pages": 370,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/taking-flutter-to-the-web/9781801817714",
+        "title": "Taking Flutter to the Web",
+        "authors": [
+          "Damodar Lohani"
+        ],
+        "pages": 206,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/managing-state-in-flutter-pragmatically/9781801070775",
+        "title": "Managing State in Flutter Pragmatically",
+        "authors": [
+          "Waleed Arshad"
+        ],
+        "pages": 246,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flutter-projects/9781838647773",
+        "title": "Flutter Projects",
+        "authors": [
+          "Simone Alessandria"
+        ],
+        "pages": 490,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flutter-for-beginners/9781788996082",
+        "title": "Flutter for Beginners",
+        "authors": [
+          "Alessandro Biessek"
+        ],
+        "pages": 512,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/cross-platform-uis-with-flutter/9781801810494",
+        "title": "Cross-Platform UIs with Flutter",
+        "authors": [
+          "Ryan Edge",
+          "Alberto Miola"
+        ],
+        "pages": 260,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-games-with-flutter/9781801816984",
+        "title": "Building Games with Flutter",
+        "authors": [
+          "Paul Teale"
+        ],
+        "pages": 224,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mobile-deep-learning-with-tensorflow-lite-ml-kit-and-flutter/9781789611212",
+        "title": "Mobile Deep Learning with TensorFlow Lite, ML Kit and Flutter",
+        "authors": [
+          "Anubhav Singh",
+          "Rimjhim Bhadani"
+        ],
+        "pages": 380,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/flutter-in-action",
+        "title": "Flutter in Action",
+        "authors": [],
+        "pages": 368,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/flutter-and-dart/9781098119508/",
+        "title": "Flutter and Dart Cookbook",
+        "authors": [
+          "Richard Rose"
+        ],
+        "pages": 200,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learn-flutter-and/9781789951998/",
+        "title": "Learn Flutter and Dart to Build iOS and Android Apps (2023)",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/dp/1950325768",
+        "title": "Real-World Flutter by Tutorials (First Edition): Professional App Development With Flutter",
+        "authors": [
+          "raywenderlich Tutorial Team",
+          "Edson Bueno",
+          "Vid Palčar"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Flutter-Complete-Reference-2-0-reference/dp/B0C5P7VXBL",
+        "title": "Flutter Complete Reference 2.0: The ultimate reference for Dart and Flutter",
+        "authors": [
+          "Alberto Miola"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Flutter-Dummies-Barry-Burd/dp/1119612586",
+        "title": "Flutter For Dummies",
+        "authors": [
+          "Burd"
+        ],
+        "pages": 386,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://codewithandrea.com/courses/flutter-animations-masterclass/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://codewithandrea.com/courses/flutter-firebase-masterclass/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://codewithandrea.com/courses/flutter-foundations/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://fireship.io/courses/flutter-firebase/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://fluttercrashcourse.seenickcode.com/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/googlecloud-getting-started-with-flutter-development-guo1q",
+        "title": "Getting started with Flutter Development",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.kodeco.com/flutter/paths/flutter-fundamentals",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/flutter-essential-training-build-for-multiple-platforms",
+        "title": "Flutter Essential Training: Build for Multiple Platforms",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Pooja Bhaumik"
+        ],
+        "duration": 464,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/flutter-big-picture",
+        "title": "Flutter 2: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Simone Alessandria"
+        ],
+        "duration": 74,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/flutter-getting-started",
+        "title": "Flutter: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Simone Alessandria"
+        ],
+        "duration": 166,
+        "type": "course"
+      },
+      {
+        "url": "https://www.simplilearn.com/free-flutter-foundation-course-skillup",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/",
+        "title": "Dart and Flutter: The Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 1874,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-flutter-leicht-gemacht/",
+        "title": "Dart & Flutter - Zero to Mastery [2023] + Clean Architecture",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Berktold"
+        ],
+        "duration": 2437,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+        "title": "The Complete Flutter Development Bootcamp with Dart",
+        "platform": "Udemy",
+        "authors": [
+          "Dr. Angela Yu"
+        ],
+        "duration": 1726,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/",
+        "title": "Flutter & Dart - The Complete Flutter App Development Course",
+        "platform": "Udemy",
+        "authors": [
+          "Paulo Dichone | Software Engineer, AWS Cloud Practitioner & Instructor"
+        ],
+        "duration": 1548,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/flutter-made-easy-zero-to-mastery/?referralCode=CCBFCD16CC71F359EE3C",
+        "title": "Dart & Flutter - Zero to Mastery [2023] + Clean Architecture",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Berktold",
+          "Max Steffen"
+        ],
+        "duration": 2152,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/flutters-beginners-course/",
+        "title": "Flutter - Beginners Course",
+        "platform": "Udemy",
+        "authors": [
+          "Bryan Cairns"
+        ],
+        "duration": 136,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+        "title": "Flutter & Dart - The Complete Guide [2023 Edition]",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1799,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://blog.flutterflow.io/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://codewithandrea.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://devglan.com/programming/flutter-article-feeds",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://docs.flutter.dev/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://flutterbyexample.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://fluttergems.dev/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.kodeco.com/flutter/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@flutterdev",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
+        "title": "Flutter Tutorial for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 347,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/1gDhl4leEzA",
+        "title": "Flutter Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/1xipg02Wu8s",
+        "title": "Flutter Basic Training - 12 Minute Bootcamp",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/3XipSv2CWiQ",
+        "title": "Flutter Tutorial For Dummies",
+        "authors": [
+          "Flutter Mapp"
+        ],
+        "duration": 130,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/C-fKAzdTrLU",
+        "title": "Flutter Tutorial For Beginners In 1 Hour",
+        "authors": [
+          "Flutter Mapp"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/CD1Y2DmL5JM",
+        "title": "Flutter Tutorial For Beginners in 3 Hours",
+        "authors": [
+          "Flutter Mapp"
+        ],
+        "duration": 196,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/VPvVD8t02U8",
+        "title": "Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 2200,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lHhRhPV--G0",
+        "title": "Flutter in 100 seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ly0hAtV7EBg",
+        "title": "Flutter Tutorial For Beginners #1 - Setup For Flutter Mobile App Development",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 26,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/x0uinJvhNxI",
+        "title": "Flutter Crash Course for Beginners - Build a Flutter App with Google's Flutter & Dart",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 343,
+        "type": "video"
+      }
+    ]
   }
 }

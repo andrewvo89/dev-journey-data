@@ -1,14 +1,398 @@
 {
   "title": "Flask",
-  "description": "",
+  "description": "Flask is an open-source micro web framework written in Python, developed with the intention of providing a simple and lightweight solution for web development. The term \"micro\" in its description doesn't imply that Flask is limited in functionality, but rather refers to the minimalistic core that is easily extendable. Introduced in 2010 by Armin Ronacher, Flask quickly gained traction among developers owing to its ease of use and flexibility.\nAt its core, Flask is simple and unassuming. It provides the basic tools needed to build a web application, including routing, request handling, and response building. Its built-in development server and debugging tools make the development process seamless and efficient. Additionally, Flask incorporates a templating engine called Jinja2, which allows for the dynamic rendering of HTML pages. This integration makes it easy to create sophisticated web pages with variable content.\nOne of the strengths of Flask is its modular design. The framework does not impose a specific structure or components, allowing developers to choose the tools and libraries that best fit their project. This makes Flask incredibly versatile and suitable for a wide range of applications, from simple single-page applications to more complex web services.\nMoreover, Flask’s community has developed a rich ecosystem of extensions that can be easily integrated into your application. These extensions provide additional functionalities such as database integration, form validation, authentication, and much more. This way, while Flask itself remains lightweight, developers can add as many functionalities as required, ensuring that the application remains as streamlined or as feature-rich as needed.\nWhile Flask is often the go-to choice for small to medium-sized applications, it's also used in production by several large-scale projects and companies. It’s especially popular among startups and small teams who need to quickly develop and iterate on web applications with a small resource footprint.\nIn summary, Flask is an excellent choice for web development, offering a blend of simplicity, flexibility, and a powerful community of developers and extensions. Whether you're a beginner or an experienced developer, Flask allows you to build web applications efficiently without the constraints that can be associated with larger frameworks.",
   "dependencies": [
     "language/python"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://towardsdatascience.com/python-webserver-with-flask-and-raspberry-pi-398423cc6f5d",
+        "title": "Python WebServer With Flask and Raspberry Pi",
+        "authors": [
+          "Marcelo Rovai"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@ssola/building-microservices-with-python-part-i-5240a8dcc2fb",
+        "title": "Building Microservices with Python , Part I",
+        "authors": [
+          "Sergio Sola"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-1-fae9ff66a706",
+        "title": "Build Simple Restful Api With Python and Flask Part 1",
+        "authors": [
+          "Mukhammad Ginanjar Azie"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f",
+        "title": "Working with APIs using Flask, Flask RESTPlus and Swagger UI",
+        "authors": [
+          "Karan Bhanot"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/building-your-first-chat-application-using-flask-in-7-minutes-f98de4adfa5d",
+        "title": "Building your first Chat Application using Flask in 7 minutes",
+        "authors": [
+          "Samhita Alla"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@rodkey/deploying-a-flask-application-on-aws-a72daba6bb80",
+        "title": "Deploying a Flask application on AWS",
+        "authors": [
+          "Scott Rodkey"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/jwt-authorization-in-flask-c63c1acf4eeb",
+        "title": "JWT authorization in Flask",
+        "authors": [
+          "Oleg Agapov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/build-deploy-a-react-flask-app-47a89a5d17d9",
+        "title": "Build & Deploy a React + Flask App",
+        "authors": [
+          "Ran (Reine)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532",
+        "title": "Full-stack single page application with Vue.js and Flask",
+        "authors": [
+          "Oleg Agapov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4",
+        "title": "How to Easily Deploy Machine Learning Models Using Flask",
+        "authors": [
+          "Abhinav Sagar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@onejohi/building-a-simple-rest-api-with-python-and-flask-b404371dc699",
+        "title": "Building a simple REST API with Python and Flask",
+        "authors": [
+          "Onejohi"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.packtpub.com/product/building-web-applications-with-flask/9781784396152",
+        "title": "Building Web Applications with Flask",
+        "authors": [
+          "Italo M Campelo Maia",
+          "Jack Stouffer",
+          "Gareth Dwyer\nand 1 more"
+        ],
+        "pages": 160,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-flask-framework/9781783983360",
+        "title": "Learning Flask Framework",
+        "authors": [
+          "Charles Leifer",
+          "Matthew Copperwaite"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-flask/9781784393656",
+        "title": "Mastering Flask",
+        "authors": [
+          "Jack Stouffer"
+        ],
+        "pages": 288,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flask-framework-cookbook-second-edition/9781789951295",
+        "title": "Flask Framework Cookbook - Second Edition",
+        "authors": [
+          "Shalabh Aggarwal"
+        ],
+        "pages": 302,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-flask-web-development-second-edition/9781788995405",
+        "title": "Mastering Flask Web Development - Second Edition",
+        "authors": [
+          "Daniel Gaspar",
+          "Jack Stouffer"
+        ],
+        "pages": 332,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flask-by-example/9781785286933",
+        "title": "Flask By Example",
+        "authors": [
+          "Gareth Dwyer"
+        ],
+        "pages": 276,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/flask-framework-cookbook/9781783983407",
+        "title": "Flask Framework Cookbook",
+        "authors": [
+          "Shalabh Aggarwal"
+        ],
+        "pages": 258,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/flask-web-development/9781491991725/",
+        "title": "Flask Web Development, 2nd Edition",
+        "authors": [
+          "Miguel Grinberg"
+        ],
+        "pages": 316,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.coursera.org/projects/python-flask",
+        "title": "Create Your First Web App with Python and Flask",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/googlecloud-deploying-a-python-flask-web-application-to-app-engine-flexibl-2w3lz",
+        "title": "Deploying a Python Flask Web Application to App Engine Flexible",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/flask-for-beginners-creating-an-application",
+        "title": "Flask for Beginners: Creating an Application",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/web-development-in-flask-build-your-first-website",
+        "title": "Web Development in Flask: Build Your First Website",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-build-a-saas-app-with-flask-course/",
+        "title": "The Build a SAAS App with Flask Course",
+        "platform": "Udemy",
+        "authors": [
+          "Nick Janetakis"
+        ],
+        "duration": 634,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/rest-api-flask-and-python/",
+        "title": "Build REST APIs with Flask and Python (The Complete Course)",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Salvatierra",
+          "Teclado by Jose Salvatierra"
+        ],
+        "duration": 721,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-and-flask-bootcamp-create-websites-using-flask/",
+        "title": "Python and Flask Bootcamp (Create Websites using Flask!)",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1199,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/flask-framework-complete-course-for-beginners/",
+        "title": "Python And Flask Framework Complete Course",
+        "platform": "Udemy",
+        "authors": [
+          "Horizon Tech"
+        ],
+        "duration": 722,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-and-flask-only-demonstration-course/",
+        "title": "Python And Flask  Demonstrations Practice Course",
+        "platform": "Udemy",
+        "authors": [
+          "Horizon Tech"
+        ],
+        "duration": 484,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-flask-beginners/",
+        "title": "Python Flask for Beginners: Build a CRUD web app using Flask",
+        "platform": "Udemy",
+        "authors": [
+          "Febin George"
+        ],
+        "duration": 176,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-flask",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/flask-essential-training",
+        "title": "Flask Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Nick Walter"
+        ],
+        "duration": 126,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/flask-develop-web-applications-in-python",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/flask-getting-started",
+        "title": "Flask: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reindert-Jan Ekker"
+        ],
+        "duration": 124,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://flask.palletsprojects.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/Z1RJmh_OqeA",
+        "title": "Learn Flask for Python - Full Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 47,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH",
+        "title": "Flask Tutorials",
+        "authors": [
+          "Corey Schafer"
+        ],
+        "duration": 457,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX",
+        "title": "Flask Tutorials",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 144,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5aYpkLfkgRE",
+        "title": "build a meme Python website (Flask Tutorial for Beginners)",
+        "authors": [
+          "NetworkChuck"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dam0GPOAvVI",
+        "title": "Python Website Full Tutorial - Flask, Authentication, Databases & More",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 137,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/yBDHkveJUf4",
+        "title": "Web Development with Python Tutorial – Flask & Dynamic Database-Driven Web Apps",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 279,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Qr4QMBUPxWo",
+        "title": "Flask Course - Python Web Application Development",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 382,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/6plVs_ytIH8",
+        "title": "Simple Web App with Flask and Heroku - Python GUI for Beginners",
+        "authors": [
+          "Python Simplified"
+        ],
+        "duration": 26,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/kng-mJJby8g",
+        "title": "Make A Python Website As Fast As Possible!",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 23,
+        "type": "video"
+      }
+    ]
   }
 }
