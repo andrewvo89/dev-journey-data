@@ -1,14 +1,434 @@
 {
   "title": "Next.js",
-  "description": "",
+  "description": "Next.js is an open-source React framework developed by Vercel, known for its performance and flexibility in building web applications. It was introduced to enhance the capabilities of React by providing server-side rendering (SSR) and static site generation (SSG) options, which can significantly improve performance and SEO.\nA defining feature of Next.js is its file-based routing system. By simply creating React components inside a specific 'pages' directory, Next.js automatically turns these components into routable pages. This approach makes routing both intuitive and efficient.\nNext.js also excels in data fetching strategies, allowing developers to choose between server-side rendering (SSR), static site generation (SSG), or client-side rendering (CSR) depending on their use case. This flexibility is highly valuable for optimizing performance and user experience.\nAnother highlight is the 'API Routes' feature, which enables developers to easily create API endpoints within a Next.js app. This means you can essentially build a full-stack application with Next.js alone, handling both the front-end and back-end logic.\nNext.js comes with built-in support for CSS and Sass, and it can also be configured to work with any other styling solution like styled-components or Tailwind CSS. This makes styling in Next.js versatile and adaptable to different project requirements.\nOne more notable aspect is the excellent development experience provided by Next.js. It features fast hot-module replacement (HMR), smart error handling, and built-in TypeScript support. Moreover, Next.js is optimized for production right out of the box, which means that applications are performant and scalable without the need for extensive configuration.\nCommunity and ecosystem support is strong for Next.js, with numerous plugins and examples available. Vercel, the company behind Next.js, also offers a cloud platform for deployment, which is highly optimized for Next.js applications.\nIn summary, Next.js is a powerful framework for building web applications with React, boasting an array of features like intuitive file-based routing, versatile data fetching strategies, API routes, and a stellar development experience. Its strong community and ecosystem make it an increasingly popular choice among developers.",
   "dependencies": [
     "library/react"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://adhithiravi.medium.com/what-are-server-components-and-client-components-in-react-18-and-next-js-13-6f869c0c66b0",
+        "title": "Understanding Server Components in React 18 and Next.js 13",
+        "authors": [
+          "Adhithi Ravichandran"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/upload-files-to-next-js-with-api-routes-839ce9f28430",
+        "title": "Upload Files to Next.js With API Routes",
+        "authors": [
+          "Robert S (codeBelt)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.bitsrc.io/remix-vs-next-js-a-detailed-comparison-6ff557f7b41f",
+        "title": "Remix vs. Next.js: A Detailed Comparison",
+        "authors": [
+          "Ravidu Perera"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.bitsrc.io/why-next-js-13-is-a-game-changer-2167658d9de2",
+        "title": "Why Next.js 13 is a Game-Changer",
+        "authors": [
+          "Shamim Ahmed"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.devgenius.io/advanced-next-js-concepts-8439a8752597",
+        "title": "Advanced Next.js Concepts",
+        "authors": [
+          "AllDevUtils"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://frontend-digest.com/environment-variables-in-next-js-9a272f0bf655",
+        "title": "Environment Variables in Next.js",
+        "authors": [
+          "Dominik Ferber"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://frontend-digest.com/how-to-import-svgs-into-nextjs-8ec6100e613f",
+        "title": "How To Import SVGs into NextJS",
+        "authors": [
+          "Malcolm"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://frontend-digest.com/whats-the-difference-between-nextjs-and-create-react-app-11b55650a612",
+        "title": "What’s The Difference Between NextJS and Create-React-App?",
+        "authors": [
+          "Malcolm"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@atomics-software/frontend-architecture-for-insane-scalability-%EF%B8%8F-a2081434295c",
+        "title": "Frontend Architecture for Insane Scalability ⚠️",
+        "authors": [
+          "Atomics"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@sushinpv/nextjs-application-architecture-for-best-performance-8f1d22e33ba1",
+        "title": "NextJs Application Architecture for best performance",
+        "authors": [
+          "Sushin Pv"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/eincode/next-js-vs-gatsby-js-frameworks-all-you-need-to-know-4147f36ed915",
+        "title": "Next.JS vs. Gatsby.JS Frameworks- All You Need To Know",
+        "authors": [
+          "Filip Jerga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/fetching-and-hydrating-a-next-js-app-using-getserversideprops-and-getstaticprops-65bfe42afed8",
+        "title": "Fetching and hydrating a Next.JS app using `getServerSideProps` and `getStaticProps`",
+        "authors": [
+          "Pablo A. Del Valle H."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/server-side-rendering-styled-components-with-nextjs-1db1353e915e",
+        "title": "Server side rendering Styled-Components with NextJS",
+        "authors": [
+          "Jessie W."
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Next-js-Cookbook-scalable-high-performance-scratch-ebook/dp/B0C5MVQR6R",
+        "title": "Next.js Cookbook: Learn how to build scalable and high-performance apps from scratch (English Edition)",
+        "authors": [
+          "Andrei Tazetdinov"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Next-js-Stack-Framework-Development-Course-ebook/dp/B0B97NCTXY",
+        "title": "Next.js, The Full Stack React JS Framework, Web Development Crash Course: Enterprise Web Development, and Full Stack JavaScript Development with ReactJS and NodeJS Server Side JavaScript",
+        "authors": [
+          "Neo D. Truman"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/NextJS-rendering-Different-methods-them-ebook/dp/B0C56GML8Y",
+        "title": "NextJS rendering: Different rendering methods with NextJS and how to use them",
+        "authors": [
+          "Kristijan Pajtasev"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/next-js-in-action-cx",
+        "title": "Next.js in Action",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/the-jamstack-book",
+        "title": "The Jamstack Book",
+        "authors": [],
+        "pages": 280,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/nextjs-quick-start-guide/9781788993661",
+        "title": "Next.js Quick Start Guide",
+        "authors": [
+          "Kirill Konshin"
+        ],
+        "pages": 164,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539",
+        "title": "React Application Architecture for Production",
+        "authors": [
+          "Alan Alickovic"
+        ],
+        "pages": 230,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/real-world-nextjs/9781801073493",
+        "title": "Real-World Next.js",
+        "authors": [
+          "Michele Riva"
+        ],
+        "pages": 366,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
+        "title": "Next.js & React - The Complete Guide (incl. Two Paths!)",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1506,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/nextjs-dev-to-deployment/",
+        "title": "Next.js Dev to Deployment",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 585,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-nextjs-13-bootcamp-the-complete-developer-guide/",
+        "title": "The Next.js 13 Bootcamp - The Complete Developer Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Laith Harb"
+        ],
+        "duration": 850,
+        "type": "course"
+      },
+      {
+        "url": "https://fireship.io/courses/nextjs/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-next-js/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/nextjs-13-fundamentals",
+        "title": "Next.js 13 Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Adhithi Ravichandran"
+        ],
+        "duration": 94,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/build-server-rendered-website-nextjs",
+        "title": "Build a Server Rendered Website with Next.js",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/next-js-v2/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/next-js-build-react-apps",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://egghead.io/q/next",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://nextjs.org/docs",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw",
+        "title": "Next.js Tutorial for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 83,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH",
+        "title": "Next.js Tutorial for Beginners",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 508,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/843nec-IvW0",
+        "title": "Next.js Full Course for Beginners | Nextjs 13 Tutorial | 7 Hours",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 424,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/8pzIuLFuv6U",
+        "title": "NextJS 13 Tutorial - Routing, Data Fetching, Server Components...",
+        "authors": [
+          "PedroTech"
+        ],
+        "duration": 37,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/986hztrfaSQhttps://youtu.be/KjY94sAKLlw",
+        "title": "Build and Deploy a Full Stack Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+        "authors": [
+          "JavaScript Mastery"
+        ],
+        "duration": 282,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/EYDOXzpTRvw",
+        "title": "Next.js App vs. Pages Router - Which One is Better?",
+        "authors": [
+          "Josh tried coding"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/NgayZAuTgwM",
+        "title": "Learn Next.js 13 With This One Project",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 30,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Sklc_fQBmcs",
+        "title": "Next.js in 100 Seconds // Plus Full Beginner's Tutorial",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/T63nY70eZF0",
+        "title": "Next.js 13 Crash Course | Learn How To Build Full Stack Apps!",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 58,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/VE8BkImUciY",
+        "title": "Next.js Full Tutorial for Beginners | Next.js 13 Full Stack App Using App Router",
+        "authors": [
+          "Lama Dev"
+        ],
+        "duration": 186,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Y6KDk5iyrYE",
+        "title": "Next.js 13 Crash Course | App Directory, React Server Components & More",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 83,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/__mSgDEOyv8",
+        "title": "Next.js 13 - The Basics",
+        "authors": [
+          "Beyond Fireship"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_w0Ikk4JY7U",
+        "title": "Next.js 13… this changes everything",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/gSSsZReIFRk",
+        "title": "Next.js App Router: Routing, Data Fetching, Caching",
+        "authors": [
+          "Vercel"
+        ],
+        "duration": 15,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mTz0GXj8NN0",
+        "title": "Next.js Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 70,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/pUNSHPyVryU",
+        "title": "Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS",
+        "authors": [
+          "JavaScript Mastery"
+        ],
+        "duration": 207,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/wm5gMKuwSYk",
+        "title": "Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework",
+        "authors": [
+          "JavaScript Mastery"
+        ],
+        "duration": 207,
+        "type": "video"
+      }
+    ]
   }
 }

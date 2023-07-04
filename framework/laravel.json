@@ -1,14 +1,379 @@
 {
   "title": "Laravel",
-  "description": "",
+  "description": "Laravel is a renowned PHP web application framework developed by Taylor Otwell in 2011. It's highly regarded for its elegant and expressive syntax, which makes coding enjoyable and maintainable. Laravel employs the Model-View-Controller (MVC) design pattern, facilitating a clear separation between user interface, business logic, and data management.\nOne of Laravel's core features is Eloquent ORM, which provides a simple ActiveRecord implementation for database interactions using an object-oriented syntax. In addition, Laravel includes the Blade templating engine, which is powerful and efficient, with shortcuts for common PHP structures.\nRouting in Laravel is both intuitive and flexible, with support for middleware to filter HTTP requests for authentication, logging, and security. The framework makes implementing authentication and authorization straightforward.\nLaravel’s Artisan command-line tool is notable, offering numerous commands for common tasks such as database migrations and test running. Database migrations allow for version control of the database structure, and Laravel also supports seeding to populate databases with sample data.\nBuilt with testing in mind, Laravel provides support for PHPUnit and offers helper methods for simulating user interactions. The framework has a vibrant community and ecosystem, with a wealth of packages, tutorials, and resources available.",
   "dependencies": [
     "language/php"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/laravel-news/the-simple-guide-to-deploy-laravel-5-application-on-shared-hosting-1a8d0aee923e",
+        "title": "The simple guide to deploy Laravel 5 application on shared hosting",
+        "authors": [
+          "Pete Houston"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/techcompose/create-rest-api-in-laravel-with-authentication-using-passport-133a1678a876",
+        "title": "Create REST API in Laravel with authentication using Passport",
+        "authors": [
+          "Urjit Rajgor"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@kamerk22/the-smart-way-to-handle-request-validation-in-laravel-5e8886279271",
+        "title": "The Smart Way To Handle Request Validation In Laravel 😎",
+        "authors": [
+          "Kashyap Merai | kamerk22"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@agavitalis/how-to-send-an-email-in-laravel-using-gmail-smtp-server-53d962f01a0c",
+        "title": "How to send an Email in Laravel using Gmail SMTP Server",
+        "authors": [
+          "Ogbonna Vitalis"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@mihaigeorge.c/web-rest-api-benchmark-on-a-real-life-application-ebb743a5d7a3",
+        "title": "Web REST API Benchmark on a Real Life Application",
+        "authors": [
+          "Mihai Cracan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@sagarmaheshwary31/laravel-multiple-guards-authentication-setup-and-login-2761564da986",
+        "title": "Laravel Multiple Guards Authentication: Setup and Login",
+        "authors": [
+          "Sagar Maheshwary"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@ardanirohman/laravel-%EF%B8%8F-visual-studio-code-debug-environment-65440274d3b0",
+        "title": "Visual Studio Code Environment For Laravel",
+        "authors": [
+          "Ardani Rohman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://adnanxteam.medium.com/how-to-use-laravel-with-socket-io-e7c7565cc19d",
+        "title": "How to use Laravel with Socket.IO",
+        "authors": [
+          "Adnan Sabanovic"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://buttercms.com/blog/laravel-blog-tutorial/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Beginning-PHP-Laravel-approach-Inventory/dp/B0863V38Y5",
+        "title": "Beginning PHP Laravel: Step to step approach to building an Inventory App",
+        "authors": [
+          "Oluwafemi Alofe"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Laravel-Update-PHP-Complete-CookBook/dp/B0BPKV33BT",
+        "title": "Laravel 9 (Update) PHP: A Complete Best Guide for Update Laravel 9: Laravel CookBook: Easy; Simple; Details; Coding; Step by Step;",
+        "authors": [
+          "Brendan Martin"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Laravel-9-x-PHP-Learning-Easiest/dp/B0B5KQRTZY",
+        "title": "Laravel 9.x | PHP Learning Laravel with Easiest Way: The book will teach you Laravel 9.x step by step.",
+        "authors": [
+          "Andy Turner"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Practical-Laravel-Develop-clean-applications/dp/B09S69MHRB",
+        "title": "Practical Laravel: Develop clean MVC web applications",
+        "authors": [
+          "Daniel Correa",
+          "Paola Vallejo"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/laravel-up/9781098153250/",
+        "title": "Laravel: Up & Running, 3rd Edition",
+        "authors": [
+          "Matt Stauffer"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/high-performance-with-laravel-octane/9781801819404",
+        "title": "High Performance with Laravel Octane",
+        "authors": [
+          "Roberto Butti"
+        ],
+        "pages": 204,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/laravel-5-essentials/9781785283017",
+        "title": "Laravel 5 Essentials",
+        "authors": [
+          "Raphael Saunier",
+          "Martin Bean"
+        ],
+        "pages": 144,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/laravel-5x-cookbook/9781786462084",
+        "title": "Laravel 5.x Cookbook",
+        "authors": [
+          "Terry Matula",
+          "Alfred Nutile"
+        ],
+        "pages": 402,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/laravel-application-development-cookbook/9781782162827",
+        "title": "Laravel Application Development Cookbook",
+        "authors": [
+          "Terry Matula"
+        ],
+        "pages": 272,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.linkedin.com/learning/advanced-laravel-22373805",
+        "title": "Advanced Laravel",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Shruti Balasa"
+        ],
+        "duration": 194,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/laravel-9-0-essential-training",
+        "title": "Laravel 9.0 Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Shruti Balasa"
+        ],
+        "duration": 172,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/laravel-php-framework-getting-started-models-data",
+        "title": "Getting Started with Laravel (PHP Framework) 7: Models and Data",
+        "platform": "Pluralsight",
+        "authors": [
+          "Max Schwarzmueller"
+        ],
+        "duration": 142,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/php-laravel-restful-web-services",
+        "title": "RESTful Web Services with PHP and Laravel 7",
+        "platform": "Pluralsight",
+        "authors": [
+          "Max Schwarzmueller"
+        ],
+        "duration": 186,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/laravel-6-framework/",
+        "title": "Laravel 9 A-Z For Beginner With Complete News Portal Website",
+        "platform": "Udemy",
+        "authors": [
+          "Kazi Ariyan"
+        ],
+        "duration": 2530,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/laravel-beginner-fundamentals/",
+        "title": "Mastering Laravel PHP for Beginners and Intermediate",
+        "platform": "Udemy",
+        "authors": [
+          "Piotr Jura | 45,000+ Enrollments"
+        ],
+        "duration": 3276,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/laravel-blog-development/",
+        "title": "Beginning Laravel (2023) - From Novice to Professional",
+        "platform": "Udemy",
+        "authors": [
+          "Eding Muhamad Saprudin",
+          "TutsPrime Online Education"
+        ],
+        "duration": 1962,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/master-laravel-6-with-vuejs-fullstack-development/",
+        "title": "Master Laravel, Vue 3 & Inertia Full Stack 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Piotr Jura | 45,000+ Enrollments"
+        ],
+        "duration": 2157,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/",
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "platform": "Udemy",
+        "authors": [
+          "Edwin Diaz",
+          "Coding Faculty Solutions"
+        ],
+        "duration": 2574,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/restful-api-with-laravel-php-homestead-passport-hateoas/",
+        "title": "RESTful API with Laravel: Build a Real API with Laravel",
+        "platform": "Udemy",
+        "authors": [
+          "JuanD MeGon",
+          "ProgramarYa By JuanDMeGon"
+        ],
+        "duration": 890,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://laracasts.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://larachat.co/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://laravelarticle.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://laraveldaily.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@LaravelPHP",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-",
+        "title": "Laravel From Scratch",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 210,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/127ng7botO4",
+        "title": "Laravel Origins: A PHP Documentary",
+        "authors": [
+          "OfferZen Origins"
+        ],
+        "duration": 34,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/AEVhR-hD2Wk",
+        "title": "Understand Laravel basics 2023 | Laravel tutorial | Laravel for beginners",
+        "authors": [
+          "Matt Socha"
+        ],
+        "duration": 23,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ImtZ5yENzgE",
+        "title": "Laravel PHP Framework Tutorial - Full Course for Beginners (2019)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 266,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MFh0Fd7BsjE",
+        "title": "Laravel Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 149,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MT-GJQIY3EU",
+        "title": "Laravel 8 REST API With Sanctum Authentication",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 55,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MYyJ4PuL4pY",
+        "title": "Laravel From Scratch 2022 | 4+ Hour Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 259,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/rIfdg_Ot-LI",
+        "title": "Laravel in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      }
+    ]
   }
 }
