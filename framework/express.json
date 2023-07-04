@@ -1,14 +1,436 @@
 {
   "title": "Express",
-  "description": "",
+  "description": "Express.js, often simply referred to as Express, is a popular web application framework for Node.js. It was created by TJ Holowaychuk and initially released in 2010. As a minimal and flexible framework, Express is designed to provide a robust set of features for web and mobile applications without dictating a specific structure or paradigm. It serves as the de facto standard server framework for Node.js and is an integral part of the MEAN (MongoDB, Express, Angular, Node.js) and MERN (MongoDB, Express, React, Node.js) stacks, which are popular technology stacks for building full-stack web applications.\nExpress simplifies the process of building web applications by providing a simple API for routing, middleware, and handling HTTP requests and responses. Its middleware architecture allows developers to easily plug in various components and modules to handle specific tasks, such as parsing request bodies, handling cookies, and managing sessions. Additionally, Express.js has a large ecosystem with numerous plugins and is widely supported by the developer community, which makes it an attractive choice for those looking to build scalable and maintainable web applications using JavaScript.",
   "dependencies": [
     "runtime/nodejs"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9",
+        "title": "Building a simple REST API with NodeJS and Express.",
+        "authors": [
+          "Onejohi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d",
+        "title": "How (and why) you should use TypeScript with Node and Express.",
+        "authors": [
+          "André Gardi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/zero-equals-false/using-cors-in-express-cac7e29b005b",
+        "title": "Using CORS in Express",
+        "authors": [
+          "Alexis Hevia"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/set-up-and-run-a-simple-node-server-project-38b403a3dc09",
+        "title": "Set Up and Run a Simple Node Server Project",
+        "authors": [
+          "Kris"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274",
+        "title": "Let’s build a full stack MongoDB, React, Node and Express (MERN) app",
+        "authors": [
+          "jelo rivera"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/factory-mind/websocket-node-js-express-step-by-step-using-typescript-725114ad5fe4",
+        "title": "WebSocket + Node.js + Express — Step by step using Typescript",
+        "authors": [
+          "Jonny Fox"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/simple-application-with-angular-6-node-js-express-2873304fff0f",
+        "title": "Simple Application with Angular 6 + Node.js & Express",
+        "authors": [
+          "Arseniy Tomkevich"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@nggggg/build-a-simple-chat-app-with-node-js-and-socket-io-ea716c093088",
+        "title": "Build a simple chat app with node.js and socket.io",
+        "authors": [
+          "NG"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://selvaganesh93.medium.com/how-node-js-middleware-works-d8e02a936113",
+        "title": "How Node JS middleware Works?",
+        "authors": [
+          "Selvaganesh"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@avanthikameenakshi/building-restful-api-with-nodejs-and-mysql-in-10-min-ff740043d4be",
+        "title": "Building REST APIs with MySQL and Node.js",
+        "authors": [
+          "Avanthika Meenakshi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@mmajdanski/express-body-parser-and-why-may-not-need-it-335803cd048c",
+        "title": "Express — body-parser and why may not need it",
+        "authors": [
+          "Michael Majdanski"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/vulcanwm/hosting-games-with-expressjs-and-socketio-8nf",
+        "title": "Hosting Games with Express.js and Socket.io",
+        "authors": [
+          "Medea"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/ozair0/harness-the-power-of-professional-web-development-services-with-reactjs-nextjs-nestjs-expressjs-and-postgresql-5amk",
+        "title": "Harness the Power of Professional Web Development Services with React.js, Next.js, Nest.js, Express.js, and PostgreSQL",
+        "authors": [
+          "Ozair"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/immah/how-to-build-a-user-management-api-using-nodejs-and-express-no-database-a5b",
+        "title": "How to build a user management API using Node.js and Express (No Database)",
+        "authors": [
+          "Emmanuel Kariithi"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://jonathanleemartin.com/books/",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://link.springer.com/book/10.1007/978-1-4842-0037-7",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/express-in-action",
+        "title": "Express in Action\n                            \n\n    \n        \n        \n        \n    \n    \n        you own this product\n    \n    \n        $(document).ready(function() {\n            $.ajax({\n                url: \"/ajax/getWishListDetails\"\n            }).done(function (data) {\n                if (!jQuery.isEmptyObject(data) && data['wishlistProductIds']) {\n                    $(\".wishlist-container\").each(function() {\n                        if (data.wishlistProductIds.indexOf($(this).find('.wishlist-toggle').data('product-id')) > -1) {\n                            $(this).addClass(\"on-wishlist\");\n                        }\n                    });\n                }\n            });\n\n            $.ajax({\n                url: \"/ajax/getProductOwnershipDetails?productId=629\"\n            }).done(function (data) {\n                if (!jQuery.isEmptyObject(data)) {\n                    if (data['ownership']) {\n                        $(\".wishlist-container\").hide();\n                        $(\".ownership-indicator\").addClass('owned');\n                        $(document.body).addClass(\"user-owns-product\");\n                    }\n                }\n            });\n        });\n    \n\n                            \n\n\n\n    \n        \n    \n    \n        document.addEventListener(\"subscription-status-loaded\", function(e){\n            var status = e && e.detail && e.detail['status'];\n            if(status != \"ACTIVE\" && status != \"PAUSED\"){ return; }\n\n            if(window.readingListsServerVars != null){\n                $(document).ready(function() {\n                    var $readingListToggle = $(\".reading-list-toggle\");\n                    $(document.body).append('<div class=\"modal fade\" id=\"reading-lists-modal\" tabindex=\"-1\" role=\"dialog\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-body\"></div></div></div></div>');\n                    $(document.body).append('<div id=\"reading-list-toast\"><i class=\"fa fa-circle-notch fa-spin\"></i> loading reading lists ...</div>');\n\n                    function adjustReadingListIcon(isInReadingList){\n                        $readingListToggle.toggleClass(\"fa-plus\", !isInReadingList);\n                        $readingListToggle.toggleClass(\"fa-check\", isInReadingList);\n\n                        var tooltipMessage = isInReadingList ? \"edit in reading lists\" : \"add to reading list\";\n                        $readingListToggle.attr(\"title\", tooltipMessage);\n                        $readingListToggle.attr(\"data-original-title\", tooltipMessage);\n                    }\n\n                    $.ajax({\n                        url: \"/readingList/isInReadingList\",\n                        data: {\n                            productId: 629\n                        }\n                    }).done(function (data) {\n                        adjustReadingListIcon(data && data.hasProductInReadingList);\n                    }).catch(function(e){\n                        console.log(e);\n                        adjustReadingListIcon(false);\n                    });\n\n                    $readingListToggle.on(\"click\", function(){\n                        if(codePromise == null){ showToast() }\n\n                        loadCode().then(function(store){\n                            store.requestReadingListSpecificationForProduct({\n                                id: window.readingListsServerVars.externalId,\n                                manningId: window.readingListsServerVars.productId,\n                                title: window.readingListsServerVars.title\n                            });\n\n                            ReadingLists.ReactDOM.render(\n                                ReadingLists.React.createElement(ReadingLists.ManningOnlineReadingListModal, {\n                                    store: store,\n                                }),\n                                document.getElementById(\"reading-lists-modal\")\n                            );\n                        }).catch(function(e){\n                            console.log(\"Error loading code reading list code\");\n                        });\n                    });\n\n                    var codePromise\n                    var readingListStore\n                    function loadCode(){\n                        if(codePromise) { return codePromise }\n\n                        return codePromise = new Promise(function (resolve, reject){\n                            $.getScript(window.readingListsServerVars.libraryLocation).done(function(){\n                                hideToast()\n\n                                readingListStore = new ReadingLists.ReadingListStore(\n                                    new ReadingLists.ReadingListProvider(\n                                        new ReadingLists.ReadingListWebProvider(\n                                            ReadingLists.SourceApp.marketplace,\n                                            getDeploymentType()\n                                        )\n                                    )\n                                );\n\n                                readingListStore.onReadingListChange(handleChange);\n                                readingListStore.onReadingListModalChange(handleChange);\n\n                                resolve(readingListStore);\n                            }).catch(function(){\n                                hideToast();\n                                console.log(\"Error downloading reading lists source\");\n                                $readingListToggle.css(\"display\", \"none\");\n                                reject();\n                            });\n                        });\n                    }\n\n                    function handleChange(){\n                        if(readingListStore != null) {\n                            adjustReadingListIcon(readingListStore.isInAtLeastOneReadingList({\n                                id: window.readingListsServerVars.externalId,\n                                manningId: window.readingListsServerVars.productId\n                            }));\n                        }\n                    }\n\n                    var $readingListToast = $(\"#reading-list-toast\");\n                    function showToast(){\n                        $readingListToast.css(\"display\", \"flex\");\n                        setTimeout(function(){\n                            $readingListToast.addClass(\"shown\");\n                        }, 16);\n                    }\n\n                    function hideToast(){\n                        $readingListToast.removeClass(\"shown\");\n                        setTimeout(function(){\n                            $readingListToast.css(\"display\", \"none\");\n                        }, 150);\n                    }\n\n                    function getDeploymentType(){\n                        switch(window.readingListsServerVars.deploymentType){\n                            case \"development\":\n                            case \"test\":\n                                return ReadingLists.DeploymentType.dev;\n                            case \"qa\":\n                                return ReadingLists.DeploymentType.qa;\n                            case \"production\":\n                                return ReadingLists.DeploymentType.prod;\n                            case \"docker\":\n                                return ReadingLists.DeploymentType.docker;\n                            default:\n                                console.error(\"Unknown deployment environment, defaulting to production\");\n                                return ReadingLists.DeploymentType.prod;\n                        }\n                    }\n                });\n            }\n        });",
+        "authors": [
+          "Evan Hahn"
+        ],
+        "pages": 256,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/getting-mean-with-mongo-express-angular-and-node-second-edition",
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node, Second Edition\n                            \n\n    \n        \n        \n        \n    \n    \n        you own this product\n    \n    \n        $(document).ready(function() {\n            $.ajax({\n                url: \"/ajax/getWishListDetails\"\n            }).done(function (data) {\n                if (!jQuery.isEmptyObject(data) && data['wishlistProductIds']) {\n                    $(\".wishlist-container\").each(function() {\n                        if (data.wishlistProductIds.indexOf($(this).find('.wishlist-toggle').data('product-id')) > -1) {\n                            $(this).addClass(\"on-wishlist\");\n                        }\n                    });\n                }\n            });\n\n            $.ajax({\n                url: \"/ajax/getProductOwnershipDetails?productId=901\"\n            }).done(function (data) {\n                if (!jQuery.isEmptyObject(data)) {\n                    if (data['ownership']) {\n                        $(\".wishlist-container\").hide();\n                        $(\".ownership-indicator\").addClass('owned');\n                        $(document.body).addClass(\"user-owns-product\");\n                    }\n                }\n            });\n        });\n    \n\n                            \n\n\n\n    \n        \n    \n    \n        document.addEventListener(\"subscription-status-loaded\", function(e){\n            var status = e && e.detail && e.detail['status'];\n            if(status != \"ACTIVE\" && status != \"PAUSED\"){ return; }\n\n            if(window.readingListsServerVars != null){\n                $(document).ready(function() {\n                    var $readingListToggle = $(\".reading-list-toggle\");\n                    $(document.body).append('<div class=\"modal fade\" id=\"reading-lists-modal\" tabindex=\"-1\" role=\"dialog\"><div class=\"modal-dialog\" role=\"document\"><div class=\"modal-content\"><div class=\"modal-body\"></div></div></div></div>');\n                    $(document.body).append('<div id=\"reading-list-toast\"><i class=\"fa fa-circle-notch fa-spin\"></i> loading reading lists ...</div>');\n\n                    function adjustReadingListIcon(isInReadingList){\n                        $readingListToggle.toggleClass(\"fa-plus\", !isInReadingList);\n                        $readingListToggle.toggleClass(\"fa-check\", isInReadingList);\n\n                        var tooltipMessage = isInReadingList ? \"edit in reading lists\" : \"add to reading list\";\n                        $readingListToggle.attr(\"title\", tooltipMessage);\n                        $readingListToggle.attr(\"data-original-title\", tooltipMessage);\n                    }\n\n                    $.ajax({\n                        url: \"/readingList/isInReadingList\",\n                        data: {\n                            productId: 901\n                        }\n                    }).done(function (data) {\n                        adjustReadingListIcon(data && data.hasProductInReadingList);\n                    }).catch(function(e){\n                        console.log(e);\n                        adjustReadingListIcon(false);\n                    });\n\n                    $readingListToggle.on(\"click\", function(){\n                        if(codePromise == null){ showToast() }\n\n                        loadCode().then(function(store){\n                            store.requestReadingListSpecificationForProduct({\n                                id: window.readingListsServerVars.externalId,\n                                manningId: window.readingListsServerVars.productId,\n                                title: window.readingListsServerVars.title\n                            });\n\n                            ReadingLists.ReactDOM.render(\n                                ReadingLists.React.createElement(ReadingLists.ManningOnlineReadingListModal, {\n                                    store: store,\n                                }),\n                                document.getElementById(\"reading-lists-modal\")\n                            );\n                        }).catch(function(e){\n                            console.log(\"Error loading code reading list code\");\n                        });\n                    });\n\n                    var codePromise\n                    var readingListStore\n                    function loadCode(){\n                        if(codePromise) { return codePromise }\n\n                        return codePromise = new Promise(function (resolve, reject){\n                            $.getScript(window.readingListsServerVars.libraryLocation).done(function(){\n                                hideToast()\n\n                                readingListStore = new ReadingLists.ReadingListStore(\n                                    new ReadingLists.ReadingListProvider(\n                                        new ReadingLists.ReadingListWebProvider(\n                                            ReadingLists.SourceApp.marketplace,\n                                            getDeploymentType()\n                                        )\n                                    )\n                                );\n\n                                readingListStore.onReadingListChange(handleChange);\n                                readingListStore.onReadingListModalChange(handleChange);\n\n                                resolve(readingListStore);\n                            }).catch(function(){\n                                hideToast();\n                                console.log(\"Error downloading reading lists source\");\n                                $readingListToggle.css(\"display\", \"none\");\n                                reject();\n                            });\n                        });\n                    }\n\n                    function handleChange(){\n                        if(readingListStore != null) {\n                            adjustReadingListIcon(readingListStore.isInAtLeastOneReadingList({\n                                id: window.readingListsServerVars.externalId,\n                                manningId: window.readingListsServerVars.productId\n                            }));\n                        }\n                    }\n\n                    var $readingListToast = $(\"#reading-list-toast\");\n                    function showToast(){\n                        $readingListToast.css(\"display\", \"flex\");\n                        setTimeout(function(){\n                            $readingListToast.addClass(\"shown\");\n                        }, 16);\n                    }\n\n                    function hideToast(){\n                        $readingListToast.removeClass(\"shown\");\n                        setTimeout(function(){\n                            $readingListToast.css(\"display\", \"none\");\n                        }, 150);\n                    }\n\n                    function getDeploymentType(){\n                        switch(window.readingListsServerVars.deploymentType){\n                            case \"development\":\n                            case \"test\":\n                                return ReadingLists.DeploymentType.dev;\n                            case \"qa\":\n                                return ReadingLists.DeploymentType.qa;\n                            case \"production\":\n                                return ReadingLists.DeploymentType.prod;\n                            case \"docker\":\n                                return ReadingLists.DeploymentType.docker;\n                            default:\n                                console.error(\"Unknown deployment environment, defaulting to production\");\n                                return ReadingLists.DeploymentType.prod;\n                        }\n                    }\n                });\n            }\n        });",
+        "authors": [
+          "Simon Holmes",
+          "Clive Harber"
+        ],
+        "pages": 504,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/expressjs-deep-api/9781484207819/",
+        "title": "Express.js Deep API Reference",
+        "authors": [
+          "Azat Mardan"
+        ],
+        "pages": 152,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/web-development-with/9781491902288/",
+        "title": "Web Development with Node and Express",
+        "authors": [
+          "Ethan Brown"
+        ],
+        "pages": 330,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/express-web-application-development/9781849696548",
+        "title": "Express Web Application Development",
+        "authors": [
+          "Hage Yaaapa"
+        ],
+        "pages": 236,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mern-quick-start-guide/9781787281080",
+        "title": "MERN Quick Start Guide",
+        "authors": [
+          "Eddy Wilson Iriarte Koroliova"
+        ],
+        "pages": 302,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/node-web-development/9781782163305",
+        "title": "Node Web Development",
+        "authors": [
+          "David Herron"
+        ],
+        "pages": 248,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.codecademy.com/learn/learn-express",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/graphql-server-expressjs",
+        "title": "Make a GraphQL Server with ExpressJS",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/nodejs-backend-basics-and-best-practices",
+        "title": "Node.js Backend Basics with Best Practices",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3",
+        "title": "Building a Website with Node.js and Express.js",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Daniel Khan"
+        ],
+        "duration": 190,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959",
+        "title": "Building RESTful APIs with Node.js and Express",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emmanuel Henri"
+        ],
+        "duration": 77,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/express-essential-training-14539342",
+        "title": "Express Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jamie Pittman"
+        ],
+        "duration": 119,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/expressjs",
+        "title": "Web Development with ExpressJS",
+        "platform": "Pluralsight",
+        "authors": [
+          "Hadi Hariri"
+        ],
+        "duration": 134,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/advanced-node-for-developers/",
+        "title": "Node JS Advanced Training: Learn with Tests, Projects & Exercises",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 968,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/just-express-with-a-bunch-of-node-and-http-in-detail/",
+        "title": "Just Express (with a bunch of node and http). In detail.",
+        "platform": "Udemy",
+        "authors": [
+          "Robert Bunch"
+        ],
+        "duration": 761,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/",
+        "title": "Node.js, Express, MongoDB & More: The Complete Bootcamp 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Jonas Schmedtmann"
+        ],
+        "duration": 2532,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/nodejs-the-complete-guide/",
+        "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 2431,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/",
+        "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller",
+          "Manuel Lorenz"
+        ],
+        "duration": 1130,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://expressjs.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/SccSCuHhOw0",
+        "title": "Learn Express JS In 35 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 37,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/-MTSQjw5DrM",
+        "title": "RESTful APIs in 100 Seconds // Build an API from Scratch with Node.js Express",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL_cUvD4qzbkwp6pxx27pqgohrsP8v1Wj2",
+        "title": "ExpressJS 2022 Course",
+        "authors": [
+          "Anson the Developer"
+        ],
+        "duration": 322,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/0QRFOsrBtXw",
+        "title": "What Is Express JS? | Express JS Tutorial for Beginners 2022 | Express JS API | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Oe421EPjeBE",
+        "title": "Node.js and Express.js - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 497,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/L72fhGm1tfE",
+        "title": "Express JS Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 75,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/45dAt9Gz8rE",
+        "title": "Node.js + Express - Tutorial - What is Express? And why should we use it?",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 4,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lY6icfhap2o",
+        "title": "Learn Express Middleware In 14 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 15,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6P4vnjQ_PJ5iRYsqJkQhtUu",
+        "title": "Express JS Tutorials",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 161,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/pKd0Rpw7O48",
+        "title": "How to build a REST API with Node js & Express",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/f2EqECiTBL8",
+        "title": "Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 411,
+        "type": "video"
+      }
+    ]
   }
 }

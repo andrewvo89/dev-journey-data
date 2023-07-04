@@ -6,10 +6,280 @@
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://blog.devgenius.io/microsoft-is-finally-ditching-electron-9e081757f9db",
+        "title": "Microsoft is Finally Ditching Electron",
+        "authors": [
+          "Faisal Khan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/commitlog/electron-is-cancer-b066108e6c32",
+        "title": "Electron is Cancer",
+        "authors": [
+          "Casper Beyer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/how-to-electron/a-complete-guide-to-packaging-your-electron-app-1bdc717d739f",
+        "title": "A complete guide to packaging your Electron app",
+        "authors": [
+          "Akash"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/free-code-camp/building-an-electron-application-with-create-react-app-97945861647c",
+        "title": "Building an Electron application with create-react-app",
+        "authors": [
+          "Christian Sepulveda"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/cameron-nokes/how-to-store-user-data-in-electron-3ba6bf66bc1e",
+        "title": "How to store user data in Electron",
+        "authors": [
+          "Cameron Nokes"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/dailyjs/put-your-electron-app-on-a-diet-with-electrino-c7ffdf1d6297",
+        "title": "Put your Electron app on a diet with Electrino",
+        "authors": [
+          "Pauli Olavi Ojala"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f",
+        "title": "Using Electron with React: The Basics",
+        "authors": [
+          "Ryan Brockhoff"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Agro/developing-desktop-applications-with-electron-and-react-40d117d97564",
+        "title": "Developing desktop applications with Electron and React",
+        "authors": [
+          "M Ahsan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3",
+        "title": "⚡️ From React to an Electron app ready for production",
+        "authors": [
+          "Kitze"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/hackernoon/electron-the-bad-parts-2b710c491547",
+        "title": "🦋Electron: The Bad Parts",
+        "authors": [
+          "Philipp Langhans"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://slack.engineering/building-hybrid-applications-with-electron/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.manning.com/books/electron-in-action",
+        "title": "Electron in Action",
+        "authors": [
+          "Steven Kinney"
+        ],
+        "pages": 376,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Electron-Beginner-Platform-Desktop-Applications/dp/1484228251",
+        "title": "Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications using Github's Electron",
+        "authors": [
+          "Chris Griffith",
+          "Leif Wells"
+        ],
+        "pages": 269,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/electron-projects/9781838552206",
+        "title": "Electron Projects",
+        "authors": [
+          "Denys Vuika"
+        ],
+        "pages": 436,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/cross-platform-desktop-application-development-electron-node-nwjs-and-react/9781788295697",
+        "title": "Cross-platform Desktop Application Development: Electron, Node, NW.js, and React",
+        "authors": [
+          "Dmitry Sheiko"
+        ],
+        "pages": 300,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/electron-from-scratch/",
+        "title": "Electron From Scratch: Build Desktop Apps With JavaScript",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 347,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/master-electron/",
+        "title": "Master Electron: Desktop Apps with HTML, JavaScript & CSS",
+        "platform": "Udemy",
+        "authors": [
+          "Ray Viljoen"
+        ],
+        "duration": 478,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/electron-react-tutorial/",
+        "title": "Electron for Desktop Apps: The Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 476,
+        "type": "course"
+      },
+      {
+        "url": "https://egghead.io/courses/build-a-desktop-application-with-electron",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/electron-building-cross-platform-desktop-apps-2",
+        "title": "Electron: Building Cross Platform Desktop Apps",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ray Villalobos"
+        ],
+        "duration": 114,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/electron-fundamentals",
+        "title": "Electron Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jake Trent"
+        ],
+        "duration": 110,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/electron-v2/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/electron/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.electronjs.org/docs/latest",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/3yqDxhR2XxE",
+        "title": "Build a Desktop App with Electron... But Should You?",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/m3OjWNFREJo",
+        "title": "Electron JS in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 2,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ML743nrkMHw",
+        "title": "Create a Desktop App With JavaScript & Electron",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 72,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW",
+        "title": "Electron js Tutorials",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 122,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/kN1Czs0m1SU",
+        "title": "Build an Electron App in Under 60 Minutes",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 56,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/2RxHQoiDctI",
+        "title": "Learn Electron in Less than 60 Minutes - Free Beginner's Course",
+        "authors": [
+          "DesignCourse"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/l4Dy5m3MnWk",
+        "title": "Goodbye Electron.js 👋",
+        "authors": [
+          "codedamn"
+        ],
+        "duration": 7,
+        "type": "video"
+      }
+    ]
   }
 }
