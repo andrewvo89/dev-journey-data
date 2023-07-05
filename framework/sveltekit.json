@@ -1,14 +1,259 @@
 {
   "title": "SvelteKit",
-  "description": "",
+  "description": "SvelteKit is a modern web development framework that is built on top of Svelte, which is a component-based JavaScript framework. Please note that there might have been significant developments since then.\nSvelteKit aims to make building web applications simpler by offering a streamlined development experience. It provides a set of tools and conventions for creating, building, and deploying Svelte applications. With SvelteKit, developers can easily create server-rendered pages, static websites, or single-page applications (SPA) with the same codebase. It also includes features such as routing, server-side rendering (SSR), and API routes out of the box.\nOne of the most notable features of Svelte and by extension SvelteKit, is the compile-time optimization that it brings to the table. Instead of including a runtime library, Svelte compiles components into highly efficient vanilla JavaScript at build time. This leads to faster performance and smaller bundle sizes compared to traditional JavaScript frameworks.\nFurthermore, SvelteKit is adaptable to various hosting platforms and can be configured to use different rendering strategies depending on the needs of the project. It has a modular architecture that allows developers to plug in different adapters for deployment to different platforms like Vercel, Netlify, or even traditional web servers.",
   "dependencies": [
     "library/svelte"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://marianods81.medium.com/what-about-sveltekit-7a8d867c228e",
+        "title": "What about SvelteKit?",
+        "authors": [
+          "Mariano De Simone"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/how-to-use-svelte-kit-with-tailwind-css-jit-just-in-time-compilation-bc04c0c9ec17",
+        "title": "How to use Svelte Kit with Tailwind CSS/JIT (Just-in-time Compilation)",
+        "authors": [
+          "Glory Katende"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/codex/getting-started-with-sveltekit-369987d924bd",
+        "title": "Getting Started with SvelteKit",
+        "authors": [
+          "Cameron Smith"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@alpercitak/dockerize-sveltekit-1323771a12b1",
+        "title": "Dockerize SvelteKit",
+        "authors": [
+          "Alper Çıtak"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.colorglare.com/svelte-components-as-web-components-b400d1253504",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/mkdir-awesome/how-to-create-svelte-component-libraries-with-sveltekit-98fd2ff12f0f",
+        "title": "How to Create Svelte Component Libraries with SvelteKit",
+        "authors": [
+          "Shinichi Okada"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://sjorswijsman.medium.com/setting-up-supabase-with-sveltekit-f6234fa1b54b",
+        "title": "Setting up Supabase with Sveltekit",
+        "authors": [
+          "Sjors Wijsman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learn.habilelabs.io/sveltekit-a-new-svelte-framework-to-supersede-sapperjs-246e3eaa9fd7",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/codex/intro-to-sveltekit-form-actions-de62000fdad4",
+        "title": "Intro to SvelteKit: Form Actions",
+        "authors": [
+          "Daniel Boadzie"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://100lvlmaster.medium.com/create-a-pwa-with-sveltekit-svelte-b4adf5dec222",
+        "title": "Create a PWA with Sveltekit | Svelte",
+        "authors": [
+          "Navin Kodag"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/how-to-use-authjs-in-sveltekit-eab6aa18a2ca",
+        "title": "Simplify Authentication in SvelteKit",
+        "authors": [
+          "Otterlord"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://el3um4s.medium.com/how-to-test-sveltekit-app-with-jest-848afa8edbc7",
+        "title": "How to test SvelteKit app with Jest",
+        "authors": [
+          "Samuele"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/add-firebase-authentication-to-an-svelte-app-6807f7527860",
+        "title": "Add Firebase Authentication to a Svelte App",
+        "authors": [
+          "Javier Lavida"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/SvelteKit-Running-Performance-Generation-Framework/dp/180461548X",
+        "title": "SvelteKit Up and Running: Leverage the power of a next-generation web framework to build high-performance web apps with ease",
+        "authors": [
+          "Dylan Hildenbrand"
+        ],
+        "pages": 0,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://frontendmasters.com/courses/svelte/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sveltejs-the-complete-guide/",
+        "title": "Svelte.js - The Complete Guide (incl. Sapper.js)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 762,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/svelte-and-sveltekit/",
+        "title": "Svelte & SvelteKit: The Complete Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Ali Alaa"
+        ],
+        "duration": 1933,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/master-svelte-framework-the-complete-course-2023/",
+        "title": "Master Svelte Framework - The Complete Course 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Codestars • over 2 million students worldwide!",
+          "Noah Glaser"
+        ],
+        "duration": 789,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://flaviocopes.com/book/svelte/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://kit.svelte.dev/docs/introduction",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP",
+        "title": "SvelteKit Tutorial (Crash Course)",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 99,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk",
+        "title": "Learn Svelte",
+        "authors": [
+          "Joy of Code"
+        ],
+        "duration": 64,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS",
+        "title": "SvelteKit For Beginners",
+        "authors": [
+          "Joy of Code"
+        ],
+        "duration": 155,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjifDNQYYWI6i06D7PjF0Ua",
+        "title": "SvelteKit Tutorial for Beginners",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 292,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/-OMPfr56kXI",
+        "title": "SvelteKit | Rich Harris | ViteConf 2022",
+        "authors": [
+          "ViteConf"
+        ],
+        "duration": 17,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MoGkX4RvZ38",
+        "title": "Complete SvelteKit Course For Building Modern Web Apps",
+        "authors": [
+          "Joy of Code"
+        ],
+        "duration": 301,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/UU7MgYIbtAk",
+        "title": "SvelteKit Crash Course - SSR, API Routes, Stores, Tailwind CSS, and More!",
+        "authors": [
+          "James Q Quick"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/futm3ru_ZZg",
+        "title": "Fullstack Svelte with SvelteKit by Rich Harris | Preview",
+        "authors": [
+          "Frontend Masters"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ydR_M0fw9Xc",
+        "title": "SvelteKit For Beginners | Movie App Tutorial",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 84,
+        "type": "video"
+      }
+    ]
   }
 }

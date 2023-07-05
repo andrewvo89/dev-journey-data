@@ -1,14 +1,268 @@
 {
   "title": "Tailwind CSS",
-  "description": "",
+  "description": "Tailwind CSS is a highly popular utility-first CSS framework used for building custom user interfaces.\nTailwind CSS adopts a utility-first approach, which means it provides a wide array of utility classes that can be used to construct a design directly in your HTML markup. This is contrary to the traditional approach of defining custom CSS classes and styles separately. Tailwind CSS allows developers to create responsive and highly customizable designs without having to write lots of custom CSS.\nOne of the standout features of Tailwind CSS is its focus on efficiency and customization. The utility classes are designed to be composable, meaning you can combine and layer them in your markup to create complex designs. Furthermore, Tailwind is highly customizable through its configuration file, allowing you to define your design system (such as colors, spacing, breakpoints, etc.) at a granular level.\nAnother benefit of Tailwind CSS is its integration with PostCSS, a tool for transforming CSS with JavaScript. This enables developers to benefit from features like automatic vendor prefixing and future CSS syntax. Tailwind CSS can also be easily integrated with modern frontend frameworks such as React, Vue, Angular, and Svelte.\nTailwind CSS aims to maximize productivity and maintainability, making it a favored choice for many developers who are building modern web applications.",
   "dependencies": [
     "language/css"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/towardsdev/why-tailwind-is-better-by-trisk-f69bd4f3fedb",
+        "title": "Why Tailwind is better",
+        "authors": [
+          "Trisk.io"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Emmanouil_Gaitanakis/tailwind-css-the-top-5-component-libraries-975e7fb253a6",
+        "title": "Tailwind CSS — The Top 5+ Component Libraries",
+        "authors": [
+          "Emmanouil Gaitanakis"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.prototypr.io/design-a-landing-page-using-tailwind-css-3a1a68166c47",
+        "title": "Design A Landing Page using Tailwind CSS",
+        "authors": [
+          "Chigozie Orunta"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/frontendweb/top-19-best-free-tailwind-css-libraries-kits-for-2023-8dfb478d4d0f",
+        "title": "Top 23 best free tailwind CSS libraries(Kits)  for 2023",
+        "authors": [
+          "Rajdeep singh"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/ngconf/angular-and-tailwindcss-6438e3326273",
+        "title": "Angular and TailwindCSS",
+        "authors": [
+          "Preston Lamb"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/teknomuslim/getting-started-tailwind-ui-with-laravel-482f65fd6ef0",
+        "title": "Getting Started Tailwind UI with Laravel",
+        "authors": [
+          "Didik Tri Susanto"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/tailwind-css/9781098140984/",
+        "title": "Tailwind CSS",
+        "authors": [
+          "Ivaylo Gerchev"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/modern-css-with/9781680509892/",
+        "title": "Modern CSS with Tailwind, 2nd Edition",
+        "authors": [
+          "Noel Rappin"
+        ],
+        "pages": 100,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Tailwind-CSS-popular-utility-first-framework-ebook/dp/B0C44GGGFV",
+        "title": "Tailwind CSS: a guide to using the popular utility-first CSS framework",
+        "authors": [
+          "Roberto Rescigno"
+        ],
+        "pages": 0,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/tailwind-from-scratch/",
+        "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 752,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/tailwindcss-with-examples/",
+        "title": "Tailwind CSS - A new way to > THINK < CSS",
+        "platform": "Udemy",
+        "authors": [
+          "Martin Krebs Eberth"
+        ],
+        "duration": 450,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/tailwind-css-course/",
+        "title": "Tailwind CSS : A Modern Way To Build Websites Using CSS",
+        "platform": "Udemy",
+        "authors": [
+          "Ashutosh Pawar"
+        ],
+        "duration": 391,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/tailwind",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://egghead.io/courses/design-with-tailwind-css-masterclass-f0db",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/tailwind-css-3-fundamentals",
+        "title": "TailwindCSS 3 Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Shawn Wildermuth"
+        ],
+        "duration": 162,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/modern-css-tailwind",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://github.com/tailwindlabs/tailwindcss/discussions",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://discord.com/invite/7NF8GNe",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@TailwindLabs",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://v2.tailwindcss.com/docs",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
+        "title": "Tailwind CSS Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 120,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/L2KHCWJ3gjs",
+        "title": "Tailwind CSS React Tutorial",
+        "authors": [
+          "Adrian Twarog"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PL1CFZhepc0",
+        "title": "Top 10 Tips and Tricks with Tailwind CSS",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 24,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/UBOj6rqRUME",
+        "title": "Tailwind CSS Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 31,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dFgzHOX84xQ",
+        "title": "Tailwind Crash Course | Project From Scratch",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 96,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ft30zcMlFao",
+        "title": "Learn Tailwind CSS – Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 253,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/hdGsFpZ0J2E",
+        "title": "Should You Use Tailwind CSS?",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lCxcTsOHrjo",
+        "title": "Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 181,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mr15Xzb1Ook",
+        "title": "Tailwind in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/pfaSUYaSgRo",
+        "title": "Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 13,
+        "type": "video"
+      }
+    ]
   }
 }

@@ -292,8 +292,10 @@
         "url": "https://www.coursera.org/learn/react-native-course",
         "title": "React Native",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 2186,
         "type": "course"
       },
       {
@@ -348,7 +350,9 @@
         "url": "https://www.pluralsight.com/courses/building-mobile-apps-react-native",
         "title": "Building Mobile Apps with React Native",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "Richard Monson-Haefel"
+        ],
         "duration": 115,
         "type": "course"
       },
@@ -356,7 +360,9 @@
         "url": "https://www.pluralsight.com/courses/react-native-fundamentals",
         "title": "React Native Fundamentals",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "Reggie Dawson"
+        ],
         "duration": 158,
         "type": "course"
       },
