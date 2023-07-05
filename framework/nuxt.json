@@ -1,14 +1,312 @@
 {
   "title": "Nuxt",
-  "description": "",
+  "description": "Nuxt.js, often simply called Nuxt, is a progressive framework that is based on Vue.js, a popular JavaScript library for building user interfaces. It was created to make the development of web applications, especially universal or single-page applications (SPAs), more efficient and streamlined. Nuxt aims to provide an all-in-one solution, encompassing best practices and tools for efficiently structuring and rendering web applications. It builds on Vue.js and incorporates additional tools like Webpack and Babel.js, which are essential for modern web development.\nOne of the standout features of Nuxt is its support for server-side rendering (SSR) out of the box. This is particularly beneficial for SEO purposes and performance. With SSR, the content of the page is rendered on the server before it's sent to the client, which can lead to faster page load times and ensures that web crawlers can properly scrape the page content. In addition to SSR, Nuxt also supports static site generation. This allows you to generate a fully static website at build time, which can be incredibly performant and still enjoy many of the benefits of a dynamic Nuxt application.\nFurthermore, Nuxt adopts a modular architecture, which means that developers can extend its core functionality with a variety of modules. This helps in keeping the codebase clean and maintainable as the application scales. Developers can choose from a range of existing modules or even create their own, depending on the project’s requirements.\nAnother aspect where Nuxt excels is in its routing system. While in a traditional Vue.js application, the developer must manually define the router configuration, Nuxt automatically generates the vue-router configuration based on the file tree of Vue components, which speeds up the development process.\nNuxt.js also provides features like hot module replacement, async data handling, middleware support, and a robust plugin system. These features help in developing complex applications with ease. Moreover, Nuxt has a large and active community, which means that it's continually being improved and that help is readily available.\nIn conclusion, Nuxt.js is a powerful and flexible framework that builds upon the strengths of Vue.js. It's particularly well-suited for developers who want to quickly build highly performant, SEO-friendly web applications. Whether you are building a simple SPA, a complex enterprise-level application, or anything in between, Nuxt.js offers a rich set of features and an outstanding developer experience to streamline the development process.",
   "dependencies": [
     "library/vue"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/@seyijosh44/how-to-use-mixins-in-nuxt-js-826724fa251",
+        "title": "How to use mixins in Nuxt.js",
+        "authors": [
+          "Oluwaseyi Joshua"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@codebeast_/why-your-third-party-plugin-dont-work-in-nuxt-and-how-to-fix-it-d1a8caadf422",
+        "title": "Why Your Third-Party Plugin Don’t Work in Nuxt and How to Fix it",
+        "authors": [
+          "Christian Nwamba"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/js-dojo/how-to-deploy-nuxt-application-to-server-production-mode-on-db67633421fd",
+        "title": "How to deploy Nuxt application to server. Production mode on.",
+        "authors": [
+          "Abdulla Emchiyev"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/create-fantastic-forms-in-15-minutes-or-less-using-vue-nuxt-and-netlify-25e97e779fea",
+        "title": "Create Fantastic Forms in 15 Minutes or Less Using Vue/Nuxt and Netlify",
+        "authors": [
+          "Jordan Simonds"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@gogl.alex/nuxt-jest-setup-from-scratch-8905d3880daa",
+        "title": "Nuxt + Jest setup from scratch",
+        "authors": [
+          "Alex Gogl"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/swlh/how-to-server-side-rendering-ssr-with-vue-js-71cedce7c299",
+        "title": "How to Server Side Rendering (SSR) with Vue.js?",
+        "authors": [
+          "Taha Selim Aksakal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://lupas.medium.com/firebase-9-beta-nuxt-js-981cf3dac910",
+        "title": "Firebase 9 & Nuxt.js 🔥",
+        "authors": [
+          "Pascal Luther"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@shahriarrahi/create-api-with-nuxt3-adcb7b6a17dd",
+        "title": "Create API with Nuxt 3",
+        "authors": [
+          "Shahriar Rahi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/comsystoreply/nuxt-3-usefetch-reactive-vue-at-its-best-14729f6f5be7",
+        "title": "Nuxt 3 + useFetch = Reactive Vue at it’s best 🔥",
+        "authors": [
+          "Eugen Sawitzki"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/introduction-to-nuxt-socket-io-b78c5322d389",
+        "title": "Introduction to Nuxt Socket.IO",
+        "authors": [
+          "Richard Schloss"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/a-year-with-nuxt-js-geninue-review-of-a-framework-2564ab230495",
+        "title": "A Year With Nuxt.js — A Genuine Review of the Framework",
+        "authors": [
+          "Mikhail Starikov"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.packtpub.com/product/hands-on-nuxtjs-web-development/9781789952698",
+        "title": "Hands-on Nuxt.js Web Development",
+        "authors": [
+          "Lau Tiam Kok"
+        ],
+        "pages": 698,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/vuejs-understanding-its-tools-and-ecosystem/9781800206625",
+        "title": "Vue.js: Understanding its Tools and Ecosystem",
+        "authors": [
+          "Dave Berning"
+        ],
+        "pages": 194,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://vueschool.io/courses/nuxt-js-3-fundamentals",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/",
+        "title": "Nuxt.js - Vue.js for Server-Side Rendering and Folder Based Config",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 403,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-nuxtjs-course/",
+        "title": "Complete Nuxt.js Course",
+        "platform": "Udemy",
+        "authors": [
+          "OnlyKiosk Tech"
+        ],
+        "duration": 200,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-nuxt-3-bootcamp-the-complete-developer-guide/",
+        "title": "The Nuxt 3 Bootcamp - The Complete Developer Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Laith Harb"
+        ],
+        "duration": 1009,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/nuxt/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/vue-nuxt-apps/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://laracasts.com/series/nuxtjs-crash-course",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-nuxt-js",
+        "title": "Learning Nuxt.js",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Gift Egwuenu"
+        ],
+        "duration": 92,
+        "type": "course"
+      },
+      {
+        "url": "https://netninja.dev/p/nuxt-3-crash-course",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://masteringnuxt.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://content.nuxtjs.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.vuemastery.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://nuxt.com/docs",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://github.com/nuxt",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC",
+        "title": "Nuxt 3 Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 113,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/B6hmetsV3yI",
+        "title": "Nuxt 3 - Building a Complete Project",
+        "authors": [
+          "Laith Academy"
+        ],
+        "duration": 73,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KHF4JdcF4JA",
+        "title": "Getting Started with Nuxt 3 | A Beginners Guide",
+        "authors": [
+          "Vue Mastery"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_cM4j9_LfQk",
+        "title": "Build and Deploy a Full Stack Social Media App with Nuxt 3, TailwindCSS and Prisma | FULL COURSE",
+        "authors": [
+          "insidewebdev"
+        ],
+        "duration": 404,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dCxSsr5xuL8",
+        "title": "Nuxt in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dVcCRFVhz74",
+        "title": "Build & Deploy: Fullstack Ecommerce AliExpress. Nuxt 3 Vue js Tailwind CSS Supabase Prisma Netlify",
+        "authors": [
+          "John Weeks Dev"
+        ],
+        "duration": 165,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/h8GUeOPU5x8",
+        "title": "Vue Server Components Changes Everything About Nuxt and Vue!",
+        "authors": [
+          "Program With Erik"
+        ],
+        "duration": 28,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/noq-ZHTD2Cg",
+        "title": "The Nuxt big thing in web development?",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ww94Jvi8JJo",
+        "title": "Learn Nuxt 3 — Full course for beginners [3 hours] 2023",
+        "authors": [
+          "CodewithGuillaume"
+        ],
+        "duration": 191,
+        "type": "video"
+      }
+    ]
   }
 }

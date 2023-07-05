@@ -1,14 +1,480 @@
 {
   "title": "React Native",
-  "description": "",
+  "description": "React Native is an open-source mobile application development framework that was created by Facebook. It allows developers to write mobile applications in JavaScript and React, a popular library also developed by Facebook for building user interfaces. What sets React Native apart from other mobile development frameworks is its ability to translate the React components into native elements specific to Android and iOS platforms. This means that the apps built using React Native are not web apps disguised in a native wrapper, but they actually render as true native applications, ensuring a smoother and more responsive user experience.\nThe architecture of React Native revolves around a component-based structure, which encourages building applications as a combination of reusable and independent modules or components. This promotes a clean and organized codebase, which can significantly enhance both development and maintenance phases. The component-based structure is also helpful in creating consistent UI/UX, as the same set of components can be reused throughout the application.\nAnother strong feature of React Native is its developer experience. It provides hot reloading, which allows developers to see the changes they make in real-time without the need for recompiling the whole application. This not only accelerates the development process but also makes debugging and fixing issues more efficient. Furthermore, React Native has a large, vibrant community that contributes to its ever-growing set of libraries and tools, which can further help in extending the functionality of React Native apps.\nHowever, despite its advantages, React Native is not without its limitations. For applications that require highly customized features or those that are heavily reliant on the native functionality of the device, sometimes React Native might not be the ideal choice. In such cases, developers might need to write native code in Swift, Objective-C, Java, or Kotlin to achieve the desired performance or functionality.\nIn conclusion, React Native is a powerful and efficient framework for building mobile applications, especially for projects where the goal is to have a shared codebase across iOS and Android with a focus on speed and agility in development. Its component-based structure, coupled with an active community and a rich set of tools, makes it a popular choice among developers. However, it is important to consider the specific requirements and characteristics of the project to determine if React Native is the best fit.",
   "dependencies": [
     "library/react"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://alexmngn.medium.com/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24",
+        "title": "What are the main differences between ReactJS and React-Native?",
+        "authors": [
+          "Alexis Mangin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae",
+        "title": "How to Add a Splash Screen to a React Native App (iOS and Android)",
+        "authors": [
+          "Spencer Carli"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://instagram-engineering.com/react-native-at-instagram-dd828a9a90c7",
+        "title": "React Native at Instagram",
+        "authors": [
+          "Instagram Engineering"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312",
+        "title": "11 React Native Component Libraries you Should Know in 2019",
+        "authors": [
+          "Jonathan Saring"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/airbnb-engineering/react-native-at-airbnb-the-technology-dafd0b43838",
+        "title": "React Native at Airbnb: The Technology",
+        "authors": [
+          "Gabriel Peal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://shift.infinite.red/getting-started-with-react-native-development-on-windows-90d85a72ae65",
+        "title": "Getting Started with React Native Development on Windows",
+        "authors": [
+          "Kevin VanGelder"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2",
+        "title": "Comparing the Performance between Native iOS (Swift) and React-Native",
+        "authors": [
+          "John Anthony Calderaio"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/react-native-creating-a-simple-application-298fa0637e72",
+        "title": "Creating a simple application in React Native",
+        "authors": [
+          "<Andrew Rymaruk />"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com.au/Fullstack-React-Native-Beautiful-JavaScript/dp/1728995558",
+        "title": "Fullstack React Native: Create beautiful mobile apps with JavaScript and React Native",
+        "authors": [
+          "Devin Abbott",
+          "Houssein Djirdeh",
+          "Anthony Accomazzo",
+          "Sophia Shoemaker"
+        ],
+        "pages": 690,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Fullstack-React-Native-Beautiful-JavaScript/dp/1728995558",
+        "title": "Fullstack React Native: Create beautiful mobile apps with JavaScript and React Native",
+        "authors": [
+          "Devin Abbott",
+          "Houssein Djirdeh",
+          "Anthony Accomazzo",
+          "Sophia Shoemaker"
+        ],
+        "pages": 690,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/react-native-in-action",
+        "title": "React Native in Action",
+        "authors": [
+          "Nader Dabit"
+        ],
+        "pages": 320,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/creating-apps-with/9781484280423/",
+        "title": "Creating Apps with React Native: Deliver Cross-Platform 0 Crash, 5 Star Apps",
+        "authors": [
+          "M. Holmes He"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-react-native/9781491989135/",
+        "title": "Learning React Native, 2nd Edition",
+        "authors": [
+          "Bonnie Eisenman"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-design-patterns-with-react-native/9781788994460",
+        "title": "Hands-On Design Patterns with React Native",
+        "authors": [
+          "Mateusz Grzesiukiewicz"
+        ],
+        "pages": 302,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-react-native/9781785885785",
+        "title": "Mastering React Native",
+        "authors": [
+          "Eric Masiello",
+          "Jacob Friedmann"
+        ],
+        "pages": 496,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/professional-react-native/9781800563681",
+        "title": "Professional React Native",
+        "authors": [
+          "Alexander Benedikt Kuttig"
+        ],
+        "pages": 268,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-and-react-native-fourth-edition/9781803231280",
+        "title": "React and React Native - Fourth Edition",
+        "authors": [
+          "Adam Boduch",
+          "Roy Derks",
+          "Mikhail Sakhniuk"
+        ],
+        "pages": 606,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-and-react-native-third-edition/9781839211140",
+        "title": "React and React Native - Third Edition",
+        "authors": [
+          "Adam Boduch",
+          "Roy Derks"
+        ],
+        "pages": 526,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-and-react-native/9781786465658",
+        "title": "React and React Native",
+        "authors": [
+          "Adam Boduch"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-cross-platform-application-development-with-react-native/9781789136081",
+        "title": "React: Cross-Platform Application Development with React Native",
+        "authors": [
+          "Emilio Rodriguez Martinez"
+        ],
+        "pages": 182,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-native-blueprints/9781787288096",
+        "title": "React Native Blueprints",
+        "authors": [
+          "Emilio Rodriguez Martinez"
+        ],
+        "pages": 346,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-native-by-example/9781786464750",
+        "title": "React Native By Example",
+        "authors": [
+          "Richard Kho"
+        ],
+        "pages": 414,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-native-cookbook-second-edition/9781788991926",
+        "title": "React Native Cookbook - Second Edition",
+        "authors": [
+          "Daniel Ward"
+        ],
+        "pages": 592,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/simplifying-state-management-in-react-native/9781803235035",
+        "title": "Simplifying State Management in React Native",
+        "authors": [
+          "Aleksandra Desmurs-Linczewska"
+        ],
+        "pages": 202,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/the-complete-react-native-and-redux-course/",
+        "title": "The Complete React Native + Hooks Course",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 2309,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-native-the-practical-guide/",
+        "title": "The Practical Guide to React Native: Build iOS/Android Apps",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1717,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-native-advanced/",
+        "title": "React Native: Advanced Concepts Tutorial",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 994,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-react-native-mobile-development-zero-to-mastery-with-hooks/",
+        "title": "Complete React Native in 2023: Zero to Mastery (with Hooks)",
+        "platform": "Udemy",
+        "authors": [
+          "Andrei Neagoie",
+          "Mo Binni"
+        ],
+        "duration": 1645,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-react-native-course-create-beautiful-apps/",
+        "title": "The complete React Native course",
+        "platform": "Udemy",
+        "authors": [
+          "Coding Revolution"
+        ],
+        "duration": 2537,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-react-native",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/react-native-course",
+        "title": "React Native",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://codewithmosh.com/p/the-ultimate-react-native-course",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-native-essential-training",
+        "title": "React Native Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Samer Buna"
+        ],
+        "duration": 260,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-react-native",
+        "title": "Learning React Native",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Alex Banks"
+        ],
+        "duration": 102,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/fundamentals-react-native",
+        "title": "React Native Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reggie Dawson"
+        ],
+        "duration": 151,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/react-native-get-started",
+        "title": "React Native: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Reggie Dawson"
+        ],
+        "duration": 96,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/building-mobile-apps-react-native",
+        "title": "Building Mobile Apps with React Native",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 115,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/react-native-fundamentals",
+        "title": "React Native Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 158,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-react-native/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/react-native-v2/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/intermediate-react-native/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://start-react-native.dev/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.reactnativebyexample.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://reactnative.dev/docs/getting-started",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ",
+        "title": "React Native Tutorial for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 327,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/0-S5a0eXPoc",
+        "title": "React Native Tutorial for Beginners - Build a React Native App",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 127,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/6oFuwhIibo4",
+        "title": "What Is React Native & Why Is It So Popular?",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/AkEnidfZnCU",
+        "title": "React Native Crash Course for Beginners - Build 4 Apps in 14 Hours (Redux, Tailwind + More) [2023]",
+        "authors": [
+          "Sonny Sangha"
+        ],
+        "duration": 854,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/VozPNrt-LfE",
+        "title": "React Native Crash Course | Build a Complete App",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 205,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/gvkqT_Uoahw",
+        "title": "React Native in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mJ3bGvy0WAY",
+        "title": "Build and Deploy a React Native App | 2023 React Native Course Tutorial for Beginners",
+        "authors": [
+          "JavaScript Mastery"
+        ],
+        "duration": 136,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/obH0Po_RdWk",
+        "title": "React Native Course – Android and iOS App Development",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 281,
+        "type": "video"
+      }
+    ]
   }
 }
