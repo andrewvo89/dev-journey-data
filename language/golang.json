@@ -1,14 +1,693 @@
 {
   "title": "Golang",
-  "description": "",
+  "description": "Golang, also known as Go, is a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson. First released in 2007, Go is known for its simplicity, efficiency, and strong support for concurrent programming. It features a garbage-collected memory model and robust standard library, providing built-in support for handling web services, I/O, and various data structures.\nOne of Go's signature features is its approach to concurrency, inspired by Tony Hoare's Communicating Sequential Processes (CSP). Go's goroutines and channels facilitate efficient and intuitive management of concurrent tasks. Go's straightforward syntax, inspired in part by C, aims to minimize abstraction and increase maintainability, making the language easy to read and write.\nGo's use cases range from system-level programming to web development, and it is particularly popular in cloud computing, containerization, and microservices, with major projects like Docker and Kubernetes written in Go. It has been widely adopted in the industry due to its performance, simplicity, and the productivity it offers to developers.",
   "dependencies": [
     "field/backend_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://blog.mobcoder.com/go-programming-language",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/should-i-rust-or-should-i-go-59a298e00ea9",
+        "title": "Should I Rust, or Should I Go",
+        "authors": [
+          "Andrew Lader"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://hussachai.medium.com/error-handling-in-go-a-quick-opinionated-guide-9199dd7c7f76",
+        "title": "Error Handling in Go that Every Beginner should Know",
+        "authors": [
+          "Hussachai Puripunpinyo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31",
+        "title": "Package Management With Go Modules: The Pragmatic Guide",
+        "authors": [
+          "Alexander Diachenko"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65",
+        "title": "Why should you learn Go?",
+        "authors": [
+          "Keval Patel"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@matryer/5-simple-tips-and-tricks-for-writing-unit-tests-in-golang-619653f90742",
+        "title": "5 simple tips and tricks for writing unit tests in #golang",
+        "authors": [
+          "Mat Ryer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779",
+        "title": "Don’t use Go’s default HTTP client (in production)",
+        "authors": [
+          "Nathan Smith"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@quintinglvr/golang-guide-a-list-of-top-golang-frameworks-ides-tools-e7c7866e96c9",
+        "title": "Golang Guide: A List of Top Golang Frameworks, IDEs & Tools",
+        "authors": [
+          "Quintin G."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/code-zen/why-i-don-t-use-go-web-frameworks-1087e1facfa4",
+        "title": "Why I Don’t Use Go Web Frameworks",
+        "authors": [
+          "pancy"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/discord-engineering/why-discord-is-switching-from-go-to-rust-a190bbca2b1f",
+        "title": "Why Discord is switching from Go to Rust",
+        "authors": [
+          "Jesse Howarth"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/romin-irani/setup-go-development-environment-with-visual-studio-code-7ea5d643a51a",
+        "title": "Setup Go Development Environment with Visual Studio Code",
+        "authors": [
+          "Romin Irani"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb",
+        "title": "Anatomy of Channels in Go - Concurrency in Go",
+        "authors": [
+          "Uday Hiwarale"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc",
+        "title": "Everything you need to know about Packages in Go",
+        "authors": [
+          "Uday Hiwarale"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9",
+        "title": "Learn to become a Backend Developer",
+        "authors": [
+          "Adnan Ahmed"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/the-andela-way/build-a-restful-json-api-with-golang-85a83420c9da",
+        "title": "Build a RESTful JSON API with GOlang",
+        "authors": [
+          "Ian Duncan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.easyread.co/golang-clean-archithecture-efd6d7c43047",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa66",
+        "title": "Use Environment Variable in your next Golang Project",
+        "authors": [
+          "Shubham Chadokar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.mindinventory.com/blog/nodejs-vs-golang-which-one-is-best",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://github.com/dariubs/GoBooks",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Distributed-Services-Go-Reliable-Maintainable/dp/1680507605",
+        "title": "Distributed Services with Go: Your Guide to Reliable, Scalable, and Maintainable Systems",
+        "authors": [
+          "Travis Jeffery"
+        ],
+        "pages": 225,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/GO-Programming-easy-steps-language/dp/1840789190",
+        "title": "GO Programming in easy steps: Learn coding with Google's Go language",
+        "authors": [
+          "Mike McGrath"
+        ],
+        "pages": 192,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/GoLang-Ultimate-Sufyan-bin-Uzayr-ebook/dp/B0BL5XXSWT",
+        "title": "GoLang: The Ultimate Guide",
+        "authors": [
+          "Sufyan bin Uzayr"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440",
+        "title": "Go Programming Language, The (Addison-Wesley Professional Computing Series)",
+        "authors": [
+          "Alan Donovan",
+          "Brian Kernighan"
+        ],
+        "pages": 400,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Software-Development-Go-Cloud-Native-Programming/dp/1484287304",
+        "title": "Software Development with Go: Cloud-Native Programming using Golang with Linux and Docker",
+        "authors": [
+          "Nanik Tolaram"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/go-in-action",
+        "title": "Go in Action",
+        "authors": [
+          "William Kennedy",
+          "Brian Ketelsen",
+          "Erik St. Martin"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/cloud-native-go/9781492076322/",
+        "title": "Cloud Native Go",
+        "authors": [
+          "Matthew A. Titmus"
+        ],
+        "pages": 400,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/",
+        "title": "Concurrency in Go",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/efficient-go/9781098105709/",
+        "title": "Efficient Go",
+        "authors": [
+          "Bartlomiej Plotka"
+        ],
+        "pages": 300,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-go/9781491969540/",
+        "title": "Head First Go",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/introducing-go/9781491941997/",
+        "title": "Introducing Go",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-go-2nd/9781098139285/",
+        "title": "Learning Go, 2nd Edition",
+        "authors": [
+          "Jon Bodner"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/pro-go-the/9781484273555/",
+        "title": "Pro Go: The Complete Guide to Programming Reliable and Efficient Software Using Golang",
+        "authors": [
+          "Adam Freeman"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/domain-driven-design-with-golang/9781804613450",
+        "title": "Domain-Driven Design with Golang",
+        "authors": [
+          "Matthew Boyle"
+        ],
+        "pages": 204,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-modern-cli-applications-in-go/9781804611654",
+        "title": "Building Modern CLI Applications in Go",
+        "authors": [
+          "Marian Montagnino"
+        ],
+        "pages": 406,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/effective-concurrency-in-go/9781804619070",
+        "title": "Effective Concurrency in Go",
+        "authors": [
+          "Burak Serdar"
+        ],
+        "pages": 212,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/event-driven-architecture-in-golang/9781803238012",
+        "title": "Event-Driven Architecture in Golang",
+        "authors": [
+          "Michael Stack"
+        ],
+        "pages": 384,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-web-development-with-go/9781803234199",
+        "title": "Full-Stack Web Development with Go",
+        "authors": [
+          "Nanik Tolaram",
+          "Nick Glynn"
+        ],
+        "pages": 302,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/functional-programming-in-go/9781801811163",
+        "title": "Functional Programming in Go",
+        "authors": [
+          "Dylan Meeus"
+        ],
+        "pages": 248,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/go-design-patterns/9781786466204",
+        "title": "Go Design Patterns",
+        "authors": [
+          "Mario Castro Contreras"
+        ],
+        "pages": 402,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/go-for-devops/9781801818896",
+        "title": "Go for DevOps",
+        "authors": [
+          "John Doak",
+          "David Justice"
+        ],
+        "pages": 634,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-deep-learning-with-go/9781789340990",
+        "title": "Hands-On Deep Learning with Go",
+        "authors": [
+          "Gareth Seneque",
+          "Darrell Chua"
+        ],
+        "pages": 242,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-dependency-injection-in-go/9781789132762",
+        "title": "Hands-On Dependency Injection in Go",
+        "authors": [
+          "Corey Scott"
+        ],
+        "pages": 346,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-high-performance-with-go/9781789805789",
+        "title": "Hands-On High Performance with Go",
+        "authors": [
+          "Bob Strecansky"
+        ],
+        "pages": 406,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-restful-web-services-with-go-second-edition/9781838643577",
+        "title": "Hands-On RESTful Web Services with Go - Second Edition",
+        "authors": [
+          "Naren Yellavula"
+        ],
+        "pages": 404,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-software-architecture-with-golang/9781788622592",
+        "title": "Hands-On Software Architecture with Golang",
+        "authors": [
+          "Jyotiswarup Raiturkar"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-data-structures-and-algorithms-with-golang/9781789618501",
+        "title": "Learn Data Structures and Algorithms with Golang",
+        "authors": [
+          "Bhagvan Kommadi"
+        ],
+        "pages": 336,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-go-second-edition/9781838559335",
+        "title": "Mastering Go - Second Edition",
+        "authors": [
+          "Mihalis Tsoukalos"
+        ],
+        "pages": 798,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-go-third-edition/9781801079310",
+        "title": "Mastering Go - Third Edition",
+        "authors": [
+          "Mihalis Tsoukalos"
+        ],
+        "pages": 682,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/microservices-with-go/9781804617007",
+        "title": "Microservices with Go",
+        "authors": [
+          "Alexander Shuiskov"
+        ],
+        "pages": 328,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/network-automation-with-go/9781800560925",
+        "title": "Network Automation with Go",
+        "authors": [
+          "Nicolas Leiva",
+          "Michael Kashin"
+        ],
+        "pages": 442,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/test-driven-development-in-go/9781803247878",
+        "title": "Test-Driven Development in Go",
+        "authors": [
+          "Adelina Simion"
+        ],
+        "pages": 342,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.codecademy.com/learn/learn-go",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/google-golang",
+        "title": "Programming with Google Go",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/golang-getting-started",
+        "title": "Getting Started with Go",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/golang-concurrency",
+        "title": "Concurrency in Go",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/golang-functions-methods",
+        "title": "Functions, Methods, and Interfaces in Go",
+        "platform": "Coursera",
+        "authors": [
+          "Ian Harris"
+        ],
+        "duration": 236,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/googlecloud-use-go-code-to-work-with-google-cloud-data-sources-05wo8",
+        "title": "Use Go Code to Work with Google Cloud Data Sources",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+        "title": "Go: The Complete Developer's Guide (Golang)",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 535,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/building-modern-web-applications-with-go/",
+        "title": "Building Modern Web Applications with Go (Golang)",
+        "platform": "Udemy",
+        "authors": [
+          "Trevor Sawler"
+        ],
+        "duration": 1772,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/golang--cd11970",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-golang/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/docker-developing-go-apps",
+        "title": "Developing Go Apps with Docker 20.10",
+        "platform": "Pluralsight",
+        "authors": [
+          "Sangeeta Singh"
+        ],
+        "duration": 133,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/code-school-on-track-with-golang",
+        "title": "Code School: On Track with Golang 1",
+        "platform": "Pluralsight",
+        "authors": [
+          "Carlos Souza"
+        ],
+        "duration": 75,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.golang-book.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://go.dev/doc/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://pkg.go.dev/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://go.dev/blog/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM",
+        "title": "Go Tutorial (Golang) for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 191,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa",
+        "title": "Let's go with golang",
+        "authors": [
+          "Hitesh Choudhary"
+        ],
+        "duration": 604,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLujhHB_uAFJws6Vv5q1KDoaQ4YcpS9UOm",
+        "title": "GoLang Tutorials",
+        "authors": [
+          "NerdCademy"
+        ],
+        "duration": 429,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q",
+        "title": "Golang Tutorials",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 289,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/446E-r0rXHI",
+        "title": "Go in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/LHhsNa_Kgns",
+        "title": "Go Beginner Project Tutorial - Learn Golang",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 69,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/YS4e4q9oBaU",
+        "title": "Learn Go Programming - Golang Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 400,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/YzLrWHZa-Kc",
+        "title": "Golang Tutorial : Go Full Course",
+        "authors": [
+          "Derek Banas"
+        ],
+        "duration": 230,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_6Kvp03srKc",
+        "title": "How To Learn GO (Golang) | 5 Resources For Any Skill Level",
+        "authors": [
+          "Travis Media"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/jFfo23yIWac",
+        "title": "Learn Go Programming by Building 11 Projects – Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 505,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/un6ZyFkqFKo",
+        "title": "Go Programming – Golang Course with Bonus Projects",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 573,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/yyUHQIec83I",
+        "title": "Golang Tutorial for Beginners | Full Go Course",
+        "authors": [
+          "TechWorld with Nana"
+        ],
+        "duration": 205,
+        "type": "video"
+      }
+    ]
   }
 }

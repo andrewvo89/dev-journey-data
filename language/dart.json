@@ -1,14 +1,543 @@
 {
   "title": "Dart",
-  "description": "",
+  "description": "Developed by Google in 2011, Dart is a general-purpose, object-oriented language that was designed with ease of use, performance, and scalability in mind. Its primary goal is to provide a platform for building web, server, and mobile applications, enabling developers to create high-quality applications on multiple platforms from a single codebase.\nOne of Dart's defining characteristics is its strong support for modern web standards. With its capability to compile to JavaScript, it allows developers to write code that runs seamlessly in various web browsers, a key feature in today's multi-device world. Furthermore, it can also compile to native code, a boon for mobile app developers seeking high-performance applications.\nThe Dart language adopts a C-style syntax that is easy to understand for developers familiar with JavaScript or Java, making it a relatively easy language to learn and use. It supports both strong and weak typing, allowing developers to choose the approach that best suits their project.\nDart is the primary language used in Google's Flutter framework, which is another significant factor contributing to its growing popularity. Flutter is a UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. The combination of Dart and Flutter has become a go-to choice for many developers creating cross-platform applications because of its performance and efficiency.\nThe language also boasts a robust standard library and a package manager called \"pub,\" providing a vast ecosystem of packages developed by the community. These packages cover a wide range of functionalities, making it easy for developers to incorporate various features into their applications without reinventing the wheel.\nDart's asynchronous programming features, such as futures and async/await, and its built-in support for managing short-lived objects through a garbage collector, make it an efficient language for modern web development. Moreover, Dart 2.0 introduced sound null safety, an addition to the type system that helps developers avoid null reference exceptions, a common pitfall in many programming languages, further enhancing its reliability and performance.",
   "dependencies": [
     "field/mobile_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a",
+        "title": "Dart asynchronous programming: Isolates and event loops",
+        "authors": [
+          "Kathy Walrath"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@parthbhanderi01/getting-a-handle-on-flutter-and-darts-static-4695efc12014",
+        "title": "Getting a handle on Flutter and Dart’s “static”",
+        "authors": [
+          "Parth Bhanderi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/dartlang/announcing-dart-3-53f065a10635",
+        "title": "Announcing Dart 3",
+        "authors": [
+          "Michael Thomsen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/dartlang/dart-3-alpha-f1458fb9d232",
+        "title": "Introducing Dart 3 alpha",
+        "authors": [
+          "Michael Thomsen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa",
+        "title": "The road to Dart 3: A fully sound, null safe language",
+        "authors": [
+          "Michael Thomsen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@kvenn/dart-3-0-best-new-features-why-you-should-care-429e739f2690",
+        "title": "Dart 3.0: Best New Features & Why You Should Care",
+        "authors": [
+          "Kyle Venn"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://itnext.io/flutter-3-7-and-a-new-way-of-defining-compile-time-variables-f63db8a4f6e2",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdev.com/dart-a-terrible-language-and-a-huge-marketing-success-ee42395ef51e",
+        "title": "Dart: A Terrible Language and a Huge Marketing Success!",
+        "authors": [
+          "Olenin Slava"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dart.dev/articles/libraries/creating-streams",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://dart.dev/guides/libraries/library-tour#dartio?utm_source=devglan",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://flutterigniter.com/ultimate-javascript-dart-syntax-guide/?utm_source=devglan",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@wasyl/kotlin-developers-thoughts-on-dart-1f60c4ad21ad",
+        "title": "From Kotlin to Dart - an Android developer's perspective",
+        "authors": [
+          "Łukasz Wasylkowski"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/how-to-use-javascript-libraries-in-your-dart-applications-e44668b8595d",
+        "title": "How to use JavaScript libraries in your Dart applications",
+        "authors": [
+          "Jermaine Oppong"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.toptal.com/dart/dartlang-guide-for-csharp-java-devs",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/get_pieces/dart-on-cli-foundations-57go",
+        "title": "Dart CLI Foundations: CLI Tools to Streamline Your Workflow",
+        "authors": [
+          "Pieces 🌟"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/rakeshkr2/in-one-minute-dart-5bhm",
+        "title": "In One Minute : DART",
+        "authors": [
+          "Rakesh KR"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.kodeco.com/books/dart-apprentice-fundamentals",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.kodeco.com/books/dart-apprentice-beyond-the-basics",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.kodeco.com/books/data-structures-algorithms-in-dart",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Dart-Programming-Language-Gilad-Bracha/dp/0321927702",
+        "title": "The Dart Programming Language",
+        "authors": [
+          "Gilad Bracha",
+          "Erik Meijer"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Programming-Absolute-Beginners-step-step/dp/B0C6P8JSNW",
+        "title": "Dart Programming for Absolute Beginners: A step-by-step guide to learning Dart, perfect for beginners who have no prior programming experience.",
+        "authors": [
+          "Alex Klaus"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Flutter-Dart-Running-Android-codebase-ebook/dp/B0BWF6K98H",
+        "title": "Flutter and Dart: Up and Running: Build native apps for both iOS and Android using a single codebase (English Edition)",
+        "authors": [
+          "Dr. Deepti Chopra",
+          "Roopal Khurana"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Building-Cross-Platform-Apps-Flutter-Dart-ebook/dp/B0C6QSW9GK",
+        "title": "Building Cross-Platform Apps with Flutter and Dart: Build scalable apps for Android, iOS, and web from a single codebase (English Edition)",
+        "authors": [
+          "Deven Joshi"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Dart-Programming-Beginners-programming-Technology/dp/B0BNS9ZJ7Q",
+        "title": "D for Dart: Dart Programming for Beginners: Key concepts of the Dart programming language explained with examples. (T for Technology)",
+        "authors": [
+          "TomorrowSKILLS",
+          "Mr Mike Yu"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Dart-Programming-Beginners-Introduction-Hands/dp/B09XZ7LXMG",
+        "title": "Dart Programming for Beginners: An Introduction to Learn Dart Programming with Tutorials and Hands-On Examples",
+        "authors": [
+          "Nathan Metzler"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Programming-Hours-Beginners-Learn-Coding/dp/B09Q1YFP3G",
+        "title": "Dart Programming, In 8 Hours, For Beginners, Learn Coding Fast: Dart Programming Language, Crash Course Tutorial, Quick Start Guide & Exercises",
+        "authors": [
+          "Ray Yao",
+          "Flask C. Netty",
+          "Ado D. Pytorch"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/dart-in-action",
+        "title": "Dart in Action",
+        "authors": [
+          "Chris Buckett"
+        ],
+        "pages": 424,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/dart-up-and/9781449330880/",
+        "title": "Dart: Up and Running",
+        "authors": [
+          "Kathy Walrath",
+          "Seth Ladd"
+        ],
+        "pages": 158,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-dart-second-edition/9781785287626",
+        "title": "Learning Dart - Second Edition",
+        "authors": [
+          "Ivo Balbaert"
+        ],
+        "pages": 382,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-dart/9781783989560",
+        "title": "Mastering Dart",
+        "authors": [
+          "Sergey Akopkokhyants"
+        ],
+        "pages": 346,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/dart-by-example/9781785282478",
+        "title": "Dart By Example",
+        "authors": [
+          "David Mitchell"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/dart-cookbook/9781783989621",
+        "title": "Dart Cookbook",
+        "authors": [
+          "Ivo Balbaert"
+        ],
+        "pages": 346,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/dart-essentials/9781783989607",
+        "title": "Dart Essentials",
+        "authors": [
+          "Martin Sikora",
+          "Krunal Jhaveri"
+        ],
+        "pages": 232,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/flutter-and-dart/9781098119508/",
+        "title": "Flutter and Dart Cookbook",
+        "authors": [
+          "Richard Rose"
+        ],
+        "pages": 200,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/what-is-dart/9781449333164/",
+        "title": "What is Dart?",
+        "authors": [],
+        "pages": 15,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+        "title": "Flutter & Dart - The Complete Guide [2023 Edition]",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 1799,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-beginners-course/",
+        "title": "Dart - Beginners Course",
+        "platform": "Udemy",
+        "authors": [
+          "Bryan Cairns"
+        ],
+        "duration": 121,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-intermediate-course/",
+        "title": "Dart - Intermediate Course",
+        "platform": "Udemy",
+        "authors": [
+          "Bryan Cairns"
+        ],
+        "duration": 123,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-learning-guide/",
+        "title": "The Complete Dart Learning Guide [2022 Edition]",
+        "platform": "Udemy",
+        "authors": [
+          "Hassan Fulaih"
+        ],
+        "duration": 449,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-and-flutter-the-complete-developers-guide/",
+        "title": "Dart and Flutter: The Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 1874,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-dart-guide/",
+        "title": "The Complete Dart Language Guide for Beginners and Beyond",
+        "platform": "Udemy",
+        "authors": [
+          "Andrea Bizzotto"
+        ],
+        "duration": 587,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/dart-advanced-course/",
+        "title": "Dart - Advanced Course",
+        "platform": "Udemy",
+        "authors": [
+          "Bryan Cairns"
+        ],
+        "duration": 144,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/googlecloud-introduction-to-dart-z35cr",
+        "title": "Introduction to Dart",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/learn-dart-first-step-to-flutter",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://fireship.io/courses/dart/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/developing-web-applications-with-dart",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/clean-code-with-dart",
+        "title": "Clean Code with Dart",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Temidayo Adefioye"
+        ],
+        "duration": 52,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/introduction-to-dart",
+        "title": "Introduction to Dart",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Temidayo Adefioye"
+        ],
+        "duration": 50,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-dart/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://dart.dev/guides",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://news.dartlang.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://dart.academy/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PL9ipB2Wsoqj8kqTtptYxMdSy3I28aC0rZ",
+        "title": "Dart Programming Full Course - Learn Dart Programming",
+        "authors": [
+          "Dart Tutorial"
+        ],
+        "duration": 710,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLhQzRG2egYorICE_0jO_c7KrowIqJinin",
+        "title": "Dart Programming Course 2022",
+        "authors": [
+          "Programming Point"
+        ],
+        "duration": 279,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J",
+        "title": "Dart",
+        "authors": [
+          "Flutter"
+        ],
+        "duration": 141,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q",
+        "title": "Dart Tutorial for Beginners: Basics and Fundamentals for Flutter",
+        "authors": [
+          "Smartherd"
+        ],
+        "duration": 287,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=5KlnlCq2M5Q",
+        "title": "Introducing Dart",
+        "authors": [
+          "Google for Developers"
+        ],
+        "duration": 4,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5xlVP04905w",
+        "title": "Dart Programming in 4 hours | Full beginners tutorial",
+        "authors": [
+          "Giraffe Academy"
+        ],
+        "duration": 234,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Ej_Pcr4uC2Q",
+        "title": "Dart Programming Tutorial - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 102,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/F3JuuYuOUK4",
+        "title": "The Best & Most Complete Dart Course - Visualize, Learn and Practice all Dart Language Concepts!",
+        "authors": [
+          "Flutterly"
+        ],
+        "duration": 484,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/JZukfxvc7Mc",
+        "title": "Learn The Dart Programming Language - Complete Free Course!",
+        "authors": [
+          "Codemy.com"
+        ],
+        "duration": 82,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/NrO0CJCbYLA",
+        "title": "Dart in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      }
+    ]
   }
 }
