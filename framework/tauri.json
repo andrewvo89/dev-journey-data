@@ -1,15 +1,203 @@
 {
   "title": "Tauri",
-  "description": "",
+  "description": "auri is an open-source framework for building lightweight, secure, and cross-platform desktop applications with web technologies (HTML, CSS, and JavaScript). Tauri allows developers to write applications once and deploy them on multiple operating systems such as Windows, macOS, and Linux.\nThis software framework leverages Rust's robust ecosystem to deliver small binary sizes and improved security measures. Furthermore, it provides a flexible development experience as it can be integrated with any frontend framework such as Vue.js, React, Angular, Svelte, and many more.\nAs a result, Tauri is often compared to Electron, another popular framework for building desktop applications with web technologies. However, one of Tauri's key selling points is its ability to generate significantly smaller binaries than Electron, making it a suitable choice for developers concerned about the size and performance of their applications.",
   "dependencies": [
     "field/desktop_development",
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
+    "articles": [
+      {
+        "url": "https://betterprogramming.pub/adi%C3%B3s-electron-a-rust-powered-alternative-has-arrived-and-its-lovely-bd26262dcf1a",
+        "title": "Goodbye Electron. Hello Tauri",
+        "authors": [
+          "Ed Rutherford"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@sevenall/tauri-the-next-generation-of-desktop-application-development-framework-e96049ad8f46",
+        "title": "Tauri: the next generation of desktop application development framework",
+        "authors": [
+          "Sevenall Bin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Cazineer/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7",
+        "title": "Tauri with Standard Svelte or SvelteKit",
+        "authors": [
+          "Dan Casler"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/building-a-desktop-app-with-tauri-8e281b8c4f64",
+        "title": "How to Build a Desktop App Using Tauri",
+        "authors": [
+          "applied.math.coding"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/moving-from-electron-to-tauri-part-1-inter-process-communication-f6983d9f96e3",
+        "title": "Moving From Electron to Tauri",
+        "authors": [
+          "Patric Genfer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/building-cross-platform-desktop-applications-with-tauri-part-ii-8d6ad1927093",
+        "title": "Build a Note Taking Desktop Applications With Tauri and React",
+        "authors": [
+          "Yonatan Dawit"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/create-menubar-app-with-tauri-510ab7f7c43d",
+        "title": "Create a Menu Bar App With Tauri",
+        "authors": [
+          "4gray"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/geekculture/how-to-create-tauri-desktop-applications-using-react-8541e42b1f22",
+        "title": "How To Create Tauri Desktop Applications Using React",
+        "authors": [
+          "Mahbub Zaman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/doctave/why-we-built-a-rust-powered-desktop-app-for-previewing-documentation-85a6bfa19e33",
+        "title": "Why we built a Rust-powered desktop app for previewing documentation",
+        "authors": [
+          "Nik Begley"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://valor-software.com/articles/developing-a-desktop-application-via-rust-and-nextjs-the-tauri-way",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.packtpub.com/product/tauri-foundations/9781803241654",
+        "title": "Tauri Foundations",
+        "authors": [
+          "Daniel Thompson-Yvetot",
+          "Lucas Nogueira"
+        ],
+        "pages": 195,
+        "type": "book"
+      }
+    ],
     "courses": [],
-    "misc": [],
-    "videos": []
+    "misc": [
+      {
+        "url": "https://discord.com/invite/tauri",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://tauri.app/blog/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://tauri.app/v1/guides/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/-X8evddpu7M",
+        "title": "Tauri in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLmWYh0f8jKSjt9VC5sq2T3mFETasG2p2L",
+        "title": "Tauri & ReactJS - Modern Desktop App Tutorial",
+        "authors": [
+          "elibro"
+        ],
+        "duration": 227,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BY_ZjPGqJJk",
+        "title": "Building Awesome Desktop App with Rust, Tauri, and SurrealDB",
+        "authors": [
+          "Jeremy Chone"
+        ],
+        "duration": 42,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/EREVvUG0Zp8",
+        "title": "What Is Tauri? - Desktop Apps With Web Tech in Rust",
+        "authors": [
+          "Syntax"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BjQv8-18MW4",
+        "title": "Is Tauri the Future of Cross-Platform Apps? (Goodbye Electron)",
+        "authors": [
+          "Petri IT Knowledgebase"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/l4Dy5m3MnWk",
+        "title": "Goodbye Electron.js 👋",
+        "authors": [
+          "codedamn"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/RAhtfQHIEX4",
+        "title": "Setup Tauri with Next.js and Rust - Tutorial",
+        "authors": [
+          "Orchard Dweller"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Xc6BrAIVdfY",
+        "title": "React Wednesdays: Creating a Tauri App Using React",
+        "authors": [
+          "Kendo UI"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLJ6Y8JfXAV-9JImgKWyL-vDyGGNmqI6pu",
+        "title": "Tauri App Rust & React",
+        "authors": [
+          "Proful"
+        ],
+        "duration": 179,
+        "type": "video"
+      }
+    ]
   }
 }

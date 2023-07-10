@@ -1,14 +1,776 @@
 {
   "title": "CSS",
-  "description": "",
+  "description": "Cascading Style Sheets, or CSS, is a style-sheet language used for designing and formatting documents written in HTML or XML. It's a fundamental technology used in web development, working alongside HTML and JavaScript.\nCSS is utilized to establish the visual styles of web pages, which includes design, layout, and how the page displays on different devices and screen sizes. It specifies the style rules that apply to HTML elements. Each style rule has two main parts: a selector, which identifies the HTML element to be styled, and a declaration block, which specifies one or more style declarations to be applied to the selected element.\nEach declaration within the declaration block has a CSS property and a value, separated by a colon. The property defines the aspect of the element to be styled, such as color or font size, and the value specifies the effect for that property.\nCSS is flexible and enables precise control over the appearance of web content. Styles can be applied in different ways: inline with individual HTML tags, internally within a style block at the top of an HTML document, or externally via linked CSS files. This separation of content and design improves site maintainability and user experience.",
   "dependencies": [
     "language/html"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://dev.to/zinox9/html-css-responsiveness-reference-sheet-45i3",
+        "title": "HTML, CSS & Responsiveness Reference Sheet",
+        "authors": [
+          "Arjun Porwal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/tuckertriggs/100-css-generators-for-web-developers-4bj5",
+        "title": "100+ CSS Generators for Web Developers",
+        "authors": [
+          "Tucker Triggs"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/suhailkakar/best-design-resources-for-developers-4f",
+        "title": "Best Design Resources for Developers",
+        "authors": [
+          "Suhail Kakar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/hulyakarakaya/level-up-your-css-with-these-38-resources-2g39",
+        "title": "Level Up Your CSS with These 50+ Resources",
+        "authors": [
+          "Hulya"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/juliafmorgado/the-ultimate-list-of-css-code-generators-for-web-development-4d1l",
+        "title": "The Ultimate List of CSS Code Generators For Web Development",
+        "authors": [
+          "Julia Furst Morgado"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/lissy93/super-useful-css-resources-1ba3",
+        "title": "Super Useful CSS Resources 🌈",
+        "authors": [
+          "Alicia Sykes"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/shiv1998/what-are-css-variables-3bc8",
+        "title": "What are CSS-Variables?",
+        "authors": [
+          "Shivaansh Agarwal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://elad.medium.com/css-position-sticky-how-it-really-works-54cd01dc2d46",
+        "title": "CSS Position Sticky - How It Really Works!",
+        "authors": [
+          "Elad Shechter"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://vembarrajan.medium.com/html-css-tricks-scroll-able-table-body-tbody-d23182ae0fbc",
+        "title": "HTML/CSS Tricks — Scroll-able Table Body <tbody>",
+        "authors": [
+          "Rajan V"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/how-to-center-things-with-style-in-css-dc87b7542689",
+        "title": "Center CSS With Style — A How to",
+        "authors": [
+          "Stephen Sun"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/free-code-camp/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862",
+        "title": "The 100% correct way to do CSS breakpoints",
+        "authors": [
+          "David Gilbertson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/outsystems-experts/how-to-achieve-60-fps-animations-with-css3-db7b98610108",
+        "title": "Smooth as Butter: Achieving 60 FPS Animations with CSS3",
+        "authors": [
+          "José Rosário"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df",
+        "title": "Common Responsive Layouts with CSS Grid (and some without!)",
+        "authors": [
+          "Jo Franchetti"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codingbff.medium.com/difference-between-css-position-absolute-versus-relative-35f064384c6",
+        "title": "Difference between css position absolute versus relative",
+        "authors": [
+          "Leanne Z"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dixita0607/css-units-for-font-size-px-em-rem-79f7e592bb97",
+        "title": "CSS units for font-size: px | em | rem",
+        "authors": [
+          "Dixita Ganatra"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/claritydesignsystem/pure-css-accessible-checkboxes-and-radios-buttons-54063e759bb3",
+        "title": "Pure CSS: Accessible Checkboxes and Radios Buttons",
+        "authors": [
+          "Aditya Bhandari"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/free-code-camp/an-animated-guide-to-flexbox-d280cf6afc35",
+        "title": "How Flexbox works — explained with big, colorful, animated gifs",
+        "authors": [
+          "Scott Domes"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dave_lunny/animating-css-gradients-using-only-css-d2fd7671e759",
+        "title": "Animating CSS Gradients, using only CSS",
+        "authors": [
+          "Dave Lunny"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/free-code-camp/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849",
+        "title": "CSS Naming Conventions that Will Save You Hours of Debugging",
+        "authors": [
+          "Ohans Emmanuel"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189",
+        "title": "HTML and CSS: Design and Build Websites",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "pages": 514,
+        "type": "book"
+      },
+      {
+        "url": "https://www.murach.com/shop/murachs-html-and-css-5th-edition-detail",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/css-the-definitive/9781098117603/",
+        "title": "CSS: The Definitive Guide, 5th Edition",
+        "authors": [
+          "Eric Meyer",
+          "Estelle Weyl"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/css-secrets/9781449372736/",
+        "title": "CSS Secrets",
+        "authors": [
+          "Lea Verou"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-html/9781449324469/",
+        "title": "Head First HTML and CSS, 2nd Edition",
+        "authors": [
+          "Elisabeth Robson",
+          "Eric Freeman"
+        ],
+        "pages": 765,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/flexbox-in-css/9781491981474/",
+        "title": "Flexbox in CSS",
+        "authors": [
+          "Estelle Weyl"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-fourth-edition/9781803242712",
+        "title": "Responsive Web Design with HTML5 and CSS - Fourth Edition",
+        "authors": [
+          "Ben Frain"
+        ],
+        "pages": 498,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-css-grid/9781804614846",
+        "title": "Mastering CSS Grid",
+        "authors": [
+          "Pascal Thormeier"
+        ],
+        "pages": 330,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-html-and-css-workshop/9781838824532",
+        "title": "The HTML and CSS Workshop",
+        "authors": [
+          "Lewis Coulson",
+          "Brett Jephson",
+          "Rob Larsen\nand 2 more"
+        ],
+        "pages": 700,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-css/9781787281585",
+        "title": "Mastering CSS",
+        "authors": [
+          "Rich Finelli"
+        ],
+        "pages": 522,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/html-css-design-and-build-websites/9781118008188",
+        "title": "HTML & CSS: Design and Build Websites",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "pages": 512,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/instant-sass-css-how-to/9781782163787",
+        "title": "Instant SASS CSS How-to",
+        "authors": [
+          "Alex Libby"
+        ],
+        "pages": 80,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-third-edition/9781800565180",
+        "title": "Responsive Web Design with HTML5 and CSS - Third Edition",
+        "authors": [
+          ""
+        ],
+        "pages": 9781800565180,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/enduring-css/9781787282803",
+        "title": "Enduring CSS",
+        "authors": [
+          "Ben Frain"
+        ],
+        "pages": 134,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/50-projects-50-days/",
+        "title": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy",
+          "Florin Pop"
+        ],
+        "duration": 1109,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/advanced-css-and-sass/",
+        "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More",
+        "platform": "Udemy",
+        "authors": [
+          "Jonas Schmedtmann"
+        ],
+        "duration": 1689,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/css-animation-transitions-and-transforms-creativity-course/",
+        "title": "Creative Advanced CSS Animations - Create 100 Projects!",
+        "platform": "Udemy",
+        "authors": [
+          "Ahmed Sadek"
+        ],
+        "duration": 768,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/",
+        "title": "Get Started With CSS (Plus Flexbox, Grid, and Sass)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller",
+          "Manuel Lorenz"
+        ],
+        "duration": 1366,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+        "title": "Build Responsive Websites with HTML5 and CSS3",
+        "platform": "Udemy",
+        "authors": [
+          "Jonas Schmedtmann"
+        ],
+        "duration": 2250,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/html-and-css-bootcamp/",
+        "title": "The HTML & CSS Bootcamp 2023 Edition",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele"
+        ],
+        "duration": 2232,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-html-css-from-the-beginning/",
+        "title": "Modern HTML & CSS From The Beginning (Including Sass)",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 1246,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "title": "The Complete 2023 Web Development Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Dr. Angela Yu"
+        ],
+        "duration": 3963,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "title": "The Web Developer Bootcamp: Learn HTML, CSS, Node, and More!",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele"
+        ],
+        "duration": 4435,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-css",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "platform": "Coursera",
+        "authors": [
+          "Yaakov Chaikin"
+        ],
+        "duration": 2404,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/introcss",
+        "title": "Introduction to CSS3",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/html-and-css-in-depth",
+        "title": "HTML and CSS in depth",
+        "platform": "Coursera",
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 1142,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/intro-css-web-development",
+        "title": "Introduction to CSS in Web Development",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/learn-html-and-css",
+        "title": "Learn HTML and CSS",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/build-a-webpage-with-html-and-css",
+        "title": "Build a Webpage with HTML and CSS",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/htmlandcss",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-flexbox-creating-responsive-pages",
+        "title": "Creating Responsive Pages with CSS FlexBox",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jeff Batt"
+        ],
+        "duration": 81,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-applying-special-effects",
+        "title": "Applying Special Effects to a Site Using CSS",
+        "platform": "Pluralsight",
+        "authors": [
+          "Nate Taylor"
+        ],
+        "duration": 114,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-shapes-thinking-outside-box",
+        "title": "Thinking Outside the Box with CSS Shapes",
+        "platform": "Pluralsight",
+        "authors": [
+          "Brian Treese"
+        ],
+        "duration": 73,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-animation-with-transition-and-transform",
+        "title": "CSS Animation with Transition and Transform",
+        "platform": "Pluralsight",
+        "authors": [
+          "Sandy Ludosky"
+        ],
+        "duration": 129,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/modern-web-layout-flexbox-css-grid",
+        "title": "Modern Web Layout with Flexbox and CSS Grid",
+        "platform": "Pluralsight",
+        "authors": [
+          "Brian Treese"
+        ],
+        "duration": 70,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-positioning-1834",
+        "title": "CSS Positioning",
+        "platform": "Pluralsight",
+        "authors": [
+          "Susan Simkins"
+        ],
+        "duration": 50,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/css-creating-page-layouts",
+        "title": "Creating Page Layouts with CSS",
+        "platform": "Pluralsight",
+        "authors": [
+          "Paul Cheney"
+        ],
+        "duration": 134,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/hands-on-responsive-web-design",
+        "title": "Hands On Responsive Web Design",
+        "platform": "Pluralsight",
+        "authors": [
+          "Paul Cheney"
+        ],
+        "duration": 261,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/motion-design-css",
+        "title": "Motion Design with CSS",
+        "platform": "Pluralsight",
+        "authors": [
+          "Rachel Nabors"
+        ],
+        "duration": 242,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.w3schools.com/cssref/index.php",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://webplatform.github.io/docs/css/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.kevinpowell.co/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/yfoY53QXEnI",
+        "title": "CSS Crash Course For Absolute Beginners",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 86,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/x_i2gga-sYg",
+        "title": "Block, Inline, and Inline-Block explained | CSS Tutorial",
+        "authors": [
+          "Kevin Powell"
+        ],
+        "duration": 15,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/wRNinF7YQqQ",
+        "title": "Learn CSS in 1 hour 🎨",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/srvUrASNj0s",
+        "title": "Introduction To Responsive Web Design - HTML & CSS Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 252,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/phWxA89Dy94",
+        "title": "Learn Flexbox CSS in 8 minutes",
+        "authors": [
+          "Slaying The Dragon"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ouncVBiye_M",
+        "title": "7 ways to deal with CSS",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/jx5jmI0UlXU",
+        "title": "Learn CSS Position In 9 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Z4pCqK-V_Wo",
+        "title": "CSS in 5 minutes",
+        "authors": [
+          "Aaron Jack"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/YszONjKpgg4",
+        "title": "Learn CSS Animation In 15 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 16,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/SgmNxE9lWcY",
+        "title": "Learn CSS Animations In 20 Minutes - For Beginners",
+        "authors": [
+          "Slaying The Dragon"
+        ],
+        "duration": 22,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Qhaz36TZG5Y",
+        "title": "10 CSS Pro Tips - Code this, NOT that!",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OXGznpKZ_sA",
+        "title": "CSS Tutorial – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 669,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MxEtxo_AaZ4",
+        "title": "Learn CSS Positioning Quickly With A Real World Example",
+        "authors": [
+          "Slaying The Dragon"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/JJSoEo8JSnc",
+        "title": "Flexbox CSS In 20 Minutes",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 20,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/G3e-cpL7ofc",
+        "title": "HTML & CSS Full Course - Beginner to Pro",
+        "authors": [
+          "SuperSimpleDev"
+        ],
+        "duration": 392,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/FqmB-Zj2-PA",
+        "title": "CSS Masterclass - Tutorial & Course for Beginners",
+        "authors": [
+          "Chris Courses"
+        ],
+        "duration": 294,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/1Rs2ND1ryYc",
+        "title": "CSS Tutorial - Zero to Hero (Complete Course)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 379,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/1PnVor36_40",
+        "title": "Learn CSS in 20 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 24,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLr6-GrHUlVf8JIgLcu3sHigvQjTw_aC9C",
+        "title": "CSS Tutorial for Beginners",
+        "authors": [
+          "EJ Media"
+        ],
+        "duration": 352,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PLP9IO4UYNF0XQNx1OinMm84lyGzWSWDms",
+        "title": "CSS Tutorial",
+        "authors": [
+          "w3schools.com"
+        ],
+        "duration": 145,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL7TLF4T4Tq2RCWa-ZRkEWXVtXteyZ2CjK",
+        "title": "CSS/3 Full Tutorial",
+        "authors": [
+          "Dev Dreamer"
+        ],
+        "duration": 366,
+        "type": "video"
+      },
+      {
+        "url": "https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit",
+        "title": "CSS Tutorials for Beginners",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 613,
+        "type": "video"
+      }
+    ]
   }
 }
