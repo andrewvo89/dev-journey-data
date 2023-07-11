@@ -1,14 +1,424 @@
 {
   "title": "GraphQL",
-  "description": "",
+  "description": "GraphQL is a data query and manipulation language for APIs, and a runtime for executing those queries with your existing data. Developed by Facebook in 2012 and open-sourced in 2015, it provides an efficient and powerful alternative to RESTful APIs.\nIn contrast to traditional REST APIs, GraphQL exposes a single endpoint and allows clients to request exactly what they need, reducing over-fetching and under-fetching of data. This makes applications using GraphQL more efficient and fast, as they control the data they get, not the server.\nIts type system ensures the data you get is predictable and in the format you have defined, reducing the chances of encountering unexpected data from your API. Furthermore, GraphQL's introspection system allows for powerful tooling and robust API exploration.\nIt's not tied to any specific database or storage engine and is instead backed by your existing code and data, providing flexibility and adaptability in application design.",
   "dependencies": [
     "field/api_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://techbeacon.com/app-dev-testing/practical-guide-graphql-future-apis",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.apollographql.com/blog/graphql/basics/demystifying-graphql-misconceptions-top-five-graphql-myths-debunked/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://codersociety.com/blog/articles/introduction-graphql",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://nordicapis.com/10-awesome-tools-and-extensions-for-graphql-apis/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.altexsoft.com/blog/engineering/graphql-core-features-architecture-pros-and-cons/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-graphql",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.toptal.com/api-development/graphql-vs-rest-tutorial",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.bitsrc.io/rest-vs-graphql-vs-grpc-684edfacf810",
+        "title": "REST vs GraphQL vs gRPC",
+        "authors": [
+          "Chameera Dulanga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/paypal-tech/graphql-resolvers-best-practices-cd36fdbcef55",
+        "title": "GraphQL Resolvers: Best Practices",
+        "authors": [
+          "Mark Stuart"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1",
+        "title": "Creating A GraphQL Server With Node.js And Express",
+        "authors": [
+          "Sebastian"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.apollographql.com/blog/graphql/examples/building-a-graphql-server/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/good-api/rest-vs-graphql-a-critical-review-5f77392658e7",
+        "title": "REST vs. GraphQL: A Critical Review",
+        "authors": [
+          "Zdenek “Z” Nemec"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.manning.com/books/graphql-in-action",
+        "title": "GraphQL in Action",
+        "authors": [],
+        "pages": 384,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-graphql/9781492030706/",
+        "title": "Learning GraphQL",
+        "authors": [
+          "Eve Porcello",
+          "Alex Banks"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/graphql-for-modern/9781492056850/",
+        "title": "GraphQL for Modern Commerce",
+        "authors": [
+          "Kelly Goetsch"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Beginning-GraphQL-React-NodeJS-Apollo-ebook/dp/B0BXB97QRK/",
+        "title": "Beginning GraphQL with React, NodeJS and Apollo",
+        "authors": [
+          "Greg Lim"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Black-Hat-GraphQL-Attacking-Generation/dp/1718502842/",
+        "title": "Black Hat GraphQL: Attacking Next Generation APIs",
+        "authors": [
+          "Nick Aleks",
+          "Dolev Farhi",
+          "Opheliar Chan"
+        ],
+        "pages": 313,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Road-GraphQL-pragmatic-JavaScript-React-js/dp/1730853935/",
+        "title": "The Road to GraphQL: Your journey to master pragmatic GraphQL in JavaScript with React.js and Node.js",
+        "authors": [
+          "Robin Wieruch"
+        ],
+        "pages": 354,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-web-development-with-graphql-and-react-second-edition/9781801077880",
+        "title": "Full-Stack Web Development with GraphQL and React - Second Edition",
+        "authors": [
+          "Sebastian Grebe"
+        ],
+        "pages": 472,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-development-with-angular-and-graphql/9781800202467",
+        "title": "Full Stack Development with Angular and GraphQL",
+        "authors": [
+          "Ahmed Bouchefra"
+        ],
+        "pages": 390,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/graphql-with-react-course/",
+        "title": "GraphQL with React Course: The Complete Developers Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 796,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/graphql-bootcamp/",
+        "title": "The Modern GraphQL Bootcamp (Learn Node.js and Apollo)",
+        "platform": "Udemy",
+        "authors": [
+          "Andrew Mead"
+        ],
+        "duration": 1404,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-graphql-complete-guide/",
+        "title": "Modern GraphQL with Node - Complete Developers Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Laith Harb"
+        ],
+        "duration": 640,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/graphql-by-example/",
+        "title": "Learn GraphQL through Examples: Write Full Stack JavaScript Applications",
+        "platform": "Udemy",
+        "authors": [
+          "Mirko Nasato"
+        ],
+        "duration": 481,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/graphql-essential-training-14933112",
+        "title": "GraphQL Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emmanuel Henri"
+        ],
+        "duration": 109,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-graphql-11292553",
+        "title": "Learning GraphQL",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Eve Porcello"
+        ],
+        "duration": 55,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/reactgraphql",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/graphql-server-expressjs",
+        "title": "Make a GraphQL Server with ExpressJS",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/graphql-big-picture",
+        "title": "GraphQL: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Adhithi Ravichandran"
+        ],
+        "duration": 77,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/graphql-api-apollo-server",
+        "title": "Building a GraphQL API with Apollo Server",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jonathan Mills"
+        ],
+        "duration": 125,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.apollographql.com/tutorials/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://book.productionreadygraphql.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://graphql.guide/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://graphql.org/community/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://graphql.org/blog/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://graphql.org/learn/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/783ccP__No8",
+        "title": "GraphQL: The Documentary",
+        "authors": [
+          "Honeypot"
+        ],
+        "duration": 28,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/7ccdWqGgHaM",
+        "title": "GraphQL vs REST: What's The Difference And When To Use Which?",
+        "authors": [
+          "ArjanCodes"
+        ],
+        "duration": 27,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BcLNfwF04Kw",
+        "title": "GraphQL Crash Course With Full Stack MERN Project",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 195,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PTfZcN20fro",
+        "title": "GraphQL vs REST: Which is Better for APIs?",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ZQL7tL2S0oQ",
+        "title": "Learn GraphQL In 40 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 40,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/eIQh02xuVw4",
+        "title": "GraphQL Explained in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ed8SzALpx1Q",
+        "title": "GraphQL Full Course - Novice to Expert",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 246,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/qux4-yWeZvo",
+        "title": "Modern GraphQL Crash Course - 2022",
+        "authors": [
+          "Laith Academy"
+        ],
+        "duration": 211,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/yWzKJPw_VzM",
+        "title": "What Is GraphQL? REST vs. GraphQL",
+        "authors": [
+          "ByteByteGo"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/yqWzCV0kU_c",
+        "title": "Learn GraphQL in 4 Hours - From Beginner to Expert",
+        "authors": [
+          "PedroTech"
+        ],
+        "duration": 236,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f",
+        "title": "GraphQL Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 246,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU",
+        "title": "GraphQL Course - Beginner To Expert",
+        "authors": [
+          "PedroTech"
+        ],
+        "duration": 244,
+        "type": "video"
+      }
+    ]
   }
 }

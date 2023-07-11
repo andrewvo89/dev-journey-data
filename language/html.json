@@ -1,14 +1,641 @@
 {
   "title": "HTML",
-  "description": "",
+  "description": "HTML, short for HyperText Markup Language, is the standard language used to create webpages and web applications. It was developed by the World Wide Web Consortium (W3C) and is currently in its 5th major version, known as HTML5.\nHTML documents are made up of elements, denoted by tags, which are used to structure the content on the webpage. These elements include headings, paragraphs, lists, links, images, and more. The tags also provide a means to incorporate styles, scripts, and other types of information into the web document.\nHTML is not a programming language, but a markup language. It provides the structure of a webpage, while other technologies like CSS (Cascading Style Sheets) and JavaScript are used to style and add interactivity to the webpage respectively. HTML documents are text files, which can be created and edited with any text editor, and are rendered by web browsers.",
   "dependencies": [
     "runtime/web_browser"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://vembarrajan.medium.com/html-css-tricks-scroll-able-table-body-tbody-d23182ae0fbc",
+        "title": "HTML/CSS Tricks — Scroll-able Table Body <tbody>",
+        "authors": [
+          "Rajan V"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/making-a-calculator-with-basic-html-css-and-javascript-part-1-1e4288f0bea1",
+        "title": "Making a Calculator with Basic HTML, CSS and JavaScript",
+        "authors": [
+          "Emmanuel Ndubuisi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.bitsrc.io/5-open-source-html5-video-players-for-2018-38fa85932afb",
+        "title": "5 Open Source HTML5 Video Players for 2019",
+        "authors": [
+          "Manjunath M"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/link-css-and-js-files-with-html-file-f848d00b42e8",
+        "title": "Link CSS and Js Files With an HTML File",
+        "authors": [
+          "Rodrigo Torrico"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Idan_Co/the-ultimate-print-html-template-with-header-footer-568f415f6d2a",
+        "title": "The Ultimate Print HTML Template with Header & Footer",
+        "authors": [
+          "Idan Cohen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://itnext.io/https-medium-com-joshstudley-form-field-validation-with-html-and-a-little-javascript-1bda6a4a4c8c",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@zac_heisey/7-alternatives-to-the-div-html-tag-7c888c7b5036",
+        "title": "7 Alternatives to the <div> HTML Tag",
+        "authors": [
+          "Zac Heisey"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/sedeo/how-to-fix-target-blank-a-security-and-performance-issue-in-web-pages-2118eba1ce2f",
+        "title": "How to fix target=”_blank” links: a security and performance issue in web pages",
+        "authors": [
+          "Ali Kamalizade"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/goodbye-html-hello-canvas-part-1-92f750961666",
+        "title": "Goodbye HTML. Hello Canvas!",
+        "authors": [
+          "Joana Borges Late"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://codeburst.io/block-level-and-inline-elements-the-difference-between-div-and-span-2f8502c1f95b",
+        "title": "Block-Level and Inline Elements: The difference between <div> and <span>",
+        "authors": [
+          "Emmanuel Ndubuisi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://halimshams.medium.com/amazing-html5-features-that-just-3-of-developers-knows-easy-and-surprising-ac67ff598162",
+        "title": "Amazing HTML5 Features That Just 3% of Developers Knows — Easy and Surprising",
+        "authors": [
+          "Halim Shams"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@nerdplusdog/a-how-to-guide-for-modal-boxes-with-javascript-html-and-css-6a49d063987e",
+        "title": "A How-To Guide for Modal Boxes with Javascript, HTML, and CSS",
+        "authors": [
+          "Gabbie Piraino"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/jspoint/pug-js-to-make-your-life-easier-with-html-templates-9c62273626e0",
+        "title": "Pug.js to make your life easier with HTML templates",
+        "authors": [
+          "Uday Hiwarale"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/24-powerful-html-attributes-every-senior-web-engineer-should-master-ad8a4df0776e",
+        "title": "24 Powerful HTML Attributes Every Senior Web Engineer Should Master!",
+        "authors": [
+          "Xiuer Old"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://tapajyoti-bose.medium.com/7-cool-html-elements-nobody-uses-436598d85668",
+        "title": "7 Cool HTML Elements Nobody Uses",
+        "authors": [
+          "Tapajyoti Bose"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@rukshandanadir/7-html-tags-you-didnt-know-existed-21812c9cc8d5",
+        "title": "7 HTML Tags you didn’t know existed!",
+        "authors": [
+          "Rukshanda Mahmood"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/new-html-element-search-b0e8c8969736",
+        "title": "New HTML Element: <search>",
+        "authors": [
+          "Alvaro Montoro"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/cleancodestudio/document-object-model-specification-2a9o",
+        "title": "Document Object Model Specification",
+        "authors": [
+          "Clean Code Studio"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/jordanholtdev/how-to-create-a-web-page-with-html-26ho",
+        "title": "How to create a web page with HTML",
+        "authors": [
+          "Jordan Holt"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/rohankiratsata/html-cheatsheet-35ln",
+        "title": "HTML Cheatsheet",
+        "authors": [
+          "Rohan Kiratsata"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/html-css/9781449381943/",
+        "title": "HTML & CSS: The Good Parts",
+        "authors": [
+          "Ben Henick"
+        ],
+        "pages": 352,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/web-design-playground-second-edition",
+        "title": "Web Design Playground, Second Edition",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-html/9781449324469/",
+        "title": "Head First HTML and CSS, 2nd Edition",
+        "authors": [
+          "Elisabeth Robson",
+          "Eric Freeman"
+        ],
+        "pages": 765,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/html5-pocket-reference/9781449368777/",
+        "title": "HTML5 Pocket Reference, 5th Edition",
+        "authors": [
+          "Jennifer Robbins"
+        ],
+        "pages": 177,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-html-and-css-workshop/9781838824532",
+        "title": "The HTML and CSS Workshop",
+        "authors": [
+          "Lewis Coulson",
+          "Brett Jephson",
+          "Rob Larsen\nand 2 more"
+        ],
+        "pages": 700,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/html-css-design-and-build-websites/9781118008188",
+        "title": "HTML & CSS: Design and Build Websites",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "pages": 512,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/responsive-web-design-with-html5-and-css-fourth-edition/9781803242712",
+        "title": "Responsive Web Design with HTML5 and CSS - Fourth Edition",
+        "authors": [
+          "Ben Frain"
+        ],
+        "pages": 498,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/HTML-CSS-QuickStart-Guide-Fundamentals-ebook/dp/B08TT68MQG",
+        "title": "HTML and CSS QuickStart Guide: The Simplified Beginners Guide to Developing a Strong Coding Foundation, Building Responsive Websites, and Mastering the ... Design (QuickStart Guides™ - Technology)",
+        "authors": [
+          "David DuRocher"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript-ebook/dp/B07DQ5RZJV",
+        "title": "Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics",
+        "authors": [
+          "Jennifer Robbins"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Smarter-Way-Learn-HTML-CSS-ebook/dp/B00ULX5FT2",
+        "title": "A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it longer.",
+        "authors": [
+          "Mark Myers"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/HTML-Basic-Fundamental-Guide-Beginners-ebook/dp/B07F6GW84P",
+        "title": "HTML: Basic Fundamental Guide for Beginners",
+        "authors": [
+          "MG Martin"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/HTML5-CSS3-All-One-Dummies-ebook/dp/B00EFB467I",
+        "title": "HTML5 and CSS3 All-in-One For Dummies",
+        "authors": [
+          "Andy Harris"
+        ],
+        "pages": 0,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/",
+        "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "platform": "Udemy",
+        "authors": [
+          "Edwin Diaz",
+          "Coding Faculty Solutions"
+        ],
+        "duration": 350,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-html-for-beginners/",
+        "title": "Learn HTML - For Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "YouAccel Training"
+        ],
+        "duration": 135,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/build-website-scratch/",
+        "title": "How to Build Websites from Scratch: Code with HTML and CSS",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Hussey",
+          "Code College"
+        ],
+        "duration": 518,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/htmlandcss",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/web-design",
+        "title": "Web Design for Everybody: Basics of Web Development & Coding",
+        "platform": "Coursera",
+        "authors": [
+          "Colleen van Lent, Ph.D.",
+          "Charles Russell Severance"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
+        "title": "HTML, CSS, and Javascript for Web Developers",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/html",
+        "title": "Introduction to HTML5",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/html-and-css-in-depth",
+        "title": "HTML and CSS in depth",
+        "platform": "Coursera",
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 1142,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/learn-html-and-css",
+        "title": "Learn HTML and CSS",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-html",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/html-essential-training-4",
+        "title": "HTML Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jen Simmons"
+        ],
+        "duration": 165,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245",
+        "title": "Introduction to Web Design and Development",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jen Kramer"
+        ],
+        "duration": 112,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/practical-html-for-no-coders",
+        "title": "Practical HTML for No-Coders",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jen Kramer"
+        ],
+        "duration": 99,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/html-css-creating-forms",
+        "title": "HTML & CSS: Creating Forms",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Clarissa Peterson"
+        ],
+        "duration": 150,
+        "type": "course"
+      },
+      {
+        "url": "https://learndigital.withgoogle.com/digitalgarage/course/build-your-first-web-pages-with-html-and-css",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/intro-to-html-and-css--ud001",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.simplilearn.com/free-html-course-for-beginners-skillup",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.khanacademy.org/computing/computer-programming/html-css",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/semantic-html",
+        "title": "Semantic HTML",
+        "platform": "Pluralsight",
+        "authors": [
+          "Susan Simkins"
+        ],
+        "duration": 82,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/teaching-kids-basic-html",
+        "title": "Basic HTML for Kids",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jill Gundersen"
+        ],
+        "duration": 69,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/html-css-javascript-big-picture",
+        "title": "HTML, CSS, and JavaScript: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Barry Luijbregts"
+        ],
+        "duration": 88,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/basic-html5-css3-building-first-web-page",
+        "title": "Learn Basic HTML5 and CSS3 by Building Your First Web Page",
+        "platform": "Pluralsight",
+        "authors": [
+          "Mario Duilio Macari"
+        ],
+        "duration": 123,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/building-websites-html",
+        "title": "Building Websites with HTML 5",
+        "platform": "Pluralsight",
+        "authors": [
+          "Gill Cleeren"
+        ],
+        "duration": 179,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/html-fundamentals",
+        "title": "HTML Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 139,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.w3schools.com/html/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://webplatform.github.io/docs/html/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G",
+        "title": "HTML & CSS Crash Course Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 250,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/FQdaUv95mR8",
+        "title": "HTML Tutorial for Beginners",
+        "authors": [
+          "Kevin Stratvert"
+        ],
+        "duration": 40,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/G3e-cpL7ofc",
+        "title": "HTML & CSS Full Course - Beginner to Pro",
+        "authors": [
+          "SuperSimpleDev"
+        ],
+        "duration": 392,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/HD13eq_Pmp8",
+        "title": "Learn HTML in 1 hour 🌎",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 60,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/HGTJBPNC-Gw",
+        "title": "HTML & CSS Full Course for free 🌎 (2023)",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 243,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MDLn5-zSQQI",
+        "title": "HTML Tutorial For Beginners |HTML In 10 Minutes | HTML Basics For Beginners | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PlxWf493en4",
+        "title": "HTML Tutorial - How to Make a Super Simple Website",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 34,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/UB1O30fR-EE",
+        "title": "HTML Crash Course For Absolute Beginners",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 61,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/kUMe1FH4CHE",
+        "title": "Learn HTML – Full Tutorial for Beginners (2022)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 248,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ok-plXXHlWw",
+        "title": "HTML in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/pQN-pnXPaVg",
+        "title": "HTML Full Course - Build a Website Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 123,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/qz0aGYrrlhU",
+        "title": "HTML Tutorial for Beginners: HTML Crash Course",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 70,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/salY_Sm6mv4",
+        "title": "HTML in 5 minutes",
+        "authors": [
+          "Aaron Jack"
+        ],
+        "duration": 6,
+        "type": "video"
+      }
+    ]
   }
 }
