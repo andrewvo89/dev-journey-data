@@ -1,16 +1,964 @@
 {
   "title": "Java",
-  "description": "",
+  "description": "ava is a high-level, class-based, object-oriented programming language developed by Sun Microsystems in the mid-1990s (now owned by Oracle Corporation). It's known for its \"write once, run anywhere\" philosophy, which comes from its platform-agnostic Java Virtual Machine (JVM) that allows Java programs to run on any device that has a JVM installed.\nJava is statically-typed, offering robustness, security, and ease of debugging, and it's particularly renowned for its use in building large-scale enterprise applications, web applications, Android apps, and more. It supports multithreading, allowing for the development of highly interactive and responsive applications.\nOne of the defining characteristics of Java is its strong emphasis on object-oriented programming (OOP). Java classes, the fundamental units of OOP in Java, encapsulate data and methods that operate on that data, providing a blueprint for creating objects. Inheritance, polymorphism, and encapsulation, which are fundamental concepts of OOP, are rigorously implemented in Java, leading to code that's more modular, flexible, and reusable.\nAnother significant feature of Java is its platform-independence or cross-platform capabilities. The source code in Java is first compiled into an intermediate form known as bytecode, which is then interpreted and run by the Java Virtual Machine (JVM). Since JVMs are available for almost every existing operating system (OS), a Java program can run on any device with a JVM, making Java truly platform-independent.\nJava also offers extensive support for multithreaded programming, allowing developers to build applications that can perform multiple tasks simultaneously. This multithreading capability is particularly useful in developing highly interactive and responsive applications, as well as in server-side programming where handling concurrent requests is a necessity.\nIn the realm of application development, Java has been widely adopted across various sectors. It's used extensively in enterprise-level applications for its robustness and scalability. For example, many financial services, healthcare, and IT services companies rely on Java to power their backend systems. Java's security features and comprehensive library support also make it a popular choice for developing secure, high-performance web applications. Moreover, as the primary language for Android app development, Java is at the forefront of the mobile app industry.\nOn the academic front, Java is often used in computer science education. Its clear structure and object-oriented approach make it an excellent language for teaching coding fundamentals and complex programming concepts.",
   "dependencies": [
     "runtime/jre",
     "runtime/jdk",
     "field/mobile_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://medium.com/aia-sg-techblog/refactor-if-elseif-elseif-using-strategy-design-pattern-80c51913a539",
+        "title": "Refactor if/elseif/elseif using Strategy Design Pattern",
+        "authors": [
+          "Sandesh Gaonkar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@alexeynovikov_89393/stop-using-exceptions-in-java-456f7db46ea4",
+        "title": "Stop using Exceptions in Java",
+        "authors": [
+          "Aleksei Novikov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/javarevisited/20-amazing-java-project-ideas-that-will-boost-your-programming-career-75c4276f6f5",
+        "title": "20 Amazing Java Project Ideas That Will Boost Your Programming Career",
+        "authors": [
+          "John Selawsky"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/w-logs/installing-java-11-on-macos-with-homebrew-7f73c1e9fadf",
+        "title": "Installing Java 11 on MacOS with HomeBrew",
+        "authors": [
+          "Wai Loon"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@devkosal/switching-java-jdk-versions-on-macos-80bc868e686a",
+        "title": "Switching Java (JDK) Versions on macOS",
+        "authors": [
+          "Dev Sharma"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@kevalpatel2106/how-to-make-the-perfect-singleton-de6b951dfdb0",
+        "title": "How to make the perfect Singleton?",
+        "authors": [
+          "Keval Patel"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/learn-these-4-things-and-working-with-lambda-expressions-b0ab36e0fffc",
+        "title": "How to Start Working With Lambda Expressions in Java",
+        "authors": [
+          "Luis Santiago"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://komalvenkatesh.medium.com/why-java-is-dying-b02b5fd44db9",
+        "title": "Why Java Is Dying",
+        "authors": [
+          "Komal Venkatesh Ganesan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://redfin.engineering/java-string-concatenation-which-way-is-best-8f590a7d22a8",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/java-multithreading-tutorial/",
+        "title": "Java Multithreading Tutorial",
+        "authors": [
+          "solankimayank"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/java-program-to-add-characters-to-a-string/",
+        "title": "Java Program to Add Characters to a String",
+        "authors": [
+          "akshitsaxenaa09"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/the-override-annotation-in-java/",
+        "title": "The @Override Annotation in Java",
+        "authors": [
+          "sanketnagare"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/how-to-implement-stack-in-java-using-linkedlist-and-generics/",
+        "title": "How to Implement Stack in Java using LinkedList and Generics?",
+        "authors": [
+          "malirevdwm7"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/restrictions-on-generics-in-java/",
+        "title": "Restrictions on Generics in Java",
+        "authors": [
+          "malirevdwm7"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/passing-strings-by-reference-in-java/",
+        "title": "Passing Strings By Reference in Java",
+        "authors": [
+          "shubhamgupta028"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/type-safety-and-type-casting-in-java-generics/",
+        "title": "Type-Safety and Type-Casting in Java Generics",
+        "authors": [
+          "vivekyadav86706"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/oop-design-principles-java-programmers/",
+        "title": "7 OOP Design Principles Java Programmers Should Learn in 2023",
+        "authors": [
+          "josal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/how-to-setup-intellij-idea-for-java-competitive-programming-environment/",
+        "title": "How to Setup IntelliJ IDEA For Java Competitive Programming Environment?",
+        "authors": [
+          "adigupta951"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Head-First-Java-Brain-Friendly-Guide/dp/1491910771",
+        "title": "Head First Java: A Brain-Friendly Guide",
+        "authors": [
+          "Kathy Sierra",
+          "Bert Bates",
+          "Trisha Gee"
+        ],
+        "pages": 688,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Effective-Java-Joshua-Bloch/dp/0134685997",
+        "title": "Effective Java",
+        "authors": [
+          "Joshua Bloch"
+        ],
+        "pages": 416,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Java-Ultimate-Beginners-Experience-Programming/dp/B0BZ6Q7SG6",
+        "title": "Java: The Ultimate Beginner's Guide to Learn Java Quickly With No Prior Experience (Computer Programming)",
+        "authors": [
+          "Mark Reed"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Java-Beginners-Hands-Project-Project-ebook/dp/B01LZOCVN9",
+        "title": "Java: Learn Java in One Day and Learn It Well. Java for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project Book 4)",
+        "authors": [
+          "LCF Publishing",
+          "Jamie Chan"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Java-Dummies-Computer-Tech/dp/1119861640",
+        "title": "Java For Dummies (For Dummies (Computer/Tech))",
+        "authors": [
+          "Barry Burd"
+        ],
+        "pages": 519,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learn-Java-Easy-Way-Hands/dp/1593278055",
+        "title": "Learn Java the Easy Way: A Hands-On Introduction to Programming",
+        "authors": [
+          "Bryson Payne"
+        ],
+        "pages": 314,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Java-All-One-Dummies-Doug/dp/1119986648",
+        "title": "Java All-in-One For Dummies",
+        "authors": [
+          "Doug Lowe"
+        ],
+        "pages": 919,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Java-Complete-Reference-Herbert-Schildt/dp/1260463419",
+        "title": "Java: The Complete Reference, Twelfth Edition",
+        "authors": [
+          "Herbert Schildt"
+        ],
+        "pages": 1248,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Building-Java-Programs-Basics-Approach/dp/013547194X",
+        "title": "Building Java Programs: A Back to Basics Approach",
+        "authors": [
+          "Stuart Reges",
+          "Marty Stepp"
+        ],
+        "pages": 1232,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-java/1565927184/",
+        "title": "Learning Java",
+        "authors": [],
+        "pages": 738,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-java-6th/9781098145521/",
+        "title": "Learning Java, 6th Edition",
+        "authors": [
+          "Marc Loy",
+          "Patrick Niemeyer",
+          "Daniel Leuck"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/java-in-a/9781098130992/",
+        "title": "Java in a Nutshell, 8th Edition",
+        "authors": [
+          "Benjamin J Evans",
+          "Jason Clark",
+          "David Flanagan"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/a-functional-approach/9781098109912/",
+        "title": "A Functional Approach to Java",
+        "authors": [
+          "Ben Weidig"
+        ],
+        "pages": 275,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/java-performance-2nd/9781492056102/",
+        "title": "Java Performance, 2nd Edition",
+        "authors": [
+          "Scott Oaks"
+        ],
+        "pages": 450,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/java-cookbook-4th/9781492072577/",
+        "title": "Java Cookbook, 4th Edition",
+        "authors": [
+          "Ian F. Darwin"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/java-generics-and/9781098136710/",
+        "title": "Java Generics and Collections, 2nd Edition",
+        "authors": [
+          "Maurice Naftalin",
+          "Philip Wadler"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/reactive-systems-in/9781492091714/",
+        "title": "Reactive Systems in Java",
+        "authors": [
+          "Clement Escoffier",
+          "Ken Finnigan"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/modern-java-in-action",
+        "title": "Modern Java in Action",
+        "authors": [],
+        "pages": 592,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-java-by-building-android-games-third-edition/9781800565869",
+        "title": "Learning Java by Building Android Games - Third Edition",
+        "authors": [
+          "John Horton"
+        ],
+        "pages": 686,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/practical-design-patterns-for-java-developers/9781804614679",
+        "title": "Practical Design Patterns for Java Developers",
+        "authors": [
+          "Miroslav Wengner"
+        ],
+        "pages": 266,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/transitioning-to-java/9781804614013",
+        "title": "Transitioning to Java",
+        "authors": [
+          "Ken Fogel"
+        ],
+        "pages": 354,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-java-17-programming-second-edition/9781803241432",
+        "title": "Learn Java 17 Programming - Second Edition",
+        "authors": [
+          "Nick Samoylov"
+        ],
+        "pages": 748,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/test-driven-development-with-java/9781803236230",
+        "title": "Test-Driven Development with Java",
+        "authors": [
+          "Alan Mellor"
+        ],
+        "pages": 348,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/domain-driven-design-with-java-a-practitioners-guide/9781800560734",
+        "title": "Domain-Driven Design with Java - A Practitioner’s Guide",
+        "authors": [
+          "Premanand Chandrasekaran",
+          "Karthik Krishnan"
+        ],
+        "pages": 302,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/designing-hexagonal-architecture-with-java/9781801816489",
+        "title": "Designing Hexagonal Architecture with Java",
+        "authors": [
+          "Davi Vieira"
+        ],
+        "pages": 460,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/java-coding-problems/9781789801415",
+        "title": "Java Coding Problems",
+        "authors": [
+          "Anghel Leonard"
+        ],
+        "pages": 816,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-software-architecture-with-java/9781800207301",
+        "title": "Hands-On Software Architecture with Java",
+        "authors": [
+          "Giuseppe Bonocore"
+        ],
+        "pages": 510,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/java-memory-management/9781801812856",
+        "title": "Java Memory Management",
+        "authors": [
+          "Maaike van Putten",
+          "Seán Kennedy"
+        ],
+        "pages": 146,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-complete-coding-interview-guide-in-java/9781839212062",
+        "title": "The Complete Coding Interview Guide in Java",
+        "authors": [
+          "Anghel Leonard"
+        ],
+        "pages": 788,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.coursera.org/specializations/object-oriented-programming",
+        "title": "Object Oriented Programming in Java",
+        "platform": "Coursera",
+        "authors": [
+          "Owen Astrachan",
+          "Robert Duvall",
+          "Andrew D. Hilton",
+          "Susan H. Rodger",
+          "Mia Minnes",
+          "Leo Porter",
+          "Christine Alvarado"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/java-programming",
+        "title": "Java Programming and Software Engineering Fundamentals",
+        "platform": "Coursera",
+        "authors": [
+          "Susan H. Rodger",
+          "Robert Duvall",
+          "Owen Astrachan",
+          "Andrew D. Hilton"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/fundamentals-object-oriented-programming-java",
+        "title": "Fundamentals of Object Oriented Programming in Java",
+        "platform": "Pluralsight",
+        "authors": [
+          "Maurice Naftalin"
+        ],
+        "duration": 125,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/java-design-patterns-big-picture",
+        "title": "Design Patterns in Java: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Esteban Herrera"
+        ],
+        "duration": 108,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/defensive-programming-java",
+        "title": "Defensive Coding in Java",
+        "platform": "Pluralsight",
+        "authors": [
+          "Andrejs Doronins"
+        ],
+        "duration": 153,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/java-refactoring-design-patterns",
+        "title": "Java: Refactoring to Design Patterns",
+        "platform": "Pluralsight",
+        "authors": [
+          "Andrejs Doronins"
+        ],
+        "duration": 86,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/java-json-fundamentals",
+        "title": "Java: JSON Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Richard Warburton"
+        ],
+        "duration": 149,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-java-programming-2",
+        "title": "Advanced Java Programming",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Bethan Palmer"
+        ],
+        "duration": 115,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/java-testing-with-junit-14267963",
+        "title": "Java: Testing with JUnit",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Maaike van Putten"
+        ],
+        "duration": 140,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/introducing-maven",
+        "title": "Introducing Maven",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Frank P Moley III"
+        ],
+        "duration": 96,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/java-8-plus-essential-training-objects-and-apis",
+        "title": "Java 8+ Essential Training: Objects and APIs",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "David Gassner"
+        ],
+        "duration": 169,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/java-8-essential-training",
+        "title": "Java 8 Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "David Gassner"
+        ],
+        "duration": 367,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-java-11",
+        "title": "Learning Java 11",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Kathryn Hodge"
+        ],
+        "duration": 159,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/java-programming-basics--ud282",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-java",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-java-for-test-automation/",
+        "title": "Java Testers: Total Selenium WebDriver and Automation Course",
+        "platform": "Udemy",
+        "authors": [
+          "Lets Kode It"
+        ],
+        "duration": 505,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-for-absolute-beginners/",
+        "title": "Learn Java Basics for Beginners by Building Your Own Programs",
+        "platform": "Udemy",
+        "authors": [
+          "Nick H"
+        ],
+        "duration": 524,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/design-patterns-java/",
+        "title": "Design Patterns in Java for Engineers, Designers, and Architects",
+        "platform": "Udemy",
+        "authors": [
+          "Dmitri Nesteruk"
+        ],
+        "duration": 630,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-java-learn-java-8-features-by-coding-it/",
+        "title": "Modern Java - Learn Java 8 features by coding it",
+        "platform": "Udemy",
+        "authors": [
+          "Pragmatic Code School"
+        ],
+        "duration": 667,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/practice-java-by-building-projects/",
+        "title": "Practice Java by Building Projects",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Short"
+        ],
+        "duration": 201,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-se-programming/",
+        "title": "Learn JAVA Programming - Beginner to Master",
+        "platform": "Udemy",
+        "authors": [
+          "Abdul Bari"
+        ],
+        "duration": 3683,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/",
+        "title": "Java In-Depth: Become a Complete Java Engineer!",
+        "platform": "Udemy",
+        "authors": [
+          "Dheeru Mundluru"
+        ],
+        "duration": 4164,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/master-practical-java-development/",
+        "title": "The Complete Java Development Certification Course",
+        "platform": "Udemy",
+        "authors": [
+          "Imtiaz Ahmad"
+        ],
+        "duration": 1054,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-programming-tutorial-for-beginners/",
+        "title": "Java Programming for Complete Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "in28Minutes Official"
+        ],
+        "duration": 2284,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-for-beginners-learn-all-the-basics-of-java/",
+        "title": "Java for Beginners - Learn all the Basics of Java",
+        "platform": "Udemy",
+        "authors": [
+          "Yassin Marco"
+        ],
+        "duration": 330,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/",
+        "title": "Selenium WebDriver with Java +Frameworks Tutorial",
+        "platform": "Udemy",
+        "authors": [
+          "Rahul Shetty"
+        ],
+        "duration": 3280,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/project-development-using-java-for-beginners-2020/",
+        "title": "Project Development Using JAVA for Beginners - 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Hemanth kumar"
+        ],
+        "duration": 2718,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-development-for-beginners-learnit/",
+        "title": "Java from Zero to First Job, Practical Guide, 2000+ examples",
+        "platform": "Udemy",
+        "authors": [
+          "Andrii Piatakha",
+          "Learn IT University"
+        ],
+        "duration": 5361,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+        "title": "Complete Java Software Developer Masterclass (for Java 10)",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Buchalka",
+          "Tim Buchalka's Learn Programming Academy"
+        ],
+        "duration": 7329,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/pcdp",
+        "title": "Parallel, Concurrent, and Distributed Programming in Java",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/java-programming",
+        "title": "Java Programming: Solving Problems with Software",
+        "platform": "Coursera",
+        "authors": [
+          "Owen Astrachan",
+          "Robert Duvall",
+          "Andrew D. Hilton",
+          "Susan H. Rodger"
+        ],
+        "duration": 1146,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/hands-on-java",
+        "title": "Programming in Java: A Hands-on Introduction",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/java-ee",
+        "title": "Java Enterprise Edition",
+        "platform": "Coursera",
+        "authors": [
+          "Ed Lance",
+          "Elizabeth Campbell",
+          "Grayson Lyvers",
+          "Derek Parsons"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/java-object-oriented-programming",
+        "title": "Introduction to Java and Object-Oriented Programming",
+        "platform": "Coursera",
+        "authors": [
+          "Brandon Krakowsky"
+        ],
+        "duration": 2154,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/java-object-oriented",
+        "title": "Object Oriented Java Programming: Data Structures and Beyond",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/core-java",
+        "title": "Core Java",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/java-introduction",
+        "title": "Introduction to Java",
+        "platform": "Coursera",
+        "authors": [
+          "Noel J. Bergman",
+          "Evan Bergman"
+        ],
+        "duration": 497,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://developer.ibm.com/languages/java/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.jetbrains.com/lp/jam/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://education.oracle.com/java/java/pFamily_48",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://docs.oracle.com/en/java/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://dev.java/learn/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://youtu.be/j9VNCI9Xo80",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/6T_HgnjoYwM",
+        "title": "Java OOPs Concepts in 120 minutes |Object Oriented Programming | Java Placement Course | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 120,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/A74TOX803D0",
+        "title": "Java Programming for Beginners – Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 251,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Qgl81fPcLc8",
+        "title": "Java Full Course [NEW]",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 216,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/TE3LyYW-AHQ",
+        "title": "How To Master Java - Java for Beginners Roadmap",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/drQK8ciCAjY",
+        "title": "Learn Java in One Video - 15-minute Crash Course",
+        "authors": [
+          "Coding with John"
+        ],
+        "duration": 15,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/eIrMbAQSU34",
+        "title": "Java Tutorial for Beginners",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 151,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/grEKMHGYyns",
+        "title": "Learn Java 8 - Full Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 573,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/j9VNCI9Xo80",
+        "title": "Java Tutorial For Beginners 2023",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 147,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/l9AzO1FMgM8",
+        "title": "Java in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/r3GGV2TG_vw",
+        "title": "Java Programming All-in-One Tutorial Series (6 HOURS!)",
+        "authors": [
+          "Caleb Curry"
+        ],
+        "duration": 397,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/tj5sLSFjVj4",
+        "title": "Lambda Expressions in Java - Full Simple Tutorial",
+        "authors": [
+          "Coding with John"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xk4_1vDrzzo",
+        "title": "Java Full Course for free ☕",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 720,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+        "title": "Java Complete Course | Placement Series",
+        "authors": [
+          "Apna College"
+        ],
+        "duration": 977,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5",
+        "title": "Java Tutorial For beginners 2023",
+        "authors": [
+          "Telusko"
+        ],
+        "duration": 759,
+        "type": "video"
+      }
+    ]
   }
 }
