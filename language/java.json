@@ -574,10 +574,10 @@
       },
       {
         "url": "https://www.codecademy.com/learn/learn-java",
-        "title": "",
-        "platform": "",
+        "title": "Learn Java",
+        "platform": "Codecademy",
         "authors": [],
-        "duration": 0,
+        "duration": 1500,
         "type": "course"
       },
       {
@@ -726,7 +726,9 @@
         "url": "https://www.coursera.org/specializations/pcdp",
         "title": "Parallel, Concurrent, and Distributed Programming in Java",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Vivek Sarkar"
+        ],
         "duration": 0,
         "type": "course"
       },

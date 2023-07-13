@@ -385,10 +385,12 @@
       },
       {
         "url": "https://www.codecademy.com/learn/learn-css",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn CSS",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 600,
         "type": "course"
       },
       {

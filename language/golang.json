@@ -452,10 +452,12 @@
     "courses": [
       {
         "url": "https://www.codecademy.com/learn/learn-go",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn Go",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 600,
         "type": "course"
       },
       {
@@ -482,8 +484,10 @@
         "url": "https://www.coursera.org/learn/golang-concurrency",
         "title": "Concurrency in Go",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Ian Harris"
+        ],
+        "duration": 300,
         "type": "course"
       },
       {

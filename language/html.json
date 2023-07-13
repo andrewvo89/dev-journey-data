@@ -336,8 +336,10 @@
         "url": "https://www.coursera.org/learn/html-css-javascript-for-web-developers",
         "title": "HTML, CSS, and Javascript for Web Developers",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Yaakov Chaikin"
+        ],
+        "duration": 2404,
         "type": "course"
       },
       {
@@ -373,10 +375,12 @@
       },
       {
         "url": "https://www.codecademy.com/learn/learn-html",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn HTML",
+        "platform": "Codecademy",
+        "authors": [
+          "Zoe Bachman"
+        ],
+        "duration": 540,
         "type": "course"
       },
       {

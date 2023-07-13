@@ -706,114 +706,142 @@
       },
       {
         "url": "https://www.codecademy.com/learn/asynchronous-javascript",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Asynchronous Programming",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/build-interactive-websites",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Building Interactive JavaScript Websites",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 420,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/introduction-to-javascript",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 1200,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/javascript-errors-debugging",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Error Handling",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-intermediate-javascript",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn Intermediate JavaScript",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 600,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-arrays-and-loops",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Arrays and Loops",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 180,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-best-practices",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Best Practices",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-functions-and-scope",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Functions and Scope",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 240,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-fundamentals",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Fundamentals",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 360,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-iterators",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Iterators",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 120,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-objects",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Objects",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 180,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-requests",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript: Requests",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 120,
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-javascript-unit-testing",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn JavaScript Unit Testing",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 360,
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/learn/javascript-basics",
         "title": "JavaScript Basics",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "William Mead"
+        ],
+        "duration": 1245,
         "type": "course"
       },
       {
@@ -830,8 +858,10 @@
         "url": "https://www.coursera.org/learn/learn-javascript",
         "title": "Learn JavaScript",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 45,
         "type": "course"
       },
       {
@@ -916,7 +946,9 @@
         "url": "https://www.pluralsight.com/courses/javascript-fundamentals",
         "title": "JavaScript Fundamentals",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "Mark Zamoyta"
+        ],
         "duration": 179,
         "type": "course"
       },
@@ -924,7 +956,9 @@
         "url": "https://www.pluralsight.com/courses/javascript-getting-started",
         "title": "JavaScript: Getting Started",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "Mark Zamoyta"
+        ],
         "duration": 238,
         "type": "course"
       },

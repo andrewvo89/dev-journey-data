@@ -269,10 +269,10 @@
       },
       {
         "url": "https://www.codecademy.com/learn/learn-flask",
-        "title": "",
-        "platform": "",
+        "title": "Learn Flask",
+        "platform": "Codecademy",
         "authors": [],
-        "duration": 0,
+        "duration": 600,
         "type": "course"
       },
       {

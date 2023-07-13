@@ -282,10 +282,12 @@
       },
       {
         "url": "https://www.codecademy.com/learn/learn-react-native",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn React Native",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 420,
         "type": "course"
       },
       {
