@@ -1,6 +1,6 @@
 {
   "title": "Java",
-  "description": "ava is a high-level, class-based, object-oriented programming language developed by Sun Microsystems in the mid-1990s (now owned by Oracle Corporation). It's known for its \"write once, run anywhere\" philosophy, which comes from its platform-agnostic Java Virtual Machine (JVM) that allows Java programs to run on any device that has a JVM installed.\nJava is statically-typed, offering robustness, security, and ease of debugging, and it's particularly renowned for its use in building large-scale enterprise applications, web applications, Android apps, and more. It supports multithreading, allowing for the development of highly interactive and responsive applications.\nOne of the defining characteristics of Java is its strong emphasis on object-oriented programming (OOP). Java classes, the fundamental units of OOP in Java, encapsulate data and methods that operate on that data, providing a blueprint for creating objects. Inheritance, polymorphism, and encapsulation, which are fundamental concepts of OOP, are rigorously implemented in Java, leading to code that's more modular, flexible, and reusable.\nAnother significant feature of Java is its platform-independence or cross-platform capabilities. The source code in Java is first compiled into an intermediate form known as bytecode, which is then interpreted and run by the Java Virtual Machine (JVM). Since JVMs are available for almost every existing operating system (OS), a Java program can run on any device with a JVM, making Java truly platform-independent.\nJava also offers extensive support for multithreaded programming, allowing developers to build applications that can perform multiple tasks simultaneously. This multithreading capability is particularly useful in developing highly interactive and responsive applications, as well as in server-side programming where handling concurrent requests is a necessity.\nIn the realm of application development, Java has been widely adopted across various sectors. It's used extensively in enterprise-level applications for its robustness and scalability. For example, many financial services, healthcare, and IT services companies rely on Java to power their backend systems. Java's security features and comprehensive library support also make it a popular choice for developing secure, high-performance web applications. Moreover, as the primary language for Android app development, Java is at the forefront of the mobile app industry.\nOn the academic front, Java is often used in computer science education. Its clear structure and object-oriented approach make it an excellent language for teaching coding fundamentals and complex programming concepts.",
+  "description": "Java is a high-level, class-based, object-oriented programming language developed by Sun Microsystems in the mid-1990s (now owned by Oracle Corporation). It's known for its \"write once, run anywhere\" philosophy, which comes from its platform-agnostic Java Virtual Machine (JVM) that allows Java programs to run on any device that has a JVM installed.\nJava is statically-typed, offering robustness, security, and ease of debugging, and it's particularly renowned for its use in building large-scale enterprise applications, web applications, Android apps, and more. It supports multithreading, allowing for the development of highly interactive and responsive applications.\nOne of the defining characteristics of Java is its strong emphasis on object-oriented programming (OOP). Java classes, the fundamental units of OOP in Java, encapsulate data and methods that operate on that data, providing a blueprint for creating objects. Inheritance, polymorphism, and encapsulation, which are fundamental concepts of OOP, are rigorously implemented in Java, leading to code that's more modular, flexible, and reusable.\nAnother significant feature of Java is its platform-independence or cross-platform capabilities. The source code in Java is first compiled into an intermediate form known as bytecode, which is then interpreted and run by the Java Virtual Machine (JVM). Since JVMs are available for almost every existing operating system (OS), a Java program can run on any device with a JVM, making Java truly platform-independent.\nJava also offers extensive support for multithreaded programming, allowing developers to build applications that can perform multiple tasks simultaneously. This multithreading capability is particularly useful in developing highly interactive and responsive applications, as well as in server-side programming where handling concurrent requests is a necessity.\nIn the realm of application development, Java has been widely adopted across various sectors. It's used extensively in enterprise-level applications for its robustness and scalability. For example, many financial services, healthcare, and IT services companies rely on Java to power their backend systems. Java's security features and comprehensive library support also make it a popular choice for developing secure, high-performance web applications. Moreover, as the primary language for Android app development, Java is at the forefront of the mobile app industry.\nOn the academic front, Java is often used in computer science education. Its clear structure and object-oriented approach make it an excellent language for teaching coding fundamentals and complex programming concepts.",
   "dependencies": [
     "runtime/jre",
     "runtime/jdk",
@@ -74,8 +74,10 @@
       },
       {
         "url": "https://redfin.engineering/java-string-concatenation-which-way-is-best-8f590a7d22a8",
-        "title": "",
-        "authors": [],
+        "title": "Java String Concatenation: Which Way Is Best?",
+        "authors": [
+          "Nicholas Castorina"
+        ],
         "type": "article"
       },
       {
@@ -745,7 +747,12 @@
         "url": "https://www.coursera.org/specializations/hands-on-java",
         "title": "Programming in Java: A Hands-on Introduction",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Anh Le",
+          "Patrick Ester",
+          "Elise Deitrick",
+          "Dmitrii Suchkov"
+        ],
         "duration": 0,
         "type": "course"
       },
@@ -776,7 +783,11 @@
         "url": "https://www.coursera.org/specializations/java-object-oriented",
         "title": "Object Oriented Java Programming: Data Structures and Beyond",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Mia Minnes",
+          "Leo Porter",
+          "Christine Alvarado"
+        ],
         "duration": 0,
         "type": "course"
       },
@@ -784,7 +795,10 @@
         "url": "https://www.coursera.org/specializations/core-java",
         "title": "Core Java",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Noel J. Bergman",
+          "Evan Bergman"
+        ],
         "duration": 0,
         "type": "course"
       },

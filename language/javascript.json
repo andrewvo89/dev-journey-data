@@ -7,10 +7,1288 @@
     "field/desktop_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://alpkeles99.medium.com/learners-guide-to-functional-programming-1-implementing-lists-in-javascript-8ec3946aa9ab",
+        "title": "Learner’s Guide to Functional Programming#1: Implementing Lists in JavaScript",
+        "authors": [
+          "Alperen Keleş"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/to-mutate-or-not-to-mutate-javascript-array-methods-cheat-sheet-2a7f39c9ca65",
+        "title": "To Mutate or Not to Mutate? The JavaScript Array Methods Cheat Sheet",
+        "authors": [
+          "Annie Liao"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://css-tricks.com/node-javascript-compared-to-javascript/?utm_source=devglan",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/deen_john/resources-to-master-javascript-3d0p",
+        "title": "Resources to Master Javascript",
+        "authors": [
+          "Deen John"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
+        "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
+        "authors": [
+          "Eluda"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/enetojara/make-your-javascript-typed-safe-4l3e",
+        "title": "Make your JavaScript Typed Safe",
+        "authors": [
+          "Ernesto Jara Olveda"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/glebec/four-ways-to-immutability-in-javascript-3b3l",
+        "title": "Four Ways to Immutability in JavaScript",
+        "authors": [
+          "Gabriel Lebec"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/syedsimanta03/array-clone-javascript-6ha",
+        "title": "Array clone JavaScript",
+        "authors": [
+          "syedsimanta03"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/17-pro-javascript-tricks-you-didnt-know-b419c018dd19",
+        "title": "17 Pro JavaScript tricks you didn’t know",
+        "authors": [
+          "Xiuer Old"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/25-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-d43f08529404",
+        "title": "25 Killer JavaScript One-Liners That’ll Make You Look Like a Pro",
+        "authors": [
+          "fatfish"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/design-patterns-a-guide-to-javascript-development-principles-for-clean-and-scalable-code-cf90771b48f2",
+        "title": "Design Patterns: A Guide to JavaScript Development Principles for Clean and Scalable Code",
+        "authors": [
+          "Anto Semeraro"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/everything-you-need-to-know-about-nan-in-javascript-1ae9e74cbefe",
+        "title": "Everything you need to know about NaN in JavaScript",
+        "authors": [
+          "Sam Sedighian"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/functions-objects-in-javascript-d95b30120337",
+        "title": "Functions & Objects in JavaScript",
+        "authors": [
+          "Abdulazeez Sherif"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/javascript-auto-linting-in-vscode-98fad4c60faf",
+        "title": "JavaScript Auto Linting in VSCode",
+        "authors": [
+          "XOR"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/why-are-you-still-writing-javascript-f66921b3f43e",
+        "title": "Why Are You Still Writing JavaScript?",
+        "authors": [
+          "Jonathan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/javascripts-shorthand-syntax-that-every-developer-should-know-50d9d4549065",
+        "title": "JavaScript’s Shorthand Syntax That Every Developer Should Know",
+        "authors": [
+          "Shalitha Suranga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Choco23/11-bad-ways-to-write-javascript-fec3869632eb",
+        "title": "11 Bad Ways to Write JavaScript",
+        "authors": [
+          "Choco"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Choco23/8-common-javascript-es6-techniques-67f49cfa1cae",
+        "title": "8 Common JavaScript ES6 Techniques",
+        "authors": [
+          "Choco"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Choco23/a-few-useful-javascript-apis-that-you-dont-know-6bd426ef9272",
+        "title": "A few useful JavaScript APIs that you don’t know",
+        "authors": [
+          "Choco"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@JavaScript-World/utilizing-javascripts-function-prototype-bind-method-c6c133bd2b64",
+        "title": "Utilizing JavaScript’s Function.prototype.bind() Method",
+        "authors": [
+          "JavaScript-World"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@amarkanala/get-variable-name-as-a-string-in-javascript-cc8c5443df4a",
+        "title": "Get “variable” name as a string in JavaScript",
+        "authors": [
+          "amar kanala"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@nasyxrakeeb2/latest-javascript-features-every-web-developer-should-know-bd0d7ec64e52",
+        "title": "Latest Javascript Features Every Web Developer Should Know",
+        "authors": [
+          "Nasyx Rakeeb"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@parvej.code/javascript-object-helper-for-everyday-use-f8036ff233f",
+        "title": "JavaScript Object Helpers for Everyday Use",
+        "authors": [
+          "Parvej Ahammad"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-comparison-logical",
+        "title": "Comparison and Logical Operators",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-conditional-statements",
+        "title": "Conditional Statements",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-loops",
+        "title": "Loops",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-methods-functions",
+        "title": "Methods and Functions",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-objects",
+        "title": "Objects",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/fwd-js-vars-math",
+        "title": "Variables, Data Types, and Mathematical Operators",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/glossary-javascript",
+        "title": "JavaScript Glossary",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/introduction-to-javascript-runtime-environments",
+        "title": "Introduction to JavaScript Runtime Environments",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/javascript-versions",
+        "title": "JavaScript Versions: ES6 and Before",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/js-fwd-arrays",
+        "title": "Arrays",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/learn-javascript-arrays-arrays",
+        "title": "Javascript Guide: Arrays",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/learn-javascript-control-flow-control-flow",
+        "title": "Javascript Guide: Conditional Statements",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/learn-javascript-introduction-introduction-to-javascript",
+        "title": "JavaScript Guide: Introduction to JavaScript",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/running-javascript-in-the-browser-console",
+        "title": "Running JavaScript in the Browser Console",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/what-is-javascript",
+        "title": "What is JavaScript?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/what-is-json",
+        "title": "What Is JSON?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/why-learn-javascript-foundations",
+        "title": "Why learn JavaScript foundations?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/wix-what-is-async-and-await",
+        "title": "What is Async and Await?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/wix-why-learn-asynchronous-javascript",
+        "title": "Why Learn Asynchronous JavaScript?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Eloquent-JavaScript-3rd-Introduction-Programming/dp/1593279507",
+        "title": "Eloquent JavaScript, 3rd Edition: A Modern Introduction to Programming",
+        "authors": [
+          "Marijn Haverbeke"
+        ],
+        "pages": 474,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/JavaScript-All-Dummies-Chris-Minnick/dp/1119906830",
+        "title": "JavaScript All-in-One For Dummies",
+        "authors": [
+          "Chris Minnick"
+        ],
+        "pages": 823,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647",
+        "title": "JavaScript and jQuery: Interactive Front-End Web Development",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "pages": 640,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learn-Coding-Basics-Hours-JavaScript/dp/0997326468",
+        "title": "Learn Coding Basics in Hours with JavaScript",
+        "authors": [
+          "The Tech Academy",
+          "Jack C. Stanley",
+          "Erik D. Gross",
+          "Tech Academy"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learn-JavaScript-Quickly-Programming-Hands/dp/1951791479",
+        "title": "Learn JavaScript Quickly: A Complete Beginner’s Guide to Learning JavaScript, Even If You’re New to Programming (Crash Course With Hands-On Project)",
+        "authors": [
+          "Code Quickly"
+        ],
+        "pages": 172,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/data-structures-and/9781449373931/",
+        "title": "Data Structures and Algorithms with JavaScript",
+        "authors": [
+          "Michael McMillan"
+        ],
+        "pages": 252,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-javascript/9781449340124/",
+        "title": "Head First JavaScript Programming",
+        "authors": [
+          "Eric T. Freeman",
+          "Elisabeth Robson"
+        ],
+        "pages": 704,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/introduction-to-javascript/9781491929476/",
+        "title": "Introduction to JavaScript Object Notation",
+        "authors": [
+          "Lindsay Bassett"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/javascript-cookbook-3rd/9781492055747/",
+        "title": "JavaScript Cookbook, 3rd Edition",
+        "authors": [
+          "Adam D. Scott",
+          "Matthew MacDonald",
+          "Shelley Powers"
+        ],
+        "pages": 538,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/javascript-everywhere/9781492046974/",
+        "title": "JavaScript Everywhere",
+        "authors": [
+          "Adam D. Scott"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/",
+        "title": "JavaScript: The Definitive Guide, 7th Edition",
+        "authors": [
+          "David Flanagan"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/javascript-the-good/9780596517748/",
+        "title": "JavaScript: The Good Parts",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/javascript-the-hidden/9781098122249/",
+        "title": "JavaScript: The Hidden Parts",
+        "authors": [
+          "Milecia McGregor"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/",
+        "title": "Learning JavaScript Design Patterns, 2nd Edition",
+        "authors": [
+          "Addy Osmani"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/multithreaded-javascript/9781098104429/",
+        "title": "Multithreaded Javascript",
+        "authors": [
+          "Thomas Hunter",
+          "Bryan English"
+        ],
+        "pages": 200,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/advanced-javascript/9781789800104",
+        "title": "Advanced JavaScript",
+        "authors": [
+          "Zachary Shute"
+        ],
+        "pages": 330,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-enterprise-javascript-applications/9781788477321",
+        "title": "Building Enterprise JavaScript Applications",
+        "authors": [
+          "Daniel Li"
+        ],
+        "pages": 764,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/clean-code-in-javascript/9781789957648",
+        "title": "Clean Code in JavaScript",
+        "authors": [
+          "James Padolsey"
+        ],
+        "pages": 548,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/essential-cryptography-for-javascript-developers/9781801075336",
+        "title": "Essential Cryptography for JavaScript Developers",
+        "authors": [
+          "Alessandro Segala"
+        ],
+        "pages": 220,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-javascript-for-python-developers/9781838648121",
+        "title": "Hands-on JavaScript for Python Developers",
+        "authors": [
+          "Sonyl Nagale"
+        ],
+        "pages": 410,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/internet-of-things-programming-with-javascript/9781785888564",
+        "title": "Internet of Things Programming with JavaScript",
+        "authors": [
+          "Ruben Oliva Ramos"
+        ],
+        "pages": 298,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/javascript-and-json-essentials-second-edition/9781788624701",
+        "title": "JavaScript and JSON Essentials - Second Edition",
+        "authors": [
+          "Bruno Joseph D'mello",
+          "Sai S Sriparasa"
+        ],
+        "pages": 226,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/javascript-by-example/9781788293969",
+        "title": "JavaScript by Example",
+        "authors": [
+          "Dani Akash S"
+        ],
+        "pages": 298,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/javascript-from-beginner-to-professional/9781800562523",
+        "title": "JavaScript from Beginner to Professional",
+        "authors": [
+          "Laurence Lars Svekis",
+          "Maaike van Putten",
+          "Codestars By Rob Percival"
+        ],
+        "pages": 546,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/javascript-from-frontend-to-backend/9781801070317",
+        "title": "JavaScript from Frontend to Backend",
+        "authors": [
+          "Eric Sarrion"
+        ],
+        "pages": 336,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-d3js/9781838645571",
+        "title": "Learn D3.js",
+        "authors": [
+          "Helder da Rocha"
+        ],
+        "pages": 650,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-javascript-data-structures-and-algorithms-third-edition/9781788623872",
+        "title": "Learning JavaScript Data Structures and Algorithms - Third Edition",
+        "authors": [
+          "Loiane Groner"
+        ],
+        "pages": 426,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-javascript-functional-programming-second-edition/9781839213069",
+        "title": "Mastering JavaScript Functional Programming - Second Edition",
+        "authors": [
+          "Federico Kereki"
+        ],
+        "pages": 470,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-javascript-functional-programming/9781804610138",
+        "title": "Mastering JavaScript Functional Programming - Third Edition",
+        "authors": [
+          "Federico Kereki"
+        ],
+        "pages": 614,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/object-oriented-javascript-third-edition/9781785880568",
+        "title": "Object-Oriented JavaScript - Third Edition",
+        "authors": [
+          "Ved Antani",
+          "Stoyan STEFANOV"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/professional-javascript-for-web-developers-fourth-edition/9781119366447",
+        "title": "Professional JavaScript for Web Developers - Fourth Edition",
+        "authors": [
+          "Matt Frisbie"
+        ],
+        "pages": 1144,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/professional-javascript/9781838820213",
+        "title": "Professional JavaScript",
+        "authors": [
+          "Hugo Di Francesco",
+          "Siyuan Gao",
+          "Vinicius Isola\nand 1 more"
+        ],
+        "pages": 664,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-javascript-workshop/9781838641917",
+        "title": "The JavaScript Workshop",
+        "authors": [
+          "Joseph Labrecque",
+          "Jahred Love",
+          "Daniel Rosenbaum\n and 5 more"
+        ],
+        "pages": 802,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/basicjavascript",
+        "title": "Learn Basic JavaScript",
+        "platform": "Scrimba",
+        "authors": [
+          "freeCodeCamp"
+        ],
+        "duration": 154,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/es6",
+        "title": "Learn Modern JavaScript",
+        "platform": "Scrimba",
+        "authors": [
+          "freeCodeCamp"
+        ],
+        "duration": 53,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/javascript",
+        "title": "JavaScript Deep Dive",
+        "platform": "Scrimba",
+        "authors": [
+          "Reed Barger"
+        ],
+        "duration": 846,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/learnjavascript",
+        "title": "Learn JavaScript",
+        "platform": "Scrimba",
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 622,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/asynchronous-javascript",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/build-interactive-websites",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/introduction-to-javascript",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/javascript-errors-debugging",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-intermediate-javascript",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-arrays-and-loops",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-best-practices",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-functions-and-scope",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-fundamentals",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-iterators",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-objects",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-requests",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-javascript-unit-testing",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/javascript-basics",
+        "title": "JavaScript Basics",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/javascript-jquery-json",
+        "title": "JavaScript, jQuery, and JSON",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 573,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/learn-javascript",
+        "title": "Learn JavaScript",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/programming-with-javascript",
+        "title": "Programming with JavaScript",
+        "platform": "Coursera",
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 1571,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/computational-thinking-javascript",
+        "title": "Computational Thinking with JavaScript",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/javascript-beginner",
+        "title": "JavaScript for Beginners",
+        "platform": "Coursera",
+        "authors": [
+          "William Mead"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/javascript-essential-training?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=default_guest_learning",
+        "title": "JavaScript Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Morten Rand-Hendriksen"
+        ],
+        "duration": 329,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-the-javascript-language-22309208?trk=learning-topics_learning-search-card_search-card&upsellOrderOrigin=default_guest_learning",
+        "title": "Learning the JavaScript Language",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Joe Chellman"
+        ],
+        "duration": 242,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-best-practices",
+        "title": "JavaScript Best Practices",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jonathan Mills"
+        ],
+        "duration": 159,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-es6-object-oriented-programming",
+        "title": "Object-oriented Programming in JavaScript - ES6",
+        "platform": "Pluralsight",
+        "authors": [
+          "Mark Zamoyta"
+        ],
+        "duration": 146,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals",
+        "title": "Fundamentals of Functional Programming in JavaScript",
+        "platform": "Pluralsight",
+        "authors": [
+          "Nate Taylor"
+        ],
+        "duration": 85,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-fundamentals",
+        "title": "JavaScript Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 179,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-getting-started",
+        "title": "JavaScript: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 238,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-objects-prototypes",
+        "title": "JavaScript Objects and Prototypes",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jim Cooper"
+        ],
+        "duration": 48,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-ramda-functional",
+        "title": "Writing Functional JavaScript Using Ramda",
+        "platform": "Pluralsight",
+        "authors": [
+          "Thiago Temple"
+        ],
+        "duration": 128,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/es6-bootcamp-next-generation-javascript/",
+        "title": "Accelerated ES6 JavaScript Training",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 351,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-basics-for-beginners/",
+        "title": "JavaScript Basics for Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Mosh Hamedani"
+        ],
+        "duration": 398,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-beginners-complete-tutorial/",
+        "title": "The Modern Javascript Bootcamp Course (2022)",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele",
+          "Stephen Grider"
+        ],
+        "duration": 3115,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-bootcamp-2016/",
+        "title": "Accelerated JavaScript Training",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 453,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-es6-tutorial/",
+        "title": "ES6 JavaScript For Everyone: The Complete Developer’s Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 375,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-for-beginners-introduction-learn-fast-easy/",
+        "title": "Javascript for Beginners Learn by Doing Practical Exercises",
+        "platform": "Udemy",
+        "authors": [
+          "Edwin Diaz",
+          "Coding Faculty Solutions"
+        ],
+        "duration": 230,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "title": "JavaScript - The Complete Guide 2023 (Beginner + Advanced)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 3152,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/",
+        "title": "Modern JavaScript JS (from Novice to Ninja)",
+        "platform": "Udemy",
+        "authors": [
+          "The Net Ninja (Shaun Pelling)"
+        ],
+        "duration": 1224,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-javascript-from-the-beginning/",
+        "title": "Beginning Modern JavaScript (Includes 10 Real Projects)",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 2194,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-javascript/",
+        "title": "The Modern JavaScript Bootcamp: Complete JavaScript Tutorial",
+        "platform": "Udemy",
+        "authors": [
+          "Andrew Mead"
+        ],
+        "duration": 1779,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "title": "Learn Modern Javascript (Build and Test Apps) - Full Course",
+        "platform": "Udemy",
+        "authors": [
+          "Jonas Schmedtmann"
+        ],
+        "duration": 4113,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/understand-javascript/",
+        "title": "JavaScript: Understanding the Weird Parts",
+        "platform": "Udemy",
+        "authors": [
+          "Anthony Alicea"
+        ],
+        "duration": 733,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/web-projects-with-vanilla-javascript/",
+        "title": "20 Web Projects With Vanilla JavaScript",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 967,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://javascript.info/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.w3schools.com/jsrEF/default.asp",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/8dWL3wF_OMw",
+        "title": "JavaScript Full Course for free 🌐 (2023)",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 480,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/9emXNzqCKyg",
+        "title": "The JavaScript Survival Guide",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 15,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/DHjqpvDnNGE",
+        "title": "JavaScript in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/FSs_JYwnAdI",
+        "title": "JavaScript: How It's Made",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Mus_vwhTCq0",
+        "title": "JavaScript Pro Tips - Code This, NOT That",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PkZNo7MFNFg",
+        "title": "Learn JavaScript - Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 207,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Qqx_wzMmFeA",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]",
+        "authors": [
+          "Clever Programmer"
+        ],
+        "duration": 478,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/SBmSRK3feww",
+        "title": "JavaScript Full Course (2023) - Beginner to Pro - Part 1",
+        "authors": [
+          "SuperSimpleDev"
+        ],
+        "duration": 718,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/W6NZfCO5SIk",
+        "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 49,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/c-I5S_zTwAc",
+        "title": "Learn JAVASCRIPT in just 5 MINUTES (2020)",
+        "authors": [
+          "Aaron Jack"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ec8vSKJuZTk",
+        "title": "Learn JavaScript by Building 7 Games - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 292,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/hdI2bqOjy3c",
+        "title": "JavaScript Crash Course For Beginners",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 101,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lI1ae4REbFM",
+        "title": "JavaScript Tutorial for Beginners - Full Course in 12 Hours (2022)",
+        "authors": [
+          "Clever Programmer"
+        ],
+        "duration": 742,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lkIFF4maKMU",
+        "title": "100+ JavaScript Concepts you Need to Know",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/quJzdnXuNDc",
+        "title": "How to Learn Javascript in 2023 (From ZERO)",
+        "authors": [
+          "Andy Sterkowitz"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/uaWYRL0g1iw",
+        "title": "How to MASTER Javascript FAST in 2023",
+        "authors": [
+          "Internet Made Coder"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V",
+        "title": "JavaScript DOM Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 120,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc",
+        "title": "Modern JavaScript Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 202,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9i5yvDkJgt60vNVWffpblB7",
+        "title": "Object Oriented JavaScript",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 81,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET",
+        "title": "JavaScript Tutorials for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 294,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu",
+        "title": "Asynchronous JavaScript (2020 version)",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 87,
+        "type": "video"
+      }
+    ]
   }
 }

@@ -243,10 +243,12 @@
       },
       {
         "url": "https://scrimba.com/learn/reactgraphql",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Build an App with React and GraphQL",
+        "platform": "Scrimba",
+        "authors": [
+          "Karl Hadwen"
+        ],
+        "duration": 63,
         "type": "course"
       },
       {

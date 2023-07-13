@@ -117,10 +117,12 @@
       },
       {
         "url": "https://scrimba.com/learn/tailwind",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn Tailwind CSS",
+        "platform": "Scrimba",
+        "authors": [
+          "Victor Gonzalez"
+        ],
+        "duration": 154,
         "type": "course"
       },
       {

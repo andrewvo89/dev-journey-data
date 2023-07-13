@@ -48,8 +48,10 @@
       },
       {
         "url": "https://itnext.io/https-medium-com-joshstudley-form-field-validation-with-html-and-a-little-javascript-1bda6a4a4c8c",
-        "title": "",
-        "authors": [],
+        "title": "Form Field Validation with HTML (and a little Javascript)",
+        "authors": [
+          "Joshua Studley"
+        ],
         "type": "article"
       },
       {
@@ -311,10 +313,12 @@
       },
       {
         "url": "https://scrimba.com/learn/htmlandcss",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn HTML and CSS",
+        "platform": "Scrimba",
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 333,
         "type": "course"
       },
       {
@@ -340,8 +344,11 @@
         "url": "https://www.coursera.org/learn/html",
         "title": "Introduction to HTML5",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Colleen van Lent, Ph.D.",
+          "Charles Russell Severance"
+        ],
+        "duration": 567,
         "type": "course"
       },
       {
@@ -358,8 +365,10 @@
         "url": "https://www.coursera.org/learn/learn-html-and-css",
         "title": "Learn HTML and CSS",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 75,
         "type": "course"
       },
       {
@@ -496,7 +505,9 @@
         "url": "https://www.pluralsight.com/courses/html-fundamentals",
         "title": "HTML Fundamentals",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "Matt Milner"
+        ],
         "duration": 139,
         "type": "course"
       }

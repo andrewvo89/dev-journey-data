@@ -56,8 +56,10 @@
       },
       {
         "url": "https://itnext.io/flutter-3-7-and-a-new-way-of-defining-compile-time-variables-f63db8a4f6e2",
-        "title": "",
-        "authors": [],
+        "title": "Flutter 3.7 and a new way of defining compile-time variables",
+        "authors": [
+          "Denis Beketsky"
+        ],
         "type": "article"
       },
       {

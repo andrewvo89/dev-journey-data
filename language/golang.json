@@ -462,7 +462,9 @@
         "url": "https://www.coursera.org/specializations/google-golang",
         "title": "Programming with Google Go",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Ian Harris"
+        ],
         "duration": 0,
         "type": "course"
       },
@@ -470,8 +472,10 @@
         "url": "https://www.coursera.org/learn/golang-getting-started",
         "title": "Getting Started with Go",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Ian Harris"
+        ],
+        "duration": 326,
         "type": "course"
       },
       {

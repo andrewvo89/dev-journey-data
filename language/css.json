@@ -405,8 +405,11 @@
         "url": "https://www.coursera.org/learn/introcss",
         "title": "Introduction to CSS3",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Colleen van Lent, Ph.D.",
+          "Charles Russell Severance"
+        ],
+        "duration": 497,
         "type": "course"
       },
       {
@@ -431,24 +434,30 @@
         "url": "https://www.coursera.org/learn/learn-html-and-css",
         "title": "Learn HTML and CSS",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 75,
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/learn/build-a-webpage-with-html-and-css",
         "title": "Build a Webpage with HTML and CSS",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Board Infinity"
+        ],
+        "duration": 1525,
         "type": "course"
       },
       {
         "url": "https://scrimba.com/learn/htmlandcss",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Learn HTML and CSS",
+        "platform": "Scrimba",
+        "authors": [
+          "Per Harald Borgen"
+        ],
+        "duration": 333,
         "type": "course"
       },
       {
