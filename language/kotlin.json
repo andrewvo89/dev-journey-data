@@ -1,14 +1,806 @@
 {
   "title": "Kotlin",
-  "description": "",
+  "description": "Kotlin is a robust, modern programming language that provides a combination of object-oriented and functional programming features with an emphasis on interoperability, safety, clarity, and tooling support. It was developed by JetBrains, the company known for creating the Integrated Development Environment (IDE) IntelliJ IDEA. The first stable release of Kotlin was made available in 2016, and it has since been gaining popularity among developers.\nRunning on the Java Virtual Machine (JVM), Kotlin offers full interoperability with Java, which means it can use existing Java libraries, frameworks, and even the existing code base without any disruptions. This has enabled organizations to migrate to Kotlin gradually without having to overhaul their existing projects or codebases entirely. Furthermore, it supports JavaScript as a target, enabling developers to build web front-end applications.\nOne of the significant features of Kotlin is its null safety. Null references are often referred to as the \"billion dollar mistake,\" leading to common runtime errors like Null Pointer Exceptions. Kotlin, however, has built-in null safety, which means variables can't hold a null value unless explicitly declared, helping to eliminate these types of errors and making code safer and more reliable.\nKotlin's syntax is highly expressive, concise, and friendly. It reduces the boilerplate code that is common in languages like Java, making code more readable and easier to write and maintain. Among its other notable features are coroutines for asynchronous programming and better management of multithreaded environments, extension functions for augmenting existing classes with new functionality without inheriting from them, and smart casts which reduce repetitive type-checking and casting.\nIn 2017, Google announced official support for Kotlin on Android, making it a first-class language for Android app development. This was a significant milestone that boosted its popularity among Android developers, as they now had a more modern and efficient language for creating apps. As a result, many Android apps, including those developed by major companies, began transitioning to Kotlin.\nKotlin is also used in backend development with frameworks like Ktor and Spring, and in data science with libraries like Kotlin for Apache Spark and lets-plot for visualization.",
   "dependencies": [
     "field/mobile_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://proandroiddev.com/kotlin-clean-architecture-1ad42fcd97fa",
+        "title": "Kotlin Clean Architecture",
+        "authors": [
+          "Rakshit jain"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@fatihcoskun/kotlin-scoping-functions-apply-vs-with-let-also-run-816e4efb75f5",
+        "title": "Kotlin Scoping Functions apply vs. with, let, also, and run",
+        "authors": [
+          "Fatih Coşkun"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://proandroiddev.com/creating-multiple-constructors-for-data-classes-in-kotlin-32ad27e58cac",
+        "title": "Creating multiple constructors for Data classes in Kotlin",
+        "authors": [
+          "Moyinoluwa Adeyemi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/google-developer-experts/why-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99",
+        "title": "Why are Java server-side developers not adopting Kotlin?",
+        "authors": [
+          "Ivan Sanchez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://bladecoder.medium.com/kotlin-singletons-with-argument-194ef06edd9e",
+        "title": "Kotlin singletons with argument",
+        "authors": [
+          "Christophe Beyls"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@agavatar/programming-with-kotlin-in-visual-studio-code-1d745d6b4ad1",
+        "title": "Programming with Kotlin in Visual Studio Code",
+        "authors": [
+          "Laxman Sahni"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/mobile-app-development-publication/mastering-kotlin-standard-functions-run-with-let-also-and-apply-9cd334b0ef84",
+        "title": "Mastering Kotlin standard functions: run, with, let, also and apply",
+        "authors": [
+          "Elye"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.plan99.net/why-kotlin-is-my-next-programming-language-c25c001e26e3",
+        "title": "Why Kotlin is my next programming language",
+        "authors": [
+          "Mike Hearn"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://magnuschatt.medium.com/why-you-should-totally-switch-to-kotlin-c7bbde9e10d5",
+        "title": "Why you should totally switch to Kotlin",
+        "authors": [
+          "Magnus Vinther"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@sidh.thomas1/java-is-dead-6-misconceptions-of-developers-that-still-think-java-is-relevant-today-683310849855",
+        "title": "Java is Dead — 6 Misconceptions of developers that still think Java is relevant today!",
+        "authors": [
+          "Sid Thomas"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdev.com/kotlin-is-the-future-of-back-end-development-1dfad12c4e9c",
+        "title": "Kotlin is the Future of Back-end Development.",
+        "authors": [
+          "Nishant Aanjaney Jalan"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://pragprog.com/titles/vskotlin/programming-kotlin/",
+        "title": "",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Building-Android-Projects-Kotlin-Material/dp/9355510829",
+        "title": "Building Android Projects with Kotlin: Use Android SDK, Jetpack, Material Design, and JUnit to Build Android and JVM Apps That Are Secure and Modular (English Edition)",
+        "authors": [
+          "Pankaj Kumar"
+        ],
+        "pages": 452,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Effective-Kotlin-practices-Marcin-Moskala/dp/8395452837",
+        "title": "Effective Kotlin: Best practices",
+        "authors": [
+          "Marcin Moskala"
+        ],
+        "pages": 446,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Kotlin-Developers-Book-ebook/dp/B0BN8TRQDF",
+        "title": "Functional Kotlin (Kotlin for Developers Book 2)",
+        "authors": [
+          "Marcin Moskała"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Programming-Kotlin-Marco-Vermeulen/dp/161729716X",
+        "title": "Functional Programming in Kotlin",
+        "authors": [
+          "Marco Vermeulen",
+          "Rúnar Bjarnason",
+          "Paul Chiusano"
+        ],
+        "pages": 502,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Kotlin-Coroutines-Deep-Marcin-Moskala/dp/8396395837",
+        "title": "Kotlin Coroutines: Deep Dive (Kotlin for Developers)",
+        "authors": [
+          "Marcin Moskała"
+        ],
+        "pages": 342,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Kotlin-Depth-Multipurpose-Programming-Multiplatform-ebook/dp/B09X74NRD8",
+        "title": "Kotlin In-Depth: A Guide to a Multipurpose Programming Language for Server-Side, Front-End, Android, and Multiplatform Mobile (English Edition)",
+        "authors": [
+          "Aleksei Sedunov"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Kotlin-Practical-Mastering-Programming-Language-ebook/dp/B0C6FPHC37",
+        "title": "Kotlin: Zero To One: A Practical Guide to Mastering the Kotlin Programming Language",
+        "authors": [
+          "Shubham Matta"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Kotlin-Programming-Beginners-Nilkani-Mort-ebook/dp/B08QHGD96P",
+        "title": "Kotlin Programming for Beginners",
+        "authors": [
+          "Nilkani Mort",
+          "Saurav Sau"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Kotlin-Programming-Nerd-Ranch-Guide/dp/0135161630",
+        "title": "Kotlin Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)",
+        "authors": [
+          "Josh Skeen",
+          "David Greenhalgh"
+        ],
+        "pages": 480,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Pro-Kotlin-Apps-Scratch-Production-Ready-ebook/dp/B0BT1LSDFJ",
+        "title": "Pro Kotlin Web Apps from Scratch: Building Production-Ready Web Apps Without a Framework",
+        "authors": [
+          "August Lilleaas"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/the-joy-of-kotlin",
+        "title": "The Joy of Kotlin",
+        "authors": [
+          "Pierre-Yves Saumont"
+        ],
+        "pages": 480,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-kotlin/9781491996683/",
+        "title": "Head First Kotlin",
+        "authors": [
+          "Dawn Griffiths",
+          "David Griffiths"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/java-to-kotlin/9781492082262/",
+        "title": "Java to Kotlin",
+        "authors": [
+          "Duncan McGregor",
+          "Nat Pryce"
+        ],
+        "pages": 300,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/kotlin-cookbook/9781492046660/",
+        "title": "Kotlin Cookbook",
+        "authors": [
+          "Ken Kousen"
+        ],
+        "pages": 254,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-android-with/9781492062998/",
+        "title": "Programming Android with Kotlin",
+        "authors": [
+          "Pierre-Olivier Laurence",
+          "Amanda Hinchman-Dominguez",
+          "Mike Dunn",
+          "G. Blake Meike"
+        ],
+        "pages": 325,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/android-development-with-kotlin/9781787123687",
+        "title": "Android Development with Kotlin",
+        "authors": [
+          "Igor Wojda",
+          "Marcin Moskala"
+        ],
+        "pages": 440,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/android-programming-with-kotlin-for-beginners/9781789615401",
+        "title": "Android Programming with Kotlin for Beginners",
+        "authors": [
+          "John Horton"
+        ],
+        "pages": 698,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-applications-with-spring-5-and-kotlin/9781788394802",
+        "title": "Building Applications with Spring 5 and Kotlin",
+        "authors": [
+          "Miloš Vasić"
+        ],
+        "pages": 310,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/functional-kotlin/9781788476485",
+        "title": "Functional Kotlin",
+        "authors": [
+          "Mario Arias",
+          "Rivu Chakraborty"
+        ],
+        "pages": 350,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-kotlin/9781788994019",
+        "title": "Hands-On Data Structures and Algorithms with Kotlin",
+        "authors": [
+          "Chandra Sekhar Nayak",
+          "Rivu Chakraborty"
+        ],
+        "pages": 220,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-design-patterns-with-kotlin/9781788998017",
+        "title": "Hands-on Design Patterns with Kotlin",
+        "authors": [
+          "Alexey Soshin"
+        ],
+        "pages": 310,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-microservices-with-kotlin/9781788471459",
+        "title": "Hands-On Microservices with Kotlin",
+        "authors": [
+          "Juan Antonio Medina Iglesias"
+        ],
+        "pages": 414,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-object-oriented-programming-with-kotlin/9781789617726",
+        "title": "Hands-On Object-Oriented Programming with Kotlin",
+        "authors": [
+          "Abid Khan",
+          "Igor Kucherenko"
+        ],
+        "pages": 370,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-serverless-applications-with-kotlin/9781788993708",
+        "title": "Hands-On Serverless Applications with Kotlin",
+        "authors": [
+          "Hardik Trivedi",
+          "Ameya Kulkarni"
+        ],
+        "pages": 386,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/how-to-build-android-apps-with-kotlin-second-edition/9781837634934",
+        "title": "How to Build Android Apps with Kotlin - Second Edition",
+        "authors": [
+          "Alex Forrester",
+          "Eran Boudjnah",
+          "Alexandru Dumbravan\nand 1 more"
+        ],
+        "pages": 704,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/how-to-build-android-apps-with-kotlin/9781838984113",
+        "title": "How to Build Android Apps with Kotlin",
+        "authors": [
+          "Alex Forrester",
+          "Eran Boudjnah",
+          "Alexandru Dumbravan\n and 1 more"
+        ],
+        "pages": 794,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kickstart-modern-android-development-with-jetpack-and-kotlin/9781801811071",
+        "title": "Kickstart Modern Android Development with Jetpack and Kotlin",
+        "authors": [
+          "Catalin Ghita"
+        ],
+        "pages": 472,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kotlin-design-patterns-and-best-practices-second-edition/9781801815727",
+        "title": "Kotlin Design Patterns and Best Practices - Second Edition",
+        "authors": [
+          "Alexey Soshin"
+        ],
+        "pages": 356,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kotlin-for-enterprise-applications-using-java-ee/9781788997270",
+        "title": "Kotlin for Enterprise Applications using Java EE",
+        "authors": [
+          "Raghavendra Rao K"
+        ],
+        "pages": 388,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kotlin-programming-by-example/9781788474542",
+        "title": "Kotlin Programming By Example",
+        "authors": [
+          "Iyanu Adelekan"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kotlin-quick-start-guide/9781789344189",
+        "title": "Kotlin Quick Start Guide",
+        "authors": [
+          "Marko Devcic"
+        ],
+        "pages": 178,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/kotlin-standard-library-cookbook/9781788837668",
+        "title": "Kotlin Standard Library Cookbook",
+        "authors": [
+          "Samuel Urbanowicz"
+        ],
+        "pages": 242,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-concurrency-in-kotlin/9781788627160",
+        "title": "Learning Concurrency in Kotlin",
+        "authors": [
+          "Miguel Angel Castiblanco Torres"
+        ],
+        "pages": 266,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-high-performance-with-kotlin/9781788996648",
+        "title": "Mastering High Performance with Kotlin",
+        "authors": [
+          "Igor Kucherenko"
+        ],
+        "pages": 316,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/reactive-programming-in-kotlin/9781788473026",
+        "title": "Reactive Programming in Kotlin",
+        "authors": [
+          "Rivu Chakraborty"
+        ],
+        "pages": 322,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/simplifying-application-development-with-kotlin-multiplatform-mobile/9781801812580",
+        "title": "Simplifying Application Development with Kotlin Multiplatform Mobile",
+        "authors": [
+          "Róbert Nagy"
+        ],
+        "pages": 184,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.codecademy.com/learn/learn-kotlin",
+        "title": "Learn Kotlin",
+        "platform": "Codecademy",
+        "authors": [
+          "Jace van Auken"
+        ],
+        "duration": 900,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-kotlin-collections-and-loops",
+        "title": "Learn Kotlin: Collections and Loops",
+        "platform": "Codecademy",
+        "authors": [
+          "Jace van Auken"
+        ],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-kotlin-functions-and-classes",
+        "title": "Learn Kotlin: Functions and Classes",
+        "platform": "Codecademy",
+        "authors": [
+          "Jace van Auken"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-kotlin-introduction",
+        "title": "Learn Kotlin: Introduction",
+        "platform": "Codecademy",
+        "authors": [
+          "Jace van Auken"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/kotlin-for-java-developers",
+        "title": "Kotlin for Java Developers",
+        "platform": "Coursera",
+        "authors": [
+          "Svetlana Isakova",
+          "Andrey Breslav"
+        ],
+        "duration": 493,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/meta-programming-fundamentals-kotlin",
+        "title": "Programming Fundamentals in Kotlin",
+        "platform": "Coursera",
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 1454,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/intermediate-kotlin-for-android-developers",
+        "title": "Intermediate Kotlin for Android Developers",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Annyce Davis"
+        ],
+        "duration": 128,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/kotlin-essential-training-functions-collections-and-i-o",
+        "title": "Kotlin Essential Training: Functions, Collections, and I/O",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Nate Ebel"
+        ],
+        "duration": 282,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/kotlin-for-android-best-practices",
+        "title": "Kotlin for Android: Best Practices",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Chiu-Ki Chan"
+        ],
+        "duration": 73,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/kotlin-for-java-developers",
+        "title": "Kotlin for Java Developers",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Troy Miles"
+        ],
+        "duration": 163,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/android-apps-kotlin-build-first-app",
+        "title": "Developing Android Applications with Kotlin: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jim Wilson"
+        ],
+        "duration": 256,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/kotlin-big-picture",
+        "title": "Kotlin: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Markus Neuhoff"
+        ],
+        "duration": 55,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/kotlin-fundamentals",
+        "title": "Kotlin Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Kevin Jones"
+        ],
+        "duration": 287,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/kotlin-getting-started",
+        "title": "Getting Started with Kotlin",
+        "platform": "Pluralsight",
+        "authors": [
+          "Kevin Jones"
+        ],
+        "duration": 129,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/android-kotlin-developer/",
+        "title": "The Complete Android 12 & Kotlin Development Masterclass",
+        "platform": "Udemy",
+        "authors": [
+          "Denis Panjuta",
+          "Tutorials.eu by Denis Panjuta"
+        ],
+        "duration": 2835,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/",
+        "title": "Android App Development Masterclass Tutorial using Kotlin",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Buchalka",
+          "Jean-Paul Roberts",
+          "Tim Buchalka's Learn Programming Academy",
+          "David Reidy"
+        ],
+        "duration": 3734,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/devslopes-android-kotlin/",
+        "title": "Kotlin for Android: Beginner to Advanced",
+        "platform": "Udemy",
+        "authors": [
+          "Devslopes by Mark Wahlbeck"
+        ],
+        "duration": 1372,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/kotlin-android/",
+        "title": "Kotlin for Android & Java Developers: Clean Code on Android",
+        "platform": "Udemy",
+        "authors": [
+          "Peter Sommerhoff"
+        ],
+        "duration": 557,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/kotlin-course/",
+        "title": "Kotlin for Beginners: Learning Programming With Kotlin",
+        "platform": "Udemy",
+        "authors": [
+          "Peter Sommerhoff"
+        ],
+        "duration": 396,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/kotlin-for-java-developers/",
+        "title": "Kotlin for Java Developers: Build Your Own Kotlin Programs",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Buchalka",
+          "Goran Lochert",
+          "Tim Buchalka's Learn Programming Academy"
+        ],
+        "duration": 1005,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/kotlinmasterclass/",
+        "title": "Complete Kotlin development masterclass 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Catalin Stefan"
+        ],
+        "duration": 1852,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-kotlin-developer-course-java/",
+        "title": "The Complete Kotlin Developer Course",
+        "platform": "Udemy",
+        "authors": [
+          "Codestars • over 2 million students worldwide!",
+          "Nick Walter",
+          "Rob Percival"
+        ],
+        "duration": 739,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.atomickotlin.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://kotlinlang.org/education/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@Kotlin",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.kotlintutorialblog.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/5flXf8nuq60",
+        "title": "Kotlin Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 84,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BBWyXo-3JGQ",
+        "title": "Build A Simple Android App With Kotlin",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 72,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/EExSSotojVI",
+        "title": "Learn Kotlin Programming – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 799,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/F9UC9DY-vIU",
+        "title": "Kotlin Course - Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 159,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PFVKjUUZMf8",
+        "title": "What Is Kotlin? | Introduction To Kotlin | Kotlin Tutorial For Beginners | Kotlin | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/TEXaoSC_8lQ",
+        "title": "Kotlin Tutorial For Beginners 2023",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 295,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xKmLZ9cIWss",
+        "title": "Build APIs with Kotlin and Ktor",
+        "authors": [
+          "Awesome"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xT8oP0wy-A0",
+        "title": "Kotlin in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLrnPJCHvNZuAIbejjZA1kGfLeA8ZpICB2",
+        "title": "Kotlin Course for Beginners and Java Devs",
+        "authors": [
+          "Coding in Flow"
+        ],
+        "duration": 247,
+        "type": "video"
+      }
+    ]
   }
 }
