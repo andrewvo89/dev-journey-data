@@ -1,14 +1,1055 @@
 {
   "title": "Python",
-  "description": "",
+  "description": "Python is an interpreted, high-level, general-purpose programming language that was created by Guido van Rossum and first released in 1991. Known for its readability and efficiency, Python employs a syntax that is easy to learn and read, making it an excellent language for beginners as well as experienced developers. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.\nPython provides extensive libraries and frameworks that simplify tasks across various domains. Some notable libraries include NumPy and Pandas for numerical computing, TensorFlow and PyTorch for machine learning, Django and Flask for web development, and Matplotlib and Seaborn for data visualization.\nPython's versatility makes it popular across a wide range of applications, from web and software development, data analysis, artificial intelligence, machine learning, and network servers, to scientific computing, education, and more. Its active community ensures continuous improvements and resource availability.\nPython's philosophy emphasizes code readability and simplicity, embodied in the Zen of Python, a collection of 19 guiding principles. This philosophy is manifested in its design, which enforces a clean, easy-to-read syntax. Python uses whitespace indentation, rather than curly brackets or keywords, to delimit blocks, contributing to its readability. Additionally, it supports both the use of scripts and interactive shells, increasing its flexibility and usability for a range of tasks.\nA strong suit of Python is its broad standard library that comes along with the core distribution. This library includes modules for handling files, browsing the web, serializing data, and interfacing with the operating system, among many others. Moreover, this extensive library is further augmented by third-party packages which can be easily managed using pip, Python's recommended package installer.\nPython is dynamically typed, meaning that the type of a variable is checked during runtime, which adds to its flexibility. However, this also necessitates careful debugging and testing, which Python facilitates through a robust set of tools and practices. Python also supports automatic memory management, which reduces the need for manual memory handling by the programmer.\nOne of the major reasons for Python's rapid growth in recent years is its widespread use in burgeoning fields like data science, machine learning, and artificial intelligence. Packages like NumPy and Pandas have made Python a powerful environment for data manipulation, while Matplotlib and Seaborn offer data visualization tools. Machine learning libraries like Scikit-learn, TensorFlow, and PyTorch provide the functionalities necessary for implementing sophisticated machine learning models.\nIn the web development sphere, Python also offers several frameworks such as Django and Flask. Django is a high-level framework that encourages rapid development and clean, pragmatic design, built by experienced developers. Flask, on the other hand, is a micro web framework, which does not provide certain functionalities such as form validation or database abstraction layer, giving the developer a lot of flexibility, but also more responsibility.\nPython's extensive utility, ease of learning, and large user community make it a highly desirable language for first-time learners and seasoned developers alike. With the continuous development and enrichment of its libraries and frameworks, Python's popularity and applicability are set to grow even further.",
   "dependencies": [
     "field/backend_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://dev.to/blikoor/learning-python-5c3j",
+        "title": "Learning Python",
+        "authors": [
+          "Blikoor"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/bowmanjd/python-tools-for-managing-virtual-environments-3bko",
+        "title": "Python Tools for Managing Virtual Environments",
+        "authors": [
+          "Jonathan Bowman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/jones268/python-for-beginners-how-to-get-started-138m",
+        "title": "Python for Beginners: How to Get Started",
+        "authors": [
+          "jones268"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/jones268/python-how-to-think-like-a-programmer-4ci6",
+        "title": "Python - How to Think Like a Programmer",
+        "authors": [
+          "jones268"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dmitrijkumancev571/awesome-python-scripts-6711873a35c3",
+        "title": "Awesome Python Scripts",
+        "authors": [
+          "Dmitriy Kumantsev"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@fareedkhandev/best-data-analysis-library-in-python-ad2572288017",
+        "title": "Best Data Analysis Library in Python",
+        "authors": [
+          "Fareed Khan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/cloudnloud/different-types-of-operators-in-python-5ee31166bed5",
+        "title": "Different Types of Operators in Python",
+        "authors": [
+          "Fawaz C P"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://python.plainenglish.io/five-python-wrappers-that-can-reduce-your-code-by-half-af775feb1d5",
+        "title": "Five Python Decorators That Can Reduce Your Code By Half",
+        "authors": [
+          "Serop Baghdadlian"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/3-must-know-concepts-about-python-data-structures-641e6f6207fc",
+        "title": "3 Must-Know Concepts About Python Data Structures",
+        "authors": [
+          "Soner Yıldırım"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/python-lists-vs-numpy-arrays-a-deep-dive-into-memory-layout-and-performance-benefits-a74ce774bc1e",
+        "title": "Python Lists Vs. NumPy Arrays: A Deep Dive into Memory Layout and Performance Benefits",
+        "authors": [
+          "Peng Qian"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/glossary-python",
+        "title": "Python Glossary",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/learn-python-python-syntax",
+        "title": "Python Syntax Guide",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.codecademy.com/article/what-is-python",
+        "title": "What is Python?",
+        "authors": [
+          "Codecademy Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/5-python-challenges",
+        "title": "5 Python Challenges to Develop Your Skills",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/all-about-python-the-most-versatile-programming-language",
+        "title": "What is Python? - The Most Versatile Programming Language",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/how-to-learn-python-expert-guide",
+        "title": "How to Learn Python From Scratch in 2023: An Expert Guide",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/lessons-from-the-zen-of-python",
+        "title": "Lessons from the Zen of Python",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/python-best-practices-for-better-code",
+        "title": "6 Python Best Practices for Better Code",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/top-python-interview-questions-and-answers",
+        "title": "The 23 Top Python Interview Questions & Answers",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/top-python-libraries-for-data-science",
+        "title": "Top Python Libraries for Data Science in 2022",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/what-can-you-do-with-python-5-ideas-for-experts",
+        "title": "What Can You Do With Python?",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Coding-Beginners-Python-Louie-Stowell/dp/1409599345",
+        "title": "Coding for Beginners: Using Python [Hardcover] [Jan 01, 2017] Louie Stowell",
+        "authors": [
+          "Louie Stowell"
+        ],
+        "pages": 95,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Computer-Coding-Python-Games-Kids/dp/0241317797",
+        "title": "Computer Coding Python Games for Kids",
+        "authors": [
+          "CAROL VORDERMAN"
+        ],
+        "pages": 224,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Computer-Coding-Python-Projects-Step/dp/0241286867",
+        "title": "Computer Coding Python Projects for Kids: A Step-by-Step Visual Guide",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/PYTHON-PROGRAMMING-BEGINNERS-GUIDE-LEARN-ebook/dp/B01GSODGZC",
+        "title": "PYTHON: PROGRAMMING: A BEGINNER’S GUIDE TO LEARN PYTHON IN 7 DAYS",
+        "authors": [
+          "Ramsey Hamilton"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/PYTHON-Programming-Crafting-Powerful-Solutions-ebook/dp/B0C2VJT73W",
+        "title": "PYTHON Programming: Crafting Powerful Solutions with Python Programming",
+        "authors": [
+          "Kelvin Atmadibrata",
+          "Kelvin  Atmadibrata"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Programming-Mastery-Secrets-High-Demand-Skillset-ebook/dp/B0C3DN7Q2M",
+        "title": "PYTHON Programming Mastery Unlock the Secrets of a High-Demand Skillset: Learn Python Programming from Zero to Hero with Real-World Exercises & Examples for a Successful Career in The Tech Industry",
+        "authors": [
+          "Mark Clifferland"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Python-Absolute-Beginners-Programming-Practical-ebook/dp/B08DDBWXK7",
+        "title": "Python for Absolute Beginners: A Step by Step Guide to Learn Python Programming from Scratch, with Practical Coding Examples and Exercises",
+        "authors": [
+          "Andrew Warner"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702",
+        "title": "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming",
+        "authors": [
+          "Eric Matthes"
+        ],
+        "pages": 553,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/python-how-to",
+        "title": "Python How-To",
+        "authors": [],
+        "pages": 504,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/architecture-patterns-with/9781492052197/",
+        "title": "Architecture Patterns with Python",
+        "authors": [
+          "Harry Percival",
+          "Bob Gregory"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/causal-inference-in/9781098140243/",
+        "title": "Causal Inference in Python",
+        "authors": [
+          "Matheus Facure"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/data-visualization-with/9781098111861/",
+        "title": "Data Visualization with Python and JavaScript, 2nd Edition",
+        "authors": [
+          "Kyran Dale"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/",
+        "title": "Fluent Python, 2nd Edition",
+        "authors": [
+          "Luciano Ramalho"
+        ],
+        "pages": 850,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-python/9781492051282/",
+        "title": "Head First Python, 3rd Edition",
+        "authors": [
+          "Paul Barry"
+        ],
+        "pages": 600,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/high-performance-python/9781492055013/",
+        "title": "High Performance Python, 2nd Edition",
+        "authors": [
+          "Micha Gorelick",
+          "Ian Ozsvald"
+        ],
+        "pages": 450,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/",
+        "title": "Introduction to Machine Learning with Python",
+        "authors": [
+          "Andreas C. Müller",
+          "Sarah Guido"
+        ],
+        "pages": 400,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-python-5th/9781449355722/",
+        "title": "Learning Python, 5th Edition",
+        "authors": [
+          "Mark Lutz"
+        ],
+        "pages": 1600,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/machine-learning-with/9781098135713/",
+        "title": "Machine Learning with Python Cookbook, 2nd Edition",
+        "authors": [
+          "Kyle Gallatin",
+          "Chris Albon"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/",
+        "title": "Python Cookbook, 3rd Edition",
+        "authors": [
+          "David Beazley",
+          "Brian K. Jones"
+        ],
+        "pages": 706,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-data-science/9781098121211/",
+        "title": "Python Data Science Handbook, 2nd Edition",
+        "authors": [
+          "Jake VanderPlas"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-for-data/9781098104023/",
+        "title": "Python for Data Analysis, 3rd Edition",
+        "authors": [
+          "Wes McKinney"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-for-devops/9781492057680/",
+        "title": "Python for DevOps",
+        "authors": [
+          "Noah Gift",
+          "Kennedy Behrman",
+          "Alfredo Deza",
+          "Grig Gheorghiu"
+        ],
+        "pages": 506,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-in-a/9781098113544/",
+        "title": "Python in a Nutshell, 4th Edition",
+        "authors": [
+          "Alex Martelli",
+          "Anna Martelli Ravenscroft",
+          "Steve Holden",
+          "Paul McGuire"
+        ],
+        "pages": 600,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/robust-python/9781098100650/",
+        "title": "Robust Python",
+        "authors": [
+          "Patrick Viafore"
+        ],
+        "pages": 372,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/web-scraping-with/9781098145347/",
+        "title": "Web Scraping with Python, 3rd Edition",
+        "authors": [
+          "Ryan Mitchell"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-python-microservices-with-fastapi/9781803245966",
+        "title": "Building Python Microservices with FastAPI",
+        "authors": [
+          "Sherwin John C.Tragura"
+        ],
+        "pages": 420,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/building-python-web-apis-with-fastapi/9781801076630",
+        "title": "Building Python Web APIs with FastAPI",
+        "authors": [
+          "Abdulazeez Abdulazeez Adeshina"
+        ],
+        "pages": 216,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/causal-inference-and-discovery-in-python/9781804612989",
+        "title": "Causal Inference and Discovery in Python",
+        "authors": [
+          "Aleksander Molak"
+        ],
+        "pages": 456,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/exploratory-data-analysis-with-python-cookbook/9781803231105",
+        "title": "Exploratory Data Analysis with Python Cookbook",
+        "authors": [
+          "Ayodele Oluleye"
+        ],
+        "pages": 382,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-python-programming-third-edition/9781801815093",
+        "title": "Learn Python Programming - Third Edition",
+        "authors": [
+          "Fabrizio Romano",
+          "Heinrich Kruger"
+        ],
+        "pages": 552,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/machine-learning-engineering-with-python-second-edition/9781837631964",
+        "title": "Machine Learning Engineering with Python - Second Edition",
+        "authors": [
+          "Andrew McMahon"
+        ],
+        "pages": 9781837631964,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-python-networking-fourth-edition/9781803234618",
+        "title": "Mastering Python Networking - Fourth Edition",
+        "authors": [
+          "Eric Chou"
+        ],
+        "pages": 594,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/python-data-cleaning-cookbook/9781800565661",
+        "title": "Python Data Cleaning Cookbook",
+        "authors": [
+          "Michael Walker"
+        ],
+        "pages": 436,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/python-ethical-hacking-from-scratch/9781838829506",
+        "title": "Python Ethical Hacking from Scratch",
+        "authors": [
+          "Fahad Ali Sarwar"
+        ],
+        "pages": 214,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/python-object-oriented-programming-fourth-edition/9781801077262",
+        "title": "Python Object-Oriented Programming - Fourth Edition",
+        "authors": [
+          "Steven F. Lott",
+          "Dusty Phillips"
+        ],
+        "pages": 714,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "authors": [
+          "Bo Milanovich"
+        ],
+        "title": "Python Desktop Application Development",
+        "type": "course",
+        "url": "https://www.pluralsight.com/courses/python-desktop-application-development",
+        "duration": 102,
+        "platform": "Pluralsight"
+      },
+      {
+        "authors": [
+          "Chris Achard"
+        ],
+        "title": "Cleaning Data: Python Data Playbook",
+        "type": "course",
+        "url": "https://www.pluralsight.com/courses/cleaning-data-python-data-playbook",
+        "duration": 68,
+        "platform": "Pluralsight"
+      },
+      {
+        "authors": [],
+        "title": "Introduction to Python Scripting",
+        "type": "course",
+        "url": "https://www.pluralsight.com/cloud-guru/courses/introduction-to-python-scripting",
+        "duration": 415,
+        "platform": "Pluralsight"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/getting-started-with-python-for-data-science",
+        "title": "Getting Started with Python for Data Science",
+        "platform": "Codecademy",
+        "authors": [
+          "Ada Morse"
+        ],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-advanced-python",
+        "title": "Learn Advanced Python 3",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 540,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-data-structures-and-algorithms-with-python",
+        "title": "Learn Data Structures and Algorithms with Python",
+        "platform": "Codecademy",
+        "authors": [
+          "Alisha Grama"
+        ],
+        "duration": 2400,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-intermediate-python-3",
+        "title": "Learn Intermediate Python 3",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 900,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-python-3",
+        "title": "Learn Python 3",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 1500,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/linear-regression-mssp",
+        "title": "Linear Regression in Python",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 420,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/practical-data-cleaning",
+        "title": "How to Clean Data with Python",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 120,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/python-for-programmers",
+        "title": "Python for Programmers",
+        "platform": "Codecademy",
+        "authors": [
+          "Alisha Grama"
+        ],
+        "duration": 360,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/get-started-with-python",
+        "title": "Get Started with Python",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python",
+        "title": "Programming for Everybody (Getting Started with Python)",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 705,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-basics",
+        "title": "Python Basics",
+        "platform": "Coursera",
+        "authors": [
+          "Paul Resnick",
+          "Steve Oney"
+        ],
+        "duration": 1359,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-crash-course",
+        "title": "Crash Course on Python",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
+        "title": "Python for Data Science, AI & Development",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-programming-fundamentals",
+        "title": "Python Programming Fundamentals",
+        "platform": "Coursera",
+        "authors": [
+          "Andrew D. Hilton",
+          "Nick Eubank",
+          "Genevieve M. Lipp",
+          "Kyle Bradbury"
+        ],
+        "duration": 778,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-programming-intro",
+        "title": "Introduction to Python Programming",
+        "platform": "Coursera",
+        "authors": [
+          "Brandon Krakowsky"
+        ],
+        "duration": 2170,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/professional-certificates/google-it-automation",
+        "title": "Google IT Automation with Python",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/data-science-python",
+        "title": "Applied Data Science with Python",
+        "platform": "Coursera",
+        "authors": [
+          "Christopher Brooks",
+          "Kevyn Collins-Thompson",
+          "V. G. Vinod Vydiswaran",
+          "Daniel Romero"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/python",
+        "title": "Python for Everybody",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/python-3-programming",
+        "title": "Python 3 Programming",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/intro-to-python-for-data-science",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-python-14393370",
+        "title": "Learning Python",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Joe Marini"
+        ],
+        "duration": 190,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/python-data-analysis-2",
+        "title": "Python Data Analysis",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Michele Vallisneri"
+        ],
+        "duration": 150,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/python-essential-training-18764650",
+        "title": "Python Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ryan Mitchell"
+        ],
+        "duration": 262,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/python-for-non-programmers",
+        "title": "Python for Non-Programmers",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Nick Walter"
+        ],
+        "duration": 115,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/introduction-to-python--ud1110",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/100-days-of-code/",
+        "title": "100 Days of Code: The Complete Python Pro Bootcamp for 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Dr. Angela Yu"
+        ],
+        "duration": 3477,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/automate/",
+        "title": "Automate the Boring Stuff with Python Programming Course",
+        "platform": "Udemy",
+        "authors": [
+          "Al Sweigart"
+        ],
+        "duration": 570,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-python-bootcamp/",
+        "title": "Python Bootcamps: Learn Python Programming and Code Training",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1333,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-python-developer-zero-to-mastery/",
+        "title": "Complete Python Developer in 2023: Zero to Mastery",
+        "platform": "Udemy",
+        "authors": [
+          "Andrei Neagoie"
+        ],
+        "duration": 1852,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/machinelearning/",
+        "title": "Machine Learning A-Z (Python & R in Data Science Course)",
+        "platform": "Udemy",
+        "authors": [
+          "Kirill Eremenko",
+          "Hadelin de Ponteves",
+          "SuperDataScience Team",
+          "Ligency Team"
+        ],
+        "duration": 2554,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1914,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/",
+        "title": "Python : Master Programming and Development with 15 Projects",
+        "platform": "Udemy",
+        "authors": [
+          "Dev Nirwal"
+        ],
+        "duration": 1927,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+        "title": "Learn Python for Data Science, Structures, Algorithms, Interviews",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1494,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-programming-projects/",
+        "title": "Python for Beginners: Learn Python Programming (Python 3)",
+        "platform": "Udemy",
+        "authors": [
+          "Jason Cannon"
+        ],
+        "duration": 173,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+        "title": "Learn Python Programming Masterclass",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Buchalka",
+          "Jean-Paul Roberts",
+          "Tim Buchalka's Learn Programming Academy"
+        ],
+        "duration": 4473,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-modern-python3-bootcamp/",
+        "title": "The Modern Python 3 Bootcamp | Learn with 200 Unique Exercises",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele"
+        ],
+        "duration": 1799,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-python-bible/",
+        "title": "The Python Bible™ | Everything You Need to Program in Python",
+        "platform": "Udemy",
+        "authors": [
+          "Ziyad Yehia",
+          "Internet of Things Academy"
+        ],
+        "duration": 548,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-python-mega-course/",
+        "title": "Python Mega Course: Learn Python in 60 Days, Build 20 Apps",
+        "platform": "Udemy",
+        "authors": [
+          "Ardit Sulce"
+        ],
+        "duration": 3114,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://docs.python.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://learnpython.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://pythonbooks.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://realpython.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/ITSMDeOgXxw",
+        "title": "Python Full Course 2023 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 715,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/LzYNWme1W6Q",
+        "title": "Python Full Course 🐍",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 216,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/VchuKL44s6E",
+        "title": "Python As Fast as Possible - Learn Python in ~75 Minutes",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 80,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/XKHEtdqhLK8",
+        "title": "Python Full Course for free 🐍",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 720,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_uQrJ0TkZlc",
+        "title": "Python Tutorial - Python Full Course for Beginners",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 375,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/b093aqAZiPU",
+        "title": "👩‍💻 Python for Beginners Tutorial",
+        "authors": [
+          "Kevin Stratvert"
+        ],
+        "duration": 64,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/eWRfhZUzrAc",
+        "title": "Python for Beginners – Full Course [Programming Tutorial]",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 280,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/kqtD5dpn9C8",
+        "title": "Python for Beginners - Learn Python in 1 Hour",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 61,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mMv6OSuitWw",
+        "title": "Python 101: Learn the 5 Must-Know Concepts",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 20,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/nLRL_NcnK-4",
+        "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 958,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/rfscVS0vtbw",
+        "title": "Learn Python - Full Course for Beginners [Tutorial]",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 267,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/t8pPdKYpowI",
+        "title": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+        "authors": [
+          "TechWorld with Nana"
+        ],
+        "duration": 332,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU",
+        "title": "Python Tutorials",
+        "authors": [
+          "Corey Schafer"
+        ],
+        "duration": 2229,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3",
+        "title": "Python for Beginners (Full Course) | Programming Tutorial",
+        "authors": [
+          "Telusko"
+        ],
+        "duration": 837,
+        "type": "video"
+      }
+    ]
   }
 }

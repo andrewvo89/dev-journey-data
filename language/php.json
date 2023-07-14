@@ -1,14 +1,639 @@
 {
   "title": "PHP",
-  "description": "",
+  "description": "PHP (Hypertext Preprocessor) is a widely used open-source server-side scripting language designed for web development but also used as a general-purpose programming language. Originally created in 1994 by Rasmus Lerdorf, PHP offers a robust solution for building dynamic and interactive websites.\nPHP scripts run on the server, generating HTML which is then sent to the client. This allows developers to create web pages that interact with databases and incorporate complex business logic. The language also supports a wide range of databases, has powerful output buffering that further increases over the HTTP protocol.\nPHP has strong capabilities for handling and manipulating file systems on the server, and it can perform operations like create, read, write, and close files. PHP also supports a wide range of protocols such as POP3, IMAP, and LDAP. PHP4 and PHP5 support Java and distributed object architectures (COM and .NET), making n-tier development a possibility for the first time.\nPHP is relatively easy for newcomers to learn while offering many advanced features for professional programmers. This blend of simplicity and power has helped PHP to become one of the most popular server-side scripting languages on the web.",
   "dependencies": [
     "paradigm/oop_programming"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://alenamage.medium.com/why-custom-php-development-is-so-popular-in-2023-5f696932ab4b",
+        "title": "Why Custom PHP Development is So Popular in 2023",
+        "authors": [
+          "Alena Mage"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://atakde.medium.com/i-dont-like-using-static-in-php-69a9c95d9b50",
+        "title": "I don’t like using Static in PHP",
+        "authors": [
+          "Atakan Demircioğlu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.devops.dev/performing-database-operations-with-php-ad785a41eb12",
+        "title": "Performing Database Operations with PHP",
+        "authors": [
+          "İbrahim Halil Oğlakcı"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/syntaxseed/learn-php-for-experienced-developers-2347",
+        "title": "Learn PHP For Experienced Developers",
+        "authors": [
+          "SyntaxSeed (Sherri W)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@PurpleGreenLemon/who-are-the-people-still-using-php-36a720ef50f0",
+        "title": "Who are the people still using PHP?",
+        "authors": [
+          "Aphinya Dechalert"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@alberto-jimenez/php-empowering-web-development-and-beyond-5729f1f9dcaf",
+        "title": "PHP: Empowering Web Development and Beyond",
+        "authors": [
+          "Alberto Jimenez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@berastis/20-php-features-you-should-know-in-2023-18d9879f36f2",
+        "title": "20 PHP Features You Should Know in 2023",
+        "authors": [
+          "berastis"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dollyaswin/php-development-trends-in-2023-d03fb601ff67",
+        "title": "PHP Development Trends In 2023",
+        "authors": [
+          "Dolly Aswin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@lejiend7/common-design-pattern-in-php-ef40bbbd60b4",
+        "title": "Common Design Pattern in PHP",
+        "authors": [
+          "Lejiend7"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/accesto/php-performance-tuning-a-comprehensive-guide-bc8a6907c15a",
+        "title": "PHP Performance Tuning: A Comprehensive Guide",
+        "authors": [
+          "Michał Kurzeja"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://tech.westwing.de/must-have-php-tools-868a1aac6eb7",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meaning-explained/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Murachs-PHP-MySQL-Joel-Murach/dp/1943873003",
+        "title": "Murach's PHP and MySQL (4th Edition)",
+        "authors": [
+          "Joel Murach",
+          "Ray Harris"
+        ],
+        "pages": 848,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/PHP-Beginners-Hands-Project-Project/dp/B08BR4XGFT",
+        "title": "PHP: Learn PHP in One Day and Learn It Well. PHP for Beginners with Hands-on Project. (Learn Coding Fast with Hands-On Project)",
+        "authors": [
+          "LCF Publishing",
+          "Jamie Chan"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149223",
+        "title": "PHP & MySQL: Server-side Web Development",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/100-php-mistakes-and-how-to-avoid-them",
+        "title": "100 PHP Mistakes and How to Avoid Them",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/php-in-action",
+        "title": "PHP in Action",
+        "authors": [
+          "Dagfinn Reiersøl"
+        ],
+        "pages": 552,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-php/9780596157739/",
+        "title": "Head First PHP & MySQL",
+        "authors": [
+          "Lynn Beighley",
+          "Michael Morrison"
+        ],
+        "pages": 812,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-php-mysql/9781492093817/",
+        "title": "Learning PHP, MySQL & JavaScript, 6th Edition",
+        "authors": [
+          "Robin Nixon"
+        ],
+        "pages": 832,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/php-cookbook/1565926811/",
+        "title": "PHP Cookbook",
+        "authors": [],
+        "pages": 640,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/php-cookbook/9781098121310/",
+        "title": "PHP Cookbook",
+        "authors": [
+          "Eric A. Mann"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/php-hacks/0596101392/",
+        "title": "PHP Hacks",
+        "authors": [
+          "Jack D. Herrington"
+        ],
+        "pages": 468,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/php-in-a/0596100671/",
+        "title": "PHP in a Nutshell",
+        "authors": [
+          "Paul Hudson"
+        ],
+        "pages": 372,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/php-pocket-reference/1565927699/",
+        "title": "PHP Pocket Reference",
+        "authors": [
+          "Rasmus Lerdorf"
+        ],
+        "pages": 136,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-php-4th/9781492054122/",
+        "title": "Programming PHP, 4th Edition",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-php/1565926102/",
+        "title": "Programming PHP",
+        "authors": [],
+        "pages": 534,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/clean-code-in-php/9781804613870",
+        "title": "Clean Code in PHP",
+        "authors": [
+          "Carsten Windler",
+          "Alexandre Daubois"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/domain-driven-design-in-php/9781787284944",
+        "title": "Domain-Driven Design in PHP",
+        "authors": [
+          "Keyvan Akbary",
+          "Carlos Buenosvinos",
+          "Christian Soronellas"
+        ],
+        "pages": 394,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-the-faster-web-with-php-mysql-and-javascript/9781788392211",
+        "title": "Mastering The Faster Web with PHP, MySQL, and JavaScript",
+        "authors": [
+          "Andrew Caya"
+        ],
+        "pages": 278,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/modernizing-legacy-applications-in-php/9781787124707",
+        "title": "Modernizing Legacy Applications in PHP",
+        "authors": [
+          "Paul Jones"
+        ],
+        "pages": 286,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/php-7-data-structures-and-algorithms/9781786463890",
+        "title": "PHP 7 Data Structures and Algorithms",
+        "authors": [
+          "Mizanur Rahman"
+        ],
+        "pages": 340,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/php-8-programming-tips-tricks-and-best-practices/9781801071871",
+        "title": "PHP 8 Programming Tips, Tricks and Best Practices",
+        "authors": [
+          "Doug Bierer"
+        ],
+        "pages": 528,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/php-microservices/9781787125377",
+        "title": "PHP Microservices",
+        "authors": [
+          "Pablo Solar Vilariño",
+          "Carlos Pérez Sánchez"
+        ],
+        "pages": 392,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/php-reactive-programming/9781786462879",
+        "title": "PHP Reactive Programming",
+        "authors": [
+          "Martin Sikora"
+        ],
+        "pages": 364,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/php-web-development-with-laminas/9781803245362",
+        "title": "PHP Web Development with Laminas",
+        "authors": [
+          "Flávio Gomes da Silva Lisboa"
+        ],
+        "pages": 394,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/test-driven-development-with-php-8/9781803230757",
+        "title": "Test-Driven Development with PHP 8",
+        "authors": [
+          "Rainier Sarabia"
+        ],
+        "pages": 336,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-art-of-modern-php-8/9781800566156",
+        "title": "The Art of Modern PHP 8",
+        "authors": [
+          "Joseph Edmonds"
+        ],
+        "pages": 420,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-php-workshop/9781838648916",
+        "title": "The PHP Workshop",
+        "authors": [
+          "Alexandru Busuioc",
+          "David Carr",
+          "Markus Gray\n and 4 more"
+        ],
+        "pages": 604,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.pluralsight.com/courses/php-big-picture",
+        "title": "PHP: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jonathan Klein"
+        ],
+        "duration": 50,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/php-design-patterns",
+        "title": "PHP Design Patterns",
+        "platform": "Pluralsight",
+        "authors": [
+          "Annapurna Agrawal"
+        ],
+        "duration": 79,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/php-get-started",
+        "title": "PHP: Get Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Christian Wenz"
+        ],
+        "duration": 195,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/php-essential-training-2017",
+        "title": "PHP Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Kevin Skoglund"
+        ],
+        "duration": 244,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-php-4",
+        "title": "Learning PHP",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Joe Casabona"
+        ],
+        "duration": 281,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/database-applications-php",
+        "title": "Building Database Applications in PHP",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 535,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/web-applications-php",
+        "title": "Building Web Applications in PHP",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-conditionals-and-logic",
+        "title": "Learn PHP: Conditionals and Logic",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-arrays-and-loops",
+        "title": "Learn PHP: Arrays and Loops",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-objects-and-classes",
+        "title": "Learn PHP: Objects and Classes",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 120,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-functions",
+        "title": "Learn PHP: Functions",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-intermediate-php",
+        "title": "Learn Intermediate PHP",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-form-handling-and-validation",
+        "title": "Learn PHP: Form Handling and Validation",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 360,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-php-introduction",
+        "title": "Learn PHP: Introduction",
+        "platform": "Codecademy",
+        "authors": [
+          "David Patlut"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/php-unit-testing/",
+        "title": "PHP Unit Testing with PHPUnit: Find Bugs and Improve Code Quality",
+        "platform": "Udemy",
+        "authors": [
+          "Dave Hollingworth"
+        ],
+        "duration": 164,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-php-for-beginners-n/",
+        "title": "Learn PHP - For Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "YouAccel Training"
+        ],
+        "duration": 107,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/php-mysql-certification-course-for-beginners/",
+        "title": "PHP & MySQL - Certification Course for Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "YouAccel Training"
+        ],
+        "duration": 195,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/object-oriented-php-mvc/",
+        "title": "PHP MVC Step-by-Step Tutorial: Object Oriented PHP and MVC",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 399,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-object-oriented-php-by-building-a-complete-website/",
+        "title": "Learn Object Oriented PHP By Building a Complete Website",
+        "platform": "Udemy",
+        "authors": [
+          "Eduonix Learning Solutions",
+          "Eduonix-Tech ."
+        ],
+        "duration": 268,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/",
+        "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "platform": "Udemy",
+        "authors": [
+          "Edwin Diaz",
+          "Coding Faculty Solutions"
+        ],
+        "duration": 2574,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented/",
+        "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+        "platform": "Udemy",
+        "authors": [
+          "Edwin Diaz",
+          "Coding Faculty Solutions"
+        ],
+        "duration": 2230,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://phptherightway.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.php.net/docs.php",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/2eebptXfEvw",
+        "title": "PHP For Absolute Beginners | 6.5 Hour Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 388,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BUCiSSyIGGU",
+        "title": "PHP For Beginners | 3+ Hour Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 196,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KBT2gmAfav4",
+        "title": "Introduction To PHP | What Is PHP Programming | PHP Tutorial For Beginners | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OK_JCtrrv-c",
+        "title": "PHP Programming Language Tutorial - Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 277,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/a7_WFUlFS94",
+        "title": "PHP in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/qybvUahCvaU",
+        "title": "PHP 8 Crash Course for Beginners - Learn PHP 8 in 1 Hour",
+        "authors": [
+          "Code With Dary"
+        ],
+        "duration": 61,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zZ6vybT1HQs",
+        "title": "PHP Full Course for non-haters 🐘 (2023)",
+        "authors": [
+          "Bro Code"
+        ],
+        "duration": 240,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-",
+        "title": "Learn PHP The Right Way - Full PHP Tutorial For Beginners & Advanced",
+        "authors": [
+          "Program With Gio"
+        ],
+        "duration": 1416,
+        "type": "video"
+      }
+    ]
   }
 }
