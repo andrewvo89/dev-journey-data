@@ -1,14 +1,682 @@
 {
   "title": "Rust",
-  "description": "",
+  "description": "Rust is a modern systems programming language developed by Mozilla Research. It was designed to provide better memory safety while maintaining high performance. Rust doesn't use a garbage collector, enabling much of the control C++ offers over system resources but with the added benefit of a strong compile-time checking, preventing many common types of errors that are prevalent in such systems programming.\nRust's key features include zero-cost abstractions, move semantics, guaranteed memory safety, threads without data races, trait-based generics, pattern matching, type inference, minimal runtime, and efficient C bindings. These features make it an excellent choice for any task where concurrency, performance, and safety are paramount, such as system and game programming, and building high-performance web servers. The language has gained significant popularity since its release in 2015, thanks to its strong community and extensive, quality tooling.\nRust achieves its memory safety guarantees through a system of ownership with a set of rules that the compiler checks at compile time. The language ensures safe concurrency by following a 'fearless concurrency' paradigm which allows for efficient execution of code in a concurrent or distributed system without the fear of race conditions. No garbage collector is used, and the language requires you to specify explicitly how and when memory is shared across threads, and when it can be reclaimed.\nRust's language syntax is similar in many ways to C++ but is designed to be more memory safe. It features a static type system, aggressive compiler optimizations, and modern language features like pattern matching and type inference, which make the code expressive but also efficient. Rust also provides powerful abstraction mechanisms like traits, which is its take on interfaces in other languages.\nInteroperability with C codebases is a key design goal for Rust. It has zero-cost Foreign Function Interface (FFI) that allows it to interoperate with C libraries without runtime overhead. This feature, along with its strong safety guarantees, makes Rust a promising language for gradually replacing critical parts of legacy systems written in C or C++.\nThe package management for Rust is handled by a tool called Cargo. It's not just a package manager but also a build system. Cargo handles downloading, building, and managing dependencies, which can be specified in a simple configuration file. The ecosystem of libraries, or 'crates', as referred to in Rust parlance, is growing, and many of these crates are of high quality.",
   "dependencies": [
     "paradigm/functional_programming"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://betterprogramming.pub/building-cli-apps-in-rust-what-you-should-consider-99cdcc67710c",
+        "title": "Building CLI Apps in Rust — What You Should Consider",
+        "authors": [
+          "Dotan Nahum"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/end-to-end-testing-your-rust-service-d68b50985c9e",
+        "title": "End-to-End Testing Your Rust Service",
+        "authors": [
+          "Kraig McFadden"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/how-to-wrap-your-errors-with-enums-when-using-error-stack-77b122016e6e",
+        "title": "How To Wrap Your Errors With Enums When Using Error-Stack",
+        "authors": [
+          "Mustafa Dhuleb"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/optimizing-my-rust-development-environment-248bff858e73",
+        "title": "Optimizing My Rust Development Environment",
+        "authors": [
+          "Bruce H. Cottman, Ph.D."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.devgenius.io/three-levels-of-lazy-initialization-in-rust-6094bc7e315b",
+        "title": "Three Levels of Lazy Initialization in Rust",
+        "authors": [
+          "Eddie Cheng"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/apollolabsbin/58-rust-resources-every-learner-should-know-in-2023-12m9",
+        "title": "58 Rust Resources Every Learner Should Know in 2023",
+        "authors": [
+          "Omar.unwrap();"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/scottbeeker/anything-c-can-do-rust-can-do-better-2a9a",
+        "title": "Anything C can do Rust can do Better",
+        "authors": [
+          "Scott Beeker"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/sebnilsson/from-c-to-rust-fundamentals-4cgm",
+        "title": "From C# to Rust: Fundamentals",
+        "authors": [
+          "Seb Nilsson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Aaron0928/30-year-old-code-killed-microsoft-rewrites-windows-kernel-with-180-000-lines-of-rust-f891c95959f2",
+        "title": "30 year old code killed! Microsoft rewrites Windows kernel with 180,000 lines of Rust",
+        "authors": [
+          "Aaron 0928"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@chriskaykos/machine-learning-in-rust-is-it-worth-learning-it-31da096de2b0",
+        "title": "Machine Learning in Rust; Is it worth learning it?",
+        "authors": [
+          "Chris Kay"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@ftiebe/rust-programming-understanding-ownership-and-borrowing-d4edbffc443",
+        "title": "Rust Programming: Understanding Ownership and Borrowing",
+        "authors": [
+          "Florian Tieben"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@giorgio.martinez1926/10-common-mistakes-rust-developers-make-and-how-to-avoid-them-2bb8250c7150",
+        "title": "10 Common Mistakes Rust Developers Make and How to Avoid Them",
+        "authors": [
+          "Giorgio Martinez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@quackquackquack/rust-rusts-concepts-intuitively-explained-part-1-visualized-b3379cbaac0f",
+        "title": "[Rust] — Rust’s concepts intuitively explained — Part 1(Visualized)",
+        "authors": [
+          "Quack Quack"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@shashikantrbl123/rust-and-python-the-tradeoffs-25005c265a95",
+        "title": "Rust And Python: The Tradeoffs",
+        "authors": [
+          "Shashi Kant"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@teddy.rendahl/musing-about-pythonic-design-patterns-in-rust-7e0466ba5709",
+        "title": "Musing About Pythonic Design Patterns In Rust",
+        "authors": [
+          "Teddy Rendahl"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/asecuritysite-when-bob-met-alice/doh-rust-takes-years-to-learn-cbac89c99039",
+        "title": "Doh! Rust Takes Years To Learn!",
+        "authors": [
+          "Prof Bill Buchanan OBE"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/globant/reliable-software-engineering-with-rust-5bb4553b5d54",
+        "title": "Reliable software engineering with Rust",
+        "authors": [
+          "Egor Dezhic"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/young-coder/i-tried-the-free-rust-courses-from-google-and-microsoft-41e20ff7b2b",
+        "title": "I Tried the Free Rust Courses from Google and Microsoft",
+        "authors": [
+          "Matthew MacDonald"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://perelyn-sama.medium.com/understanding-smart-pointers-in-rust-a-comprehensive-guide-cc06eb94a147",
+        "title": "Understanding Smart Pointers in Rust: A Comprehensive Guide",
+        "authors": [
+          "Ebina Perelyn Okoh"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2",
+        "title": "Nine Rules for Running Rust on the Web and on Embedded",
+        "authors": [
+          "Carl M. Kadie"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/rust-the-next-big-thing-in-data-science-319a03305883",
+        "title": "Rust: The Next Big Thing in Data Science",
+        "authors": [
+          "Mahmoud Harmouch"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Programming-WebAssembly-Rust-Development-Applications/dp/1680506366",
+        "title": "Programming WebAssembly with Rust: Unified Development for Web, Mobile, and Embedded Applications",
+        "authors": [
+          "Kevin Hoffman"
+        ],
+        "pages": 220,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/RUST-PROGRAMMING-Programming-Development-Performance-ebook/dp/B0C82RNCW5",
+        "title": "RUST PROGRAMMING : A Journey into Systems Programming, Web Development, Harnessing Memory Safety, Performance, and Concurrency for Efficient, Reliable, ... (Becoming a tech Bro/programming expert)",
+        "authors": [
+          "RONALD C. SHEFFIELD"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Rust-Programming-Beginners-Introduction-Hands/dp/B097VRG11L",
+        "title": "Rust Programming for Beginners: An Introduction to Learning Rust Programming with Tutorials and Hands-On Examples",
+        "authors": [
+          "Nathan Metzler"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Rust-Programming-Language-Steve-Klabnik/dp/1593278284",
+        "title": "The Rust Programming Language",
+        "authors": [
+          "Steve Klabnik",
+          "Carol Nichols"
+        ],
+        "pages": 553,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Rust-Rustaceans-Programming-Experienced-Developers/dp/1718501854",
+        "title": "Rust for Rustaceans: Idiomatic Programming for Experienced Developers",
+        "authors": [
+          "Jon Gjengset"
+        ],
+        "pages": 282,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/beginning-rust-from/9781484234686/",
+        "title": "Beginning Rust: From Novice to Professional",
+        "authors": [
+          "Carlo Milanesi"
+        ],
+        "pages": 381,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/command-line-rust/9781098109424/",
+        "title": "Command-Line Rust",
+        "authors": [
+          "Ken Youens-Clark"
+        ],
+        "pages": 350,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-rust-2nd/9781492052586/",
+        "title": "Programming Rust, 2nd Edition",
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff",
+          "Leonora F . S. Tindall"
+        ],
+        "pages": 738,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-rust/9781491927274/",
+        "title": "Programming Rust",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/rust-atomics-and/9781098119430/",
+        "title": "Rust Atomics and Locks",
+        "authors": [
+          "Mara Bos"
+        ],
+        "pages": 150,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/why-rust/9781492048589/",
+        "title": "Why Rust?",
+        "authors": [
+          "Jim Blandy"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/creative-projects-for-rust-programmers/9781789346220",
+        "title": "Creative Projects for Rust Programmers",
+        "authors": [
+          "Carlo Milanesi"
+        ],
+        "pages": 404,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-concurrency-with-rust/9781788399975",
+        "title": "Hands-On Concurrency with Rust",
+        "authors": [
+          "Brian L. Troutwine"
+        ],
+        "pages": 462,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528",
+        "title": "Hands-On Data Structures and Algorithms with Rust",
+        "authors": [
+          "Claus Matzinger"
+        ],
+        "pages": 316,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-functional-programming-in-rust/9781788839358",
+        "title": "Hands-On Functional Programming in RUST",
+        "authors": [
+          "Andrew Johnson"
+        ],
+        "pages": 249,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-microservices-with-rust/9781789342758",
+        "title": "Hands-On Microservices with Rust",
+        "authors": [
+          "Denis Kolodin"
+        ],
+        "pages": 520,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-rust-second-edition/9781789346572",
+        "title": "Mastering Rust - Second Edition",
+        "authors": [
+          "Rahul Sharma",
+          "Vesa Kaihlavirta"
+        ],
+        "pages": 554,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/network-programming-with-rust/9781788624893",
+        "title": "Network Programming with Rust",
+        "authors": [
+          "Abhishek Chanda"
+        ],
+        "pages": 278,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-essentials-second-edition/9781788390019",
+        "title": "Rust Essentials - Second Edition",
+        "authors": [
+          "Ivo Balbaert"
+        ],
+        "pages": 264,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-programming-by-example/9781788390637",
+        "title": "Rust Programming By Example",
+        "authors": [
+          "Guillaume Gomez",
+          "Antoni Boucher"
+        ],
+        "pages": 454,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-programming-cookbook/9781789530667",
+        "title": "Rust Programming Cookbook",
+        "authors": [
+          "Claus Matzinger"
+        ],
+        "pages": 444,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-quick-start-guide/9781789616705",
+        "title": "Rust Quick Start Guide",
+        "authors": [
+          "Daniel Arbuckle"
+        ],
+        "pages": 180,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-standard-library-cookbook/9781788623926",
+        "title": "Rust Standard Library Cookbook",
+        "authors": [
+          "Jan Hohenheim",
+          "Daniel Durante"
+        ],
+        "pages": 360,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-web-programming-second-edition/9781803234694",
+        "title": "Rust Web Programming - Second Edition",
+        "authors": [
+          "Maxwell Flitton"
+        ],
+        "pages": 666,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/rust-web-programming/9781800560819",
+        "title": "Rust Web Programming",
+        "authors": [
+          "Maxwell Flitton"
+        ],
+        "pages": 394,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/speed-up-your-python-with-rust/9781801811446",
+        "title": "Speed Up Your Python with Rust",
+        "authors": [
+          "Maxwell Flitton"
+        ],
+        "pages": 384,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/code-like-a-pro-in-rust",
+        "title": "Code Like a Pro in Rust",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/refactoring-to-rust",
+        "title": "Refactoring to Rust",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/rust-servers-services-and-apps",
+        "title": "Rust Servers, Services, and Apps",
+        "authors": [],
+        "pages": 328,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/rust-web-development",
+        "title": "Rust Web Development",
+        "authors": [],
+        "pages": 400,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/rust-in-action",
+        "title": "Rust in Action",
+        "authors": [],
+        "pages": 456,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://zerotomastery.io/courses/learn-rust/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/ultimate-rust-crash-course/",
+        "title": "Ultimate Rust Crash Course",
+        "platform": "Udemy",
+        "authors": [
+          "Nathan Stocks"
+        ],
+        "duration": 172,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/ultimate-rust-2/",
+        "title": "Ultimate Rust 2: Intermediate Concepts",
+        "platform": "Udemy",
+        "authors": [
+          "Nathan Stocks"
+        ],
+        "duration": 257,
+        "type": "course"
+      },
+      {
+        "authors": [
+          "Dmitri Nesteruk"
+        ],
+        "title": "Learn Rust Programming | Become a Systems Programmer",
+        "type": "course",
+        "url": "https://www.udemy.com/course/rust-lang/",
+        "duration": 498,
+        "platform": "Udemy"
+      },
+      {
+        "url": "https://www.udemy.com/course/rust-fundamentals/",
+        "title": "Learn Rust by Building Real Applications",
+        "platform": "Udemy",
+        "authors": [
+          "Lyubomir Gavadinov"
+        ],
+        "duration": 391,
+        "type": "course"
+      },
+      {
+        "authors": [
+          "Jayson Lennon"
+        ],
+        "title": "Rust Programming For Beginners",
+        "type": "course",
+        "url": "https://www.udemy.com/course/rust-coding-for-beginners/",
+        "duration": 657,
+        "platform": "Udemy"
+      },
+      {
+        "url": "https://www.udemy.com/course/rust-building-reusable-code-with-rust-from-scratch/",
+        "title": "Rust: Building Reusable Code with Rust from Scratch",
+        "platform": "Udemy",
+        "authors": [
+          "Packt Publishing"
+        ],
+        "duration": 376,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/learn-rust-in-7-days/",
+        "title": "Learn Rust in 7 Days",
+        "platform": "Udemy",
+        "authors": [
+          "Packt Publishing"
+        ],
+        "duration": 337,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/fundamentals-rust",
+        "title": "Rust Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Edward Curren"
+        ],
+        "duration": 214,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/rust-essential-training",
+        "title": "Rust Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Barron Stone"
+        ],
+        "duration": 407,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/rust-code-challenges",
+        "title": "Rust Code Challenges",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Tim McNamara"
+        ],
+        "duration": 144,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/learn-rust-from-scratch",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://stevedonovan.github.io/rust-gentle-intro/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://doc.rust-lang.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://play.rust-lang.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://blog.rust-lang.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://doc.rust-lang.org/rust-by-example/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/2hXNd6x9sZs",
+        "title": "How to Learn Rust",
+        "authors": [
+          "No Boilerplate"
+        ],
+        "duration": 11,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5C_HPTJg5ek",
+        "title": "Rust in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BpPEoZW5IiY",
+        "title": "Learn Rust Programming - Complete Course 🦀",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 840,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MsocPEZBd-M",
+        "title": "Rust Programming Course for Beginners - Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 86,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lzKeecy4OmQ",
+        "title": "Rust 101 Crash Course: Learn Rust (6 HOURS!) + 19 Practice Exercises | Zero To Mastery",
+        "authors": [
+          "Zero To Mastery"
+        ],
+        "duration": 362,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ygL_xcavzQ4",
+        "title": "Rust Tutorial Full Course",
+        "authors": [
+          "Derek Banas"
+        ],
+        "duration": 156,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zF34dRivLOw",
+        "title": "Rust Crash Course | Rustlang",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 111,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8",
+        "title": "The Rust Lang Book",
+        "authors": [
+          "Let's Get Rusty"
+        ],
+        "duration": 605,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ",
+        "title": "Rust Programming Tutorial",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 135,
+        "type": "video"
+      }
+    ]
   }
 }

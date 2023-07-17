@@ -1,14 +1,1017 @@
 {
   "title": "SQL",
-  "description": "",
+  "description": "SQL, which stands for Structured Query Language, is a standardized programming language used for managing and manipulating relational databases. It was first developed in the 1970s by IBM with the intention to interact with their database management system. SQL has become the industry standard and is recognized by the American National Standards Institute (ANSI) and the International Organization for Standardization (ISO).\nSQL is primarily used for querying and modifying data stored in databases. It is also used for creating and altering database structures. SQL's syntax includes a number of elements, including commands, operators, and functions, all of which can be combined to create complex queries and commands. The main types of commands in SQL include Data Manipulation Language (DML) commands such as SELECT, INSERT, UPDATE, DELETE, and Data Definition Language (DDL) commands such as CREATE, ALTER, DROP.\nA powerful feature of SQL is its ability to handle large amounts of data efficiently. SQL queries can be used to search through and analyze millions of records in a database quickly and return valuable information. Moreover, SQL supports the use of relational operations to combine data from multiple tables in a database, which is key in the development of complex business applications.\nDespite the rise of NoSQL databases that are designed to handle less structured data, SQL remains widely used due to its powerful querying capabilities, reliability, and broad support in virtually all modern database systems, including MySQL, PostgreSQL, SQL Server, and Oracle. SQL skills are in high demand in many fields including data analysis, software development, and database administration.",
   "dependencies": [
     "paradigm/relational"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://blog.devops.dev/understanding-sql-commands-bb8735c15a6a",
+        "title": "Understanding SQL Commands",
+        "authors": [
+          "Ifeanyichukwu Onyechere"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://coinsbench.com/chat-with-your-databases-using-langchain-bb7d31ed2e76",
+        "title": "Chat with your databases using LangChain",
+        "authors": [
+          "Vishnu Sivan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://eisultan.medium.com/sql-hidden-mistakes-made-by-experienced-data-analysts-part-1-9ea6ffdf95a5",
+        "title": "SQL Hidden Mistakes Made by Experienced Data Analysts",
+        "authors": [
+          "E.I. Sultan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://faun.pub/sql-for-beginners-2022-a-practical-sql-guide-1de6adb43d52",
+        "title": "SQL for Beginners 2022 — A Practical SQL Guide",
+        "authors": [
+          "Benjamin Sila Mutuku"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://innerjoin.bit.io/make-chatgpt-stop-chatting-and-start-writing-sql-fd5560049ae4",
+        "title": "Make ChatGPT Stop Chatting and Start Writing SQL",
+        "authors": [
+          "Daniel Liden"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnsql.com/blog/25-advanced-sql-query-examples/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/13-sql-statements-for-90-of-your-data-science-tasks-27902996dc2b",
+        "title": "13 SQL Statements for 90% of Your Data Science Tasks",
+        "authors": [
+          "Youssef Hosni"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@alessio.gasperi81_25968/sql-mastery-analyzing-american-baby-names-for-trends-and-timelessness-8931522577b2",
+        "title": "SQL Mastery: Analyzing American Baby Names for Trends and Timelessness",
+        "authors": [
+          "Alessio Gasperi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@atakankorez/advanced-sql-techniques-you-should-know-66f7d3ac638f",
+        "title": "Advanced SQL Techniques You Should Know",
+        "authors": [
+          "Atakan Korez"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@uzmanali/5-sql-projects-to-build-your-strong-data-analytics-portfolio-in-2023-8933066f6302",
+        "title": "5 Free SQL projects to build your strong portfolio in 2023",
+        "authors": [
+          "𝗨𝘇𝗺𝗮𝗻 Ali"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/learning-sql/stop-writing-queries-when-you-need-to-be-writing-views-with-examples-fb2e563684f8",
+        "title": "Stop Writing Queries When You Need To Be Writing Views (With Examples)",
+        "authors": [
+          "Zach Quinn"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://selectfrom.dev/10-sql-queriesyou-should-know-as-a-data-scientist-8bf616204765",
+        "title": "10 SQL Queries You Should Know as a Data Scientist",
+        "authors": [
+          "Uğur Savcı"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://taylor-count.medium.com/the-ultimate-sql-guide-8cf06ed67281",
+        "title": "The Ultimate SQL Guide",
+        "authors": [
+          "Taylor Brownlow"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/2-best-sql-tricks-to-find-duplicate-values-in-a-table-1197618dcc74",
+        "title": "2 Best SQL Tricks To Find Duplicate Values In A Table",
+        "authors": [
+          "Suraj Gurav"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/advanced-sql-techniques-for-beginners-211851a28488",
+        "title": "Advanced SQL techniques for beginners",
+        "authors": [
+          "💡Mike Shakhomirov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/can-chatgpt-write-better-sql-than-a-data-analyst-f079518efab2",
+        "title": "Can ChatGPT Write Better SQL than a Data Analyst?",
+        "authors": [
+          "Marie Truong"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/data-mastery-with-python-and-sql-unleashing-efficiency-and-security-through-4-strategic-use-cases-eb8afb5019a0",
+        "title": "Data Mastery with Python and SQL: Unleashing Efficiency and Security through 4 Strategic Use Cases",
+        "authors": [
+          "Subha Ganapathi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/two-advanced-sql-techniques-that-can-drastically-improve-your-queries-81a97c92ddd0",
+        "title": "Two Advanced SQL Techniques That Can Drastically Improve Your Queries",
+        "authors": [
+          "Jason Chong"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/when-spreadsheets-arent-good-enough-a-lesson-in-relational-databases-2e5b0b847f5a",
+        "title": "When Spreadsheets Aren’t Good Enough: A Lesson in Relational Databases",
+        "authors": [
+          "Stephanie Lo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.edureka.co/blog/interview-questions/sql-interview-questions",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/understanding-sql-joins/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/All-One-Dummies-Allen-Taylor/dp/1119569613",
+        "title": "SQL All-in-One For Dummies",
+        "authors": [
+          "Allen G. Taylor"
+        ],
+        "pages": 775,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Beginners-Made-Easy-Step-Step/dp/1695283562",
+        "title": "SQL For Beginners SQL Made Easy: A Step-By-Step Guide to SQL Programming for the Beginner, Intermediate and Advanced User (Including Projects and Exercises)",
+        "authors": [
+          "Craig Berg"
+        ],
+        "pages": 180,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Mastering-SQL-Joins-Practical-Exercises/dp/B0C881K3HR",
+        "title": "Mastering SQL Joins: A Quick Handbook On Mastering SQL Joins With Practical Exercises",
+        "authors": [
+          "Dane Wade"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Practical-SQL-2nd-Beginners-Storytelling/dp/1718501064",
+        "title": "Practical SQL, 2nd Edition: A Beginner's Guide to Storytelling with Data",
+        "authors": [
+          "Anthony DeBarros"
+        ],
+        "pages": 466,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-BOOKS-Step-Step-Practical-ebook/dp/B0BRWZ452Y",
+        "title": "SQL [6 BOOKS in 1]: The Ultimate Beginner to Advanced Guide to Master SQL Quickly with Step-by-Step Practical Examples | Includes Interview Questions & Answers",
+        "authors": [
+          "Liam DeSantis"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-Data-Scientists-Beginners-Building/dp/1119669367",
+        "title": "SQL for Data Scientists: A Beginner's Guide for Building Datasets for Analysis",
+        "authors": [
+          "Renee M. P. Teate"
+        ],
+        "pages": 288,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-Intermediate-Programming-Practical-Exercises/dp/B0B5MM3RMK",
+        "title": "SQL: 3 books 1 - The Ultimate Beginner, Intermediate & Expert Guides To Master SQL Programming Quickly with Practical Exercises",
+        "authors": [
+          "Mark Reed"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-QuickStart-Guide-Simplified-Manipulating/dp/1945051752",
+        "title": "SQL QuickStart Guide: The Simplified Beginner's Guide to Managing, Analyzing, and Manipulating Data With SQL (QuickStart Guides™ - Technology)",
+        "authors": [
+          "Walter Shields"
+        ],
+        "pages": 252,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Simple-SQL-Beginners-Master-Career/dp/B0B2V3W7DG",
+        "title": "Simple SQL: Beginner’s Guide To Master SQL And Boost Career (Zero To Hero)",
+        "authors": [
+          "Dane Wade"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Art-SQL-Stephane-Faroult/dp/0596008945",
+        "title": "The Art of SQL",
+        "authors": [
+          "Stephane Faroult",
+          "Peter Robson"
+        ],
+        "pages": 368,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SQL-Minutes-Sams-Teach-Yourself-ebook/dp/B009XDGF2C",
+        "title": "SQL in 10 Minutes, Sams Teach Yourself",
+        "authors": [
+          "Forta Ben"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/learn-sql-server-administration-in-a-month-of-lunches",
+        "title": "Learn SQL Server Administration in a Month of Lunches",
+        "authors": [
+          "Don Jones"
+        ],
+        "pages": 256,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-sql/9780596526849/",
+        "title": "Head First SQL",
+        "authors": [
+          "Lynn Beighley"
+        ],
+        "pages": 607,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/",
+        "title": "Learning SQL, 3rd Edition",
+        "authors": [
+          "Alan Beaulieu"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-cookbook-2nd/9781492077435/",
+        "title": "SQL Cookbook, 2nd Edition",
+        "authors": [
+          "Anthony Molinaro",
+          "Robert de Graaf"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-for-data/9781492088776/",
+        "title": "SQL for Data Analysis",
+        "authors": [
+          "Cathy Tanimura"
+        ],
+        "pages": 350,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-in-a/9781492088851/",
+        "title": "SQL in a Nutshell, 4th Edition",
+        "authors": [
+          "Kevin Kline",
+          "Regina O. Obe",
+          "Leo S. Hsu"
+        ],
+        "pages": 650,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-pocket-guide/9781492090397/",
+        "title": "SQL Pocket Guide, 4th Edition",
+        "authors": [
+          "Alice Zhao"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/sql-server-advanced/9781098101916/",
+        "title": "SQL Server Advanced Troubleshooting and Performance Tuning",
+        "authors": [
+          "Dmitri Korotkevitch"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-sql-database-programming/9781838984762",
+        "title": "Learn SQL Database Programming",
+        "authors": [
+          "Josephine Bush"
+        ],
+        "pages": 564,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/sql-for-data-analytics-third-edition/9781801812870",
+        "title": "SQL for Data Analytics - Third Edition",
+        "authors": [
+          "Jun Shan",
+          "Matt Goldwasser",
+          "Upom Malik\nand 1 more"
+        ],
+        "pages": 540,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/sql-for-data-analytics/9781789807356",
+        "title": "SQL for Data Analytics",
+        "authors": [
+          "Upom Malik",
+          "Matt Goldwasser",
+          "Benjamin Johnston"
+        ],
+        "pages": 386,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/sql-query-design-patterns-and-best-practices/9781837633289",
+        "title": "SQL Query Design Patterns and Best Practices",
+        "authors": [
+          "Steve Hughes",
+          "Dennis Neer",
+          "Dr. Ram Babu Singh\nand 3 more"
+        ],
+        "pages": 270,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/sql-server-query-tuning-and-optimization/9781803242620",
+        "title": "SQL Server Query Tuning and Optimization",
+        "authors": [
+          "Benjamin Nevarez"
+        ],
+        "pages": 446,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-sql-workshop/9781838642358",
+        "title": "The SQL Workshop",
+        "authors": [
+          "Frank Solomon",
+          "Prashanth Jayaram",
+          "Awni Al Saqqa"
+        ],
+        "pages": 288,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.codecademy.com/learn/getting-started-off-platform-for-data-science",
+        "title": "Getting Started Off-Platform for Data Science",
+        "platform": "Codecademy",
+        "authors": [
+          "Ada Morse"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/intro-to-sql",
+        "title": "Intro to SQL",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-node-sqlite",
+        "title": "Learn Node-SQLite",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-sql",
+        "title": "Learn SQL",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-sql-aggregate-functions",
+        "title": "Learn SQL: Aggregate Functions",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 120,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
+        "title": "Learn SQL: Multiple Tables",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/sql-analyzing-business-metrics",
+        "title": "How to Analyze Business Metrics with SQL",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/sql-marketing",
+        "title": "Learn Intermediate SQL for Marketers and Product Managers",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/sql-table-transformation",
+        "title": "How to Transform Tables with SQL",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/intro-sql",
+        "title": "Introduction to Structured Query Language (SQL)",
+        "platform": "Coursera",
+        "authors": [
+          "Charles Russell Severance"
+        ],
+        "duration": 339,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/sql-data-science",
+        "title": "Databases and SQL for Data Science with Python",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/sql-for-data-science",
+        "title": "SQL for Data Science",
+        "platform": "Coursera",
+        "authors": [
+          "Sadie St. Lawrence"
+        ],
+        "duration": 691,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/sql-practical-introduction-for-querying-databases",
+        "title": "SQL: A Practical Introduction for Querying Databases",
+        "platform": "Coursera",
+        "authors": [
+          "Rav Ahuja"
+        ],
+        "duration": 315,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/analyzing-business-data-in-sql",
+        "title": "Analyzing Business Data in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Michel Semaan"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/applying-sql-to-real-world-problems",
+        "title": "Applying SQL to Real-World Problems",
+        "platform": "DataCamp",
+        "authors": [
+          "Dmitriy Gorenshteyn"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/data-driven-decision-making-in-sql",
+        "title": "Data-Driven Decision Making in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Irene Ortner",
+          "Tim Verdonck",
+          "Bart Baesens"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/data-manipulation-in-sql",
+        "title": "Data Manipulation in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Mona Khalil"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/database-design",
+        "title": "Database Design",
+        "platform": "DataCamp",
+        "authors": [
+          "Lis Sulmont"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/exploratory-data-analysis-in-sql",
+        "title": "Exploratory Data Analysis in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Christina Maimone"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/functions-for-manipulating-data-in-sql-server",
+        "title": "Functions for Manipulating Data in SQL Server",
+        "platform": "DataCamp",
+        "authors": [
+          "Ana Voicu"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/improving-query-performance-in-sql-server",
+        "title": "Improving Query Performance in SQL Server",
+        "platform": "DataCamp",
+        "authors": [
+          "Dean Smith"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/intermediate-sql",
+        "title": "Intermediate SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Jasmin Ludolf"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/intermediate-sql-queries",
+        "title": "Intermediate SQL Queries",
+        "platform": "DataCamp",
+        "authors": [
+          "Nick Carchedi"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/introduction-to-relational-databases-in-sql",
+        "title": "Introduction to Relational Databases in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Timo Grossenbacher"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/introduction-to-sql",
+        "title": "Introduction to SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Izzy Weber"
+        ],
+        "duration": 120,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/joining-data-in-sql",
+        "title": "Joining Data in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Maham Khan"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/reporting-in-sql",
+        "title": "Reporting in SQL",
+        "platform": "DataCamp",
+        "authors": [
+          "Tyler Pernes"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/sql-for-joining-data",
+        "title": "SQL for Joining Data",
+        "platform": "DataCamp",
+        "authors": [
+          "Dr. Chester Ismay"
+        ],
+        "duration": 300,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/writing-functions-and-stored-procedures-in-sql-server",
+        "title": "Writing Functions and Stored Procedures in SQL Server",
+        "platform": "DataCamp",
+        "authors": [
+          "Meghan Kwartler"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.khanacademy.org/computing/computer-programming/sql",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-sql-programming-8382385",
+        "title": "Learning SQL Programming",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Scott Simpson"
+        ],
+        "duration": 106,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247",
+        "title": "SQL: Data Reporting and Analysis",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emma Saunders"
+        ],
+        "duration": 152,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/sql-essential-training-20685933",
+        "title": "SQL Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Walter Shields"
+        ],
+        "duration": 264,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/sql-for-data-analysis-2020",
+        "title": "SQL for Data Analysis (2020)",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Nikiya Simpson"
+        ],
+        "duration": 61,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/sql-for-data-analysis--ud198",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/master-sql-for-data-science/",
+        "title": "SQL for Data Science: Learn SQL through Interactive Exercises",
+        "platform": "Udemy",
+        "authors": [
+          "Imtiaz Ahmad"
+        ],
+        "duration": 564,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-advanced/",
+        "title": "Advanced SQL Preparation: Expert Certification Training Course",
+        "platform": "Udemy",
+        "authors": [
+          "Oracle Master Training | 200,000+ Students Worldwide",
+          "Code Star Academy"
+        ],
+        "duration": 856,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-and-postgresql-for-beginners/",
+        "title": "Learn SQL, PostgreSQL, and PgAdmin 4: Master Database Queries",
+        "platform": "Udemy",
+        "authors": [
+          "Jon Avis - SQL Instructor"
+        ],
+        "duration": 554,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-and-postgresql/",
+        "title": "SQL and PostgreSQL: The Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 1333,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-for-beginners-course/",
+        "title": "SQL for Beginners: Learn SQL using MySQL and Database Design",
+        "platform": "Udemy",
+        "authors": [
+          "Tim Buchalka's Learn Programming Academy",
+          "Jean-Paul Roberts"
+        ],
+        "duration": 471,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-for-newbs/",
+        "title": "SQL for NEWBS: Weekender Crash Course",
+        "platform": "Udemy",
+        "authors": [
+          "A Course You'll Actually Finish",
+          "David Kim",
+          "Peter Sefton"
+        ],
+        "duration": 196,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-intro/",
+        "title": "SQL Programming Basics",
+        "platform": "Udemy",
+        "authors": [
+          "Global Academy"
+        ],
+        "duration": 88,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/",
+        "title": "BI Analysis: MySQL for Data Analytics and Business Intelligence",
+        "platform": "Udemy",
+        "authors": [
+          "365 Careers"
+        ],
+        "duration": 716,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sql-the-complete-developers-guide-mysql-postgresql/",
+        "title": "SQL - The Complete Developer's Guide (MySQL, PostgreSQL)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller",
+          "Manuel Lorenz"
+        ],
+        "duration": 1183,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "title": "The Complete SQL Bootcamp for the Manipulation and Analysis of Data",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 531,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "title": "Build MySQL Databases Bootcamp (Beginner to Expert Course)",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele"
+        ],
+        "duration": 2255,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.geeksforgeeks.org/medium/sql",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://learnsql.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.practicalsql.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://sql-performance-explained.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://sqlpracticeproblems.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/-fW2X7fh7Yg",
+        "title": "SQL Tutorial for Beginners (and Technical Interview Questions Solved)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 326,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/27axs9dO7AE",
+        "title": "What is SQL? [in 4 minutes for beginners]",
+        "authors": [
+          "Danielle Thé"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/5hzZtqCNQKk",
+        "title": "SQL For Beginners Tutorial | Learn SQL in 4.2 Hours | 2021",
+        "authors": [
+          "Amigoscode"
+        ],
+        "duration": 263,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/AFY3z4FwRg0",
+        "title": "SQL Querying for Beginners Tutorial",
+        "authors": [
+          "Learnit Training"
+        ],
+        "duration": 166,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BHwzDmr6d7s",
+        "title": "Secret To Optimizing SQL Queries - Understand The SQL Execution Order",
+        "authors": [
+          "ByteByteGo"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/BPHAr4QGGVE",
+        "title": "SQL Full Course | SQL Tutorial For Beginners | Learn SQL (Structured Query Language) | Edureka",
+        "authors": [
+          "edureka!"
+        ],
+        "duration": 248,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/HXV3zeQKqGY",
+        "title": "SQL Tutorial - Full Database Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 261,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/h0nxCDiD-zg",
+        "title": "SQL for Beginners Tutorial",
+        "authors": [
+          "Kevin Stratvert"
+        ],
+        "duration": 45,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/kbKty5ZVKMY",
+        "title": "Learn Basic SQL in 15 Minutes | Business Intelligence For Beginners | SQL Tutorial For Beginners 1/3",
+        "authors": [
+          "Adam Finer - Learn BI Online"
+        ],
+        "duration": 18,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/m1KcNV-Zhmc",
+        "title": "Advanced SQL Tutorial | Subqueries",
+        "authors": [
+          "Alex The Analyst"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/p3qvj9hO_Bo",
+        "title": "Learn SQL In 60 Minutes",
+        "authors": [
+          "Web Dev Simplified"
+        ],
+        "duration": 57,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xiUTqnI6xk8",
+        "title": "you need to learn SQL RIGHT NOW!! (SQL Tutorial for Beginners)",
+        "authors": [
+          "NetworkChuck"
+        ],
+        "duration": 25,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zsjvFFKOm3c",
+        "title": "SQL Explained in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLavw5C92dz9Ef4E-1Zi9KfCTXS_IN8gXZ",
+        "title": "Learn Complete SQL (Beginner to Advance)",
+        "authors": [
+          "techTFQ"
+        ],
+        "duration": 344,
+        "type": "video"
+      }
+    ]
   }
 }

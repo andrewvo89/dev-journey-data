@@ -122,7 +122,7 @@
         "url": "https://www.datacamp.com/blog/all-about-python-the-most-versatile-programming-language",
         "title": "What is Python? - The Most Versatile Programming Language",
         "authors": [
-          "DataCamp Team"
+          "Summer Worsley"
         ],
         "type": "article"
       },
@@ -130,7 +130,8 @@
         "url": "https://www.datacamp.com/blog/how-to-learn-python-expert-guide",
         "title": "How to Learn Python From Scratch in 2023: An Expert Guide",
         "authors": [
-          "DataCamp Team"
+          "Matt Crabtree",
+          "Adel Nehme"
         ],
         "type": "article"
       },
@@ -138,7 +139,7 @@
         "url": "https://www.datacamp.com/blog/lessons-from-the-zen-of-python",
         "title": "Lessons from the Zen of Python",
         "authors": [
-          "DataCamp Team"
+          "Kurtis Pykes"
         ],
         "type": "article"
       },
@@ -146,7 +147,7 @@
         "url": "https://www.datacamp.com/blog/python-best-practices-for-better-code",
         "title": "6 Python Best Practices for Better Code",
         "authors": [
-          "DataCamp Team"
+          "Javier Canales Luna"
         ],
         "type": "article"
       },
@@ -154,7 +155,7 @@
         "url": "https://www.datacamp.com/blog/top-python-interview-questions-and-answers",
         "title": "The 23 Top Python Interview Questions & Answers",
         "authors": [
-          "DataCamp Team"
+          "Abid Ali Awan"
         ],
         "type": "article"
       },
@@ -162,7 +163,7 @@
         "url": "https://www.datacamp.com/blog/top-python-libraries-for-data-science",
         "title": "Top Python Libraries for Data Science in 2022",
         "authors": [
-          "DataCamp Team"
+          "Moez Ali"
         ],
         "type": "article"
       },
@@ -504,32 +505,32 @@
     ],
     "courses": [
       {
+        "url": "https://www.pluralsight.com/courses/python-desktop-application-development",
+        "title": "Python Desktop Application Development",
+        "platform": "Pluralsight",
         "authors": [
           "Bo Milanovich"
         ],
-        "title": "Python Desktop Application Development",
-        "type": "course",
-        "url": "https://www.pluralsight.com/courses/python-desktop-application-development",
         "duration": 102,
-        "platform": "Pluralsight"
+        "type": "course"
       },
       {
+        "url": "https://www.pluralsight.com/courses/cleaning-data-python-data-playbook",
+        "title": "Cleaning Data: Python Data Playbook",
+        "platform": "Pluralsight",
         "authors": [
           "Chris Achard"
         ],
-        "title": "Cleaning Data: Python Data Playbook",
-        "type": "course",
-        "url": "https://www.pluralsight.com/courses/cleaning-data-python-data-playbook",
         "duration": 68,
-        "platform": "Pluralsight"
+        "type": "course"
       },
       {
-        "authors": [],
-        "title": "Introduction to Python Scripting",
-        "type": "course",
         "url": "https://www.pluralsight.com/cloud-guru/courses/introduction-to-python-scripting",
+        "title": "Introduction to Python Scripting",
+        "platform": "Pluralsight",
+        "authors": [],
         "duration": 415,
-        "platform": "Pluralsight"
+        "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/getting-started-with-python-for-data-science",
@@ -607,8 +608,10 @@
         "url": "https://www.coursera.org/learn/get-started-with-python",
         "title": "Get Started with Python",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Google Career CertificatesTop InstructorGoogle Career Certificates is rated among the top instructors on Coursera."
+        ],
+        "duration": 1207,
         "type": "course"
       },
       {
@@ -636,16 +639,20 @@
         "url": "https://www.coursera.org/learn/python-crash-course",
         "title": "Crash Course on Python",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Google Career CertificatesTop InstructorGoogle Career Certificates is rated among the top instructors on Coursera."
+        ],
+        "duration": 1216,
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/learn/python-for-applied-data-science-ai",
         "title": "Python for Data Science, AI & Development",
         "platform": "Coursera",
-        "authors": [],
-        "duration": 0,
+        "authors": [
+          "Joseph Santarcangelo"
+        ],
+        "duration": 471,
         "type": "course"
       },
       {
@@ -710,10 +717,12 @@
       },
       {
         "url": "https://www.datacamp.com/courses/intro-to-python-for-data-science",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "duration": 0,
+        "title": "Introduction to Python",
+        "platform": "DataCamp",
+        "authors": [
+          "Hugo Bowne-Anderson"
+        ],
+        "duration": 240,
         "type": "course"
       },
       {
