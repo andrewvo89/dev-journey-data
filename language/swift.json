@@ -1,14 +1,720 @@
 {
   "title": "Swift",
-  "description": "",
+  "description": "Swift is a powerful and intuitive programming language developed by Apple Inc. for iOS, macOS, watchOS, and tvOS app development. Introduced at Apple's 2014 Worldwide Developers Conference (WWDC), Swift was designed to be an improvement over Objective-C, the language previously used for Apple's systems, with a focus on simplicity, efficiency, and safety.\nSwift's syntax is clear and concise, making it easier to read and write than many other languages. It incorporates features from several modern languages such as optional typing, closures, and generics. Swift also supports inferred types to make code cleaner and less prone to mistakes, and modules eliminate headers and provide namespaces.\nA key aspect of Swift is its emphasis on safety. It has strong typing and optional types that can help to eliminate common coding errors like null pointer dereferencing. Additionally, Swift encourages developers to write cleaner, more reliable code by eliminating entire classes of unsafe code. Variables are always initialized before use, arrays and integers are checked for overflow, and memory is managed automatically, making Swift code stable and less likely to crash.\nSwift also integrates seamlessly with Apple's proprietary IDE, Xcode, and is interoperable with Objective-C, which means developers can use Swift code and Objective-C in the same app. This compatibility allows for a smoother transition from Objective-C to Swift. Furthermore, Swift has been open-source since December 2015, meaning that developers can contribute to its further development and adaptation for other platforms.\nPerformance-wise, Swift was built to be fast. Its high-performance LLVM compiler transforms Swift code into optimized native code that can get the most out of modern hardware. Benchmarks for Swift code performance continually outperform their C++ and Objective-C counterparts. Because of all these attributes, Swift has rapidly gained popularity and is increasingly the language of choice for iOS and macOS developers.",
   "dependencies": [
     "field/mobile_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://avitsadok.medium.com/boost-your-swift-loop-performance-by-87-cf790fd3ff2d",
+        "title": "Boost Your Swift Loop Performance By 87%",
+        "authors": [
+          "Avi Tsadok"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/a-deep-dive-into-observation-a-new-way-to-boost-swiftui-performance-f299831c664b",
+        "title": "A Deep Dive Into Observation: A New Way to Boost SwiftUI Performance",
+        "authors": [
+          "fatbobman ( 东坡肘子)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/agile-architecture-in-swift-a7b5a4fc9773",
+        "title": "Agile Architecture in Swift",
+        "authors": [
+          "Manuel Meyer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/axiomatic-and-brain-sized-coding-in-swift-for-creating-systems-of-any-scale-ec352e7d87a9",
+        "title": "Axiomatic and Brain-sized Coding in Swift for Creating Systems of Any Scale",
+        "authors": [
+          "Manuel Meyer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/swift-enums-design-systems-51d488e26d31",
+        "title": "Swift Enums 🤝 Design Systems",
+        "authors": [
+          "Jacob Bartlett"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/swiftui-apps-at-scale-19b7886384f7",
+        "title": "SwiftUI apps at scale",
+        "authors": [
+          "Jacob Bartlett"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/swiftui-testing-a-pragmatic-approach-aeb832107fe7",
+        "title": "SwiftUI Testing: a Pragmatic Approach",
+        "authors": [
+          "Luis Recuenco"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://karthikmk.medium.com/ios-development-stack-2023-bccc283901e4",
+        "title": "iOS Development Stack: 2023",
+        "authors": [
+          "Karthik"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://rajeshbudhiraja5.medium.com/push-notifications-in-swiftui-app-c97240c1aecf",
+        "title": "Push Notifications in SwiftUI App",
+        "authors": [
+          "Rajesh Budhiraja"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://stevenpcurtis.medium.com/top-ios-and-swift-developer-interview-questions-for-2023-4333f6c3fe7c",
+        "title": "Top iOS and Swift Developer Interview Questions for 2023",
+        "authors": [
+          "Steven Curtis"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.oreilly.com/library/view/swift-pocket-reference/9781491915479/",
+        "title": "Swift Pocket Reference",
+        "authors": [],
+        "pages": 178,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-swift/9781491940730/",
+        "title": "Learning Swift",
+        "authors": [
+          "Paris Buttfield-Addison",
+          "Jon Manning",
+          "Tim Nugent"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/ios-15-programming/9781098118495/",
+        "title": "iOS 15 Programming Fundamentals with Swift",
+        "authors": [
+          "Matt Neuburg"
+        ],
+        "pages": 760,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/head-first-swift/9781491923184/",
+        "title": "Head First Swift",
+        "authors": [
+          "Jon Manning",
+          "Paris Buttfield-Addison"
+        ],
+        "pages": 700,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SwiftUI-Tutorials-Fifth-Declarative-Development/dp/1950325881/ref=zg_bs_g_11006483011_sccl_9/145-1327290-0616623?psc=1",
+        "title": "SwiftUI by Tutorials (Fifth Edition): Declarative App Development on the Apple Ecosystem",
+        "authors": [
+          "Kodeco Team",
+          "Antonio Bello",
+          "Bill Morefield",
+          "Sarah Reichelt",
+          "Audrey Tam"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/iOS-Architecture-Patterns-VIPER-Swift/dp/1484290682/ref=zg_bs_g_11006483011_sccl_8/145-1327290-0616623?psc=1",
+        "title": "iOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift",
+        "authors": [
+          "Raúl Ferrer García"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Swift-Programming-Ranch-Guide-Guides/dp/0135264200/ref=zg_bs_g_11006483011_sccl_7/145-1327290-0616623?psc=1",
+        "title": "Swift Programming: The Big Nerd Ranch Guide (Big Nerd Ranch Guides)",
+        "authors": [
+          "Mikey Ward",
+          "Matthew Mathias",
+          "John Gallagher"
+        ],
+        "pages": 480,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Beginning-Xcode-Swift-Matthew-Knott-ebook/dp/B01JFVAIVK/ref=zg_bs_g_11006483011_sccl_6/145-1327290-0616623?psc=1",
+        "title": "Beginning Xcode: Swift Edition",
+        "authors": [
+          "Matthew Knott"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Advanced-Debugging-Reverse-Engineering-Fourth/dp/1950325636/ref=zg_bs_g_11006483011_sccl_5/145-1327290-0616623?psc=1",
+        "title": "Advanced Apple Debugging & Reverse Engineering (Fourth Edition): Exploring Apple Code Through LLDB, Python & DTrace",
+        "authors": [
+          "Kodeco Team",
+          "Walter Tyree"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/SwiftUI-Masterminds-3rd-2022-advantage-ebook/dp/B0BDDPTCS4/ref=zg_bs_g_11006483011_sccl_2/145-1327290-0616623?psc=1",
+        "title": "SwiftUI for Masterminds 3rd Edition 2022: How to take advantage of Swift and SwiftUI to create insanely great apps for iPhones, iPads, and Macs",
+        "authors": [
+          "J.D Gauchat"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/game-development-with-swift/9781783550531",
+        "title": "Game Development with Swift",
+        "authors": [
+          "Stephen Haney"
+        ],
+        "pages": 224,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-swift-by-building-applications/9781786463920",
+        "title": "Learn Swift by Building Applications",
+        "authors": [
+          "Emil Atanasov",
+          "Emil Atanasov"
+        ],
+        "pages": 366,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-design-patterns-with-swift/9781789135565",
+        "title": "Hands-On Design Patterns with Swift",
+        "authors": [
+          "Florent Vilmart",
+          "Giordano Scalzo",
+          "Sergio De Simone"
+        ],
+        "pages": 414,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-swift-5-fifth-edition/9781789139860",
+        "title": "Mastering Swift 5 - Fifth Edition",
+        "authors": [
+          "Jon Hoffman"
+        ],
+        "pages": 370,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/machine-learning-with-swift/9781787121515",
+        "title": "Machine Learning with Swift",
+        "authors": [
+          "Alexander Sosnovshchenko",
+          "Oleksandr Baiev"
+        ],
+        "pages": 378,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-swift-5-microservices-development/9781789530889",
+        "title": "Hands-On Swift 5 Microservices Development",
+        "authors": [
+          "Ralph Kuepper"
+        ],
+        "pages": 392,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/swift-functional-programming-second-edition/9781787284500",
+        "title": "Swift Functional Programming - Second Edition",
+        "authors": [
+          "Dr. Fatih Nayebi"
+        ],
+        "pages": 316,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-swift-53-sixth-edition/9781800562158",
+        "title": "Mastering Swift 5.3 - Sixth Edition",
+        "authors": [
+          "Jon Hoffman"
+        ],
+        "pages": 418,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/test-driven-ios-development-with-swift-fourth-edition/9781803232485",
+        "title": "Test-Driven iOS Development with Swift - Fourth Edition",
+        "authors": [
+          "Dr. Dominik Hauser"
+        ],
+        "pages": 280,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/swift-cookbook-second-edition/9781839211195",
+        "title": "Swift Cookbook. - Second Edition",
+        "authors": [
+          "Keith Moon",
+          "Chris Barker"
+        ],
+        "pages": 500,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.codecademy.com/learn/learn-intermediate-swift",
+        "title": "Learn Intermediate Swift",
+        "platform": "Codecademy",
+        "authors": [
+          "Ben Stone"
+        ],
+        "duration": 540,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift",
+        "title": "Learn Swift",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 1500,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-arrays-sets-and-dictionaries",
+        "title": "Learn Swift: Arrays, Sets, and Dictionaries",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-closures",
+        "title": "Learn Swift: Closures",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-conditionals-and-loops",
+        "title": "Learn Swift: Conditionals and Loops",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 360,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-enumerations",
+        "title": "Learn Swift: Enumerations",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-functions",
+        "title": "Learn Swift: Functions",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-introduction",
+        "title": "Learn Swift: Introduction",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 360,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-optionals",
+        "title": "Learn Swift: Optionals",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-properties-and-access-control",
+        "title": "Learn Swift: Properties and Access Control",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-protocols-and-generics",
+        "title": "Learn Swift: Protocols and Generics",
+        "platform": "Codecademy",
+        "authors": [
+          "Ben Stone"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-swift-structs-and-classes",
+        "title": "Learn Swift: Structs and Classes",
+        "platform": "Codecademy",
+        "authors": [
+          "Kenny Lin"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/nonlinear-data-structures-in-swift",
+        "title": "Introduction to Non-linear Data Structures in Swift",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 420,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/advanced-ios-development",
+        "title": "Advanced iOS Development",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/introduction-to-ios-mobile-application-development",
+        "title": "Introduction to iOS Mobile Application Development",
+        "platform": "Coursera",
+        "authors": [
+          "Taught by Meta Staff"
+        ],
+        "duration": 665,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/programming-fundamentals-swift",
+        "title": "Programming Fundamentals in Swift",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/swift-5-programming-introduction",
+        "title": "Introduction to Programming in Swift 5",
+        "platform": "Coursera",
+        "authors": [
+          "Mark Price"
+        ],
+        "duration": 548,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/swift-programming",
+        "title": "Introduction To Swift Programming",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/app-development",
+        "title": "iOS App Development with Swift",
+        "platform": "Coursera",
+        "authors": [
+          "Parham Aarabi"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/ios-development",
+        "title": "iOS Development for Creative Entrepreneurs",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/swift-5-ios-app-developer",
+        "title": "Swift 5 iOS Application Developer",
+        "platform": "Coursera",
+        "authors": [
+          "Mark Price"
+        ],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/ios-app-development-big-picture",
+        "title": "iOS App Development: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Karoly Nyisztor"
+        ],
+        "duration": 85,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/swift-core-data-fundamentals",
+        "title": "Core Data Fundamentals with Swift",
+        "platform": "Pluralsight",
+        "authors": [
+          "Andrew Bancroft"
+        ],
+        "duration": 278,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/swift-ios-ui-unit-testing",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/swift3-fundamentals",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/swift-for-beginners--ud1022",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/design-patterns-swift/",
+        "title": "Design Patterns in Swift: Learn through Exercises and Projects",
+        "platform": "Udemy",
+        "authors": [
+          "Dmitri Nesteruk"
+        ],
+        "duration": 520,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/hacking-with-macos-and-swift4/",
+        "title": "Hacking with macOS - Build 18 Desktop Apps with Swift 5",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen DeStefano"
+        ],
+        "duration": 907,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Dr. Angela Yu"
+        ],
+        "duration": 3624,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/swift-programming/",
+        "title": "Swift 5 Programming For Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Nick Walter"
+        ],
+        "duration": 345,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://codewithchris.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://developer.apple.com/learn/curriculum/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://theswiftdev.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.avanderlee.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.hackingwithswift.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.kodeco.com/ios/paths/learn",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.swift.org/documentation/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.swiftdevjournal.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@iOSAcademy",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/8Xg7E9shq0U",
+        "title": "Swift Programming Tutorial – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 426,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/CwA1VWP0Ldw",
+        "title": "Swift Programming Tutorial | FULL COURSE | Absolute Beginner",
+        "authors": [
+          "Sean Allen"
+        ],
+        "duration": 633,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/EJQW864XpmA",
+        "title": "Xcode 14 Tutorial - Step by Step for Beginners (2022)",
+        "authors": [
+          "CodeWithChris"
+        ],
+        "duration": 57,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/F2ojC6TNwws",
+        "title": "2021 SwiftUI Tutorial for Beginners (3.5 hour Masterclass)",
+        "authors": [
+          "CodeWithChris"
+        ],
+        "duration": 201,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/comQ1-x2a1Q",
+        "title": "Swift Tutorial - Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 190,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/n5X_V81OYnQ",
+        "title": "Learn the Essentials of Swift in one hour",
+        "authors": [
+          "Paul Hudson"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/nAchMctX4YA",
+        "title": "Swift in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/yuo50-TiKgo",
+        "title": "Swift: Build Your First App (2023) - iOS for Beginners",
+        "authors": [
+          "iOS Academy"
+        ],
+        "duration": 17,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW",
+        "title": "Swift 5 for Beginners (2022)",
+        "authors": [
+          "iOS Academy"
+        ],
+        "duration": 211,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLMRqhzcHGw1b89DXHOVA77ozWXWmuBkWX",
+        "title": "Swift Tutorials for Beginners (2019)",
+        "authors": [
+          "CodeWithChris"
+        ],
+        "duration": 195,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO",
+        "title": "SwiftUI Bootcamp (Beginner Level)",
+        "authors": [
+          "Swiftful Thinking"
+        ],
+        "duration": 944,
+        "type": "video"
+      }
+    ]
   }
 }

@@ -167,6 +167,70 @@
         "title": "",
         "authors": [],
         "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/3-reasons-why-all-teams-should-learn-sql",
+        "title": "3 reasons why all teams should learn SQL",
+        "authors": [
+          "Kenneth Leung"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/5-sql-challenges-to-practice-your-skills",
+        "title": "5 SQL Challenges to Practice Your Skills",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/all-about-sql-the-essential-language-for-database-management",
+        "title": "What is SQL? - The Essential Language for Database Management",
+        "authors": [
+          "Summer Worsley"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/how-to-become-a-sql-expert",
+        "title": "How to Become a SQL Expert",
+        "authors": [
+          "Kelsey McNeillie"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/is-sql-a-programming-language",
+        "title": "Is SQL a Programming Language?",
+        "authors": [
+          "Sejal Jaiswal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/top-sql-interview-questions-and-answers-for-beginners-and-intermediate-practitioners",
+        "title": "The 80 Top SQL Interview Questions and Answers for Beginners & Intermediate Practitioners",
+        "authors": [
+          "Elena Kosourova"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/what-can-you-do-with-sql",
+        "title": "What can you do with SQL?",
+        "authors": [
+          "DataCamp Team"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/blog/what-is-sql-used-for",
+        "title": "What is SQL Used For? 7 Top SQL Uses",
+        "authors": [
+          "Natassha Selvaraj"
+        ],
+        "type": "article"
       }
     ],
     "books": [
