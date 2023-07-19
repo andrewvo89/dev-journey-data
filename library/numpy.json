@@ -1,14 +1,523 @@
 {
   "title": "NumPy",
-  "description": "",
+  "description": "NumPy, which stands for Numerical Python, is a fundamental package for scientific computing in Python. It offers a robust multi-dimensional array object, versatile tools for working with these arrays, and an extensive collection of mathematical functions to perform operations on these arrays. At the heart of NumPy lies the ndarray object, capable of representing a wide range of numerical data in n-dimensional arrays, where 'n' can be any non-negative integer.\nNumPy arrays are more efficient and generally faster than Python's native lists and other similar data structures. This is largely because NumPy arrays are densely packed arrays of homogeneous type, which allows Python to perform operations on the entire array as a single computational step, also known as vectorization. This is in contrast to operations on Python lists, which are often executed in a loop, and hence slower.\nBeyond just the numerical computations and array manipulation, NumPy is also tightly integrated with other Python scientific and data analysis libraries. Libraries such as Pandas for data manipulation and analysis, Matplotlib for data visualization, and Scipy for more advanced scientific computing, all heavily rely on NumPy for their core functionality. For example, the fundamental data structure in Pandas, the DataFrame, is built on top of the NumPy array.\nIn machine learning and artificial intelligence, NumPy is essential. The ability to perform complex mathematical computations on large amounts of data quickly and efficiently is key in these fields. For instance, libraries such as TensorFlow and PyTorch use NumPy-like structures for their basic operations and seamlessly convert to and from NumPy arrays for further processing or model training.",
   "dependencies": [
     "language/python"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://betterprogramming.pub/5-ways-to-flatten-an-array-in-numpy-dd6d79042139",
+        "title": "5 Ways To Flatten an Array in NumPy",
+        "authors": [
+          "Lev Maximov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d",
+        "title": "NumPy Illustrated: The Visual Guide to Numpy",
+        "authors": [
+          "Lev Maximov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/the-numpy-illustrated-library-7531a7c43ffb",
+        "title": "The NumPy Illustrated Library",
+        "authors": [
+          "Lev Maximov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/introduction-data-science-numpy/",
+        "title": "Introduction to data science with NumPy",
+        "authors": [
+          "Kola Badmus"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an",
+        "title": "NumPy 101: A Beginner's Guide to Data Science with Python",
+        "authors": [
+          "Anurag Verma"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/franklinobasy/a-beginners-guide-to-numpy-arrays-3f98",
+        "title": "A Beginner's Guide to Numpy: Arrays",
+        "authors": [
+          "franklinobasy"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/lazyhawk/numpy-101-learn-numpy-in-10-minutes-2fm8",
+        "title": "NumPy 101: Learn NumPy in 10 minutes",
+        "authors": [
+          "Sahil"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/ramakm/sorting-and-searching-in-numpy-1ip1",
+        "title": "Sorting And Searching In NUMPY",
+        "authors": [
+          "Ramakrushna Mohapatra"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/tanveershahriar/numpy-arrays-3pmo",
+        "title": "NumPy Arrays",
+        "authors": [
+          "Tanveer Shahriar Arnob"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnpython.com/blog/python-numpy-basics/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@denizeren.deg505/basics-of-numpy-a448d96d6ddd",
+        "title": "Basics of Numpy",
+        "authors": [
+          "Deniz Gunay"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@zahidu864/mastering-numpy-advanced-techniques-for-data-scientists-85c83c5f5ccf",
+        "title": "Mastering NumPy: Advanced Techniques for Data Scientists",
+        "authors": [
+          "Zaid Ullah"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.technofunnel.net/numpy-in-python-for-machine-learning-4040109aeaee",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://saineshnakra.medium.com/why-and-how-to-use-numpy-for-efficient-image-processing-a-comprehensive-guide-a6fd427ed14",
+        "title": "Why and How to Use NumPy for Efficient Image Processing: A Comprehensive Guide",
+        "authors": [
+          "Sainesh Nakra"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://soumenatta.medium.com/introduction-to-numpy-working-with-arrays-in-python-fa0a40f3f550",
+        "title": "Introduction to NumPy: Working with Arrays in Python",
+        "authors": [
+          "Dr. Soumen Atta, Ph.D."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/numpy-for-beginners-ba9ca0bba441",
+        "title": "Numpy for Beginners",
+        "authors": [
+          "Karlo Leskovar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/python-lists-vs-numpy-arrays-a-deep-dive-into-memory-layout-and-performance-benefits-a74ce774bc1e",
+        "title": "Python Lists Vs. NumPy Arrays: A Deep Dive into Memory Layout and Performance Benefits",
+        "authors": [
+          "Peng Qian"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdev.com/exploring-arrays-numpy-in-detail-mastering-data-structures-cf05f1b8bdb2",
+        "title": "Exploring Arrays (NumPy) in Detail: Mastering Data Structures",
+        "authors": [
+          "NIBEDITA (NS)"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/the-ultimate-guide-to-the-numpy-scientific-computing-library-for-python/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.linkedin.com/pulse/numpy-data-science-jagdish-chavan",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Guide-Numpy-Travis-Ph-d-Oliphant/dp/151730007X",
+        "title": "Guide to NumPy: 2nd Edition",
+        "authors": [
+          "Travis E. Oliphant PhD"
+        ],
+        "pages": 364,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/NumPy-Beginners-Guide-Ivan-Idris-ebook/dp/B00CITNP76",
+        "title": "NumPy Beginner's Guide - Second Edition",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Numerical-Python-Scientific-Applications-Matplotlib/dp/1484242459",
+        "title": "Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib",
+        "authors": [
+          "Robert Johansson"
+        ],
+        "pages": 530,
+        "type": "book"
+      },
+      {
+        "url": "https://www.booktopia.com/numpy-beginner-s-guide-third-edition-ivan-idris/book/9781785281969.html",
+        "title": "Numpy Beginner's Guide - Third Edition",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "pages": 348,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/scipy-and-numpy/9781449361600/",
+        "title": "SciPy and NumPy",
+        "authors": [
+          "Eli Bressert"
+        ],
+        "pages": 68,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-analysis-with-numpy-and-pandas/9781789530797",
+        "title": "Hands-On Data Analysis with NumPy and Pandas",
+        "authors": [
+          "Curtis Miller"
+        ],
+        "pages": 168,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-numpy-array/9781783983902",
+        "title": "Learning NumPy Array",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "pages": 164,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-numerical-computing-with-numpy/9781788993357",
+        "title": "Mastering Numerical Computing with NumPy",
+        "authors": [
+          "Umit Mert Cakmak",
+          "Mert Cuhadaroglu"
+        ],
+        "pages": 248,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/numpy-beginners-guide-second-edition/9781782166085",
+        "title": "NumPy Beginner's Guide - Second Edition",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "pages": 310,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/numpy-beginners-guide/9781785281969",
+        "title": "NumPy: Beginner's Guide",
+        "authors": [
+          "Ivan Idris"
+        ],
+        "pages": 348,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/numpy-cookbook/9781849518925",
+        "title": "NumPy Cookbook",
+        "authors": [
+          "Ivan Idris",
+          "NumPy"
+        ],
+        "pages": 226,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/numpy-essentials/9781784393670",
+        "title": "NumPy Essentials",
+        "authors": [
+          "Jaidev Deshpande",
+          "Leo (Liang-Huan) Chin",
+          "Tanmay Dutta\nand 1 more"
+        ],
+        "pages": 156,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.datacamp.com/courses/introduction-to-numpy",
+        "title": "Introduction to NumPy",
+        "platform": "DataCamp",
+        "authors": [
+          "Izzy Weber"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/numpy-essential-training-1-foundations-of-numpy",
+        "title": "NumPy Essential Training: 1 Foundations of NumPy",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Terezija Semenski"
+        ],
+        "duration": 86,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/numpy-essential-training-2-matplotlib-and-linear-algebra-capabilities",
+        "title": "NumPy Essential Training: 2 MatPlotlib and Linear Algebra Capabilities",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Terezija Semenski"
+        ],
+        "duration": 72,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/100-exercises-python-programming-data-science-numpy/",
+        "title": "Python Data Science with NumPy: Over 100 Exercises",
+        "platform": "Udemy",
+        "authors": [
+          "Paweł Krakowiak",
+          "takeITeasy Academy"
+        ],
+        "duration": 45,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/",
+        "title": "Deep Learning Prerequisites: The Numpy Stack in Python (V2+)",
+        "platform": "Udemy",
+        "authors": [
+          "Lazy Programmer Inc."
+        ],
+        "duration": 372,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-numpy-for-absolute-beginners/",
+        "title": "Python with NumPy For Absolute Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Surendra Varma Pericherla"
+        ],
+        "duration": 122,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-numpy-pandas-python-programming-language-libraries/",
+        "title": "Python- Numpy & Pandas Python Programming Language Libraries",
+        "platform": "Udemy",
+        "authors": [
+          "Oak Academy",
+          "OAK Academy Team",
+          "Ali̇ CAVDAR"
+        ],
+        "duration": 1259,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-pandas/",
+        "title": "Data Analysis with Python: NumPy & Pandas Masterclass",
+        "platform": "Udemy",
+        "authors": [
+          "Maven Analytics",
+          "Chris Bruehl"
+        ],
+        "duration": 812,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/python-programming-basics-multithreading-oop/",
+        "title": "Python Programming - Multithreading, OOP, NumPy and Pandas",
+        "platform": "Udemy",
+        "authors": [
+          "Holczer Balazs"
+        ],
+        "duration": 821,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-python-numpy-masterclass/",
+        "title": "Python NumPy For Absolute Beginners",
+        "platform": "Udemy",
+        "authors": [
+          "Eftekher Husain"
+        ],
+        "duration": 77,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://www.labri.fr/perso/nrougier/from-python-to-numpy/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://numpy.org/doc/stable/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/4c_mwnYdbhQ",
+        "title": "NumPy Full Python Course - Data Science Fundamentals",
+        "authors": [
+          "NeuralNine"
+        ],
+        "duration": 53,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/9JUAPgtkKpI",
+        "title": "NumPy Crash Course - Complete Tutorial",
+        "authors": [
+          "Patrick Loeber"
+        ],
+        "duration": 63,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/DcfYgePyedM",
+        "title": "NumPy Tutorial (2022): For Physicists, Engineers, and Mathematicians",
+        "authors": [
+          "Mr. P Solver"
+        ],
+        "duration": 93,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/GB9ByFAIAH4",
+        "title": "Complete Python NumPy Tutorial (Creating Arrays, Indexing, Math, Statistics, Reshaping)",
+        "authors": [
+          "Keith Galli"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KHoEbRH46Zk",
+        "title": "NumPy vs Pandas",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/QUT1VHiLmmI",
+        "title": "Python NumPy Tutorial for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/biLz7KPgHJA",
+        "title": "Numpy Tutorial - Introduction to  Arrays in Python",
+        "authors": [
+          "Tech With Tim"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/l3s-_8uTBVA",
+        "title": "NumPy vs SciPy",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lLRBYKwP8GQ",
+        "title": "Ultimate Guide to NumPy Arrays - VERY DETAILED TUTORIAL for beginners!",
+        "authors": [
+          "Python Simplified"
+        ],
+        "duration": 25,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lXZk0g60qRg",
+        "title": "Learn NumPy In 30 Minutes",
+        "authors": [
+          "Patrick Loeber"
+        ],
+        "duration": 32,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/r-uOLxNrNk8",
+        "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 263,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/uRsE5WGiKWo",
+        "title": "NumPy for Beginners in 15 minutes | Python Crash Course",
+        "authors": [
+          "Nicholas Renotte"
+        ],
+        "duration": 18,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xECXZ3tyONo",
+        "title": "Learn NUMPY in 5 minutes - BEST Python Library!",
+        "authors": [
+          "Python Programmer"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLCC34OHNcOtpalASMlX2HHdsLNipyyhbK",
+        "title": "Numpy For Machine Learning",
+        "authors": [
+          "Codemy.com"
+        ],
+        "duration": 75,
+        "type": "video"
+      }
+    ]
   }
 }

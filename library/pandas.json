@@ -1,14 +1,734 @@
 {
   "title": "Pandas",
-  "description": "",
+  "description": "Pandas is a powerful open-source Python library primarily used for data manipulation and analysis. The name \"Pandas\" is an acronym derived from \"Panel Data\" - an econometrics term for multi-dimensional structured datasets. The library was developed by Wes McKinney in 2008 while at AQR Capital Management. Since then, it has become one of the most preferred tools for data scientists, analysts, and enthusiasts worldwide.\nPandas provides rich and highly flexible data structures like DataFrame and Series, suitable for working with structured data seamlessly. DataFrame is a 2-dimensional labeled data structure with columns of potentially different types, similar to a spreadsheet or SQL table. On the other hand, a Series is a one-dimensional labeled array capable of holding any data type. These two data structures are integrated with many powerful functionalities, like handling missing data, merging, reshaping, and pivoting datasets, etc.\nThe library is built on top of NumPy, another popular Python library for numerical computations, which makes it easy to integrate within a scientific computing environment. Pandas also supports various data sources such as CSV, Excel files, SQL databases, and HDF5 format data. Furthermore, it provides a host of functions for descriptive statistics, aggregation, and data transformation, among others.\nPandas is known for its performance, productivity, and the ability to handle large datasets. It has been crucial in making Python a robust language for data analysis, supplementing its strengths in numerical and scientific computing with features for handling, preparing, and analyzing data. It also plays well with other libraries in the Python ecosystem such as Matplotlib and Seaborn for data visualization, and Scikit-learn for machine learning.",
   "dependencies": [
     "language/python"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43",
+        "title": "Pandas Illustrated: The Definitive Visual Guide to Pandas",
+        "authors": [
+          "Lev Maximov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/pandas-basics-cheat-sheet-2023-python-for-data-science-b59fb7786b4d",
+        "title": "Pandas Basics Cheat Sheet (2023) —  Python for Data Science",
+        "authors": [
+          "Zita"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/the-importance-of-data-preprocessing-in-python-pandas-bfbc112ae28c",
+        "title": "Mastering Data Preprocessing in Python Pandas (with code)",
+        "authors": [
+          "🐼 panData"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@deepika.vadlamudi/you-should-switch-to-polars-from-pandas-now-7d94df7a073",
+        "title": "You should switch to Polars from Pandas now!",
+        "authors": [
+          "Deepika Vadlamudi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dhanush.dhanu.357/boost-your-data-analysis-efficiency-essential-numpy-and-pandas-shortcuts-you-should-know-e84892bc7ec0",
+        "title": "Boost Your Data Analysis Efficiency: Essential NumPy and Pandas Shortcuts You Should Know",
+        "authors": [
+          "Dhanush B M"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://pub.towardsai.net/17-pandas-trick-i-wish-i-knew-before-as-a-data-scientist-16ab7b37513a",
+        "title": "17 Pandas Trick I wish I knew Before(As a Data Scientist)",
+        "authors": [
+          "Gencay I."
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/dominate-pandas-data-frames-with-the-top-7-column-operations-2a11521e9e2d",
+        "title": "Use Pandas Data Frames More Effectively with the Top 7 Column Operations",
+        "authors": [
+          "Federico Trotta"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/how-to-level-up-your-pandas-skills-in-5-easy-ways-223208ce18cc",
+        "title": "How to Level up Your Pandas Skills in 5 Easy Ways",
+        "authors": [
+          "Andy McDonald"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/pandas-vs-polars-a-syntax-and-speed-comparison-5aa54e27497e",
+        "title": "Pandas vs. Polars: A Syntax and Speed Comparison",
+        "authors": [
+          "Leonie Monigatti"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/pivot-tables-in-pandas-with-hands-on-examples-in-python-9f29a48796f2",
+        "title": "Pivot tables in Pandas and Handling Multi-Index Data with Hands-On Examples in Python",
+        "authors": [
+          "Susan Maina"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/python-for-beginners-pandas-e396c8364af1",
+        "title": "Python for Beginners — Pandas",
+        "authors": [
+          "Karlo Leskovar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/the-ultimate-reference-for-clean-pandas-code-413df676e63c",
+        "title": "The ultimate reference for clean Pandas code",
+        "authors": [
+          "Mary Newhauser"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.datacamp.com/tutorial/pandas",
+        "title": "Python pandas tutorial: The ultimate guide for beginners",
+        "authors": [
+          "Vidhi Chugh"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.edureka.co/blog/python-pandas-tutorial/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.freecodecamp.org/news/difference-between-python-and-pandas/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.geeksforgeeks.org/introduction-to-pandas-in-python/",
+        "title": "Introduction to Pandas in Python",
+        "authors": [
+          "nikhilaggarwal3"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.mygreatlearning.com/blog/python-pandas-tutorial/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com.au/Pandas-Everyone-Python-Data-Analysis/dp/0134546938",
+        "title": "Pandas for Everyone: Python Data Analysis: Python Data Analysis",
+        "authors": [
+          "Daniel Y. Chen"
+        ],
+        "pages": 376,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Effective-Pandas-Patterns-Manipulation-Treading/dp/B09MYXXSFM",
+        "title": "Effective Pandas: Patterns for Data Manipulation (Treading on Python)",
+        "authors": [
+          "Matt Harrison"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learning-Pandas-Library-Munging-Analysis/dp/153359824X",
+        "title": "Learning the Pandas Library: Python Tools for Data Munging, Analysis, and Visual",
+        "authors": [
+          "Matt Harrison",
+          "Michael Prentiss"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Python-Pandas-Beginners-Specialization-Scientist/dp/1956591109",
+        "title": "Python Pandas for Beginners: Pandas Specialization for Data Scientist",
+        "authors": [
+          "AI Publishing"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/pandas-in-action",
+        "title": "Pandas in Action",
+        "authors": [],
+        "pages": 440,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-data-science/9781098121211/",
+        "title": "Python Data Science Handbook, 2nd Edition",
+        "authors": [
+          "Jake VanderPlas"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/python-for-data/9781098104023/",
+        "title": "Python for Data Analysis, 3rd Edition",
+        "authors": [
+          "Wes McKinney"
+        ],
+        "pages": 550,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-analysis-with-numpy-and-pandas/9781789530797",
+        "title": "Hands-On Data Analysis with NumPy and Pandas",
+        "authors": [
+          "Curtis Miller"
+        ],
+        "pages": 168,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-analysis-with-pandas-second-edition/9781800563452",
+        "title": "Hands-On Data Analysis with Pandas - Second Edition",
+        "authors": [
+          "Stefanie Molin"
+        ],
+        "pages": 788,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-data-analysis-with-pandas/9781789615326",
+        "title": "Hands-On Data Analysis with Pandas",
+        "authors": [
+          "Stefanie Molin"
+        ],
+        "pages": 740,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-pandas/9781783985128",
+        "title": "Learning pandas",
+        "authors": [
+          "Michael Heydt"
+        ],
+        "pages": 504,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-pandas-for-finance/9781783985104",
+        "title": "Mastering pandas for Finance",
+        "authors": [
+          "Michael Heydt"
+        ],
+        "pages": 298,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-pandas-second-edition/9781789343236",
+        "title": "Mastering pandas - Second Edition",
+        "authors": [
+          "Ashish Kumar"
+        ],
+        "pages": 674,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/pandas-1x-cookbook-second-edition/9781839213106",
+        "title": "Pandas 1.x Cookbook - Second Edition",
+        "authors": [
+          "Matt Harrison",
+          "Theodore Petrou"
+        ],
+        "pages": 626,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-pandas-workshop/9781800208933",
+        "title": "The Pandas Workshop",
+        "authors": [
+          "Blaine Bateman",
+          "Saikat Basak",
+          "Thomas V. Joseph\nand 1 more"
+        ],
+        "pages": 744,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://datacamp.com/courses/pandas-joins-for-spreadsheet-users",
+        "title": "Pandas Joins for Spreadsheet Users",
+        "platform": "DataCamp",
+        "authors": [
+          "John Miller"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/data-processing-pandas",
+        "title": "Learn Data Analysis with Pandas",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 360,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/data-analysis-with-python",
+        "title": "Data Analysis with Python",
+        "platform": "Coursera",
+        "authors": [
+          "Joseph Santarcangelo"
+        ],
+        "duration": 296,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke",
+        "title": "Python and Pandas for Data Engineering",
+        "platform": "Coursera",
+        "authors": [
+          "Kennedy Behrman",
+          "Alfredo Deza",
+          "Noah Gift"
+        ],
+        "duration": 1184,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/data-analysis-in-python-using-pandas-dataframes",
+        "title": "Data Analysis in Python: Using Pandas DataFrames",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/exploratory-data-analysis-python-pandas",
+        "title": "Exploratory Data Analysis With Python and Pandas",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/learning-path-data-analysis-with-pandas",
+        "title": "Mastering Data Analysis with Pandas",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/master-data-analysis-with-pandas-learning-path-1-enhanced",
+        "title": "Master Data Analysis with Pandas: Learning Path 1 (Enhanced)",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/mastering-data-analysis-with-pandas-learning-path-part-2",
+        "title": "Mastering Data Analysis with Pandas: Learning Path Part 2",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/practical-data-wrangling-with-pandas",
+        "title": "Practical Data Wrangling with Pandas",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/python-for-data-analysis-numpy",
+        "title": "Python for Data Analysis: Pandas & NumPy",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas",
+        "title": "Analyzing Marketing Campaigns with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Jill Rosok"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/analyzing-police-activity-with-pandas",
+        "title": "Analyzing Police Activity with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Kevin Markham"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/data-manipulation-with-pandas",
+        "title": "Data Manipulation with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Maggie Matsui",
+          "Richie Cotton"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/joining-data-with-pandas",
+        "title": "Joining Data with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Aaren Stubberfield"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/pandas-joins-for-spreadsheet-users",
+        "title": "Pandas Joins for Spreadsheet Users",
+        "platform": "DataCamp",
+        "authors": [
+          "John Miller"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/reshaping-data-with-pandas",
+        "title": "Reshaping Data with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Maria Eugenia Inzaugarat"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/streamlined-data-ingestion-with-pandas",
+        "title": "Streamlined Data Ingestion with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Amany Mahfouz"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/working-with-categorical-data-in-python",
+        "title": "Working with Categorical Data in Python",
+        "platform": "DataCamp",
+        "authors": [
+          "Kasey Jones"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/writing-efficient-code-with-pandas",
+        "title": "Writing Efficient Code with pandas",
+        "platform": "DataCamp",
+        "authors": [
+          "Leonidas Souliotis"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/advanced-pandas?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=default_guest_learning",
+        "title": "Advanced Pandas",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Brett Vanderblock",
+          "Madecraft"
+        ],
+        "duration": 62,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/pandas-essential-training?trk=learning-topics_trending-courses_related-content-card&upsellOrderOrigin=default_guest_learning",
+        "title": "pandas Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jonathan Fernandes"
+        ],
+        "duration": 134,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/pandas-advanced",
+        "title": "Advanced Pandas",
+        "platform": "Pluralsight",
+        "authors": [
+          "Paweł Kordek"
+        ],
+        "duration": 150,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/pandas-fundamentals",
+        "title": "Pandas Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Paweł Kordek"
+        ],
+        "duration": 80,
+        "type": "course"
+      },
+      {
+        "url": "https://www.simplilearn.com/free-python-panda-basics-course-skillup",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-pandas-for-absolute-beginners/",
+        "title": "Complete Pandas for Absolute Beginners 2023",
+        "platform": "Udemy",
+        "authors": [
+          "Hassan Shoayb"
+        ],
+        "duration": 59,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/data-analysis-with-pandas/",
+        "title": "Ultimate Pandas and Python Data Analysis (Complete Course)",
+        "platform": "Udemy",
+        "authors": [
+          "Boris Paskhaver"
+        ],
+        "duration": 1320,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/data-manipulation-in-python/",
+        "title": "Data Manipulation in Python: A Pandas Crash Course",
+        "platform": "Udemy",
+        "authors": [
+          "Samuel Hinton",
+          "SuperDataScience Team",
+          "Ligency Team"
+        ],
+        "duration": 527,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-pandas-bootcamp/",
+        "title": "The Complete Pandas Bootcamp 2023: Data Science with Python",
+        "platform": "Udemy",
+        "authors": [
+          "Alexander Hagmann"
+        ],
+        "duration": 2040,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/the-ultimate-pandas-bootcamp-advanced-python-data-analysis/",
+        "title": "The Ultimate Pandas Bootcamp: Advanced Python Data Analysis",
+        "platform": "Udemy",
+        "authors": [
+          "Andy Bek"
+        ],
+        "duration": 1924,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://pandas.pydata.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.kaggle.com/learn/pandas",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.webpages.uidaho.edu/~stevel/504/Pandas%20DataFrame%20Notes.pdf",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/CIQJtJ38-hI",
+        "title": "Learn Python Pandas: 1-Hour Pandas Course for Beginners",
+        "authors": [
+          "Simon Sez IT"
+        ],
+        "duration": 74,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KHoEbRH46Zk",
+        "title": "NumPy vs Pandas",
+        "authors": [
+          "IBM Technology"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/PcvsOaixUh8",
+        "title": "Pandas Tutorial : Pandas Full Course",
+        "authors": [
+          "Derek Banas"
+        ],
+        "duration": 101,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/_Eb0utIRdkw",
+        "title": "A Gentle Introduction to Pandas Data Analysis (on Kaggle)",
+        "authors": [
+          "Rob Mulla"
+        ],
+        "duration": 39,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/bDhvCp3_lYw",
+        "title": "Data Cleaning in Pandas | Python Pandas Tutorials",
+        "authors": [
+          "Alex The Analyst"
+        ],
+        "duration": 39,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/gtjxAH8uaP0",
+        "title": "Pandas & Python for Data Analysis by Example – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 298,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/iGFdh6_FePU",
+        "title": "LEARN PANDAS in about 10 minutes! A great python module for Data Science!",
+        "authors": [
+          "Python Programmer"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/r-uOLxNrNk8",
+        "title": "Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 263,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/tRKeLrwfUgU",
+        "title": "Pandas for Data Science in 20 Minutes | Python Crash Course",
+        "authors": [
+          "Nicholas Renotte"
+        ],
+        "duration": 24,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/vmEHCJofslg",
+        "title": "Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)",
+        "authors": [
+          "Keith Galli"
+        ],
+        "duration": 61,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/xi0vhXFPegw",
+        "title": "Exploratory Data Analysis with Pandas Python 2023",
+        "authors": [
+          "Rob Mulla"
+        ],
+        "duration": 41,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/zN2Hua6oII0",
+        "title": "Basic Guide to Pandas! Tricks, Shortcuts, Must Know Commands! Python for Beginners",
+        "authors": [
+          "Python Simplified"
+        ],
+        "duration": 21,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS",
+        "title": "Pandas Tutorials",
+        "authors": [
+          "Corey Schafer"
+        ],
+        "duration": 320,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLH6mU1kedUy8X0xC1-LOjIds9gaIFzd1N",
+        "title": "Python Pandas Complete Tutorial",
+        "authors": [
+          "Data Science Tutorials"
+        ],
+        "duration": 369,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy",
+        "title": "Pandas Tutorial (Data Analysis In Python)",
+        "authors": [
+          "codebasics"
+        ],
+        "duration": 273,
+        "type": "video"
+      }
+    ]
   }
 }
