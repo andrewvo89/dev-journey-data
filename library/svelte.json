@@ -1,14 +1,394 @@
 {
   "title": "Svelte",
-  "description": "",
+  "description": "Svelte is an open-source JavaScript framework for building user interfaces. Unlike traditional frameworks such as React and Vue, Svelte compiles your code to tiny, highly efficient imperative code that directly manipulates the DOM, leading to a highly optimized output and improved performance. The philosophy of Svelte is to \"disappear completely\" by the time your application reaches the browser, and instead of shipping a framework runtime to the browser, Svelte applications are pure JavaScript that interact directly with the DOM.\nOne of the significant benefits of Svelte is its simplicity. It requires less boilerplate code, making it more accessible and easier for developers to quickly create interactive web applications. It does this by utilizing a simple and intuitive syntax, similar to HTML, CSS, and JavaScript. This is often a boon for developers, particularly those transitioning from a more traditional web development background, as it feels familiar and straightforward.\nAdditionally, Svelte's approach to reactivity is unique. In Svelte, reactivity is incorporated directly into the language by assigning values with a simple \"=\" symbol. This makes reactive programming much more approachable, as developers don't have to use complex APIs or specific methods to update the state of their applications.\nPerformance is another area where Svelte stands out. Because Svelte applications are compiled down to bare-bones JavaScript instructions that directly manipulate the DOM, they are often much smaller and faster than equivalent applications built with other frameworks. The elimination of the virtual DOM diffing process means that updates can be incredibly efficient.\nSvelte's ecosystem, although not as extensive as some older frameworks, is growing rapidly. Developers can find a variety of third-party libraries and tools, from state management solutions to component libraries, which help make building applications with Svelte a more feature-rich experience.",
   "dependencies": [
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://dev.to/dailydotdev/building-with-svelte-all-you-need-to-know-before-you-start-2knj",
+        "title": "Building with Svelte - all you need to know before you start",
+        "authors": [
+          "Nimrod Kramer"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/isaachagoel/svelte-reactivity-gotchas-solutions-if-you-re-using-svelte-in-production-you-should-read-this-3oj3",
+        "title": "Svelte Reactivity Gotchas + Solutions (If you're using Svelte in production you should read this)",
+        "authors": [
+          "Isaac Hagoel"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/creativetim_official/10-svelte-examples-components-templates-id7",
+        "title": "10+ Svelte Examples – Components & Templates",
+        "authors": [
+          "Creative Tim"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://haritheman.medium.com/if-you-dont-want-to-have-fun-stay-away-from-svelte-12db57ec22bb",
+        "title": "If you don’t want to have fun, stay away from Svelte!",
+        "authors": [
+          "Hari Vishnu Parashar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/what-are-svelte-stores-and-how-to-use-them-a4963968ee89",
+        "title": "What Are Svelte Stores and How to Use Them",
+        "authors": [
+          "Joseph Talon"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/things-that-dont-work-in-svelte-d294a5b16abf",
+        "title": "Things that don’t work in Svelte",
+        "authors": [
+          "Corbbin Goldsmith"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@tomas.svojanovsky11/svelte-setting-up-for-testing-59a43bd94eff",
+        "title": "Svelte: Setting up for Testing",
+        "authors": [
+          "Tomas Svojanovsky"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@la_boukouffallah/svelte-framework-a-true-react-competitor-43be9d5e94f",
+        "title": "Svelte Framework: A True React Competitor",
+        "authors": [
+          "BOUKOUFFALLAH ABDALLAH"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/should-you-use-svelte-production/",
+        "title": "Should you use Svelte in production?",
+        "authors": [
+          "Sodeeq Elusoji"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/application-state-management-svelte/",
+        "title": "Application state management with Svelte",
+        "authors": [
+          "Raphael Ugwu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.logrocket.com/react-vs-svelte/",
+        "title": "React vs. Svelte: Performance, DX, and more",
+        "authors": [
+          "Nefe James"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@arxpoetica/top-5-reasons-you-should-use-svelte-on-your-current-project-right-now-e2f6835e904f",
+        "title": "Top 5 Reasons You Should Use Svelte on Your Current Project Right Now.",
+        "authors": [
+          "Robert Hall"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://naturaily.com/blog/why-svelte-is-next-big-thing-javascript-development",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Beginning-Svelte-Development-applications-lightweight/dp/B0B67292T4/",
+        "title": "Beginning Svelte Development: Develop web applications with SvelteJS - a lightweight JavaScript compiler",
+        "authors": [
+          "Greg Lim",
+          "Daniel Correa"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Knowledge-Svelte-Pragmatic-Journey-Quickly/dp/B0BNH6347W/",
+        "title": "Knowledge Of Svelte: A Pragmatic Journey To Quickly Learn Svelte",
+        "authors": [
+          "Christoper Bobola"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Real-World-Svelte-Application-Building-Minutes/dp/B0BMZBYQ15/",
+        "title": "Real-World Svelte Application: Start Building Svelte Apps Within Minutes",
+        "authors": [
+          "Floria Marland"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Svelte-JS-Book-Learn-Example-ebook/dp/B08CGMKPLS/",
+        "title": "Svelte JS Book: Learn Svelte JS By Example",
+        "authors": [
+          "Shane Deam"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/svelte-and-sapper-in-action",
+        "title": "Svelte and Sapper in Action",
+        "authors": [],
+        "pages": 456,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/svelte-a-beginners/9781098129576/",
+        "title": "Svelte: A Beginner's Guide",
+        "authors": [
+          "Simon Holthausen"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/svelte-with-test-driven/9781837638338/",
+        "title": "Svelte with Test-Driven Development",
+        "authors": [
+          "Daniel Irvine"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/svelte-3-up-and-running/9781839213625",
+        "title": "Svelte 3 Up and Running",
+        "authors": [
+          "Alessandro Segala"
+        ],
+        "pages": 168,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/svelte-with-test-driven-development/9781837638338",
+        "title": "Svelte with Test-Driven Development",
+        "authors": [
+          "Daniel Irvine"
+        ],
+        "pages": 250,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://frontendmasters.com/courses/sveltekit/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://netninja.dev/p/svelte-for-beginners",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/learnsvelte",
+        "title": "Learn Svelte",
+        "platform": "Scrimba",
+        "authors": [
+          "Noah Kaufman"
+        ],
+        "duration": 51,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-an-application-with-svelte-and-firebase",
+        "title": "Building an Application with Svelte and Firebase",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ayodele Leom"
+        ],
+        "duration": 89,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/svelte-first-look",
+        "title": "Svelte: First Look",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ray Villalobos"
+        ],
+        "duration": 57,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/svelte-getting-started",
+        "title": "Svelte: Getting Started",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jake Trent"
+        ],
+        "duration": 97,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/svelte-and-sveltekit/",
+        "title": "Svelte & SvelteKit: The Complete Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Ali Alaa"
+        ],
+        "duration": 1933,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/svelte-crash-course-through-projects-w-backend-connections/",
+        "title": "Svelte Crash Course through Projects w/ Backend Connections",
+        "platform": "Udemy",
+        "authors": [
+          "Dr. Mohammad Nauman"
+        ],
+        "duration": 127,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/sveltejs-the-complete-guide/",
+        "title": "Svelte.js - The Complete Guide (incl. Sapper.js)",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 762,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://madewithsvelte.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://flaviocopes.com/book/svelte/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.joyofsvelte.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://svelte.dev/docs/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@SvelteSociety",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/0FCbd1XVYWo",
+        "title": "Let's Learn Svelte.js in 60 Minutes (fun speed run).",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 59,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/3TVy6GdtNuQ",
+        "title": "Svelte Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 81,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/MnpuK0MK4yo",
+        "title": "React VS Svelte...10 Examples",
+        "authors": [
+          "Beyond Fireship"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/UGBJHYpHPvA",
+        "title": "Learn Svelte – Full Course for Beginners",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 1390,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/lYYGhm7p74Q",
+        "title": "Understanding Svelte (vs React)",
+        "authors": [
+          "Kodaps Academy"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/o6VwbXSjM08",
+        "title": "The Svelte Crash Course",
+        "authors": [
+          "Laith Academy"
+        ],
+        "duration": 220,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/rv3Yq-B8qp4",
+        "title": "Svelte in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO",
+        "title": "Svelte Tutorial for Beginners",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 266,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx",
+        "title": "Svelte Tutorial for Beginners",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 221,
+        "type": "video"
+      }
+    ]
   }
 }

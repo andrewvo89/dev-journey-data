@@ -1,14 +1,262 @@
 {
   "title": "SolidJS",
-  "description": "",
+  "description": "SolidJS is an innovative, reactive UI library that offers a fast, efficient way to build user interfaces. It's based on fine-grained reactivity, a model that automatically tracks changes at a granular level, leading to more efficient updates and fewer re-renders. SolidJS focuses on being a thin layer of interactivity on top of the web, embracing the platform rather than abstracting it away, unlike many of the other popular JavaScript frameworks.\nDevelopers often appreciate the speed and efficiency of SolidJS. It is one of the fastest UI libraries in terms of both startup and run-time performance. It achieves this impressive speed by compiling templates into highly optimized JavaScript, reducing the need for a virtual DOM or diffing algorithm, which are common in many other frameworks.\nFurthermore, SolidJS utilizes a fine-grained reactivity model, which means it can update only the components of the UI that are affected by state changes. This allows for a more efficient rendering process, leading to faster UI updates and less wasted resources, which is a significant benefit for performance-sensitive applications.\nIn terms of the developer experience, SolidJS also brings a lot to the table. It blends familiar JSX syntax with JavaScript reactivity for a developer-friendly way to create complex, dynamic applications. The syntax is designed to feel intuitive and natural to JavaScript developers, making it easy to get up and running with the library.\nSolidJS also offers a robust ecosystem with a variety of tools, such as state management and routing solutions. Its smaller size does not mean it lacks capabilities; it's just more focused and more efficient. It allows developers to keep their bundles small while still delivering rich, complex user experiences.",
   "dependencies": [
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
+    "articles": [
+      {
+        "url": "https://blog.logrocket.com/solidjs-vs-react/",
+        "title": "SolidJS vs. React: Comparing declarative UI libraries",
+        "authors": [
+          "Iniubong Obonguko"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/brittneypostma/how-to-deploy-solidjs-4hoi",
+        "title": "How to Deploy SolidJS",
+        "authors": [
+          "Brittney Postma"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/chrisczopp/5-reasons-why-we-chose-to-transpile-to-solidjs-instead-of-react-3pcl",
+        "title": "5 Reasons why we chose to transpile to SolidJS instead of React",
+        "authors": [
+          "chris-czopp"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/dmnchzl/discover-a-new-framework-solidjs-1nco",
+        "title": "Discover A New Framework: SolidJS 🧑‍💻",
+        "authors": [
+          "Damien Chazoule"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd",
+        "title": "SolidJS Official Release: The long road to 1.0",
+        "authors": [
+          "Ryan Carniato"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/ryansolid/thinking-granular-how-is-solidjs-so-performant-4g37",
+        "title": "Thinking Granular: How is SolidJS so Performant?",
+        "authors": [
+          "Ryan Carniato"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://filipjerga.medium.com/solid-js-vs-react-js-what-is-better-ab25b2338c61",
+        "title": "Solid JS vs React JS. What is Better?",
+        "authors": [
+          "Filip Jerga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://gotopia.tech/articles/235/ryan-carniato-solidjs-javascript-frameworks",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/cstech/react-usestate-hook-vs-solid-createsignals-hook-f5cccb813d8c",
+        "title": "React useState Hook vs. Solid createSignals Hook",
+        "authors": [
+          "Emir AKAR"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/eincode/what-is-solid-js-e32f03048936",
+        "title": "What is Solid JS?",
+        "authors": [
+          "Filip Jerga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://vladislav-lipatov.medium.com/from-reactjs-to-solidjs-3e1b28ccc27a",
+        "title": "From ReactJS to SolidJS",
+        "authors": [
+          "Vladislav Lipatov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.loginradius.com/blog/engineering/guest-post/introduction-to-solidjs/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
     "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "courses": [
+      {
+        "url": "https://www.udemy.com/course/solid-js-firebase-the-complete-guide-twitter-clone-app/",
+        "title": "Solid JS & Firebase - The Complete Guide (Twitter Clone App)",
+        "platform": "Udemy",
+        "authors": [
+          "Eincode by Filip Jerga",
+          "Filip Jerga"
+        ],
+        "duration": 1439,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/reactivity-solidjs/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://playground.solidjs.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.solidjs.com/examples/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.solidjs.com/docs/latest/api",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.reddit.com/r/solidjs",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://discord.com/invite/solidjs",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/A_dUsSzxwkI",
+        "title": "What is SolidJS (vs React and Svelte) ?",
+        "authors": [
+          "Kodaps Academy"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/B6ZWvYGCHU0",
+        "title": "SolidStart Crash Course - Build And Deploy A Blog // SolidJS Tutorial",
+        "authors": [
+          "Ebenezer Don"
+        ],
+        "duration": 57,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/DVWu2b7mvFg",
+        "title": "a solid start",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 5,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/G5vwaoXck_g",
+        "title": "SolidJS: Getting Started, Ryan Carniato, ViteConf 2022",
+        "authors": [
+          "ViteConf"
+        ],
+        "duration": 21,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OqcHoLWyyIw",
+        "title": "React vs SolidJS, Fight!",
+        "authors": [
+          "Jack Herrington"
+        ],
+        "duration": 37,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/WDodWU-B-aY",
+        "title": "SolidJS Crash Course - Better Than React!",
+        "authors": [
+          "Ebenezer Don"
+        ],
+        "duration": 73,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/YluRK38br7A",
+        "title": "I was wrong about SolidJS",
+        "authors": [
+          "Awesome"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ZZ-a7B761Ds",
+        "title": "Let's Learn SolidJS",
+        "authors": [
+          "Learn With Jason"
+        ],
+        "duration": 90,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/hw3Bx5vxKl0",
+        "title": "Solid in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/rxYQe1JLfuI",
+        "title": "Getting Started with SolidJS",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 19,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/w14cgW9pVkg",
+        "title": "Is SolidJS the better ReactJS?",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 7,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gU_GvFygZFu0aBysPilkbB",
+        "title": "Solid JS Crash Course Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 139,
+        "type": "video"
+      }
+    ]
   }
 }
