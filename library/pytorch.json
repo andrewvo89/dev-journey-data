@@ -1,14 +1,598 @@
 {
   "title": "PyTorch",
-  "description": "",
+  "description": "PyTorch is a popular open-source machine learning library that allows developers to perform tensor computations with GPU acceleration, create dynamic neural networks, and automatically calculate gradients for backpropagation. Developed by Facebook's AI Research lab (FAIR), PyTorch offers a rich ecosystem for AI development, with tools for computer vision (TorchVision), natural language processing (TorchText), and audio processing (TorchAudio).\nOne of the key features of PyTorch is its use of dynamic computation graphs, which are constructed on the fly as operations are created. This contrasts with static computation graphs used in other frameworks like TensorFlow (pre-2.0 versions), where the graph must be defined and compiled before it can be run. Dynamic computation graphs provide flexibility and make PyTorch more user-friendly, especially for complex models and for beginners in deep learning.\nPyTorch also provides a comprehensive set of features for distributed training, mobile deployment, model optimization, and more. For instance, PyTorch supports TensorBoard for visualization, and tools such as PyTorch Lightning can simplify code and speed up the process of model training. Moreover, the ONNX (Open Neural Network Exchange) format enables PyTorch models to be exported to other frameworks, providing a degree of interoperability.\nDue to its powerful capabilities and ease of use, PyTorch is widely used in the research community and increasingly in industry as well. With a focus on transparency and simplicity, it has been used for a wide variety of applications, from developing state-of-the-art models to creating AI-powered applications in fields such as healthcare, finance, and autonomous vehicles. PyTorch's extensive and active community contributes to a plethora of tutorials, guides, and code repositories, making it a continuously evolving platform for machine learning and artificial intelligence.",
   "dependencies": [
     "language/python"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://betterprogramming.pub/a-keyframe-style-learning-rate-scheduler-for-pytorch-b889110dcde8",
+        "title": "A Keyframe-style Learning Rate Scheduler for PyTorch",
+        "authors": [
+          "David Gilbertson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.devgenius.io/introduction-to-pytorch-audio-data-via-torchaudio-41dbea208d28",
+        "title": "Introduction to PyTorch Audio Data via TorchAudio",
+        "authors": [
+          "Yujian Tang"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://builtin.com/data-science/pytorch-vs-tensorflow",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@AIandInsights/pytorch-and-its-ecosystem-a252153a800a",
+        "title": "PyTorch and its Ecosystem",
+        "authors": [
+          "AI & Insights"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@chuntcdj/pytorch-10-operations-you-should-know-the-rising-star-in-deep-learning-ec51d7c8037f",
+        "title": "PyTorch — 10 Operations You Should Know | The Rising Star in Deep Learning",
+        "authors": [
+          "TC. Lin"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@stefan.herdy/pytorch-semantic-image-segmentation-b726589662e3",
+        "title": "Pytorch Semantic Image Segmentation",
+        "authors": [
+          "Stefan Herdy"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@subbu.veera/distributed-training-with-pytorch-309141a57f70",
+        "title": "Distributed Training with Pytorch",
+        "authors": [
+          "Dr.Pixel"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/appsilon-data-science/pytorch-how-to-train-and-optimize-a-neural-network-in-10-minutes-546b336cabce",
+        "title": "PyTorch: How to Train and Optimize A Neural Network in 10 Minutes",
+        "authors": [
+          "Dario Radečić"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/edureka/pytorch-tutorial-9971d66f6893",
+        "title": "PyTorch Tutorial — Developing Deep Learning Models Using PyTorch",
+        "authors": [
+          "Sayantini Deb"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://pub.towardsai.net/meta-learning-for-time-series-forecasting-deeptime-in-pytorch-lightning-3d97351099c6",
+        "title": "Meta-Learning for Time Series Forecasting (DeepTime) in PyTorch Lightning",
+        "authors": [
+          "Reza Yazdanfar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://pub.towardsai.net/pytorch-in-2-minutes-9e18875990fd",
+        "title": "The ABCs of PyTorch in 4 Minutes",
+        "authors": [
+          "Rohit Sharma"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/differential-equations-as-a-pytorch-neural-network-layer-7614ba6d587f",
+        "title": "Differential Equations as a Pytorch Neural Network Layer",
+        "authors": [
+          "Kevin Hannay"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/how-pytorch-2-0-accelerates-deep-learning-with-operator-fusion-and-cpu-gpu-code-generation-35132a85bd26",
+        "title": "How Pytorch 2.0 accelerates deep learning with operator fusion and CPU/GPU code-generation",
+        "authors": [
+          "Shashank Prasanna"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c",
+        "title": "Installing PyTorch on Apple M1 chip with GPU Acceleration",
+        "authors": [
+          "Nikos Kafritsas"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/introduction-to-pytorch-from-training-loop-to-prediction-a70372764432",
+        "title": "Introduction to PyTorch: from training loop to prediction",
+        "authors": [
+          "Andrea D'Agostino"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/pytorch-model-performance-analysis-and-optimization-10c3c5822869",
+        "title": "PyTorch Model Performance Analysis and Optimization",
+        "authors": [
+          "Chaim Rand"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/reasons-to-choose-pytorch-for-deep-learning-c087e031eaca",
+        "title": "Reasons to Choose PyTorch for Deep Learning",
+        "authors": [
+          "Claire D. Costa"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://www.dataquest.io/blog/pytorch-for-beginners/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.simplilearn.com/what-is-pytorch-article",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Deep-Learning-PyTorch-Step-Step-ebook/dp/B09R144VB5",
+        "title": "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide: Volume III: Sequences & NLP",
+        "authors": [
+          "Daniel Voigt Godoy"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Deep-Learning-PyTorch-Step-Step-ebook/dp/B09R144ZC2",
+        "title": "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide: Volume I: Fundamentals",
+        "authors": [
+          "Daniel Voigt Godoy"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Deep-Learning-PyTorch-Step-Step-ebook/dp/B09R152KC7",
+        "title": "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide: Volume II: Computer Vision",
+        "authors": [
+          "Daniel Voigt Godoy"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/PyTorch-Interview-Questions-Advanced-Learning-ebook/dp/B0C1LVF4M9",
+        "title": "PyTorch: 100 Interview Questions (Advanced Topics in Machine Learning Book 5)",
+        "authors": [
+          "X.Y. Wang"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/deep-learning-with-pytorch",
+        "title": "Deep Learning with PyTorch",
+        "authors": [],
+        "pages": 520,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/deep-learning-for/9781492045519/",
+        "title": "Deep Learning for Coders with fastai and PyTorch",
+        "authors": [
+          "Jeremy Howard",
+          "Sylvain Gugger"
+        ],
+        "pages": 350,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/natural-language-processing/9781491978221/",
+        "title": "Natural Language Processing with PyTorch",
+        "authors": [
+          "Delip Rao",
+          "Brian McMahan"
+        ],
+        "pages": 256,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/programming-pytorch-for/9781492045342/",
+        "title": "Programming PyTorch for Deep Learning",
+        "authors": [
+          "Ian Pointer"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/pytorch-pocket-reference/9781492089995/",
+        "title": "PyTorch Pocket Reference",
+        "authors": [
+          "Joe Papa"
+        ],
+        "pages": 265,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/deep-learning-computer-vision-for-beginners-using-pytorch-video/9781837634286",
+        "title": "Deep Learning - Computer Vision for Beginners Using PyTorch [Video]",
+        "authors": [
+          "Manifold AI Learning"
+        ],
+        "pages": 7,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/deep-learning-with-pytorch-lightning/9781800561618",
+        "title": "Deep Learning with PyTorch Lightning",
+        "authors": [
+          "Kunal Sawarkar"
+        ],
+        "pages": 366,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-generative-adversarial-networks-with-pytorch-1x/9781789530513",
+        "title": "Hands-On Generative Adversarial Networks with PyTorch 1.x",
+        "authors": [
+          "John Hany",
+          "Greg Walters"
+        ],
+        "pages": 312,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-pytorch/9781789614381",
+        "title": "Mastering PyTorch",
+        "authors": [
+          "Ashish Ranjan Jha"
+        ],
+        "pages": 450,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/modern-computer-vision-with-pytorch/9781839213472",
+        "title": "Modern Computer Vision with PyTorch",
+        "authors": [
+          "V Kishore Ayyadevara",
+          "Yeshwanth Reddy"
+        ],
+        "pages": 824,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/pytorch-1x-reinforcement-learning-cookbook/9781838551964",
+        "title": "PyTorch 1.x Reinforcement Learning Cookbook",
+        "authors": [
+          "Yuxi (Hayden) Liu"
+        ],
+        "pages": 340,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/pytorch-deep-learning-hands-on/9781788834131",
+        "title": "PyTorch Deep Learning Hands-On",
+        "authors": [
+          "Sherin Thomas",
+          "Sudhanshu Passi"
+        ],
+        "pages": 250,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/the-deep-learning-with-pytorch-workshop/9781838989217",
+        "title": "The Deep Learning with PyTorch Workshop",
+        "authors": [
+          "Hyatt Saleh"
+        ],
+        "pages": 330,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
+        "title": "Deep Neural Networks with PyTorch",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/deep-learning-with-pytorch--object-localization",
+        "title": "Deep Learning with PyTorch : Object Localization",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-build-an-autoencoder",
+        "title": "Deep Learning with PyTorch : Build an AutoEncoder",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network",
+        "title": "Deep Learning with PyTorch : Generative Adversarial Network",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation",
+        "title": "Deep Learning with PyTorch : Image Segmentation",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-neural-style-transfer",
+        "title": "Deep Learning with PyTorch : Neural Style Transfer",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/facial-expression-recognition-with-pytorch",
+        "title": "Facial Expression Recognition with PyTorch",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/projects/the-pytorch-basics-you-need-to-start-your-ml-projects",
+        "title": "The Pytorch basics you need to start your ML projects",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.datacamp.com/courses/deep-learning-with-pytorch",
+        "title": "Deep Learning with PyTorch",
+        "platform": "DataCamp",
+        "authors": [
+          "Ismail Elezi"
+        ],
+        "duration": 240,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/hands-on-pytorch-machine-learning",
+        "title": "Hands-On PyTorch Machine Learning",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Helen Sun"
+        ],
+        "duration": 56,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/natural-language-processing-with-pytorch",
+        "title": "Natural Language Processing with PyTorch",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Zhongyu Pan"
+        ],
+        "duration": 41,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/pytorch-essential-training-deep-learning",
+        "title": "PyTorch Essential Training: Deep Learning",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Jonathan Fernandes"
+        ],
+        "duration": 56,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/practical-deep-learning-with-pytorch/",
+        "title": "Practical Deep Learning with PyTorch",
+        "platform": "Udemy",
+        "authors": [
+          "Deep Learning Wizard"
+        ],
+        "duration": 386,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/pytorch-deep-learning/",
+        "title": "PyTorch: Deep Learning and Artificial Intelligence",
+        "platform": "Udemy",
+        "authors": [
+          "Lazy Programmer Team",
+          "Lazy Programmer Inc."
+        ],
+        "duration": 1463,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/pytorch-for-deep-learning-and-computer-vision/",
+        "title": "PyTorch for Deep Learning and Computer Vision",
+        "platform": "Udemy",
+        "authors": [
+          "Rayan Slim",
+          "Jad Slim",
+          "Amer Sharaf",
+          "Sarmad Tanveer"
+        ],
+        "duration": 854,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/",
+        "title": "PyTorch for Deep Learning with Python Bootcamp",
+        "platform": "Udemy",
+        "authors": [
+          "Jose Portilla"
+        ],
+        "duration": 1020,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/pytorch-for-deep-learning/",
+        "title": "PyTorch for Deep Learning in 2023: Zero to Mastery",
+        "platform": "Udemy",
+        "authors": [
+          "Andrei Neagoie",
+          "Daniel Bourke"
+        ],
+        "duration": 3134,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-pytorch/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://pytorch.org/resources/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://pytorch.org/get-started/locally/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.youtube.com/@PyTorch",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/GIsg-ZUy0MY",
+        "title": "PyTorch for Deep Learning - Full Course / Tutorial",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 582,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OIenNRt2bjg",
+        "title": "PyTorch Crash Course - Getting Started with Deep Learning",
+        "authors": [
+          "AssemblyAI"
+        ],
+        "duration": 50,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/ORMx45xqWkA",
+        "title": "PyTorch in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/V_xro1bcAuA",
+        "title": "PyTorch for Deep Learning & Machine Learning – Full Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 1538,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Z_ikDlimN6A",
+        "title": "Learn PyTorch for deep learning in a day. Literally.",
+        "authors": [
+          "Daniel Bourke"
+        ],
+        "duration": 1537,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/c36lUUr864M",
+        "title": "Deep Learning With PyTorch - Full Course",
+        "authors": [
+          "Patrick Loeber"
+        ],
+        "duration": 276,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/mozBidd58VQ",
+        "title": "Building a Neural Network with PyTorch in 15 Minutes | Coding Challenge",
+        "authors": [
+          "Nicholas Renotte"
+        ],
+        "duration": 21,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/r2JKV4_zlmM",
+        "title": "What is PyTorch ? | PyTorch in 8 Minutes | PyTorch Tutorial for Beginners | Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4",
+        "title": "PyTorch Tutorials - Complete Beginner Course",
+        "authors": [
+          "Patrick Loeber"
+        ],
+        "duration": 411,
+        "type": "video"
+      }
+    ]
   }
 }

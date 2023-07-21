@@ -110,6 +110,178 @@
           "Kushan Madhusanka"
         ],
         "type": "article"
+      },
+      {
+        "url": "https://2019.wattenberger.com/blog/react-hooks",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://adevnadia.medium.com/how-to-handle-errors-in-react-full-guide-bd02634ff523",
+        "title": "How to handle errors in React: full guide",
+        "authors": [
+          "Nadia Makarevich"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://asimzaidi.medium.com/senior-engineering-strategies-for-advanced-react-and-typescript-9d7aa8a07fd8",
+        "title": "Senior Engineering Strategies for Advanced React and TypeScript",
+        "authors": [
+          "Asim Zaidi"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/exciting-react-features-in-2023-a-look-into-the-future-of-web-development-440107a3129d",
+        "title": "Exciting React Features in 2023: A Look into the Future of Web Development",
+        "authors": [
+          "Ievgenii Spitsyn"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://betterprogramming.pub/react-like-lego-f48a2557fb6d",
+        "title": "React Like LEGO",
+        "authors": [
+          "Giuseppe Campagnolo"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://daveceddia.com/timeline-for-learning-react/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://daveceddia.com/visual-guide-to-state-in-react/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c",
+        "title": "Decoupling UI and Logic in React: A Clean Code Approach with Headless Components",
+        "authors": [
+          "Juntao Qiu"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/5-react-usestate-mistakes-that-will-get-you-fired-b342289debfe",
+        "title": "5 React useState Mistakes That Will Get You Fired",
+        "authors": [
+          "Pavel Pogosov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/its-2023-please-stop-using-for-conditional-rendering-in-react-b588a09ebb17",
+        "title": "It’s 2023, Please Stop Using “&&” for Conditional Rendering in React",
+        "authors": [
+          "fatfish"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://levelup.gitconnected.com/testing-select-components-with-react-testing-library-4bdb529ac8d7",
+        "title": "Testing Select Components with React Testing Library",
+        "authors": [
+          "Alex Khomenko"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@Luna-Rojas/10-expert-performance-tips-every-senior-js-react-developer-should-know-8c99f65272b7",
+        "title": "10 Expert Performance Tips Every Senior JS React Developer Should Know",
+        "authors": [
+          "Luna Rojas"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a",
+        "title": "You’re Missing the Point of React",
+        "authors": [
+          "Dan Abramov"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@emmanuelodii80/bye-bye-usestate-useeffect-revolutionizing-react-development-d91f95891adb",
+        "title": "Bye-bye useState & useEffect: Revolutionizing React Development!",
+        "authors": [
+          "Emmanuel Odii"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@rob.netzke/an-easy-way-to-keep-it-dry-in-react-de56cb9e68a1",
+        "title": "An Easy Way To Keep It DRY In React",
+        "authors": [
+          "Rob Netzke"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@shainaguzman0624/exploring-react-building-with-building-blocks-746af8fb4dfa",
+        "title": "Exploring React: Building with Building Blocks",
+        "authors": [
+          "Shaina Guzman"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/life-at-paperless/how-to-use-the-react-profiler-component-to-measure-performance-improvements-from-hooks-d43b7092d7a8",
+        "title": "How to Use the React Profiler Component to Measure Performance Improvements from Hooks",
+        "authors": [
+          "Adam Henson"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/react-in-the-real-world/the-real-difference-between-usememo-and-memo-in-react-743c4cd3113a",
+        "title": "The Real Difference Between useMemo and memo in React",
+        "authors": [
+          "Dr. Derek Austin 🥳"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://najm-eddine-zaga.medium.com/18-best-practices-for-react-617e23ed7f2c",
+        "title": "18 Best Practices for React",
+        "authors": [
+          "Najm Eddine Zaga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://rahul123agarwal99.medium.com/introduction-to-react-js-building-interactive-user-interfaces-647bd9ce1af3",
+        "title": "Introduction to React.js: Building Interactive User Interfaces",
+        "authors": [
+          "Rahul Agarwal"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://ui.dev/react-aha-moments",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://www.telerik.com/kendo-react-ui/react-hooks-guide/",
+        "title": "",
+        "authors": [],
+        "type": "article"
       }
     ],
     "books": [
@@ -165,6 +337,181 @@
           "Daniel Bugl"
         ],
         "pages": 426,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/React-js-Beginners-Mayur-Patil-ebook/dp/B0BRWJ2GSH",
+        "title": "React.js For Beginners",
+        "authors": [
+          "Mayur Patil"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/React-js-Interview-Questions-Answers-2023-ebook/dp/B0BSVCSF6R",
+        "title": "101 React.js Interview Questions and Answers (2023 Edition): A Comprehensive Guide to Building Dynamic User Interfaces",
+        "authors": [
+          "Manish Salunke"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/React-js-Design-Patterns-scalable-English/dp/935551364X",
+        "title": "React.js Design Patterns: Learn how to build scalable React apps with ease (English Edition)",
+        "authors": [
+          "Anthony Onyekachukwu Okonta"
+        ],
+        "pages": 179,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/React-JS-Fundamentals-Beginners-Development-ebook/dp/B0C65YN3XG",
+        "title": "React JS: Fundamentals for Beginners - Your First Steps into the World of Web Development Made Easy",
+        "authors": [
+          "Vivian Walker"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/React-Comprehensive-Effortless-Development-Intermediates-ebook/dp/B0C6N1W7L8",
+        "title": "React JS: From Basics to Advanced - A Comprehensive 3-in-1 Guide to Effortless Web Development for Beginners, Intermediates, and Experts",
+        "authors": [
+          "Vivian Walker"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/react-up/9781492051459/",
+        "title": "React: Up & Running, 2nd Edition",
+        "authors": [
+          "Stoyan Stefanov"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/react-cookbook/9781492085836/",
+        "title": "React Cookbook",
+        "authors": [
+          "David Griffiths",
+          "Dawn Griffiths"
+        ],
+        "pages": 500,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-react-2nd/9781492051718/",
+        "title": "Learning React, 2nd Edition",
+        "authors": [
+          "Alex Banks",
+          "Eve Porcello"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/fluent-react/9781098138707/",
+        "title": "Fluent React",
+        "authors": [
+          "Tejas Kumar"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-web-development-with-graphql-and-react-second-edition/9781801077880",
+        "title": "Full-Stack Web Development with GraphQL and React - Second Edition",
+        "authors": [
+          "Sebastian Grebe"
+        ],
+        "pages": 472,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-react-typescript-and-node/9781839219931",
+        "title": "Full-Stack React, TypeScript, and Node",
+        "authors": [
+          "David Choi"
+        ],
+        "pages": 648,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-development-with-spring-boot-and-react-third-edition/9781801816786",
+        "title": "Full Stack Development with Spring Boot and React - Third Edition",
+        "authors": [
+          "Juha Hinkula"
+        ],
+        "pages": 378,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-projects-second-edition/9781801070638",
+        "title": "React Projects - Second Edition",
+        "authors": [
+          "Roy Derks"
+        ],
+        "pages": 384,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-and-react-native-fourth-edition/9781803231280",
+        "title": "React and React Native - Fourth Edition",
+        "authors": [
+          "Adam Boduch",
+          "Roy Derks",
+          "Mikhail Sakhniuk"
+        ],
+        "pages": 606,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-application-architecture-for-production/9781801070539",
+        "title": "React Application Architecture for Production",
+        "authors": [
+          "Alan Alickovic"
+        ],
+        "pages": 230,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/state-management-with-react-query/9781803231341",
+        "title": "State Management with React Query",
+        "authors": [
+          "Daniel Afonso"
+        ],
+        "pages": 228,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/react-18-design-patterns-and-best-practices-fourth-edition/9781803233109",
+        "title": "React 18 Design Patterns and Best Practices - Fourth Edition",
+        "authors": [
+          "Carlos Santana Roldán"
+        ],
+        "pages": 9781803233109,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learn-react-with-typescript-second-edition/9781804614204",
+        "title": "Learn React with TypeScript - Second Edition",
+        "authors": [
+          "Carl Rippon"
+        ],
+        "pages": 474,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/react-in-action",
+        "title": "React in Action",
+        "authors": [
+          "Mark Thomas"
+        ],
+        "pages": 360,
         "type": "book"
       }
     ],
@@ -278,6 +625,253 @@
         ],
         "duration": 271,
         "type": "course"
+      },
+      {
+        "url": "https://fireship.io/courses/react/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/learnreact",
+        "title": "Learn React",
+        "platform": "Scrimba",
+        "authors": [
+          "Bob Ziroll"
+        ],
+        "duration": 790,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-advanced-react",
+        "title": "Learn Advanced React",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-react-hooks",
+        "title": "Learn React: Hooks",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 120,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-react-introduction",
+        "title": "Learn React: Introduction",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 480,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-react-lifecycle-methods",
+        "title": "Learn React: Lifecycle Methods",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 60,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-react-testing",
+        "title": "Learn React Testing",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/react-101",
+        "title": "Learn React",
+        "platform": "Codecademy",
+        "authors": [
+          "Jiwon Shin"
+        ],
+        "duration": 900,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/building-modern-projects-with-react",
+        "title": "Building Modern Projects with React",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Shaun Wassell"
+        ],
+        "duration": 221,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/hands-on-introduction-react",
+        "title": "Hands-On Introduction: React",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ray Villalobos"
+        ],
+        "duration": 163,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-design-patterns",
+        "title": "React: Design Patterns",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Shaun Wassell"
+        ],
+        "duration": 199,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-js-essential-training-14836121",
+        "title": "React.js Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Eve Porcello"
+        ],
+        "duration": 121,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-testing-and-debugging",
+        "title": "React: Testing and Debugging",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emmanuel Henri"
+        ],
+        "duration": 78,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-using-typescript",
+        "title": "React: Using TypeScript",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emmanuel Henri"
+        ],
+        "duration": 52,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/react-working-with-apis-22613064",
+        "title": "React: Working with APIs",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Emmanuel Henri"
+        ],
+        "duration": 58,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udacity.com/course/react-nanodegree--nd019",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-react-developer-zero-to-mastery/",
+        "title": "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)",
+        "platform": "Udemy",
+        "authors": [
+          "Andrei Neagoie",
+          "Yihua Zhang"
+        ],
+        "duration": 2535,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/graphql-with-react-course/",
+        "title": "GraphQL with React Course: The Complete Developers Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 796,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/microfrontend-course/",
+        "title": "Microfrontends with React: A Complete Developer's Guide",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 547,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-react-bootcamp/",
+        "title": "The Modern React Bootcamp (Hooks, Context, NextJS, Router)",
+        "platform": "Udemy",
+        "authors": [
+          "Colt Steele"
+        ],
+        "duration": 2328,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/modern-react-front-to-back/",
+        "title": "React Front To Back | Learn Hooks, Context API, MERN, and Redux",
+        "platform": "Udemy",
+        "authors": [
+          "Brad Traversy"
+        ],
+        "duration": 837,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/node-with-react-fullstack-web-development/",
+        "title": "Node with React: Fullstack Web Development",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 1553,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-2nd-edition/",
+        "title": "The Complete React Developer Course (w/ Hooks and Redux)",
+        "platform": "Udemy",
+        "authors": [
+          "Andrew Mead"
+        ],
+        "duration": 2351,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-basic-in-just-1-hour/",
+        "title": "React basic in just 1 hour [2022]",
+        "platform": "Udemy",
+        "authors": [
+          "Leo Trieu"
+        ],
+        "duration": 64,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/react-redux-tutorial/",
+        "title": "Advanced React and Redux Tutorial: 2019 Edition",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 1256,
+        "type": "course"
       }
     ],
     "misc": [
@@ -289,6 +883,31 @@
       {
         "url": "https://legacy.reactjs.org/",
         "title": "Legacy React Documentation",
+        "type": "misc"
+      },
+      {
+        "url": "https://epicreact.dev/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://reactresources.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.joyofreact.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://reactjsexample.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://madewithreact.com/",
+        "title": "",
         "type": "misc"
       }
     ],
@@ -372,6 +991,114 @@
           "Academind"
         ],
         "duration": 232,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/1LkOa7Ky2ak",
+        "title": "Why React.js is taking a new direction",
+        "authors": [
+          "Academind"
+        ],
+        "duration": 6,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/2OTq15A5s0Y",
+        "title": "7 better ways to create a React app",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/9mTgKFjJRXg",
+        "title": "React Hooks Crash Course (useMemo, useCallback and more).",
+        "authors": [
+          "developedbyed"
+        ],
+        "duration": 32,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/F627pKNUCVQ",
+        "title": "Build and Deploy 4 Modern React Apps and Get Hired as a Frontend Developer | Full 10-Hour Course",
+        "authors": [
+          "JavaScript Mastery"
+        ],
+        "duration": 585,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Ke90Tje7VS0",
+        "title": "React JS - React Tutorial for Beginners",
+        "authors": [
+          "Programming with Mosh"
+        ],
+        "duration": 146,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/RVFAyFWO4go",
+        "title": "React JS Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+        "authors": [
+          "Dave Gray"
+        ],
+        "duration": 530,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/fq7k_gVV5x8",
+        "title": "React Admin Dashboard Tutorial | Responsive React Admin Panel UI Design Course",
+        "authors": [
+          "Lama Dev"
+        ],
+        "duration": 162,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/u6gSSpfsoOQ",
+        "title": "React JavaScript Framework for Beginners – Project-Based Course",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 507,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d",
+        "title": "Full Modern React Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 194,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3",
+        "title": "ReactJS Tutorial for Beginners",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 762,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLSsAz5wf2lkK_ekd0J__44KG6QoXetZza",
+        "title": "React JS Tutorial For Beginners 2023",
+        "authors": [
+          "Code Stoic"
+        ],
+        "duration": 326,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR",
+        "title": "ReactJS Course For Beginners 2023",
+        "authors": [
+          "PedroTech"
+        ],
+        "duration": 518,
         "type": "video"
       }
     ]
