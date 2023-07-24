@@ -1,14 +1,646 @@
 {
   "title": "Vue.js",
-  "description": "",
+  "description": "Vue.js, launched in 2014 by Evan You, a former Google engineer, is a progressive JavaScript framework. Its primary application lies in building user interfaces and single-page applications. Its distinct design philosophy highlights the principles of adaptability and simplicity. This progressive framework can be integrated into projects as required, enabling developers to incrementally adopt its features as needed. This incremental approach drastically reduces the learning curve and speeds up development time, a key advantage in today's fast-paced development environments.\nThe core library of Vue.js focuses solely on the view layer, making it highly compatible and easy to integrate with other libraries or existing projects. In addition, its lightweight nature and flexibility provide an advantage in situations where a full-featured framework might be excessive. Vue.js is often the perfect fit for projects that require a lightweight, easy-to-use solution for crafting high-quality user interfaces.\nHowever, Vue.js is not just a lightweight solution. When combined with modern tooling and supporting libraries, Vue.js becomes a powerful tool for developing advanced Single-Page Applications. It offers an impressive range of features, including two-way data binding, Vue Router for routing, Vuex for state management, and Vue CLI for project scaffolding. These tools make it a versatile, full-featured framework.\nVue.js's reactive system is built on a simple and flexible API that allows efficient updating and rendering of components based on changes to their state. This reactive system makes it straightforward to create dynamic interfaces that respond to user interactions and changes in application state.\nThe Vue.js community and ecosystem are continually growing and vibrant. The framework is recognized for its detailed and beginner-friendly documentation, making it accessible to new programmers. At the same time, its advanced features and flexibility have won the respect of experienced developers. With its incremental adaptability, strong focus on the view layer, and powerful features for building Single-Page Applications, Vue.js is a popular choice among modern web developers worldwide.",
   "dependencies": [
     "language/javascript"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://blog.bitsrc.io/building-vue-js-micro-frontends-5d572d236d4",
+        "title": "Building Vue.js Micro Frontends",
+        "authors": [
+          "Lakindu Hewawasam"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://fadamakis.com/advanced-data-fetching-with-vue-query-3a06ede0af27",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://javascript.plainenglish.io/how-to-make-vue-js-3000-times-faster-826ee04a2491",
+        "title": "How to make Vue.js 3000 times faster",
+        "authors": [
+          "Abdelmalek Merouan"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/best-vscode-extensions",
+        "title": "The Best VS Code Extensions For Vue Developers",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/template-refs",
+        "title": "The Beginners Guide to Template Refs",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/v-model-guide",
+        "title": "What you should know about Vue v-model",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/v-once-v-memo",
+        "title": "Improve Vue Performance with v-once + v-memo",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/vue-emit-guide",
+        "title": "A Guide to Vue $emit - How to Emit Custom Events in Vue",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/vue-firebase-authentication",
+        "title": "A Vue Firebase Authentication Tutorial - Vue 3 and Firebase",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/vue-lifecycle-hooks-guide",
+        "title": "A Complete Guide to Vue Lifecycle Hooks - with Vue 3 Updates",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://learnvue.co/articles/vueuse-utilities",
+        "title": "5 VueUse Library Functions That Can Speed Up Development",
+        "authors": [
+          "Matt Maribojoc"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@damianpumar/reuse-vue-component-in-a-directive-134feeda37bd",
+        "title": "Reuse vue component in a directive",
+        "authors": [
+          "Damián Pumar"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@lindblomdev/why-im-sticking-with-vue-in-2023-d67bce7bc2f4",
+        "title": "Why I’m sticking with Vue in 2023",
+        "authors": [
+          "LindblomDEV"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@livajorge7/seamless-vue-to-react-migration-best-practices-and-cronjs-expert-insights-12bdbeaf86c6",
+        "title": "Seamless Vue to React Migration: Best Practices and CronJ’s Expert Insights",
+        "authors": [
+          "liva jorge"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@moein.mirkiani/solid-principles-in-vue-29ecc988f968",
+        "title": "SOLID Principles in Vue",
+        "authors": [
+          "Moein Mirkiani"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/heybooster/safeguarding-redirects-in-vue-js-applications-preventing-open-redirect-attacks-e943c9817f02",
+        "title": "Safeguarding Redirects in Vue.js Applications: Preventing Open Redirect Attacks",
+        "authors": [
+          "Mustafa Dalga"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/javarevisited/is-frontend-masters-a-good-place-to-learn-javascript-react-and-vue-js-196b9bf94cc4",
+        "title": "Is Frontend Masters a Good Place To Learn JavaScript, React, And Vue.js ?",
+        "authors": [
+          "javinpaul"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://nickychristensen.medium.com/the-developers-guide-to-emits-in-vue3-eb054db31938",
+        "title": "The developers guide to emits in Vue3",
+        "authors": [
+          "Nicky Christensen"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://vuestorefront.io/blog/good-performance-with-vue-js",
+        "title": "",
+        "authors": [],
+        "type": "article"
+      },
+      {
+        "url": "https://zipy-ai.medium.com/reactjs-vs-vuejs-which-one-should-you-choose-in-2023-20307c6a0dc7",
+        "title": "ReactJs vs VueJs: Which One Should You Choose in 2023",
+        "authors": [
+          "Zipy"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://leanpub.com/testingvuejscomponentswithjest",
+        "title": "Testing Vue.js components with Jest",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://leanpub.com/vue-vite-typescript/c/jd2zz0brBNd9?ref=madewithvuejs.com",
+        "title": "Large Scale Apps with Vue, Vite and TypeScript",
+        "authors": [],
+        "pages": 263,
+        "type": "book"
+      },
+      {
+        "url": "https://leanpub.com/vuejs2",
+        "title": "The Majesty of Vue.js 2",
+        "authors": [
+          "Alex Kyriakidis",
+          "Evan You"
+        ],
+        "pages": 297,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com.au/Beginning-Vue-Development-Vue-js-development/dp/B0BM3PQD36",
+        "title": "Beginning Vue 3 Development: Learn Vue.js 3 web development",
+        "authors": [
+          "Greg Lim"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com.au/Fullstack-Vue-Complete-Guide-Vue-js-ebook/dp/B07Y5N8KVQ",
+        "title": "Fullstack Vue: The Complete Guide to Vue.js",
+        "authors": [
+          "Hassan Djirdeh",
+          "Nate Murray",
+          "Ari Lerner"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Building-Forms-Vue-js-Patterns-building-ebook/dp/B07YY7MGDD",
+        "title": "Building Forms with Vue.js: Patterns for building and scaling complex forms with great UX",
+        "authors": [
+          "Marina Mosti",
+          "Chris Fritz"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/testing-vue-js-applications",
+        "title": "Testing Vue.js Applications",
+        "authors": [
+          "Edd Yerburgh"
+        ],
+        "pages": 272,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/vue-js-in-action",
+        "title": "Vue.js in Action",
+        "authors": [
+          "Erik Hanchett",
+          "Benjamin Listwon"
+        ],
+        "pages": 304,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-vue/9781492098812/",
+        "title": "Learning Vue",
+        "authors": [
+          "Maya Shavin"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/vuejs-up-and/9781491997239/",
+        "title": "Vue.js: Up and Running",
+        "authors": [
+          "Callum Macrae"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/front-end-development-projects-with-vuejs/9781838984823",
+        "title": "Front-End Development Projects with Vue.js",
+        "authors": [
+          "Raymond Camden",
+          "Hugo Di Francesco",
+          "Clifford Gurney\nand 2 more"
+        ],
+        "pages": 774,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/full-stack-vuejs-2-and-laravel-5/9781788299589",
+        "title": "Full-Stack Vue.js 2 and Laravel 5",
+        "authors": [
+          "Anthony Gore"
+        ],
+        "pages": 376,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/vuejs-2-web-development-projects/9781787127463",
+        "title": "Vue.js 2 Web Development Projects",
+        "authors": [
+          "CHAU GUILLAUME"
+        ],
+        "pages": 398,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/vuejs-2x-by-example/9781788293464",
+        "title": "Vue.js 2.x by Example",
+        "authors": [
+          "Mike Street"
+        ],
+        "pages": 412,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://fireship.io/courses/vue/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/production-vue/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/vue-fundamentals/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://frontendmasters.com/courses/vue-typescript/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://scrimba.com/learn/vue",
+        "title": "The Vue Bootcamp",
+        "platform": "Scrimba",
+        "authors": [
+          "Leanne from Scrimba"
+        ],
+        "duration": 528,
+        "type": "course"
+      },
+      {
+        "url": "https://www.codecademy.com/learn/learn-vue-js",
+        "title": "Learn Vue.js",
+        "platform": "Codecademy",
+        "authors": [],
+        "duration": 180,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/learning-vue-js-8602681",
+        "title": "Learning Vue.js",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Michael Sullivan"
+        ],
+        "duration": 101,
+        "type": "course"
+      },
+      {
+        "url": "https://www.linkedin.com/learning/vue-js-3-essential-training",
+        "title": "Vue.js 3 Essential Training",
+        "platform": "LinkedIn Learning",
+        "authors": [
+          "Ray Villalobos"
+        ],
+        "duration": 308,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/vue-3-big-picture",
+        "title": "Vue 3: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Daniel Stern"
+        ],
+        "duration": 52,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/vue-3-fundamentals",
+        "title": "Vue 3 Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jim Cooper"
+        ],
+        "duration": 338,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/vuejs-fundamentals",
+        "title": "Vue.js 3 Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Jim Cooper"
+        ],
+        "duration": 340,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/angular-reactjs-vuejs-quickstart-comparison/",
+        "title": "React JS, Angular & Vue JS - Quickstart & Comparison",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller",
+          "Academind by Maximilian Schwarzmüller"
+        ],
+        "duration": 472,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/",
+        "title": "Nuxt.js - Vue.js for Server-Side Rendering and Folder Based Config",
+        "platform": "Udemy",
+        "authors": [
+          "Academind by Maximilian Schwarzmüller",
+          "Maximilian Schwarzmüller"
+        ],
+        "duration": 403,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/vue-js-3-composition-api/",
+        "title": "Vue JS 3: Composition API (with Pinia, Firebase 9 & Vite)",
+        "platform": "Udemy",
+        "authors": [
+          "Danny Connell"
+        ],
+        "duration": 554,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/vue-js-course/",
+        "title": "Vue JS Essentials with Vuex and Vue Router",
+        "platform": "Udemy",
+        "authors": [
+          "Stephen Grider"
+        ],
+        "duration": 623,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://zerotomastery.io/courses/learn-vue-js/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://books.ninja-squad.com/vue",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://discord.com/invite/HBherRA",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://learnvue.co/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://play.vuejs.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://theroadtoenterprise.com/books/vue-the-road-to-enterprise",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vue-community.org/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vue-view.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vuejs.org/guide/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vuejsdevelopers.com/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vueschool.io/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://vuestorefront.io/",
+        "title": "",
+        "type": "misc"
+      },
+      {
+        "url": "https://www.vuemastery.com/",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/0JJPfz5dg20",
+        "title": "Vue.js 3 Deep Dive with Evan You",
+        "authors": [
+          "Vue Mastery"
+        ],
+        "duration": 14,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/53kB0GKAd2k",
+        "title": "What is Vue.js? | Vue.js Explained in 2 Minutes For BEGINNERS.",
+        "authors": [
+          "Zero To Mastery"
+        ],
+        "duration": 2,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/FXpIoQ_rT_c",
+        "title": "Vue.js Course for Beginners [2021 Tutorial]",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
+        "duration": 220,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KTFH4P8unUQ",
+        "title": "Vue 3 Crash Course | Project From Scratch",
+        "authors": [
+          "John Komarnicki"
+        ],
+        "duration": 119,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/OrxmtDw4pVI",
+        "title": "Vue.js: The Documentary",
+        "authors": [
+          "Honeypot"
+        ],
+        "duration": 35,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/bzlFvd0b65c",
+        "title": "The best way to learn Vue.js in 2023 - CRASH COURSE",
+        "authors": [
+          "Vue Mastery"
+        ],
+        "duration": 58,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/nhBVL41-_Cw",
+        "title": "Vue.js Explained in 100 Seconds",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 3,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/qZXt1Aom3Cs",
+        "title": "Vue JS Crash Course",
+        "authors": [
+          "Traversy Media"
+        ],
+        "duration": 111,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/y-hN5Q_lb9A",
+        "title": "Evan You's State of the Vuenion 📣 VueConf US 2023",
+        "authors": [
+          "Vue Mastery"
+        ],
+        "duration": 35,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1",
+        "title": "Vue.js 3 Tutorial",
+        "authors": [
+          "The Net Ninja"
+        ],
+        "duration": 407,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PL8p2I9GklV44m5tFH-zjCmTiHeq9GZrby",
+        "title": "Vue js project from scratch",
+        "authors": [
+          "Code Step By Step"
+        ],
+        "duration": 164,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f",
+        "title": "Vue JS 3 Tutorial for Beginners",
+        "authors": [
+          "Codevolution"
+        ],
+        "duration": 461,
+        "type": "video"
+      }
+    ]
   }
 }
