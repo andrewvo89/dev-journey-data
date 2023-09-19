@@ -40,8 +40,10 @@
       },
       {
         "url": "https://www.colorglare.com/svelte-components-as-web-components-b400d1253504",
-        "title": "",
-        "authors": [],
+        "title": "Svelte components as web components",
+        "authors": [
+          "Colorglare"
+        ],
         "type": "article"
       },
       {
@@ -62,8 +64,10 @@
       },
       {
         "url": "https://learn.habilelabs.io/sveltekit-a-new-svelte-framework-to-supersede-sapperjs-246e3eaa9fd7",
-        "title": "",
-        "authors": [],
+        "title": "SvelteKit: A new Svelte framework to supersede Sapper.js",
+        "authors": [
+          "Habilelabs"
+        ],
         "type": "article"
       },
       {

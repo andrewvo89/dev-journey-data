@@ -8,56 +8,74 @@
     "articles": [
       {
         "url": "https://techbeacon.com/app-dev-testing/practical-guide-graphql-future-apis",
-        "title": "",
-        "authors": [],
+        "title": "A practical guide to GraphQL: The future of APIs",
+        "authors": [
+          "Erik Dietrich"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.apollographql.com/blog/graphql/basics/demystifying-graphql-misconceptions-top-five-graphql-myths-debunked/",
-        "title": "",
-        "authors": [],
+        "title": "Demystifying GraphQL misconceptions: Top five GraphQL myths debunked",
+        "authors": [
+          "Khalil Stemmler"
+        ],
         "type": "article"
       },
       {
         "url": "https://codersociety.com/blog/articles/introduction-graphql",
-        "title": "",
-        "authors": [],
+        "title": "Introduction to GraphQL",
+        "authors": [
+          "Daniel Schmitz"
+        ],
         "type": "article"
       },
       {
         "url": "https://nordicapis.com/10-awesome-tools-and-extensions-for-graphql-apis/",
-        "title": "",
-        "authors": [],
+        "title": "10 Awesome Tools and Extensions for GraphQL APIs",
+        "authors": [
+          "Bill Doerrfeld"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.altexsoft.com/blog/engineering/graphql-core-features-architecture-pros-and-cons/",
-        "title": "",
-        "authors": [],
+        "title": "GraphQL: Core Features, Architecture, Pros, and Cons",
+        "authors": [
+          "AltexSoft"
+        ],
         "type": "article"
       },
       {
         "url": "https://blog.logrocket.com/graphql-vs-rest-api-why-you-shouldnt-use-graphql/",
-        "title": "",
-        "authors": [],
+        "title": "GraphQL vs. REST API: Why you shouldn’t use GraphQL",
+        "authors": [
+          "Lucas Chen"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.digitalocean.com/community/tutorials/an-introduction-to-graphql",
-        "title": "",
-        "authors": [],
+        "title": "An Introduction to GraphQL",
+        "authors": [
+          "Tania Rascia"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.toptal.com/api-development/graphql-vs-rest-tutorial",
-        "title": "",
-        "authors": [],
+        "title": "GraphQL vs REST Tutorial: An Example Using JavaScript",
+        "authors": [
+          "Toptal Developers"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.apollographql.com/blog/graphql/basics/graphql-vs-rest/",
-        "title": "",
-        "authors": [],
+        "title": "GraphQL vs REST: What You Need to Know",
+        "authors": [
+          "Tyler Martinez"
+        ],
         "type": "article"
       },
       {
@@ -86,14 +104,18 @@
       },
       {
         "url": "https://www.apollographql.com/blog/graphql/examples/building-a-graphql-server/",
-        "title": "",
-        "authors": [],
+        "title": "Building a GraphQL server with JavaScript",
+        "authors": [
+          "Tyler Martinez"
+        ],
         "type": "article"
       },
       {
         "url": "https://netflixtechblog.com/our-learnings-from-adopting-graphql-f099de39ae5f",
-        "title": "",
-        "authors": [],
+        "title": "Our learnings from adopting GraphQL",
+        "authors": [
+          "Netflix Technology Blog"
+        ],
         "type": "article"
       },
       {

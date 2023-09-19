@@ -72,20 +72,27 @@
       },
       {
         "url": "https://dart.dev/articles/libraries/creating-streams",
-        "title": "",
-        "authors": [],
+        "title": "Creating Streams in Dart",
+        "authors": [
+          "Dart"
+        ],
         "type": "article"
       },
       {
         "url": "https://dart.dev/guides/libraries/library-tour#dartio?utm_source=devglan",
-        "title": "",
-        "authors": [],
+        "title": "Library tour | Dart",
+        "authors": [
+          "Dart"
+        ],
         "type": "article"
       },
       {
         "url": "https://flutterigniter.com/ultimate-javascript-dart-syntax-guide/?utm_source=devglan",
-        "title": "",
-        "authors": [],
+        "title": "The Ultimate JavaScript vs Dart Syntax Guide",
+        "authors": [
+          "Federico Muzzo",
+          "Emanuele Del Sozzo"
+        ],
         "type": "article"
       },
       {
@@ -106,8 +113,10 @@
       },
       {
         "url": "https://www.toptal.com/dart/dartlang-guide-for-csharp-java-devs",
-        "title": "",
-        "authors": [],
+        "title": "Dart for C# and Java Developers: A Comprehensive Tutorial",
+        "authors": [
+          "Bojan Kverh"
+        ],
         "type": "article"
       },
       {

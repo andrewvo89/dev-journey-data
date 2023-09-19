@@ -24,14 +24,18 @@
       },
       {
         "url": "https://blog.paperspace.com/why-use-pytorch-deep-learning-framework/",
-        "title": "",
-        "authors": [],
+        "title": "Why Use PyTorch? A Complete Guide to the Deep Learning Framework",
+        "authors": [
+          "Paperspace Team"
+        ],
         "type": "article"
       },
       {
         "url": "https://builtin.com/data-science/pytorch-vs-tensorflow",
-        "title": "",
-        "authors": [],
+        "title": "PyTorch vs. TensorFlow: Which Framework Is Right for You?",
+        "authors": [
+          "Built In"
+        ],
         "type": "article"
       },
       {
@@ -148,14 +152,18 @@
       },
       {
         "url": "https://www.dataquest.io/blog/pytorch-for-beginners/",
-        "title": "",
-        "authors": [],
+        "title": "PyTorch for Beginners: A Quick Overview",
+        "authors": [
+          "Dataquest"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.simplilearn.com/what-is-pytorch-article",
-        "title": "",
-        "authors": [],
+        "title": "What is PyTorch? | PyTorch Basics, Features and Applications",
+        "authors": [
+          "Simplilearn"
+        ],
         "type": "article"
       }
     ],

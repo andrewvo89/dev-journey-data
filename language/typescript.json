@@ -184,80 +184,106 @@
       },
       {
         "url": "https://www.totaltypescript.com/an-unknown-cant-always-fix-an-any",
-        "title": "",
-        "authors": [],
+        "title": "An unknown Can't Always Fix an any",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/clarifying-the-satisfies-operator",
-        "title": "",
-        "authors": [],
+        "title": "Clarifying the Satisfies Operator",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/const-type-parameters",
-        "title": "",
-        "authors": [],
+        "title": "Const Type Parameters",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/discriminated-unions-are-a-devs-best-friend",
-        "title": "",
-        "authors": [],
+        "title": "Discriminated Unions Are a Dev's Best Friend",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/four-essential-typescript-patterns",
-        "title": "",
-        "authors": [],
+        "title": "Four Essential TypeScript Patterns",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/function-types-are-weird-in-typescript",
-        "title": "",
-        "authors": [],
+        "title": "Function Types Are Weird in TypeScript",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/get-keys-of-an-object-where-values-are-of-a-given-type",
-        "title": "",
-        "authors": [],
+        "title": "Get Keys of an Object Where Values Are of a Given Type",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/how-to-properly-type-window",
-        "title": "",
-        "authors": [],
+        "title": "How to Properly Type window",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/how-to-test-your-types",
-        "title": "",
-        "authors": [],
+        "title": "How to Test Your Types",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/testing-with-typescript-is-painful-heres-a-solution",
-        "title": "",
-        "authors": [],
+        "title": "Testing with TypeScript is Painful. Here's a Solution.",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/the-empty-object-type-in-typescript",
-        "title": "",
-        "authors": [],
+        "title": "The Empty Object Type in TypeScript",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/uses-for-exclude-type-helper",
-        "title": "",
-        "authors": [],
+        "title": "9 Ways to Use Exclude in TypeScript",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.totaltypescript.com/where-to-put-your-types-in-application-code",
-        "title": "",
-        "authors": [],
+        "title": "Where To Put Your Types in Application Code",
+        "authors": [
+          "Matt Pocock"
+        ],
         "type": "article"
       }
     ],
@@ -701,15 +727,15 @@
         "type": "course"
       },
       {
+        "url": "https://www.pluralsight.com/courses/typescript-fundamentals",
+        "title": "TypeScript Fundamentals",
+        "platform": "Pluralsight",
         "authors": [
           "Dan Wahlin",
           "John Papa"
         ],
-        "title": "TypeScript Fundamentals",
-        "type": "course",
-        "url": "https://www.pluralsight.com/courses/typescript-fundamentals",
         "duration": 191,
-        "platform": "Pluralsight"
+        "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/complete-typescript-2-course/",

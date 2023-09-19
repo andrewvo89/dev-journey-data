@@ -80,8 +80,10 @@
       },
       {
         "url": "https://learnpython.com/blog/python-numpy-basics/",
-        "title": "",
-        "authors": [],
+        "title": "Python Numpy Basics - LearnPython.com",
+        "authors": [
+          "LearnPython.com Team"
+        ],
         "type": "article"
       },
       {
@@ -102,8 +104,10 @@
       },
       {
         "url": "https://medium.technofunnel.net/numpy-in-python-for-machine-learning-4040109aeaee",
-        "title": "",
-        "authors": [],
+        "title": "Numpy in Python for Machine Learning",
+        "authors": [
+          "TechnoFunnel"
+        ],
         "type": "article"
       },
       {
@@ -148,14 +152,18 @@
       },
       {
         "url": "https://www.freecodecamp.org/news/the-ultimate-guide-to-the-numpy-scientific-computing-library-for-python/",
-        "title": "",
-        "authors": [],
+        "title": "The Ultimate Guide to the NumPy Scientific Computing Library for Python",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.linkedin.com/pulse/numpy-data-science-jagdish-chavan",
-        "title": "",
-        "authors": [],
+        "title": "Numpy for Data Science",
+        "authors": [
+          "Jagdish Chavan"
+        ],
         "type": "article"
       }
     ],

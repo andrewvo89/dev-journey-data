@@ -16,8 +16,10 @@
       },
       {
         "url": "https://fadamakis.com/advanced-data-fetching-with-vue-query-3a06ede0af27",
-        "title": "",
-        "authors": [],
+        "title": "Advanced Data Fetching with Vue Query",
+        "authors": [
+          "Fotis Adamakis"
+        ],
         "type": "article"
       },
       {
@@ -150,8 +152,10 @@
       },
       {
         "url": "https://vuestorefront.io/blog/good-performance-with-vue-js",
-        "title": "",
-        "authors": [],
+        "title": "Good performance with Vue.js",
+        "authors": [
+          "Filip Rakowski"
+        ],
         "type": "article"
       },
       {

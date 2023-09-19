@@ -104,8 +104,10 @@
       },
       {
         "url": "https://naturaily.com/blog/why-svelte-is-next-big-thing-javascript-development",
-        "title": "",
-        "authors": [],
+        "title": "Why Svelte is the Next Big Thing in JavaScript Development",
+        "authors": [
+          "Beata Twardowska"
+        ],
         "type": "article"
       }
     ],

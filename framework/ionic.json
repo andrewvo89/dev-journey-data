@@ -41,8 +41,10 @@
       },
       {
         "url": "https://blog.openreplay.com/bulding-a-mobile-app-with-react-and-ionic/",
-        "title": "",
-        "authors": [],
+        "title": "Building a Mobile App with React and Ionic",
+        "authors": [
+          "Asayer"
+        ],
         "type": "article"
       },
       {
@@ -55,8 +57,10 @@
       },
       {
         "url": "https://www.freecodecamp.org/news/how-to-build-your-first-ionic-4-app-with-api-calls-f6ea747dc17a/",
-        "title": "",
-        "authors": [],
+        "title": "How to Build Your First Ionic 4 App with API Calls",
+        "authors": [
+          "Simon Grimm"
+        ],
         "type": "article"
       }
     ],

@@ -112,14 +112,18 @@
       },
       {
         "url": "https://www.edureka.co/blog/python-pandas-tutorial/",
-        "title": "",
-        "authors": [],
+        "title": "Python Pandas Tutorial: A Complete Introduction for Beginners",
+        "authors": [
+          "Edureka"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.freecodecamp.org/news/difference-between-python-and-pandas/",
-        "title": "",
-        "authors": [],
+        "title": "The Key Differences Between Python and Pandas",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
         "type": "article"
       },
       {
@@ -132,8 +136,10 @@
       },
       {
         "url": "https://www.mygreatlearning.com/blog/python-pandas-tutorial/",
-        "title": "",
-        "authors": [],
+        "title": "Python Pandas Tutorial: Learn Data Analysis using Pandas",
+        "authors": [
+          "Great Learning"
+        ],
         "type": "article"
       }
     ],

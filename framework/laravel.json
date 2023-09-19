@@ -72,14 +72,18 @@
       },
       {
         "url": "https://www.freecodecamp.org/news/how-to-build-a-full-stack-single-page-application-with-laravel-mysql-vue-and-docker/",
-        "title": "",
-        "authors": [],
+        "title": "How to Build a Full Stack Single Page Application with Laravel, MySQL, Vue, and Docker",
+        "authors": [
+          "Tilo Mitra"
+        ],
         "type": "article"
       },
       {
         "url": "https://buttercms.com/blog/laravel-blog-tutorial/",
-        "title": "",
-        "authors": [],
+        "title": "Laravel Blog Tutorial",
+        "authors": [
+          "ButterCMS"
+        ],
         "type": "article"
       }
     ],

@@ -64,8 +64,10 @@
       },
       {
         "url": "https://blog.cloudboost.io/adding-swagger-to-existing-node-js-project-92a6624b855b",
-        "title": "",
-        "authors": [],
+        "title": "Adding Swagger to existing Node.js project",
+        "authors": [
+          "Rahul Wagh"
+        ],
         "type": "article"
       },
       {

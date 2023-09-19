@@ -48,8 +48,10 @@
       },
       {
         "url": "https://learnsql.com/blog/25-advanced-sql-query-examples/",
-        "title": "",
-        "authors": [],
+        "title": "25 Advanced SQL Query Examples",
+        "authors": [
+          "LearnSQL.com Team"
+        ],
         "type": "article"
       },
       {
@@ -158,14 +160,18 @@
       },
       {
         "url": "https://www.edureka.co/blog/interview-questions/sql-interview-questions",
-        "title": "",
-        "authors": [],
+        "title": "Top 65 SQL Interview Questions & Answers [2023]",
+        "authors": [
+          "Edureka"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.freecodecamp.org/news/understanding-sql-joins/",
-        "title": "",
-        "authors": [],
+        "title": "Understanding SQL Joins: The Ultimate Guide with Examples",
+        "authors": [
+          "Pratham Sharma"
+        ],
         "type": "article"
       },
       {

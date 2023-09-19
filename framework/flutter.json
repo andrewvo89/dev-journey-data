@@ -136,8 +136,10 @@
       },
       {
         "url": "https://surf.dev/what-you-should-know-about-flutter/",
-        "title": "",
-        "authors": [],
+        "title": "What you should know about Flutter",
+        "authors": [
+          "Surf"
+        ],
         "type": "article"
       }
     ],

@@ -113,8 +113,10 @@
       },
       {
         "url": "https://2019.wattenberger.com/blog/react-hooks",
-        "title": "",
-        "authors": [],
+        "title": "React Hooks",
+        "authors": [
+          "Amelia Wattenberger"
+        ],
         "type": "article"
       },
       {
@@ -151,14 +153,18 @@
       },
       {
         "url": "https://daveceddia.com/timeline-for-learning-react/",
-        "title": "",
-        "authors": [],
+        "title": "A Real-World Timeline for Learning React",
+        "authors": [
+          "Dave Ceddia"
+        ],
         "type": "article"
       },
       {
         "url": "https://daveceddia.com/visual-guide-to-state-in-react/",
-        "title": "",
-        "authors": [],
+        "title": "A Visual Guide to State in React",
+        "authors": [
+          "Dave Ceddia"
+        ],
         "type": "article"
       },
       {
@@ -267,20 +273,26 @@
       },
       {
         "url": "https://ui.dev/react-aha-moments",
-        "title": "",
-        "authors": [],
+        "title": "React Aha Moments",
+        "authors": [
+          "Tyler McGinnis"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.telerik.com/kendo-react-ui/react-best-practices-and-productivity-tips/",
-        "title": "",
-        "authors": [],
+        "title": "React Best Practices and Productivity Tips",
+        "authors": [
+          "Telerik"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.telerik.com/kendo-react-ui/react-hooks-guide/",
-        "title": "",
-        "authors": [],
+        "title": "React Hooks Guide: How to Handle State and Effects in React",
+        "authors": [
+          "Telerik"
+        ],
         "type": "article"
       }
     ],

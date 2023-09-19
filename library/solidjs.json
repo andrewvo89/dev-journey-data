@@ -64,8 +64,10 @@
       },
       {
         "url": "https://gotopia.tech/articles/235/ryan-carniato-solidjs-javascript-frameworks",
-        "title": "",
-        "authors": [],
+        "title": "Ryan Carniato on SolidJS and the JavaScript Frameworks Landscape",
+        "authors": [
+          "Ryan Carniato"
+        ],
         "type": "article"
       },
       {
@@ -94,8 +96,10 @@
       },
       {
         "url": "https://www.loginradius.com/blog/engineering/guest-post/introduction-to-solidjs/",
-        "title": "",
-        "authors": [],
+        "title": "Introduction to SolidJS - A New JavaScript UI Library",
+        "authors": [
+          "LoginRadius Engineering"
+        ],
         "type": "article"
       }
     ],

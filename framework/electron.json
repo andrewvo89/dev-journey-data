@@ -89,8 +89,10 @@
       },
       {
         "url": "https://slack.engineering/building-hybrid-applications-with-electron/",
-        "title": "",
-        "authors": [],
+        "title": "Building Hybrid Applications with Electron - Slack Engineering",
+        "authors": [
+          "Anaïs Betts"
+        ],
         "type": "article"
       }
     ],

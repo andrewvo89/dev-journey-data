@@ -1,14 +1,576 @@
 {
   "title": "Functional Programming",
-  "description": "",
+  "description": "Functional programming is a programming paradigm that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It emphasizes the application of functions, in contrast to the imperative programming style, which emphasizes changes in state. At the core of functional programming is the concept that functions should be first-class citizens, meaning functions can be passed as arguments to other functions, returned as values from other functions, and assigned to variables.\nOne fundamental principle in functional programming is immutability, where values once created are never changed. Instead, functional programming emphasizes the creation of new values from existing ones. This focus on avoiding changes to state makes it easier to reason about the behavior of a program, reducing potential bugs, especially in concurrent or multithreaded contexts.\nAnother essential concept in functional programming is higher-order functions. These are functions that can accept other functions as arguments and/or return functions as results. They can lead to more abstract and concise code. The use of higher-order functions is enabled by the principle of treating functions as first-class citizens. A classic example of a higher-order function is the 'map' function, which applies a function to every element in a list and returns a new list with the results.\nFinally, functional programming often utilizes recursion for tasks that would typically require looping in imperative programming. Since functional programming discourages changes to state, and a loop inherently requires a change to a loop counter on each iteration, recursion is used as an alternative way to repeatedly apply a function.\nThe result of functional programming can often be more clean, concise, and predictable code. However, it requires a different mindset compared to more common paradigms like object-oriented programming, and the learning curve can be steep for those used to imperative styles of coding.",
   "dependencies": [
     "field/backend_development"
   ],
   "resources": {
-    "articles": [],
-    "books": [],
-    "courses": [],
-    "misc": [],
-    "videos": []
+    "articles": [
+      {
+        "url": "https://dev.to/ajiteshtiwari/go-functional-with-java-45ac",
+        "title": "Go functional with Java",
+        "authors": [
+          "Ajitesh Tiwari"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/eddroid/teaching-functional-programming-two-big-picture-approaches-3nli",
+        "title": "Teaching Functional Programming: Two Big Picture Approaches",
+        "authors": [
+          "Ed Toro"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/klamserdev/oop-vs-functional-programming-39ij",
+        "title": "OOP vs functional programming",
+        "authors": [
+          "Jakob Klamser"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/leolanese/functional-programming-buzzwords-36c1",
+        "title": "Functional Programming buzzwords",
+        "authors": [
+          "Leo Lanese"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://dev.to/lucamug/the-functional-donut-19pp",
+        "title": "🍩 The Functional Donut 🍩",
+        "authors": [
+          "lucamug"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://jrsinclair.com/articles/2022/whats-so-great-about-functional-programming-anyway/",
+        "title": "What’s so great about functional programming anyway?",
+        "authors": [
+          "James Sinclair"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/@samims/pythons-map-reduce-and-filter-the-magic-of-functional-programming-795859846870",
+        "title": "Python’s Map, Reduce, and Filter: The Magic of Functional Programming",
+        "authors": [
+          "Samiul Sk"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://medium.com/geekculture/use-lambda-calculus-to-think-about-functional-programming-4734f80e7714",
+        "title": "Use Lambda Calculus To Think About Functional Programming",
+        "authors": [
+          "Mary Paskhaver"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://spectrum.ieee.org/functional-programming",
+        "title": "WHY FUNCTIONAL PROGRAMMING SHOULD BE THE FUTURE OF SOFTWARE DEVELOPMENT",
+        "authors": [
+          "CHARLES SCALFANI"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdatascience.com/why-developers-are-falling-in-love-with-functional-programming-13514df4048e",
+        "title": "Why developers are falling in love with functional programming",
+        "authors": [
+          "Ari Joury, PhD"
+        ],
+        "type": "article"
+      },
+      {
+        "url": "https://towardsdev.com/why-use-functional-programming-lambda-and-generics-in-java-af19cc19e8d7",
+        "title": "Why use functional programming, lambda, and generics, in Java",
+        "authors": [
+          "A.E.Veltstra"
+        ],
+        "type": "article"
+      }
+    ],
+    "books": [
+      {
+        "url": "https://www.amazon.com/Functional-Programming-JavaScript-React-Book-ebook/dp/B08CZZ4FQQ",
+        "title": "Functional Programming in JavaScript (Functional JavaScript Book 3)",
+        "authors": [
+          "Cristian Salcescu"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Programming-Minh-Quang-Tran/dp/3000735348",
+        "title": "The Art of Functional Programming",
+        "authors": [
+          "Minh Quang Tran"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653",
+        "title": "Functional Programming in Scala",
+        "authors": [
+          "Paul Chiusano",
+          "Rúnar Bjarnason"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Programming-Second-Enrico-Buonanno/dp/1617299820",
+        "title": "Functional Programming in C#, Second Edition",
+        "authors": [
+          "Enrico Buonanno"
+        ],
+        "pages": 446,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Functional-Programming-programs-functional-techniques/dp/1617293814",
+        "title": "Functional Programming in C++: How to improve your C++ programs using functional techniques",
+        "authors": [
+          "Ivan Cukic"
+        ],
+        "pages": 320,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Introduction-Functional-Programming-Calculus-Mathematics/dp/0486478831",
+        "title": "An Introduction to Functional Programming Through Lambda Calculus (Dover Books on Mathematics)",
+        "authors": [
+          "Greg Michaelson"
+        ],
+        "pages": 338,
+        "type": "book"
+      },
+      {
+        "url": "https://www.amazon.com/Learn-Physics-Functional-Programming-Hands/dp/1718501668",
+        "title": "Learn Physics with Functional Programming: A Hands-on Guide to Exploring Physics with Haskell",
+        "authors": [
+          "Scott N. Walck"
+        ],
+        "pages": 650,
+        "type": "book"
+      },
+      {
+        "url": "https://www.manning.com/books/grokking-functional-programming",
+        "title": "Grokking Functional Programming",
+        "authors": [],
+        "pages": 520,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/a-functional-approach/9781098109912/",
+        "title": "A Functional Approach to Java",
+        "authors": [
+          "Ben Weidig"
+        ],
+        "pages": 275,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/functional-javascript/9781449360757/",
+        "title": "Functional JavaScript",
+        "authors": [],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/functional-programming-for/9781449312657/",
+        "title": "Functional Programming for Java Developers",
+        "authors": [
+          "Dean Wampler"
+        ],
+        "pages": 89,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/functional-programming-in/9781492048633/",
+        "title": "Functional Programming in Python",
+        "authors": [
+          "David Mertz"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/functional-programming-with/9781492097068/",
+        "title": "Functional Programming with C#",
+        "authors": [
+          "Simon J. Painter"
+        ],
+        "pages": 0,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/functional-thinking/9781449365509/",
+        "title": "Functional Thinking",
+        "authors": [
+          "Neal Ford"
+        ],
+        "pages": 180,
+        "type": "book"
+      },
+      {
+        "url": "https://www.oreilly.com/library/view/learning-functional-programming/9781098111748/",
+        "title": "Learning Functional Programming",
+        "authors": [
+          "Jack Widman"
+        ],
+        "pages": 200,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/functional-kotlin/9781788476485",
+        "title": "Functional Kotlin",
+        "authors": [
+          "Mario Arias",
+          "Rivu Chakraborty"
+        ],
+        "pages": 350,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/functional-programming-in-go/9781801811163",
+        "title": "Functional Programming in Go",
+        "authors": [
+          "Dylan Meeus"
+        ],
+        "pages": 248,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-functional-programming-in-rust/9781788839358",
+        "title": "Hands-On Functional Programming in RUST",
+        "authors": [
+          "Andrew Johnson"
+        ],
+        "pages": 249,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-functional-programming-with-c/9781789807332",
+        "title": "Hands-On Functional Programming with C++",
+        "authors": [
+          "Alexandru Bolboaca"
+        ],
+        "pages": 358,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/hands-on-functional-programming-with-typescript/9781788831437",
+        "title": "Hands-On Functional Programming with TypeScript",
+        "authors": [
+          "Remo H. Jansen"
+        ],
+        "pages": 210,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-c-functional-programming/9781787281974",
+        "title": "Learning C++ Functional Programming",
+        "authors": [
+          "Wisnu Anggoro"
+        ],
+        "pages": 304,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-functional-data-structures-and-algorithms/9781785888731",
+        "title": "Learning Functional Data Structures and Algorithms",
+        "authors": [
+          "Atul S. Khot",
+          "Raju Kumar Mishra"
+        ],
+        "pages": 318,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/learning-java-functional-programming/9781783558483",
+        "title": "Learning Java Functional Programming",
+        "authors": [
+          "Richard M. Reese"
+        ],
+        "pages": 296,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-functional-programming/9781788620796",
+        "title": "Mastering Functional Programming",
+        "authors": [
+          "Anatolii Kmetiuk"
+        ],
+        "pages": 380,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/mastering-javascript-functional-programming-third-edition/9781804610138",
+        "title": "Mastering JavaScript Functional Programming - Third Edition",
+        "authors": [
+          "Federico Kereki"
+        ],
+        "pages": 614,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/scala-functional-programming-patterns/9781783985845",
+        "title": "Scala Functional Programming Patterns",
+        "authors": [
+          "Atul S. Khot"
+        ],
+        "pages": 298,
+        "type": "book"
+      },
+      {
+        "url": "https://www.packtpub.com/product/swift-functional-programming-second-edition/9781787284500",
+        "title": "Swift Functional Programming - Second Edition",
+        "authors": [
+          "Dr. Fatih Nayebi"
+        ],
+        "pages": 316,
+        "type": "book"
+      }
+    ],
+    "courses": [
+      {
+        "url": "https://frontendmasters.com/courses/functional-first-steps/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/learn/scala-functional-programming",
+        "title": "Functional Programming Principles in Scala",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.coursera.org/specializations/scala",
+        "title": "Functional Programming in Scala",
+        "platform": "Coursera",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.educative.io/courses/mastering-functional-programming-ocaml-haskell",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/functional-programming-big-picture",
+        "title": "Functional Programming: The Big Picture",
+        "platform": "Pluralsight",
+        "authors": [
+          "Nate Taylor"
+        ],
+        "duration": 72,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/functional-programming-csharp",
+        "title": "Functional Programming with C#",
+        "platform": "Pluralsight",
+        "authors": [
+          "Dave Fancher"
+        ],
+        "duration": 85,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-functional-programming-concepts4",
+        "title": "Functional Programming Concepts in JavaScript",
+        "platform": "Pluralsight",
+        "authors": [],
+        "duration": 89,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-functional-programming-fundamentals",
+        "title": "Fundamentals of Functional Programming in JavaScript",
+        "platform": "Pluralsight",
+        "authors": [
+          "Nate Taylor"
+        ],
+        "duration": 85,
+        "type": "course"
+      },
+      {
+        "url": "https://www.pluralsight.com/courses/javascript-ramda-functional",
+        "title": "Writing Functional JavaScript Using Ramda",
+        "platform": "Pluralsight",
+        "authors": [
+          "Thiago Temple"
+        ],
+        "duration": 128,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/functional-csharp/",
+        "title": "Software Design: Functional Programming in C#",
+        "platform": "Udemy",
+        "authors": [
+          "Engineer Spock"
+        ],
+        "duration": 246,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/functional-programming-using-cpp/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/functional-programming-with-java/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      },
+      {
+        "url": "https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/",
+        "title": "",
+        "platform": "",
+        "authors": [],
+        "duration": 0,
+        "type": "course"
+      }
+    ],
+    "misc": [
+      {
+        "url": "https://github.com/xgrommx/awesome-functional-programming",
+        "title": "",
+        "type": "misc"
+      }
+    ],
+    "videos": [
+      {
+        "url": "https://youtu.be/08CWw_VD45w",
+        "title": "FP vs OOP | For Dummies",
+        "authors": [
+          "BasicOverflow"
+        ],
+        "duration": 9,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/0if71HOyVjY",
+        "title": "Functional Programming in 40 Minutes • Russ Olsen • GOTO 2018",
+        "authors": [
+          "GOTO Conferences"
+        ],
+        "duration": 42,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/18Dn4eFj6-g",
+        "title": "Is functional programming worth it?",
+        "authors": [
+          "Andrew Burgess"
+        ],
+        "duration": 8,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/8z_bUIl_uPo",
+        "title": "Functional programming - A general introduction",
+        "authors": [
+          "Daedalus Community"
+        ],
+        "duration": 12,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/KHojnWHemO0",
+        "title": "What is Functional Programming?",
+        "authors": [
+          "Coding Tech"
+        ],
+        "duration": 29,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/LnX3B9oaKzw",
+        "title": "Functional Programming & Haskell - Computerphile",
+        "authors": [
+          "Computerphile"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/Ly9dtWwqqwY",
+        "title": "Functional Programming IS NO BETTER than Object Oriented Programming",
+        "authors": [
+          "Continuous Delivery"
+        ],
+        "duration": 24,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/dAPL7MQGjyM",
+        "title": "What is functional programming | Easy way",
+        "authors": [
+          "Hitesh Choudhary"
+        ],
+        "duration": 10,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/e-5obm1G_FY",
+        "title": "Learning Functional Programming with JavaScript - Anjana Vakil - JSUnconf",
+        "authors": [
+          "JSConf"
+        ],
+        "duration": 30,
+        "type": "video"
+      },
+      {
+        "url": "https://youtu.be/fsVL_xrYO0w",
+        "title": "Object Oriented vs Functional Programming with TypeScript",
+        "authors": [
+          "Fireship"
+        ],
+        "duration": 13,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLF1Z-APd9zK7usPMx3LGMZEHrECUGodd3",
+        "title": "Functional Programming in Haskell",
+        "authors": [
+          "Graham Hutton"
+        ],
+        "duration": 611,
+        "type": "video"
+      },
+      {
+        "url": "https://youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo",
+        "title": "Functional Programming with TypeScript",
+        "authors": [
+          "Web Village Voyage"
+        ],
+        "duration": 202,
+        "type": "video"
+      }
+    ]
   }
 }

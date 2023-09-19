@@ -8,8 +8,10 @@
     "articles": [
       {
         "url": "https://blog.mobcoder.com/go-programming-language",
-        "title": "",
-        "authors": [],
+        "title": "Go Programming Language: An Overview and Its Architecture",
+        "authors": [
+          "Mobcoder"
+        ],
         "type": "article"
       },
       {
@@ -126,14 +128,18 @@
       },
       {
         "url": "https://medium.easyread.co/golang-clean-archithecture-efd6d7c43047",
-        "title": "",
-        "authors": [],
+        "title": "Golang Clean Architecture",
+        "authors": [
+          "Adi Setiawan"
+        ],
         "type": "article"
       },
       {
         "url": "https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages",
-        "title": "",
-        "authors": [],
+        "title": "Go: the language where you can write less and do more",
+        "authors": [
+          "Ryan Donovan"
+        ],
         "type": "article"
       },
       {
@@ -146,8 +152,10 @@
       },
       {
         "url": "https://www.mindinventory.com/blog/nodejs-vs-golang-which-one-is-best",
-        "title": "",
-        "authors": [],
+        "title": "Node.js vs Golang: Which One is Best for Your Project?",
+        "authors": [
+          "Mehul Rajput"
+        ],
         "type": "article"
       }
     ],

@@ -480,14 +480,14 @@
         "type": "course"
       },
       {
+        "url": "https://www.udemy.com/course/rust-lang/",
+        "title": "Learn Rust Programming | Become a Systems Programmer",
+        "platform": "Udemy",
         "authors": [
           "Dmitri Nesteruk"
         ],
-        "title": "Learn Rust Programming | Become a Systems Programmer",
-        "type": "course",
-        "url": "https://www.udemy.com/course/rust-lang/",
         "duration": 498,
-        "platform": "Udemy"
+        "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/rust-fundamentals/",
@@ -500,14 +500,14 @@
         "type": "course"
       },
       {
+        "url": "https://www.udemy.com/course/rust-coding-for-beginners/",
+        "title": "Rust Programming For Beginners",
+        "platform": "Udemy",
         "authors": [
           "Jayson Lennon"
         ],
-        "title": "Rust Programming For Beginners",
-        "type": "course",
-        "url": "https://www.udemy.com/course/rust-coding-for-beginners/",
         "duration": 657,
-        "platform": "Udemy"
+        "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/rust-building-reusable-code-with-rust-from-scratch/",

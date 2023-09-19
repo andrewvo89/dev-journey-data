@@ -81,8 +81,10 @@
       },
       {
         "url": "https://valor-software.com/articles/developing-a-desktop-application-via-rust-and-nextjs-the-tauri-way",
-        "title": "",
-        "authors": [],
+        "title": "Developing a desktop application via Rust and Next.js the Tauri way",
+        "authors": [
+          "Valor Software"
+        ],
         "type": "article"
       }
     ],

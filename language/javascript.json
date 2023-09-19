@@ -26,8 +26,10 @@
       },
       {
         "url": "https://css-tricks.com/node-javascript-compared-to-javascript/?utm_source=devglan",
-        "title": "",
-        "authors": [],
+        "title": "Node (JavaScript) Compared to JavaScript",
+        "authors": [
+          "Chris Coyier"
+        ],
         "type": "article"
       },
       {

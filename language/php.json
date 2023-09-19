@@ -88,14 +88,18 @@
       },
       {
         "url": "https://tech.westwing.de/must-have-php-tools-868a1aac6eb7",
-        "title": "",
-        "authors": [],
+        "title": "Must-have PHP tools",
+        "authors": [
+          "Westwing Tech"
+        ],
         "type": "article"
       },
       {
         "url": "https://www.freecodecamp.org/news/what-is-php-the-php-programming-language-meaning-explained/",
-        "title": "",
-        "authors": [],
+        "title": "What is PHP? The PHP Programming Language Meaning Explained",
+        "authors": [
+          "freeCodeCamp.org"
+        ],
         "type": "article"
       }
     ],
