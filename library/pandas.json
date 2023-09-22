@@ -180,7 +180,9 @@
       {
         "url": "https://www.manning.com/books/pandas-in-action",
         "title": "Pandas in Action",
-        "authors": [],
+        "authors": [
+          "Boris Paskhaver"
+        ],
         "type": "book"
       },
       {

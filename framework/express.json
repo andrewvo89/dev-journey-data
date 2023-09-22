@@ -129,15 +129,11 @@
     ],
     "books": [
       {
-        "url": "https://jonathanleemartin.com/books/",
-        "title": "",
-        "authors": [],
-        "type": "book"
-      },
-      {
         "url": "https://link.springer.com/book/10.1007/978-1-4842-0037-7",
-        "title": "",
-        "authors": [],
+        "title": "Pro Express.js",
+        "authors": [
+          "Azat Mardan"
+        ],
         "type": "book"
       },
       {

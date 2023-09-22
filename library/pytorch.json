@@ -203,7 +203,11 @@
       {
         "url": "https://www.manning.com/books/deep-learning-with-pytorch",
         "title": "Deep Learning with PyTorch",
-        "authors": [],
+        "authors": [
+          "Eli Stevens",
+          "Luca Antiga",
+          "Thomas Viehmann"
+        ],
         "type": "book"
       },
       {

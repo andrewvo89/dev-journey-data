@@ -170,8 +170,11 @@
       },
       {
         "url": "https://www.murach.com/shop/murachs-html-and-css-5th-edition-detail",
-        "title": "",
-        "authors": [],
+        "title": "Murach's HTML and CSS (5th Edition)",
+        "authors": [
+          "Zak Ruvalcaba",
+          "Mike Murach"
+        ],
         "type": "book"
       },
       {

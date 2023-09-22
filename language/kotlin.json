@@ -98,14 +98,18 @@
     "books": [
       {
         "url": "https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/",
-        "title": "",
-        "authors": [],
+        "title": "Kotlin and Android Development featuring Jetpack",
+        "authors": [
+          "Michael Fazio"
+        ],
         "type": "book"
       },
       {
         "url": "https://pragprog.com/titles/vskotlin/programming-kotlin/",
-        "title": "",
-        "authors": [],
+        "title": "Programming Kotlin",
+        "authors": [
+          "Venkat Subramaniam"
+        ],
         "type": "book"
       },
       {

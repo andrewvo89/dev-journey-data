@@ -156,7 +156,9 @@
       {
         "url": "https://www.manning.com/books/grokking-functional-programming",
         "title": "Grokking Functional Programming",
-        "authors": [],
+        "authors": [
+          "Michal Plachta"
+        ],
         "type": "book"
       },
       {
@@ -170,7 +172,9 @@
       {
         "url": "https://www.oreilly.com/library/view/functional-javascript/9781449360757/",
         "title": "Functional JavaScript",
-        "authors": [],
+        "authors": [
+          "Michael Fogus"
+        ],
         "type": "book"
       },
       {

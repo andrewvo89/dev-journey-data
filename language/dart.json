@@ -139,20 +139,26 @@
     "books": [
       {
         "url": "https://www.kodeco.com/books/dart-apprentice-fundamentals",
-        "title": "",
-        "authors": [],
+        "title": "Dart Apprentice Fundamentals",
+        "authors": [
+          "Jonathan Sande"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.kodeco.com/books/dart-apprentice-beyond-the-basics",
-        "title": "",
-        "authors": [],
+        "title": "Dart Apprentice Beyond the Basics",
+        "authors": [
+          "Jonathan Sande"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.kodeco.com/books/data-structures-algorithms-in-dart",
-        "title": "",
-        "authors": [],
+        "title": "Data Structures & Algorithms in Dart",
+        "authors": [
+          "Jonathan Sande"
+        ],
         "type": "book"
       },
       {
@@ -277,7 +283,10 @@
       {
         "url": "https://www.oreilly.com/library/view/what-is-dart/9781449333164/",
         "title": "What is Dart?",
-        "authors": [],
+        "authors": [
+          "Kathy Walrath",
+          "Seth Ladd"
+        ],
         "type": "book"
       }
     ],

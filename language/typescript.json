@@ -332,7 +332,9 @@
       {
         "url": "https://www.manning.com/books/essential-typescript-5-third-edition",
         "title": "Essential TypeScript 5, Third Edition",
-        "authors": [],
+        "authors": [
+          "Adam Freeman"
+        ],
         "type": "book"
       },
       {
@@ -346,7 +348,10 @@
       {
         "url": "https://www.manning.com/books/typescript-quickly",
         "title": "TypeScript Quickly",
-        "authors": [],
+        "authors": [
+          "Yakov Fain",
+          "Anton Moiseev"
+        ],
         "type": "book"
       },
       {

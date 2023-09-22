@@ -131,7 +131,10 @@
       {
         "url": "https://www.manning.com/books/the-jamstack-book",
         "title": "The Jamstack Book",
-        "authors": [],
+        "authors": [
+          "Raymond Camden",
+          "Brian Rinaldi"
+        ],
         "type": "book"
       },
       {

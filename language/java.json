@@ -233,7 +233,10 @@
       {
         "url": "https://www.oreilly.com/library/view/learning-java/1565927184/",
         "title": "Learning Java",
-        "authors": [],
+        "authors": [
+          "Patrick Niemeyer",
+          "Jonathan Knudsen"
+        ],
         "type": "book"
       },
       {
@@ -301,7 +304,11 @@
       {
         "url": "https://www.manning.com/books/modern-java-in-action",
         "title": "Modern Java in Action",
-        "authors": [],
+        "authors": [
+          "Raoul-Gabriel Urma",
+          "Mario Fusco",
+          "Alan Mycroft"
+        ],
         "type": "book"
       },
       {

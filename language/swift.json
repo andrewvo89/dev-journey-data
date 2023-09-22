@@ -91,7 +91,9 @@
       {
         "url": "https://www.oreilly.com/library/view/swift-pocket-reference/9781491915479/",
         "title": "Swift Pocket Reference",
-        "authors": [],
+        "authors": [
+          "Anthony Gray"
+        ],
         "type": "book"
       },
       {

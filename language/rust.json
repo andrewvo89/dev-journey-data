@@ -246,7 +246,10 @@
       {
         "url": "https://www.oreilly.com/library/view/programming-rust/9781491927274/",
         "title": "Programming Rust",
-        "authors": [],
+        "authors": [
+          "Jim Blandy",
+          "Jason Orendorff"
+        ],
         "type": "book"
       },
       {
@@ -391,31 +394,42 @@
       {
         "url": "https://www.manning.com/books/code-like-a-pro-in-rust",
         "title": "Code Like a Pro in Rust",
-        "authors": [],
+        "authors": [
+          "Brendan Matthews"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/refactoring-to-rust",
         "title": "Refactoring to Rust",
-        "authors": [],
+        "authors": [
+          "Lily Mara",
+          "Joel Holmes"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-servers-services-and-apps",
         "title": "Rust Servers, Services, and Apps",
-        "authors": [],
+        "authors": [
+          "Prabhu Eshwarla"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-web-development",
         "title": "Rust Web Development",
-        "authors": [],
+        "authors": [
+          "Bastian Gruber"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-in-action",
         "title": "Rust in Action",
-        "authors": [],
+        "authors": [
+          "Tim McNamara"
+        ],
         "type": "book"
       }
     ],

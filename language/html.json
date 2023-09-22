@@ -179,7 +179,9 @@
       {
         "url": "https://www.manning.com/books/web-design-playground-second-edition",
         "title": "Web Design Playground, Second Edition",
-        "authors": [],
+        "authors": [
+          "Paul McFedries"
+        ],
         "type": "book"
       },
       {

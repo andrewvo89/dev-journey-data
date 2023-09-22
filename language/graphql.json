@@ -131,7 +131,9 @@
       {
         "url": "https://www.manning.com/books/graphql-in-action",
         "title": "GraphQL in Action",
-        "authors": [],
+        "authors": [
+          "Samer Buna"
+        ],
         "type": "book"
       },
       {

@@ -222,7 +222,9 @@
       {
         "url": "https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/",
         "title": "Concurrency in Go",
-        "authors": [],
+        "authors": [
+          "Katherine Cox-Buday"
+        ],
         "type": "book"
       },
       {
@@ -236,13 +238,17 @@
       {
         "url": "https://www.oreilly.com/library/view/head-first-go/9781491969540/",
         "title": "Head First Go",
-        "authors": [],
+        "authors": [
+          "Jay McGavren"
+        ],
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/introducing-go/9781491941997/",
         "title": "Introducing Go",
-        "authors": [],
+        "authors": [
+          "Caleb Doxsey"
+        ],
         "type": "book"
       },
       {

@@ -196,7 +196,9 @@
       {
         "url": "https://www.amazon.com/Computer-Coding-Python-Projects-Step/dp/0241286867",
         "title": "Computer Coding Python Projects for Kids: A Step-by-Step Visual Guide",
-        "authors": [],
+        "authors": [
+          "Carol Vorderman"
+        ],
         "type": "book"
       },
       {
@@ -243,7 +245,9 @@
       {
         "url": "https://www.manning.com/books/python-how-to",
         "title": "Python How-To",
-        "authors": [],
+        "authors": [
+          "Yong Choi"
+        ],
         "type": "book"
       },
       {

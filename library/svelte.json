@@ -148,7 +148,9 @@
       {
         "url": "https://www.manning.com/books/svelte-and-sapper-in-action",
         "title": "Svelte and Sapper in Action",
-        "authors": [],
+        "authors": [
+          "R. Mark Volkmann"
+        ],
         "type": "book"
       },
       {

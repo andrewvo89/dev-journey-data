@@ -171,13 +171,17 @@
       {
         "url": "https://leanpub.com/testingvuejscomponentswithjest",
         "title": "Testing Vue.js components with Jest",
-        "authors": [],
+        "authors": [
+          "Alex Jover Morales"
+        ],
         "type": "book"
       },
       {
         "url": "https://leanpub.com/vue-vite-typescript/c/jd2zz0brBNd9?ref=madewithvuejs.com",
         "title": "Large Scale Apps with Vue, Vite and TypeScript",
-        "authors": [],
+        "authors": [
+          "Damiano Fusco"
+        ],
         "type": "book"
       },
       {
