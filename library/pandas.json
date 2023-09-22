@@ -277,7 +277,6 @@
         "authors": [
           "John Miller"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -285,7 +284,6 @@
         "title": "Learn Data Analysis with Pandas",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -295,7 +293,6 @@
         "authors": [
           "Joseph Santarcangelo"
         ],
-        "duration": 296,
         "type": "course"
       },
       {
@@ -307,7 +304,6 @@
           "Alfredo Deza",
           "Noah Gift"
         ],
-        "duration": 1184,
         "type": "course"
       },
       {
@@ -315,7 +311,6 @@
         "title": "Data Analysis in Python: Using Pandas DataFrames",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -323,7 +318,6 @@
         "title": "Exploratory Data Analysis With Python and Pandas",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -331,7 +325,6 @@
         "title": "Mastering Data Analysis with Pandas",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -339,7 +332,6 @@
         "title": "Master Data Analysis with Pandas: Learning Path 1 (Enhanced)",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -347,7 +339,6 @@
         "title": "Mastering Data Analysis with Pandas: Learning Path Part 2",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -355,7 +346,6 @@
         "title": "Practical Data Wrangling with Pandas",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -363,7 +353,6 @@
         "title": "Python for Data Analysis: Pandas & NumPy",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -373,7 +362,6 @@
         "authors": [
           "Jill Rosok"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -383,7 +371,6 @@
         "authors": [
           "Kevin Markham"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -394,7 +381,6 @@
           "Maggie Matsui",
           "Richie Cotton"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -404,7 +390,6 @@
         "authors": [
           "Aaren Stubberfield"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -414,7 +399,6 @@
         "authors": [
           "John Miller"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -424,7 +408,6 @@
         "authors": [
           "Maria Eugenia Inzaugarat"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -434,7 +417,6 @@
         "authors": [
           "Amany Mahfouz"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -444,7 +426,6 @@
         "authors": [
           "Kasey Jones"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -454,7 +435,6 @@
         "authors": [
           "Leonidas Souliotis"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -465,7 +445,6 @@
           "Brett Vanderblock",
           "Madecraft"
         ],
-        "duration": 62,
         "type": "course"
       },
       {
@@ -475,7 +454,6 @@
         "authors": [
           "Jonathan Fernandes"
         ],
-        "duration": 134,
         "type": "course"
       },
       {
@@ -485,7 +463,6 @@
         "authors": [
           "Paweł Kordek"
         ],
-        "duration": 150,
         "type": "course"
       },
       {
@@ -495,7 +472,6 @@
         "authors": [
           "Paweł Kordek"
         ],
-        "duration": 80,
         "type": "course"
       },
       {
@@ -503,7 +479,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -513,7 +488,6 @@
         "authors": [
           "Hassan Shoayb"
         ],
-        "duration": 59,
         "type": "course"
       },
       {
@@ -523,7 +497,6 @@
         "authors": [
           "Boris Paskhaver"
         ],
-        "duration": 1320,
         "type": "course"
       },
       {
@@ -535,7 +508,6 @@
           "SuperDataScience Team",
           "Ligency Team"
         ],
-        "duration": 527,
         "type": "course"
       },
       {
@@ -545,7 +517,6 @@
         "authors": [
           "Alexander Hagmann"
         ],
-        "duration": 2040,
         "type": "course"
       },
       {
@@ -555,7 +526,6 @@
         "authors": [
           "Andy Bek"
         ],
-        "duration": 1924,
         "type": "course"
       }
     ],

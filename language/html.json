@@ -277,7 +277,6 @@
           "Edwin Diaz",
           "Coding Faculty Solutions"
         ],
-        "duration": 350,
         "type": "course"
       },
       {
@@ -287,7 +286,6 @@
         "authors": [
           "YouAccel Training"
         ],
-        "duration": 135,
         "type": "course"
       },
       {
@@ -298,7 +296,6 @@
           "Brad Hussey",
           "Code College"
         ],
-        "duration": 518,
         "type": "course"
       },
       {
@@ -308,7 +305,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 333,
         "type": "course"
       },
       {
@@ -319,7 +315,6 @@
           "Colleen van Lent, Ph.D.",
           "Charles Russell Severance"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -329,7 +324,6 @@
         "authors": [
           "Yaakov Chaikin"
         ],
-        "duration": 2404,
         "type": "course"
       },
       {
@@ -340,7 +334,6 @@
           "Colleen van Lent, Ph.D.",
           "Charles Russell Severance"
         ],
-        "duration": 567,
         "type": "course"
       },
       {
@@ -350,7 +343,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 1142,
         "type": "course"
       },
       {
@@ -360,7 +352,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 75,
         "type": "course"
       },
       {
@@ -370,7 +361,6 @@
         "authors": [
           "Zoe Bachman"
         ],
-        "duration": 540,
         "type": "course"
       },
       {
@@ -380,7 +370,6 @@
         "authors": [
           "Jen Simmons"
         ],
-        "duration": 165,
         "type": "course"
       },
       {
@@ -390,7 +379,6 @@
         "authors": [
           "Jen Kramer"
         ],
-        "duration": 112,
         "type": "course"
       },
       {
@@ -400,7 +388,6 @@
         "authors": [
           "Jen Kramer"
         ],
-        "duration": 99,
         "type": "course"
       },
       {
@@ -410,7 +397,6 @@
         "authors": [
           "Clarissa Peterson"
         ],
-        "duration": 150,
         "type": "course"
       },
       {
@@ -418,7 +404,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -426,7 +411,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -434,7 +418,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -442,7 +425,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -452,7 +434,6 @@
         "authors": [
           "Susan Simkins"
         ],
-        "duration": 82,
         "type": "course"
       },
       {
@@ -462,7 +443,6 @@
         "authors": [
           "Jill Gundersen"
         ],
-        "duration": 69,
         "type": "course"
       },
       {
@@ -472,7 +452,6 @@
         "authors": [
           "Barry Luijbregts"
         ],
-        "duration": 88,
         "type": "course"
       },
       {
@@ -482,7 +461,6 @@
         "authors": [
           "Mario Duilio Macari"
         ],
-        "duration": 123,
         "type": "course"
       },
       {
@@ -492,7 +470,6 @@
         "authors": [
           "Gill Cleeren"
         ],
-        "duration": 179,
         "type": "course"
       },
       {
@@ -502,7 +479,6 @@
         "authors": [
           "Matt Milner"
         ],
-        "duration": 139,
         "type": "course"
       }
     ],

@@ -632,7 +632,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -642,7 +641,6 @@
         "authors": [
           "freeCodeCamp"
         ],
-        "duration": 154,
         "type": "course"
       },
       {
@@ -652,7 +650,6 @@
         "authors": [
           "freeCodeCamp"
         ],
-        "duration": 53,
         "type": "course"
       },
       {
@@ -662,7 +659,6 @@
         "authors": [
           "Reed Barger"
         ],
-        "duration": 846,
         "type": "course"
       },
       {
@@ -672,7 +668,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 622,
         "type": "course"
       },
       {
@@ -682,7 +677,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -692,7 +686,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 420,
         "type": "course"
       },
       {
@@ -702,7 +695,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 1200,
         "type": "course"
       },
       {
@@ -712,7 +704,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -722,7 +713,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 600,
         "type": "course"
       },
       {
@@ -732,7 +722,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -742,7 +731,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -752,7 +740,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -762,7 +749,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -772,7 +758,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -782,7 +767,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -792,7 +776,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -802,7 +785,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -812,7 +794,6 @@
         "authors": [
           "William Mead"
         ],
-        "duration": 1245,
         "type": "course"
       },
       {
@@ -822,7 +803,6 @@
         "authors": [
           "Charles Russell Severance"
         ],
-        "duration": 573,
         "type": "course"
       },
       {
@@ -832,7 +812,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 45,
         "type": "course"
       },
       {
@@ -842,7 +821,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 1571,
         "type": "course"
       },
       {
@@ -850,7 +828,6 @@
         "title": "Computational Thinking with JavaScript",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -860,7 +837,6 @@
         "authors": [
           "William Mead"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -870,7 +846,6 @@
         "authors": [
           "Morten Rand-Hendriksen"
         ],
-        "duration": 329,
         "type": "course"
       },
       {
@@ -880,7 +855,6 @@
         "authors": [
           "Joe Chellman"
         ],
-        "duration": 242,
         "type": "course"
       },
       {
@@ -890,7 +864,6 @@
         "authors": [
           "Jonathan Mills"
         ],
-        "duration": 159,
         "type": "course"
       },
       {
@@ -900,7 +873,6 @@
         "authors": [
           "Mark Zamoyta"
         ],
-        "duration": 146,
         "type": "course"
       },
       {
@@ -910,7 +882,6 @@
         "authors": [
           "Nate Taylor"
         ],
-        "duration": 85,
         "type": "course"
       },
       {
@@ -920,7 +891,6 @@
         "authors": [
           "Mark Zamoyta"
         ],
-        "duration": 179,
         "type": "course"
       },
       {
@@ -930,7 +900,6 @@
         "authors": [
           "Mark Zamoyta"
         ],
-        "duration": 238,
         "type": "course"
       },
       {
@@ -940,7 +909,6 @@
         "authors": [
           "Jim Cooper"
         ],
-        "duration": 48,
         "type": "course"
       },
       {
@@ -950,7 +918,6 @@
         "authors": [
           "Thiago Temple"
         ],
-        "duration": 128,
         "type": "course"
       },
       {
@@ -960,7 +927,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 351,
         "type": "course"
       },
       {
@@ -970,7 +936,6 @@
         "authors": [
           "Mosh Hamedani"
         ],
-        "duration": 398,
         "type": "course"
       },
       {
@@ -981,7 +946,6 @@
           "Colt Steele",
           "Stephen Grider"
         ],
-        "duration": 3115,
         "type": "course"
       },
       {
@@ -991,7 +955,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 453,
         "type": "course"
       },
       {
@@ -1001,7 +964,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 375,
         "type": "course"
       },
       {
@@ -1012,7 +974,6 @@
           "Edwin Diaz",
           "Coding Faculty Solutions"
         ],
-        "duration": 230,
         "type": "course"
       },
       {
@@ -1023,7 +984,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 3152,
         "type": "course"
       },
       {
@@ -1033,7 +993,6 @@
         "authors": [
           "The Net Ninja (Shaun Pelling)"
         ],
-        "duration": 1224,
         "type": "course"
       },
       {
@@ -1043,7 +1002,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 2194,
         "type": "course"
       },
       {
@@ -1053,7 +1011,6 @@
         "authors": [
           "Andrew Mead"
         ],
-        "duration": 1779,
         "type": "course"
       },
       {
@@ -1063,7 +1020,6 @@
         "authors": [
           "Jonas Schmedtmann"
         ],
-        "duration": 4113,
         "type": "course"
       },
       {
@@ -1073,7 +1029,6 @@
         "authors": [
           "Anthony Alicea"
         ],
-        "duration": 733,
         "type": "course"
       },
       {
@@ -1083,7 +1038,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 967,
         "type": "course"
       }
     ],

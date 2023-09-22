@@ -196,7 +196,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 796,
         "type": "course"
       },
       {
@@ -206,7 +205,6 @@
         "authors": [
           "Andrew Mead"
         ],
-        "duration": 1404,
         "type": "course"
       },
       {
@@ -216,7 +214,6 @@
         "authors": [
           "Laith Harb"
         ],
-        "duration": 640,
         "type": "course"
       },
       {
@@ -226,7 +223,6 @@
         "authors": [
           "Mirko Nasato"
         ],
-        "duration": 481,
         "type": "course"
       },
       {
@@ -236,7 +232,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 109,
         "type": "course"
       },
       {
@@ -246,7 +241,6 @@
         "authors": [
           "Eve Porcello"
         ],
-        "duration": 55,
         "type": "course"
       },
       {
@@ -256,7 +250,6 @@
         "authors": [
           "Karl Hadwen"
         ],
-        "duration": 63,
         "type": "course"
       },
       {
@@ -264,7 +257,6 @@
         "title": "Make a GraphQL Server with ExpressJS",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -274,7 +266,6 @@
         "authors": [
           "Adhithi Ravichandran"
         ],
-        "duration": 77,
         "type": "course"
       },
       {
@@ -284,7 +275,6 @@
         "authors": [
           "Jonathan Mills"
         ],
-        "duration": 125,
         "type": "course"
       }
     ],

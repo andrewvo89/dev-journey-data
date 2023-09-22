@@ -256,7 +256,6 @@
           "Patrick Ester",
           "Ben Shaw"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -266,7 +265,6 @@
         "authors": [
           "Meta Staff"
         ],
-        "duration": 2700,
         "type": "course"
       },
       {
@@ -276,7 +274,6 @@
         "authors": [
           "Charles Russell Severance"
         ],
-        "duration": 1080,
         "type": "course"
       },
       {
@@ -287,7 +284,6 @@
           "Yan Luo",
           "Rav Ahuja"
         ],
-        "duration": 277,
         "type": "course"
       },
       {
@@ -297,7 +293,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1914,
         "type": "course"
       },
       {
@@ -308,7 +303,6 @@
           "Mark Winterbottom",
           "Brooke Rutherford"
         ],
-        "duration": 1376,
         "type": "course"
       },
       {
@@ -318,7 +312,6 @@
         "authors": [
           "Nick Walter"
         ],
-        "duration": 603,
         "type": "course"
       },
       {
@@ -328,7 +321,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 666,
         "type": "course"
       },
       {
@@ -339,7 +331,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1385,
         "type": "course"
       },
       {
@@ -349,7 +340,6 @@
         "authors": [
           "Leticia Portella"
         ],
-        "duration": 126,
         "type": "course"
       },
       {
@@ -359,7 +349,6 @@
         "authors": [
           "Ryan Mitchell"
         ],
-        "duration": 112,
         "type": "course"
       },
       {
@@ -369,7 +358,6 @@
         "authors": [
           "Caleb Smith"
         ],
-        "duration": 100,
         "type": "course"
       },
       {
@@ -379,7 +367,6 @@
         "authors": [
           "Rudolf Olah"
         ],
-        "duration": 69,
         "type": "course"
       },
       {
@@ -389,7 +376,6 @@
         "authors": [
           "Rudolf Olah"
         ],
-        "duration": 56,
         "type": "course"
       },
       {
@@ -399,7 +385,6 @@
         "authors": [
           "Nick Walter"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -409,7 +394,6 @@
         "authors": [
           "Rudolf Olah"
         ],
-        "duration": 78,
         "type": "course"
       },
       {
@@ -419,7 +403,6 @@
         "authors": [
           "Reindert-Jan Ekker"
         ],
-        "duration": 222,
         "type": "course"
       },
       {
@@ -429,7 +412,6 @@
         "authors": [
           "Reindert-Jan Ekker"
         ],
-        "duration": 221,
         "type": "course"
       },
       {
@@ -439,7 +421,6 @@
         "authors": [
           "Reindert-Jan Ekker"
         ],
-        "duration": 153,
         "type": "course"
       }
     ],

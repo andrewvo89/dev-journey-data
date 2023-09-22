@@ -130,7 +130,6 @@
         "authors": [
           "Jeff Delaney"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -140,7 +139,6 @@
         "authors": [
           "Dera Okeke"
         ],
-        "duration": 405,
         "type": "course"
       },
       {
@@ -150,7 +148,6 @@
         "authors": [
           "Eric Wallen"
         ],
-        "duration": 780,
         "type": "course"
       },
       {
@@ -160,7 +157,6 @@
         "authors": [
           "Raja Tamil"
         ],
-        "duration": 283,
         "type": "course"
       },
       {
@@ -170,7 +166,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 601,
         "type": "course"
       },
       {
@@ -180,7 +175,6 @@
         "authors": [
           "Joe Eames"
         ],
-        "duration": 224,
         "type": "course"
       },
       {
@@ -190,7 +184,6 @@
         "authors": [
           "Devslopes by Mark Wahlbeck"
         ],
-        "duration": 356,
         "type": "course"
       }
     ],

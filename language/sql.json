@@ -461,7 +461,6 @@
         "authors": [
           "Ada Morse"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -469,7 +468,6 @@
         "title": "Intro to SQL",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -479,7 +477,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -487,7 +484,6 @@
         "title": "Learn SQL",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -495,7 +491,6 @@
         "title": "Learn SQL: Aggregate Functions",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -503,7 +498,6 @@
         "title": "Learn SQL: Multiple Tables",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -511,7 +505,6 @@
         "title": "How to Analyze Business Metrics with SQL",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -519,7 +512,6 @@
         "title": "Learn Intermediate SQL for Marketers and Product Managers",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -527,7 +519,6 @@
         "title": "How to Transform Tables with SQL",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -537,7 +528,6 @@
         "authors": [
           "Charles Russell Severance"
         ],
-        "duration": 339,
         "type": "course"
       },
       {
@@ -545,7 +535,6 @@
         "title": "Databases and SQL for Data Science with Python",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -555,7 +544,6 @@
         "authors": [
           "Sadie St. Lawrence"
         ],
-        "duration": 691,
         "type": "course"
       },
       {
@@ -565,7 +553,6 @@
         "authors": [
           "Rav Ahuja"
         ],
-        "duration": 315,
         "type": "course"
       },
       {
@@ -575,7 +562,6 @@
         "authors": [
           "Michel Semaan"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -585,7 +571,6 @@
         "authors": [
           "Dmitriy Gorenshteyn"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -597,7 +582,6 @@
           "Tim Verdonck",
           "Bart Baesens"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -607,7 +591,6 @@
         "authors": [
           "Mona Khalil"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -617,7 +600,6 @@
         "authors": [
           "Lis Sulmont"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -627,7 +609,6 @@
         "authors": [
           "Christina Maimone"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -637,7 +618,6 @@
         "authors": [
           "Ana Voicu"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -647,7 +627,6 @@
         "authors": [
           "Dean Smith"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -657,7 +636,6 @@
         "authors": [
           "Jasmin Ludolf"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -667,7 +645,6 @@
         "authors": [
           "Nick Carchedi"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -677,7 +654,6 @@
         "authors": [
           "Timo Grossenbacher"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -687,7 +663,6 @@
         "authors": [
           "Izzy Weber"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -697,7 +672,6 @@
         "authors": [
           "Maham Khan"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -707,7 +681,6 @@
         "authors": [
           "Tyler Pernes"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -717,7 +690,6 @@
         "authors": [
           "Dr. Chester Ismay"
         ],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -727,7 +699,6 @@
         "authors": [
           "Meghan Kwartler"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -735,7 +706,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -745,7 +715,6 @@
         "authors": [
           "Scott Simpson"
         ],
-        "duration": 106,
         "type": "course"
       },
       {
@@ -755,7 +724,6 @@
         "authors": [
           "Emma Saunders"
         ],
-        "duration": 152,
         "type": "course"
       },
       {
@@ -765,7 +733,6 @@
         "authors": [
           "Walter Shields"
         ],
-        "duration": 264,
         "type": "course"
       },
       {
@@ -775,7 +742,6 @@
         "authors": [
           "Nikiya Simpson"
         ],
-        "duration": 61,
         "type": "course"
       },
       {
@@ -783,7 +749,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -793,7 +758,6 @@
         "authors": [
           "Imtiaz Ahmad"
         ],
-        "duration": 564,
         "type": "course"
       },
       {
@@ -804,7 +768,6 @@
           "Oracle Master Training | 200,000+ Students Worldwide",
           "Code Star Academy"
         ],
-        "duration": 856,
         "type": "course"
       },
       {
@@ -814,7 +777,6 @@
         "authors": [
           "Jon Avis - SQL Instructor"
         ],
-        "duration": 554,
         "type": "course"
       },
       {
@@ -824,7 +786,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1333,
         "type": "course"
       },
       {
@@ -835,7 +796,6 @@
           "Tim Buchalka's Learn Programming Academy",
           "Jean-Paul Roberts"
         ],
-        "duration": 471,
         "type": "course"
       },
       {
@@ -847,7 +807,6 @@
           "David Kim",
           "Peter Sefton"
         ],
-        "duration": 196,
         "type": "course"
       },
       {
@@ -857,7 +816,6 @@
         "authors": [
           "Global Academy"
         ],
-        "duration": 88,
         "type": "course"
       },
       {
@@ -867,7 +825,6 @@
         "authors": [
           "365 Careers"
         ],
-        "duration": 716,
         "type": "course"
       },
       {
@@ -879,7 +836,6 @@
           "Maximilian Schwarzmüller",
           "Manuel Lorenz"
         ],
-        "duration": 1183,
         "type": "course"
       },
       {
@@ -889,7 +845,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 531,
         "type": "course"
       },
       {
@@ -899,7 +854,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 2255,
         "type": "course"
       }
     ],

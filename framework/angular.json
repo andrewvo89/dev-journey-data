@@ -241,7 +241,6 @@
         "authors": [
           "Todd Motto"
         ],
-        "duration": 540,
         "type": "course"
       },
       {
@@ -251,7 +250,6 @@
         "authors": [
           "Todd Motto"
         ],
-        "duration": 1020,
         "type": "course"
       },
       {
@@ -262,7 +260,6 @@
           "Anh Le",
           "Neil Thawani"
         ],
-        "duration": 19,
         "type": "course"
       },
       {
@@ -272,7 +269,6 @@
         "authors": [
           "Yaakov Chaikin"
         ],
-        "duration": 2498,
         "type": "course"
       },
       {
@@ -282,7 +278,6 @@
         "authors": [
           "Randal L. Carr"
         ],
-        "duration": 90,
         "type": "course"
       },
       {
@@ -292,7 +287,6 @@
         "authors": [
           "Chaitra Deshpande"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -302,7 +296,6 @@
         "authors": [
           "Justin Schwartzenberger"
         ],
-        "duration": 210,
         "type": "course"
       },
       {
@@ -312,7 +305,6 @@
         "authors": [
           "Ray Villalobos"
         ],
-        "duration": 100,
         "type": "course"
       },
       {
@@ -322,7 +314,6 @@
         "authors": [
           "Deborah Kurata"
         ],
-        "duration": 351,
         "type": "course"
       },
       {
@@ -332,7 +323,6 @@
         "authors": [
           "Dan Wahlin"
         ],
-        "duration": 321,
         "type": "course"
       },
       {
@@ -342,7 +332,6 @@
         "authors": [
           "John Papa"
         ],
-        "duration": 188,
         "type": "course"
       },
       {
@@ -353,7 +342,6 @@
           "Deborah Kurata",
           "Duncan Hunter"
         ],
-        "duration": 254,
         "type": "course"
       },
       {
@@ -363,7 +351,6 @@
         "authors": [
           "Fabian Gosebrink"
         ],
-        "duration": 123,
         "type": "course"
       },
       {
@@ -373,7 +360,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 764,
         "type": "course"
       },
       {
@@ -383,7 +369,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 685,
         "type": "course"
       },
       {
@@ -393,7 +378,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 546,
         "type": "course"
       },
       {
@@ -403,7 +387,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 306,
         "type": "course"
       },
       {
@@ -413,7 +396,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 375,
         "type": "course"
       },
       {
@@ -423,7 +405,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 332,
         "type": "course"
       },
       {
@@ -433,7 +414,6 @@
         "authors": [
           "Mosh Hamedani"
         ],
-        "duration": 131,
         "type": "course"
       },
       {
@@ -443,7 +423,6 @@
         "authors": [
           "Mosh Hamedani"
         ],
-        "duration": 1773,
         "type": "course"
       },
       {
@@ -453,7 +432,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 2190,
         "type": "course"
       },
       {
@@ -463,7 +441,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 2721,
         "type": "course"
       }
     ],

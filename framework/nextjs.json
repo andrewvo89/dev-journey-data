@@ -170,7 +170,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1506,
         "type": "course"
       },
       {
@@ -180,7 +179,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 585,
         "type": "course"
       },
       {
@@ -190,7 +188,6 @@
         "authors": [
           "Laith Harb"
         ],
-        "duration": 850,
         "type": "course"
       },
       {
@@ -198,7 +195,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -206,7 +202,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -216,7 +211,6 @@
         "authors": [
           "Adhithi Ravichandran"
         ],
-        "duration": 94,
         "type": "course"
       },
       {
@@ -224,7 +218,6 @@
         "title": "Build a Server Rendered Website with Next.js",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -232,7 +225,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -240,7 +232,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

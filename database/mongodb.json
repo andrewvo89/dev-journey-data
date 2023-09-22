@@ -255,7 +255,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 750,
         "type": "course"
       },
       {
@@ -265,7 +264,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 720,
         "type": "course"
       },
       {
@@ -275,7 +273,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 1710,
         "type": "course"
       },
       {
@@ -285,7 +282,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -295,7 +291,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 900,
         "type": "course"
       },
       {
@@ -305,7 +300,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 900,
         "type": "course"
       },
       {
@@ -315,7 +309,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -325,7 +318,6 @@
         "authors": [
           "MongoDB University"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -335,7 +327,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -346,7 +337,6 @@
           "MongoDB University",
           "MongoDB for Academia"
         ],
-        "duration": 1087,
         "type": "course"
       },
       {
@@ -357,7 +347,6 @@
           "Nathan Leniz",
           "Kirby Kohlmorgen"
         ],
-        "duration": 1172,
         "type": "course"
       },
       {
@@ -367,7 +356,6 @@
         "authors": [
           "Naomi Pentrel"
         ],
-        "duration": 145,
         "type": "course"
       },
       {
@@ -377,7 +365,6 @@
         "authors": [
           "MongoDB"
         ],
-        "duration": 107,
         "type": "course"
       },
       {
@@ -387,7 +374,6 @@
         "authors": [
           "Justin Jenkins"
         ],
-        "duration": 145,
         "type": "course"
       },
       {
@@ -397,7 +383,6 @@
         "authors": [
           "Naomi Pentrel"
         ],
-        "duration": 194,
         "type": "course"
       },
       {
@@ -407,7 +392,6 @@
         "authors": [
           "A Cloud Guru"
         ],
-        "duration": 395,
         "type": "course"
       },
       {
@@ -417,7 +401,6 @@
         "authors": [
           "Joel Taylor"
         ],
-        "duration": 56,
         "type": "course"
       },
       {
@@ -427,7 +410,6 @@
         "authors": [
           "Pinal Dave"
         ],
-        "duration": 148,
         "type": "course"
       },
       {
@@ -437,7 +419,6 @@
         "authors": [
           "Mark Scott"
         ],
-        "duration": 116,
         "type": "course"
       },
       {
@@ -447,7 +428,6 @@
         "authors": [
           "Nuri Halperin"
         ],
-        "duration": 147,
         "type": "course"
       },
       {
@@ -457,7 +437,6 @@
         "authors": [
           "Dan Geabunea"
         ],
-        "duration": 105,
         "type": "course"
       },
       {
@@ -467,7 +446,6 @@
         "authors": [
           "Deeksha Sharma"
         ],
-        "duration": 68,
         "type": "course"
       },
       {
@@ -477,7 +455,6 @@
         "authors": [
           "Bogdan Stashchuk | Software Engineer, MBA, PhD"
         ],
-        "duration": 93,
         "type": "course"
       },
       {
@@ -487,7 +464,6 @@
         "authors": [
           "Sunil Kumar Gupta"
         ],
-        "duration": 1217,
         "type": "course"
       },
       {
@@ -497,7 +473,6 @@
         "authors": [
           "Bogdan Stashchuk | Software Engineer, MBA, PhD"
         ],
-        "duration": 617,
         "type": "course"
       },
       {
@@ -508,7 +483,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1054,
         "type": "course"
       },
       {
@@ -518,7 +492,6 @@
         "authors": [
           "Infybuzz Learning"
         ],
-        "duration": 253,
         "type": "course"
       },
       {
@@ -528,7 +501,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 784,
         "type": "course"
       },
       {
@@ -538,7 +510,6 @@
         "authors": [
           "Malvik Vaghadia"
         ],
-        "duration": 488,
         "type": "course"
       }
     ],

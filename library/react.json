@@ -510,7 +510,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 2899,
         "type": "course"
       },
       {
@@ -520,7 +519,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 2255,
         "type": "course"
       },
       {
@@ -530,7 +528,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 896,
         "type": "course"
       },
       {
@@ -540,7 +537,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 879,
         "type": "course"
       },
       {
@@ -550,7 +546,6 @@
         "authors": [
           "Andrei Neagoie, Yihua Zhang"
         ],
-        "duration": 2550,
         "type": "course"
       },
       {
@@ -560,7 +555,6 @@
         "authors": [
           "Samer Buna"
         ],
-        "duration": 242,
         "type": "course"
       },
       {
@@ -570,7 +564,6 @@
         "authors": [
           "Brian Holt"
         ],
-        "duration": 6,
         "type": "course"
       },
       {
@@ -580,7 +573,6 @@
         "authors": [
           "Brian Holt"
         ],
-        "duration": 366,
         "type": "course"
       },
       {
@@ -590,7 +582,6 @@
         "authors": [
           "Kent C. Dodds"
         ],
-        "duration": 204,
         "type": "course"
       },
       {
@@ -600,7 +591,6 @@
         "authors": [
           "Kent C. Dodds"
         ],
-        "duration": 251,
         "type": "course"
       },
       {
@@ -610,7 +600,6 @@
         "authors": [
           "Steve Kinney"
         ],
-        "duration": 271,
         "type": "course"
       },
       {
@@ -618,7 +607,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -628,7 +616,6 @@
         "authors": [
           "Bob Ziroll"
         ],
-        "duration": 790,
         "type": "course"
       },
       {
@@ -638,7 +625,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -648,7 +634,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -658,7 +643,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -668,7 +652,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -678,7 +661,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -688,7 +670,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 900,
         "type": "course"
       },
       {
@@ -698,7 +679,6 @@
         "authors": [
           "Shaun Wassell"
         ],
-        "duration": 221,
         "type": "course"
       },
       {
@@ -708,7 +688,6 @@
         "authors": [
           "Ray Villalobos"
         ],
-        "duration": 163,
         "type": "course"
       },
       {
@@ -718,7 +697,6 @@
         "authors": [
           "Shaun Wassell"
         ],
-        "duration": 199,
         "type": "course"
       },
       {
@@ -728,7 +706,6 @@
         "authors": [
           "Eve Porcello"
         ],
-        "duration": 121,
         "type": "course"
       },
       {
@@ -738,7 +715,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 78,
         "type": "course"
       },
       {
@@ -748,7 +724,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 52,
         "type": "course"
       },
       {
@@ -758,7 +733,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 58,
         "type": "course"
       },
       {
@@ -766,7 +740,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -777,7 +750,6 @@
           "Andrei Neagoie",
           "Yihua Zhang"
         ],
-        "duration": 2535,
         "type": "course"
       },
       {
@@ -787,7 +759,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 796,
         "type": "course"
       },
       {
@@ -797,7 +768,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 547,
         "type": "course"
       },
       {
@@ -807,7 +777,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 2328,
         "type": "course"
       },
       {
@@ -817,7 +786,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 837,
         "type": "course"
       },
       {
@@ -827,7 +795,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1553,
         "type": "course"
       },
       {
@@ -837,7 +804,6 @@
         "authors": [
           "Andrew Mead"
         ],
-        "duration": 2351,
         "type": "course"
       },
       {
@@ -847,7 +813,6 @@
         "authors": [
           "Leo Trieu"
         ],
-        "duration": 64,
         "type": "course"
       },
       {
@@ -857,7 +822,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1256,
         "type": "course"
       }
     ],

@@ -171,7 +171,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1225,
         "type": "course"
       },
       {
@@ -181,7 +180,6 @@
         "authors": [
           "Paul Halliday (BSc Hons)"
         ],
-        "duration": 754,
         "type": "course"
       },
       {
@@ -191,7 +189,6 @@
         "authors": [
           "Mirko Nasato"
         ],
-        "duration": 574,
         "type": "course"
       },
       {
@@ -203,7 +200,6 @@
           "Jason Taylor",
           "Samarth Agarwal"
         ],
-        "duration": 148,
         "type": "course"
       },
       {
@@ -213,7 +209,6 @@
         "authors": [
           "Sani Yusuf"
         ],
-        "duration": 304,
         "type": "course"
       },
       {
@@ -223,7 +218,6 @@
         "authors": [
           "Sani Yusuf"
         ],
-        "duration": 136,
         "type": "course"
       },
       {
@@ -233,7 +227,6 @@
         "authors": [
           "Reggie Dawson"
         ],
-        "duration": 66,
         "type": "course"
       },
       {
@@ -243,7 +236,6 @@
         "authors": [
           "Reggie Dawson"
         ],
-        "duration": 139,
         "type": "course"
       },
       {
@@ -251,7 +243,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -259,7 +250,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

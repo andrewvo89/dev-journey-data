@@ -221,7 +221,6 @@
         "authors": [
           "Rav Ahuja"
         ],
-        "duration": 315,
         "type": "course"
       },
       {
@@ -233,7 +232,6 @@
           "Amy Peterson",
           "James Chapman"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -246,7 +244,6 @@
           "Amy Peterson",
           "James Chapman"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -259,7 +256,6 @@
           "Amy Peterson",
           "James Chapman"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -269,7 +265,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 2255,
         "type": "course"
       },
       {
@@ -279,7 +274,6 @@
         "authors": [
           "365 Careers"
         ],
-        "duration": 716,
         "type": "course"
       },
       {
@@ -291,7 +285,6 @@
           "Maximilian Schwarzmüller",
           "Manuel Lorenz"
         ],
-        "duration": 1183,
         "type": "course"
       },
       {
@@ -301,7 +294,6 @@
         "authors": [
           "Creative Online School"
         ],
-        "duration": 179,
         "type": "course"
       },
       {
@@ -311,7 +303,6 @@
         "authors": [
           "Web Coding"
         ],
-        "duration": 143,
         "type": "course"
       },
       {
@@ -321,7 +312,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 1237,
         "type": "course"
       },
       {
@@ -331,7 +321,6 @@
         "authors": [
           "Sadie St. Lawrence"
         ],
-        "duration": 691,
         "type": "course"
       },
       {
@@ -341,7 +330,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 715,
         "type": "course"
       },
       {
@@ -351,7 +339,6 @@
         "authors": [
           "Pinal Dave"
         ],
-        "duration": 158,
         "type": "course"
       }
     ],

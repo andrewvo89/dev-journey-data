@@ -480,7 +480,6 @@
         "authors": [
           "Bo Milanovich"
         ],
-        "duration": 102,
         "type": "course"
       },
       {
@@ -490,7 +489,6 @@
         "authors": [
           "Chris Achard"
         ],
-        "duration": 68,
         "type": "course"
       },
       {
@@ -498,7 +496,6 @@
         "title": "Introduction to Python Scripting",
         "platform": "Pluralsight",
         "authors": [],
-        "duration": 415,
         "type": "course"
       },
       {
@@ -508,7 +505,6 @@
         "authors": [
           "Ada Morse"
         ],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -516,7 +512,6 @@
         "title": "Learn Advanced Python 3",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 540,
         "type": "course"
       },
       {
@@ -526,7 +521,6 @@
         "authors": [
           "Alisha Grama"
         ],
-        "duration": 2400,
         "type": "course"
       },
       {
@@ -536,7 +530,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 900,
         "type": "course"
       },
       {
@@ -544,7 +537,6 @@
         "title": "Learn Python 3",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 1500,
         "type": "course"
       },
       {
@@ -552,7 +544,6 @@
         "title": "Linear Regression in Python",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 420,
         "type": "course"
       },
       {
@@ -560,7 +551,6 @@
         "title": "How to Clean Data with Python",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -570,7 +560,6 @@
         "authors": [
           "Alisha Grama"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -580,7 +569,6 @@
         "authors": [
           "Google Career CertificatesTop InstructorGoogle Career Certificates is rated among the top instructors on Coursera."
         ],
-        "duration": 1207,
         "type": "course"
       },
       {
@@ -590,7 +578,6 @@
         "authors": [
           "Charles Russell Severance"
         ],
-        "duration": 705,
         "type": "course"
       },
       {
@@ -601,7 +588,6 @@
           "Paul Resnick",
           "Steve Oney"
         ],
-        "duration": 1359,
         "type": "course"
       },
       {
@@ -611,7 +597,6 @@
         "authors": [
           "Google Career CertificatesTop InstructorGoogle Career Certificates is rated among the top instructors on Coursera."
         ],
-        "duration": 1216,
         "type": "course"
       },
       {
@@ -621,7 +606,6 @@
         "authors": [
           "Joseph Santarcangelo"
         ],
-        "duration": 471,
         "type": "course"
       },
       {
@@ -634,7 +618,6 @@
           "Genevieve M. Lipp",
           "Kyle Bradbury"
         ],
-        "duration": 778,
         "type": "course"
       },
       {
@@ -644,7 +627,6 @@
         "authors": [
           "Brandon Krakowsky"
         ],
-        "duration": 2170,
         "type": "course"
       },
       {
@@ -652,7 +634,6 @@
         "title": "Google IT Automation with Python",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -665,7 +646,6 @@
           "V. G. Vinod Vydiswaran",
           "Daniel Romero"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -673,7 +653,6 @@
         "title": "Python for Everybody",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -681,7 +660,6 @@
         "title": "Python 3 Programming",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -691,7 +669,6 @@
         "authors": [
           "Hugo Bowne-Anderson"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -701,7 +678,6 @@
         "authors": [
           "Joe Marini"
         ],
-        "duration": 190,
         "type": "course"
       },
       {
@@ -711,7 +687,6 @@
         "authors": [
           "Michele Vallisneri"
         ],
-        "duration": 150,
         "type": "course"
       },
       {
@@ -721,7 +696,6 @@
         "authors": [
           "Ryan Mitchell"
         ],
-        "duration": 262,
         "type": "course"
       },
       {
@@ -731,7 +705,6 @@
         "authors": [
           "Nick Walter"
         ],
-        "duration": 115,
         "type": "course"
       },
       {
@@ -739,7 +712,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -749,7 +721,6 @@
         "authors": [
           "Dr. Angela Yu"
         ],
-        "duration": 3477,
         "type": "course"
       },
       {
@@ -759,7 +730,6 @@
         "authors": [
           "Al Sweigart"
         ],
-        "duration": 570,
         "type": "course"
       },
       {
@@ -769,7 +739,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1333,
         "type": "course"
       },
       {
@@ -779,7 +748,6 @@
         "authors": [
           "Andrei Neagoie"
         ],
-        "duration": 1852,
         "type": "course"
       },
       {
@@ -792,7 +760,6 @@
           "SuperDataScience Team",
           "Ligency Team"
         ],
-        "duration": 2554,
         "type": "course"
       },
       {
@@ -802,7 +769,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1914,
         "type": "course"
       },
       {
@@ -812,7 +778,6 @@
         "authors": [
           "Dev Nirwal"
         ],
-        "duration": 1927,
         "type": "course"
       },
       {
@@ -822,7 +787,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1494,
         "type": "course"
       },
       {
@@ -832,7 +796,6 @@
         "authors": [
           "Jason Cannon"
         ],
-        "duration": 173,
         "type": "course"
       },
       {
@@ -844,7 +807,6 @@
           "Jean-Paul Roberts",
           "Tim Buchalka's Learn Programming Academy"
         ],
-        "duration": 4473,
         "type": "course"
       },
       {
@@ -854,7 +816,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 1799,
         "type": "course"
       },
       {
@@ -865,7 +826,6 @@
           "Ziyad Yehia",
           "Internet of Things Academy"
         ],
-        "duration": 548,
         "type": "course"
       },
       {
@@ -875,7 +835,6 @@
         "authors": [
           "Ardit Sulce"
         ],
-        "duration": 3114,
         "type": "course"
       }
     ],

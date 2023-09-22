@@ -242,7 +242,6 @@
         "authors": [
           "Bo Andersen"
         ],
-        "duration": 752,
         "type": "course"
       },
       {
@@ -255,7 +254,6 @@
           "Coralogix Ltd.",
           "Sundog Education Team"
         ],
-        "duration": 911,
         "type": "course"
       },
       {
@@ -266,7 +264,6 @@
           "TetraNoodle Team",
           "Manuj Aggarwal"
         ],
-        "duration": 205,
         "type": "course"
       },
       {
@@ -276,7 +273,6 @@
         "authors": [
           "Vinoth Parthasarathy"
         ],
-        "duration": 368,
         "type": "course"
       },
       {
@@ -286,7 +282,6 @@
         "authors": [
           "Sezin Karli"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -296,7 +291,6 @@
         "authors": [
           "Tutorial Drive"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -306,7 +300,6 @@
         "authors": [
           "Aaron Rosenmund"
         ],
-        "duration": 101,
         "type": "course"
       },
       {
@@ -316,7 +309,6 @@
         "authors": [
           "Ben Sullins"
         ],
-        "duration": 100,
         "type": "course"
       },
       {
@@ -326,7 +318,6 @@
         "authors": [
           "Josh Samuelson"
         ],
-        "duration": 110,
         "type": "course"
       },
       {
@@ -336,7 +327,6 @@
         "authors": [
           "JP Toto"
         ],
-        "duration": 128,
         "type": "course"
       }
     ],

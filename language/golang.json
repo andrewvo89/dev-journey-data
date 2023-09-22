@@ -432,7 +432,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 600,
         "type": "course"
       },
       {
@@ -442,7 +441,6 @@
         "authors": [
           "Ian Harris"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -452,7 +450,6 @@
         "authors": [
           "Ian Harris"
         ],
-        "duration": 326,
         "type": "course"
       },
       {
@@ -462,7 +459,6 @@
         "authors": [
           "Ian Harris"
         ],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -472,7 +468,6 @@
         "authors": [
           "Ian Harris"
         ],
-        "duration": 236,
         "type": "course"
       },
       {
@@ -480,7 +475,6 @@
         "title": "Use Go Code to Work with Google Cloud Data Sources",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -490,7 +484,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 535,
         "type": "course"
       },
       {
@@ -500,7 +493,6 @@
         "authors": [
           "Trevor Sawler"
         ],
-        "duration": 1772,
         "type": "course"
       },
       {
@@ -508,7 +500,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -516,7 +507,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -526,7 +516,6 @@
         "authors": [
           "Sangeeta Singh"
         ],
-        "duration": 133,
         "type": "course"
       },
       {
@@ -536,7 +525,6 @@
         "authors": [
           "Carlos Souza"
         ],
-        "duration": 75,
         "type": "course"
       }
     ],

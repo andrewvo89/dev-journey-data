@@ -119,7 +119,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -130,7 +129,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 403,
         "type": "course"
       },
       {
@@ -140,7 +138,6 @@
         "authors": [
           "OnlyKiosk Tech"
         ],
-        "duration": 200,
         "type": "course"
       },
       {
@@ -150,7 +147,6 @@
         "authors": [
           "Laith Harb"
         ],
-        "duration": 1009,
         "type": "course"
       },
       {
@@ -158,7 +154,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -166,7 +161,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -174,7 +168,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -184,7 +177,6 @@
         "authors": [
           "Gift Egwuenu"
         ],
-        "duration": 92,
         "type": "course"
       },
       {
@@ -192,7 +184,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

@@ -218,7 +218,6 @@
         "authors": [
           "Andrew Mead"
         ],
-        "duration": 2103,
         "type": "course"
       },
       {
@@ -228,7 +227,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 968,
         "type": "course"
       },
       {
@@ -238,7 +236,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 2431,
         "type": "course"
       },
       {
@@ -248,7 +245,6 @@
         "authors": [
           "Samer Buna"
         ],
-        "duration": 209,
         "type": "course"
       },
       {
@@ -258,7 +254,6 @@
         "authors": [
           "Samer Buna"
         ],
-        "duration": 225,
         "type": "course"
       },
       {
@@ -268,7 +263,6 @@
         "authors": [
           "Jonas Schmedtmann"
         ],
-        "duration": 2532,
         "type": "course"
       },
       {
@@ -278,7 +272,6 @@
         "authors": [
           "Adam Odziemkowski , Andrei Neagoie"
         ],
-        "duration": 2880,
         "type": "course"
       },
       {
@@ -288,7 +281,6 @@
         "authors": [
           "Educative"
         ],
-        "duration": 420,
         "type": "course"
       },
       {
@@ -298,7 +290,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 723,
         "type": "course"
       },
       {
@@ -308,7 +299,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 764,
         "type": "course"
       },
       {
@@ -319,7 +309,6 @@
           "Upkar Lidder",
           "Sachin Jambur"
         ],
-        "duration": 238,
         "type": "course"
       },
       {
@@ -330,7 +319,6 @@
           "Morgan WillisTop InstructorMorgan Willis is rated among the top instructors on Coursera.",
           "Seph Robinson"
         ],
-        "duration": 1235,
         "type": "course"
       },
       {
@@ -341,7 +329,6 @@
           "Upkar Lidder",
           "Sachin Jambur"
         ],
-        "duration": 333,
         "type": "course"
       },
       {
@@ -351,7 +338,6 @@
         "authors": [
           "Codecademy"
         ],
-        "duration": 420,
         "type": "course"
       }
     ],

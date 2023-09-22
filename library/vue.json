@@ -294,7 +294,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -302,7 +301,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -310,7 +308,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -318,7 +315,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -328,7 +324,6 @@
         "authors": [
           "Leanne from Scrimba"
         ],
-        "duration": 528,
         "type": "course"
       },
       {
@@ -336,7 +331,6 @@
         "title": "Learn Vue.js",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -346,7 +340,6 @@
         "authors": [
           "Michael Sullivan"
         ],
-        "duration": 101,
         "type": "course"
       },
       {
@@ -356,7 +349,6 @@
         "authors": [
           "Ray Villalobos"
         ],
-        "duration": 308,
         "type": "course"
       },
       {
@@ -366,7 +358,6 @@
         "authors": [
           "Daniel Stern"
         ],
-        "duration": 52,
         "type": "course"
       },
       {
@@ -376,7 +367,6 @@
         "authors": [
           "Jim Cooper"
         ],
-        "duration": 338,
         "type": "course"
       },
       {
@@ -386,7 +376,6 @@
         "authors": [
           "Jim Cooper"
         ],
-        "duration": 340,
         "type": "course"
       },
       {
@@ -397,7 +386,6 @@
           "Maximilian Schwarzmüller",
           "Academind by Maximilian Schwarzmüller"
         ],
-        "duration": 472,
         "type": "course"
       },
       {
@@ -405,7 +393,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -413,7 +400,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -424,7 +410,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 403,
         "type": "course"
       },
       {
@@ -434,7 +419,6 @@
         "authors": [
           "Danny Connell"
         ],
-        "duration": 554,
         "type": "course"
       },
       {
@@ -444,7 +428,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 623,
         "type": "course"
       },
       {
@@ -452,7 +435,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -460,7 +442,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

@@ -260,7 +260,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -268,7 +267,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -276,7 +274,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -284,7 +281,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -292,7 +288,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -300,7 +295,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -308,7 +302,6 @@
         "title": "Getting started with Flutter Development",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -316,7 +309,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -326,7 +318,6 @@
         "authors": [
           "Pooja Bhaumik"
         ],
-        "duration": 464,
         "type": "course"
       },
       {
@@ -336,7 +327,6 @@
         "authors": [
           "Simone Alessandria"
         ],
-        "duration": 74,
         "type": "course"
       },
       {
@@ -346,7 +336,6 @@
         "authors": [
           "Simone Alessandria"
         ],
-        "duration": 166,
         "type": "course"
       },
       {
@@ -354,7 +343,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -364,7 +352,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1874,
         "type": "course"
       },
       {
@@ -374,7 +361,6 @@
         "authors": [
           "Maximilian Berktold"
         ],
-        "duration": 2437,
         "type": "course"
       },
       {
@@ -384,7 +370,6 @@
         "authors": [
           "Dr. Angela Yu"
         ],
-        "duration": 1726,
         "type": "course"
       },
       {
@@ -394,7 +379,6 @@
         "authors": [
           "Paulo Dichone | Software Engineer, AWS Cloud Practitioner & Instructor"
         ],
-        "duration": 1548,
         "type": "course"
       },
       {
@@ -405,7 +389,6 @@
           "Maximilian Berktold",
           "Max Steffen"
         ],
-        "duration": 2152,
         "type": "course"
       },
       {
@@ -415,7 +398,6 @@
         "authors": [
           "Bryan Cairns"
         ],
-        "duration": 136,
         "type": "course"
       },
       {
@@ -426,7 +408,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1799,
         "type": "course"
       }
     ],

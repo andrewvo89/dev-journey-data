@@ -299,7 +299,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1799,
         "type": "course"
       },
       {
@@ -309,7 +308,6 @@
         "authors": [
           "Bryan Cairns"
         ],
-        "duration": 121,
         "type": "course"
       },
       {
@@ -319,7 +317,6 @@
         "authors": [
           "Bryan Cairns"
         ],
-        "duration": 123,
         "type": "course"
       },
       {
@@ -329,7 +326,6 @@
         "authors": [
           "Hassan Fulaih"
         ],
-        "duration": 449,
         "type": "course"
       },
       {
@@ -339,7 +335,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1874,
         "type": "course"
       },
       {
@@ -349,7 +344,6 @@
         "authors": [
           "Andrea Bizzotto"
         ],
-        "duration": 587,
         "type": "course"
       },
       {
@@ -359,7 +353,6 @@
         "authors": [
           "Bryan Cairns"
         ],
-        "duration": 144,
         "type": "course"
       },
       {
@@ -367,7 +360,6 @@
         "title": "Introduction to Dart",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -375,7 +367,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -383,7 +374,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -391,7 +381,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -401,7 +390,6 @@
         "authors": [
           "Temidayo Adefioye"
         ],
-        "duration": 52,
         "type": "course"
       },
       {
@@ -411,7 +399,6 @@
         "authors": [
           "Temidayo Adefioye"
         ],
-        "duration": 50,
         "type": "course"
       },
       {
@@ -419,7 +406,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

@@ -171,7 +171,6 @@
         "title": "Create Your First Web App with Python and Flask",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -179,7 +178,6 @@
         "title": "Deploying a Python Flask Web Application to App Engine Flexible",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -187,7 +185,6 @@
         "title": "Flask for Beginners: Creating an Application",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -195,7 +192,6 @@
         "title": "Web Development in Flask: Build Your First Website",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -205,7 +201,6 @@
         "authors": [
           "Nick Janetakis"
         ],
-        "duration": 634,
         "type": "course"
       },
       {
@@ -216,7 +211,6 @@
           "Jose Salvatierra",
           "Teclado by Jose Salvatierra"
         ],
-        "duration": 721,
         "type": "course"
       },
       {
@@ -226,7 +220,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1199,
         "type": "course"
       },
       {
@@ -236,7 +229,6 @@
         "authors": [
           "Horizon Tech"
         ],
-        "duration": 722,
         "type": "course"
       },
       {
@@ -246,7 +238,6 @@
         "authors": [
           "Horizon Tech"
         ],
-        "duration": 484,
         "type": "course"
       },
       {
@@ -256,7 +247,6 @@
         "authors": [
           "Febin George"
         ],
-        "duration": 176,
         "type": "course"
       },
       {
@@ -264,7 +254,6 @@
         "title": "Learn Flask",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 600,
         "type": "course"
       },
       {
@@ -274,7 +263,6 @@
         "authors": [
           "Nick Walter"
         ],
-        "duration": 126,
         "type": "course"
       },
       {
@@ -282,7 +270,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -292,7 +279,6 @@
         "authors": [
           "Reindert-Jan Ekker"
         ],
-        "duration": 124,
         "type": "course"
       }
     ],

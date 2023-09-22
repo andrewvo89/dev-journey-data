@@ -277,7 +277,6 @@
         "authors": [
           "Izzy Weber"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -287,7 +286,6 @@
         "authors": [
           "Terezija Semenski"
         ],
-        "duration": 86,
         "type": "course"
       },
       {
@@ -297,7 +295,6 @@
         "authors": [
           "Terezija Semenski"
         ],
-        "duration": 72,
         "type": "course"
       },
       {
@@ -308,7 +305,6 @@
           "Paweł Krakowiak",
           "takeITeasy Academy"
         ],
-        "duration": 45,
         "type": "course"
       },
       {
@@ -318,7 +314,6 @@
         "authors": [
           "Lazy Programmer Inc."
         ],
-        "duration": 372,
         "type": "course"
       },
       {
@@ -328,7 +323,6 @@
         "authors": [
           "Surendra Varma Pericherla"
         ],
-        "duration": 122,
         "type": "course"
       },
       {
@@ -340,7 +334,6 @@
           "OAK Academy Team",
           "Ali̇ CAVDAR"
         ],
-        "duration": 1259,
         "type": "course"
       },
       {
@@ -351,7 +344,6 @@
           "Maven Analytics",
           "Chris Bruehl"
         ],
-        "duration": 812,
         "type": "course"
       },
       {
@@ -361,7 +353,6 @@
         "authors": [
           "Holczer Balazs"
         ],
-        "duration": 821,
         "type": "course"
       },
       {
@@ -371,7 +362,6 @@
         "authors": [
           "Eftekher Husain"
         ],
-        "duration": 77,
         "type": "course"
       }
     ],

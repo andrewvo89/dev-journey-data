@@ -439,7 +439,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -449,7 +448,6 @@
         "authors": [
           "Nathan Stocks"
         ],
-        "duration": 172,
         "type": "course"
       },
       {
@@ -459,7 +457,6 @@
         "authors": [
           "Nathan Stocks"
         ],
-        "duration": 257,
         "type": "course"
       },
       {
@@ -469,7 +466,6 @@
         "authors": [
           "Dmitri Nesteruk"
         ],
-        "duration": 498,
         "type": "course"
       },
       {
@@ -479,7 +475,6 @@
         "authors": [
           "Lyubomir Gavadinov"
         ],
-        "duration": 391,
         "type": "course"
       },
       {
@@ -489,7 +484,6 @@
         "authors": [
           "Jayson Lennon"
         ],
-        "duration": 657,
         "type": "course"
       },
       {
@@ -499,7 +493,6 @@
         "authors": [
           "Packt Publishing"
         ],
-        "duration": 376,
         "type": "course"
       },
       {
@@ -509,7 +502,6 @@
         "authors": [
           "Packt Publishing"
         ],
-        "duration": 337,
         "type": "course"
       },
       {
@@ -519,7 +511,6 @@
         "authors": [
           "Edward Curren"
         ],
-        "duration": 214,
         "type": "course"
       },
       {
@@ -529,7 +520,6 @@
         "authors": [
           "Barron Stone"
         ],
-        "duration": 407,
         "type": "course"
       },
       {
@@ -539,7 +529,6 @@
         "authors": [
           "Tim McNamara"
         ],
-        "duration": 144,
         "type": "course"
       },
       {
@@ -547,7 +536,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

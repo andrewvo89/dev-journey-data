@@ -325,7 +325,6 @@
         "authors": [
           "Jonathan Klein"
         ],
-        "duration": 50,
         "type": "course"
       },
       {
@@ -335,7 +334,6 @@
         "authors": [
           "Annapurna Agrawal"
         ],
-        "duration": 79,
         "type": "course"
       },
       {
@@ -345,7 +343,6 @@
         "authors": [
           "Christian Wenz"
         ],
-        "duration": 195,
         "type": "course"
       },
       {
@@ -355,7 +352,6 @@
         "authors": [
           "Kevin Skoglund"
         ],
-        "duration": 244,
         "type": "course"
       },
       {
@@ -365,7 +361,6 @@
         "authors": [
           "Joe Casabona"
         ],
-        "duration": 281,
         "type": "course"
       },
       {
@@ -375,7 +370,6 @@
         "authors": [
           "Charles Russell Severance"
         ],
-        "duration": 535,
         "type": "course"
       },
       {
@@ -383,7 +377,6 @@
         "title": "Building Web Applications in PHP",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -393,7 +386,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -403,7 +395,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -413,7 +404,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -423,7 +413,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -433,7 +422,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -443,7 +431,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -453,7 +440,6 @@
         "authors": [
           "David Patlut"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -463,7 +449,6 @@
         "authors": [
           "Dave Hollingworth"
         ],
-        "duration": 164,
         "type": "course"
       },
       {
@@ -473,7 +458,6 @@
         "authors": [
           "YouAccel Training"
         ],
-        "duration": 107,
         "type": "course"
       },
       {
@@ -483,7 +467,6 @@
         "authors": [
           "YouAccel Training"
         ],
-        "duration": 195,
         "type": "course"
       },
       {
@@ -493,7 +476,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 399,
         "type": "course"
       },
       {
@@ -504,7 +486,6 @@
           "Eduonix Learning Solutions",
           "Eduonix-Tech ."
         ],
-        "duration": 268,
         "type": "course"
       },
       {
@@ -515,7 +496,6 @@
           "Edwin Diaz",
           "Coding Faculty Solutions"
         ],
-        "duration": 2574,
         "type": "course"
       },
       {
@@ -526,7 +506,6 @@
           "Edwin Diaz",
           "Coding Faculty Solutions"
         ],
-        "duration": 2230,
         "type": "course"
       }
     ],

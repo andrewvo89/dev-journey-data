@@ -89,7 +89,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 752,
         "type": "course"
       },
       {
@@ -99,7 +98,6 @@
         "authors": [
           "Martin Krebs Eberth"
         ],
-        "duration": 450,
         "type": "course"
       },
       {
@@ -109,7 +107,6 @@
         "authors": [
           "Ashutosh Pawar"
         ],
-        "duration": 391,
         "type": "course"
       },
       {
@@ -119,7 +116,6 @@
         "authors": [
           "Victor Gonzalez"
         ],
-        "duration": 154,
         "type": "course"
       },
       {
@@ -127,7 +123,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -137,7 +132,6 @@
         "authors": [
           "Shawn Wildermuth"
         ],
-        "duration": 162,
         "type": "course"
       },
       {
@@ -145,7 +139,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

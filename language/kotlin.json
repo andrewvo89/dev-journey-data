@@ -427,7 +427,6 @@
         "authors": [
           "Jace van Auken"
         ],
-        "duration": 900,
         "type": "course"
       },
       {
@@ -437,7 +436,6 @@
         "authors": [
           "Jace van Auken"
         ],
-        "duration": 300,
         "type": "course"
       },
       {
@@ -447,7 +445,6 @@
         "authors": [
           "Jace van Auken"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -457,7 +454,6 @@
         "authors": [
           "Jace van Auken"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -468,7 +464,6 @@
           "Svetlana Isakova",
           "Andrey Breslav"
         ],
-        "duration": 493,
         "type": "course"
       },
       {
@@ -478,7 +473,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 1454,
         "type": "course"
       },
       {
@@ -488,7 +482,6 @@
         "authors": [
           "Annyce Davis"
         ],
-        "duration": 128,
         "type": "course"
       },
       {
@@ -498,7 +491,6 @@
         "authors": [
           "Nate Ebel"
         ],
-        "duration": 282,
         "type": "course"
       },
       {
@@ -508,7 +500,6 @@
         "authors": [
           "Chiu-Ki Chan"
         ],
-        "duration": 73,
         "type": "course"
       },
       {
@@ -518,7 +509,6 @@
         "authors": [
           "Troy Miles"
         ],
-        "duration": 163,
         "type": "course"
       },
       {
@@ -528,7 +518,6 @@
         "authors": [
           "Jim Wilson"
         ],
-        "duration": 256,
         "type": "course"
       },
       {
@@ -538,7 +527,6 @@
         "authors": [
           "Markus Neuhoff"
         ],
-        "duration": 55,
         "type": "course"
       },
       {
@@ -548,7 +536,6 @@
         "authors": [
           "Kevin Jones"
         ],
-        "duration": 287,
         "type": "course"
       },
       {
@@ -558,7 +545,6 @@
         "authors": [
           "Kevin Jones"
         ],
-        "duration": 129,
         "type": "course"
       },
       {
@@ -566,7 +552,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -577,7 +562,6 @@
           "Denis Panjuta",
           "Tutorials.eu by Denis Panjuta"
         ],
-        "duration": 2835,
         "type": "course"
       },
       {
@@ -590,7 +574,6 @@
           "Tim Buchalka's Learn Programming Academy",
           "David Reidy"
         ],
-        "duration": 3734,
         "type": "course"
       },
       {
@@ -600,7 +583,6 @@
         "authors": [
           "Devslopes by Mark Wahlbeck"
         ],
-        "duration": 1372,
         "type": "course"
       },
       {
@@ -610,7 +592,6 @@
         "authors": [
           "Peter Sommerhoff"
         ],
-        "duration": 557,
         "type": "course"
       },
       {
@@ -620,7 +601,6 @@
         "authors": [
           "Peter Sommerhoff"
         ],
-        "duration": 396,
         "type": "course"
       },
       {
@@ -632,7 +612,6 @@
           "Goran Lochert",
           "Tim Buchalka's Learn Programming Academy"
         ],
-        "duration": 1005,
         "type": "course"
       },
       {
@@ -642,7 +621,6 @@
         "authors": [
           "Catalin Stefan"
         ],
-        "duration": 1852,
         "type": "course"
       },
       {
@@ -654,7 +632,6 @@
           "Nick Walter",
           "Rob Percival"
         ],
-        "duration": 739,
         "type": "course"
       }
     ],

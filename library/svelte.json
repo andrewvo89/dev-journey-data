@@ -192,7 +192,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -200,7 +199,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -210,7 +208,6 @@
         "authors": [
           "Noah Kaufman"
         ],
-        "duration": 51,
         "type": "course"
       },
       {
@@ -220,7 +217,6 @@
         "authors": [
           "Ayodele Leom"
         ],
-        "duration": 89,
         "type": "course"
       },
       {
@@ -230,7 +226,6 @@
         "authors": [
           "Ray Villalobos"
         ],
-        "duration": 57,
         "type": "course"
       },
       {
@@ -240,7 +235,6 @@
         "authors": [
           "Jake Trent"
         ],
-        "duration": 97,
         "type": "course"
       },
       {
@@ -250,7 +244,6 @@
         "authors": [
           "Ali Alaa"
         ],
-        "duration": 1933,
         "type": "course"
       },
       {
@@ -260,7 +253,6 @@
         "authors": [
           "Dr. Mohammad Nauman"
         ],
-        "duration": 127,
         "type": "course"
       },
       {
@@ -271,7 +263,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 762,
         "type": "course"
       }
     ],

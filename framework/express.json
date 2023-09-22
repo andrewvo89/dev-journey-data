@@ -200,7 +200,6 @@
         "title": "Learn Express",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -208,7 +207,6 @@
         "title": "Make a GraphQL Server with ExpressJS",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -216,7 +214,6 @@
         "title": "Node.js Backend Basics with Best Practices",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -226,7 +223,6 @@
         "authors": [
           "Daniel Khan"
         ],
-        "duration": 190,
         "type": "course"
       },
       {
@@ -236,7 +232,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 77,
         "type": "course"
       },
       {
@@ -246,7 +241,6 @@
         "authors": [
           "Jamie Pittman"
         ],
-        "duration": 119,
         "type": "course"
       },
       {
@@ -256,7 +250,6 @@
         "authors": [
           "Hadi Hariri"
         ],
-        "duration": 134,
         "type": "course"
       },
       {
@@ -266,7 +259,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 968,
         "type": "course"
       },
       {
@@ -276,7 +268,6 @@
         "authors": [
           "Robert Bunch"
         ],
-        "duration": 761,
         "type": "course"
       },
       {
@@ -286,7 +277,6 @@
         "authors": [
           "Jonas Schmedtmann"
         ],
-        "duration": 2532,
         "type": "course"
       },
       {
@@ -297,7 +287,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 2431,
         "type": "course"
       },
       {
@@ -309,7 +298,6 @@
           "Maximilian Schwarzmüller",
           "Manuel Lorenz"
         ],
-        "duration": 1130,
         "type": "course"
       }
     ],

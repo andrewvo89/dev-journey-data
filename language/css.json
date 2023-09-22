@@ -287,7 +287,6 @@
           "Brad Traversy",
           "Florin Pop"
         ],
-        "duration": 1109,
         "type": "course"
       },
       {
@@ -297,7 +296,6 @@
         "authors": [
           "Jonas Schmedtmann"
         ],
-        "duration": 1689,
         "type": "course"
       },
       {
@@ -307,7 +305,6 @@
         "authors": [
           "Ahmed Sadek"
         ],
-        "duration": 768,
         "type": "course"
       },
       {
@@ -319,7 +316,6 @@
           "Maximilian Schwarzmüller",
           "Manuel Lorenz"
         ],
-        "duration": 1366,
         "type": "course"
       },
       {
@@ -329,7 +325,6 @@
         "authors": [
           "Jonas Schmedtmann"
         ],
-        "duration": 2250,
         "type": "course"
       },
       {
@@ -339,7 +334,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 2232,
         "type": "course"
       },
       {
@@ -349,7 +343,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 1246,
         "type": "course"
       },
       {
@@ -359,7 +352,6 @@
         "authors": [
           "Dr. Angela Yu"
         ],
-        "duration": 3963,
         "type": "course"
       },
       {
@@ -369,7 +361,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 4435,
         "type": "course"
       },
       {
@@ -379,7 +370,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 600,
         "type": "course"
       },
       {
@@ -389,7 +379,6 @@
         "authors": [
           "Yaakov Chaikin"
         ],
-        "duration": 2404,
         "type": "course"
       },
       {
@@ -400,7 +389,6 @@
           "Colleen van Lent, Ph.D.",
           "Charles Russell Severance"
         ],
-        "duration": 497,
         "type": "course"
       },
       {
@@ -410,7 +398,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 1142,
         "type": "course"
       },
       {
@@ -418,7 +405,6 @@
         "title": "Introduction to CSS in Web Development",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -428,7 +414,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 75,
         "type": "course"
       },
       {
@@ -438,7 +423,6 @@
         "authors": [
           "Board Infinity"
         ],
-        "duration": 1525,
         "type": "course"
       },
       {
@@ -448,7 +432,6 @@
         "authors": [
           "Per Harald Borgen"
         ],
-        "duration": 333,
         "type": "course"
       },
       {
@@ -456,7 +439,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -466,7 +448,6 @@
         "authors": [
           "Jeff Batt"
         ],
-        "duration": 81,
         "type": "course"
       },
       {
@@ -476,7 +457,6 @@
         "authors": [
           "Nate Taylor"
         ],
-        "duration": 114,
         "type": "course"
       },
       {
@@ -486,7 +466,6 @@
         "authors": [
           "Brian Treese"
         ],
-        "duration": 73,
         "type": "course"
       },
       {
@@ -496,7 +475,6 @@
         "authors": [
           "Sandy Ludosky"
         ],
-        "duration": 129,
         "type": "course"
       },
       {
@@ -506,7 +484,6 @@
         "authors": [
           "Brian Treese"
         ],
-        "duration": 70,
         "type": "course"
       },
       {
@@ -516,7 +493,6 @@
         "authors": [
           "Susan Simkins"
         ],
-        "duration": 50,
         "type": "course"
       },
       {
@@ -526,7 +502,6 @@
         "authors": [
           "Paul Cheney"
         ],
-        "duration": 134,
         "type": "course"
       },
       {
@@ -536,7 +511,6 @@
         "authors": [
           "Paul Cheney"
         ],
-        "duration": 261,
         "type": "course"
       },
       {
@@ -546,7 +520,6 @@
         "authors": [
           "Rachel Nabors"
         ],
-        "duration": 242,
         "type": "course"
       }
     ],

@@ -127,7 +127,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -138,7 +137,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 762,
         "type": "course"
       },
       {
@@ -148,7 +146,6 @@
         "authors": [
           "Ali Alaa"
         ],
-        "duration": 1933,
         "type": "course"
       },
       {
@@ -159,7 +156,6 @@
           "Codestars • over 2 million students worldwide!",
           "Noah Glaser"
         ],
-        "duration": 789,
         "type": "course"
       }
     ],

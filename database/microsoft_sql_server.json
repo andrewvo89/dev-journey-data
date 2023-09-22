@@ -187,7 +187,6 @@
         "authors": [
           "Valiveti Sekhar"
         ],
-        "duration": 211,
         "type": "course"
       },
       {
@@ -199,7 +198,6 @@
           "Learn IT University",
           "Andrii Piatakha"
         ],
-        "duration": 499,
         "type": "course"
       },
       {
@@ -209,7 +207,6 @@
         "authors": [
           "Yasir Mehmood"
         ],
-        "duration": 106,
         "type": "course"
       },
       {
@@ -219,7 +216,6 @@
         "authors": [
           "Mike West"
         ],
-        "duration": 112,
         "type": "course"
       },
       {
@@ -229,7 +225,6 @@
         "authors": [
           "Daniel Tait"
         ],
-        "duration": 794,
         "type": "course"
       },
       {
@@ -239,7 +234,6 @@
         "authors": [
           "Sandeep Kumar"
         ],
-        "duration": 668,
         "type": "course"
       },
       {
@@ -249,7 +243,6 @@
         "authors": [
           "ELOA FORMATION | SQL | Postgres | Powershell| MySQL | Python | TSQL Administration,TSQL, and SQL Server performance."
         ],
-        "duration": 437,
         "type": "course"
       },
       {
@@ -259,7 +252,6 @@
         "authors": [
           "Dan Sullivan"
         ],
-        "duration": 129,
         "type": "course"
       },
       {
@@ -269,7 +261,6 @@
         "authors": [
           "Mark Veljkov"
         ],
-        "duration": 90,
         "type": "course"
       },
       {
@@ -279,7 +270,6 @@
         "authors": [
           "Adam Wilbert"
         ],
-        "duration": 85,
         "type": "course"
       },
       {
@@ -289,7 +279,6 @@
         "authors": [
           "Kevin Hill"
         ],
-        "duration": 164,
         "type": "course"
       },
       {
@@ -300,7 +289,6 @@
           "Pinal Dave",
           "Vinod Kumar"
         ],
-        "duration": 119,
         "type": "course"
       }
     ],

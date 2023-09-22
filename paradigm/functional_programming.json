@@ -322,7 +322,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -330,7 +329,6 @@
         "title": "Functional Programming Principles in Scala",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -338,7 +336,6 @@
         "title": "Functional Programming in Scala",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -346,7 +343,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -356,7 +352,6 @@
         "authors": [
           "Nate Taylor"
         ],
-        "duration": 72,
         "type": "course"
       },
       {
@@ -366,7 +361,6 @@
         "authors": [
           "Dave Fancher"
         ],
-        "duration": 85,
         "type": "course"
       },
       {
@@ -374,7 +368,6 @@
         "title": "Functional Programming Concepts in JavaScript",
         "platform": "Pluralsight",
         "authors": [],
-        "duration": 89,
         "type": "course"
       },
       {
@@ -384,7 +377,6 @@
         "authors": [
           "Nate Taylor"
         ],
-        "duration": 85,
         "type": "course"
       },
       {
@@ -394,7 +386,6 @@
         "authors": [
           "Thiago Temple"
         ],
-        "duration": 128,
         "type": "course"
       },
       {
@@ -404,7 +395,6 @@
         "authors": [
           "Engineer Spock"
         ],
-        "duration": 246,
         "type": "course"
       },
       {
@@ -412,7 +402,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -420,7 +409,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -428,7 +416,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

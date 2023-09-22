@@ -272,7 +272,6 @@
         "authors": [
           "Ben Stone"
         ],
-        "duration": 540,
         "type": "course"
       },
       {
@@ -282,7 +281,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 1500,
         "type": "course"
       },
       {
@@ -292,7 +290,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 480,
         "type": "course"
       },
       {
@@ -302,7 +299,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -312,7 +308,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -322,7 +317,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -332,7 +326,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -342,7 +335,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 360,
         "type": "course"
       },
       {
@@ -352,7 +344,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -362,7 +353,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -372,7 +362,6 @@
         "authors": [
           "Ben Stone"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -382,7 +371,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -390,7 +378,6 @@
         "title": "Introduction to Non-linear Data Structures in Swift",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 420,
         "type": "course"
       },
       {
@@ -398,7 +385,6 @@
         "title": "Advanced iOS Development",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -408,7 +394,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 665,
         "type": "course"
       },
       {
@@ -416,7 +401,6 @@
         "title": "Programming Fundamentals in Swift",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -426,7 +410,6 @@
         "authors": [
           "Mark Price"
         ],
-        "duration": 548,
         "type": "course"
       },
       {
@@ -434,7 +417,6 @@
         "title": "Introduction To Swift Programming",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -444,7 +426,6 @@
         "authors": [
           "Parham Aarabi"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -452,7 +433,6 @@
         "title": "iOS Development for Creative Entrepreneurs",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -462,7 +442,6 @@
         "authors": [
           "Mark Price"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -472,7 +451,6 @@
         "authors": [
           "Karoly Nyisztor"
         ],
-        "duration": 85,
         "type": "course"
       },
       {
@@ -482,7 +460,6 @@
         "authors": [
           "Andrew Bancroft"
         ],
-        "duration": 278,
         "type": "course"
       },
       {
@@ -490,7 +467,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -498,7 +474,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -506,7 +481,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -516,7 +490,6 @@
         "authors": [
           "Dmitri Nesteruk"
         ],
-        "duration": 520,
         "type": "course"
       },
       {
@@ -526,7 +499,6 @@
         "authors": [
           "Stephen DeStefano"
         ],
-        "duration": 907,
         "type": "course"
       },
       {
@@ -536,7 +508,6 @@
         "authors": [
           "Dr. Angela Yu"
         ],
-        "duration": 3624,
         "type": "course"
       },
       {
@@ -546,7 +517,6 @@
         "authors": [
           "Nick Walter"
         ],
-        "duration": 345,
         "type": "course"
       }
     ],

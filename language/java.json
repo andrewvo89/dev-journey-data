@@ -416,7 +416,6 @@
           "Leo Porter",
           "Christine Alvarado"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -429,7 +428,6 @@
           "Owen Astrachan",
           "Andrew D. Hilton"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -439,7 +437,6 @@
         "authors": [
           "Maurice Naftalin"
         ],
-        "duration": 125,
         "type": "course"
       },
       {
@@ -449,7 +446,6 @@
         "authors": [
           "Esteban Herrera"
         ],
-        "duration": 108,
         "type": "course"
       },
       {
@@ -459,7 +455,6 @@
         "authors": [
           "Andrejs Doronins"
         ],
-        "duration": 153,
         "type": "course"
       },
       {
@@ -469,7 +464,6 @@
         "authors": [
           "Andrejs Doronins"
         ],
-        "duration": 86,
         "type": "course"
       },
       {
@@ -479,7 +473,6 @@
         "authors": [
           "Richard Warburton"
         ],
-        "duration": 149,
         "type": "course"
       },
       {
@@ -489,7 +482,6 @@
         "authors": [
           "Bethan Palmer"
         ],
-        "duration": 115,
         "type": "course"
       },
       {
@@ -499,7 +491,6 @@
         "authors": [
           "Maaike van Putten"
         ],
-        "duration": 140,
         "type": "course"
       },
       {
@@ -509,7 +500,6 @@
         "authors": [
           "Frank P Moley III"
         ],
-        "duration": 96,
         "type": "course"
       },
       {
@@ -519,7 +509,6 @@
         "authors": [
           "David Gassner"
         ],
-        "duration": 169,
         "type": "course"
       },
       {
@@ -529,7 +518,6 @@
         "authors": [
           "David Gassner"
         ],
-        "duration": 367,
         "type": "course"
       },
       {
@@ -539,7 +527,6 @@
         "authors": [
           "Kathryn Hodge"
         ],
-        "duration": 159,
         "type": "course"
       },
       {
@@ -547,7 +534,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -555,7 +541,6 @@
         "title": "Learn Java",
         "platform": "Codecademy",
         "authors": [],
-        "duration": 1500,
         "type": "course"
       },
       {
@@ -565,7 +550,6 @@
         "authors": [
           "Lets Kode It"
         ],
-        "duration": 505,
         "type": "course"
       },
       {
@@ -575,7 +559,6 @@
         "authors": [
           "Nick H"
         ],
-        "duration": 524,
         "type": "course"
       },
       {
@@ -585,7 +568,6 @@
         "authors": [
           "Dmitri Nesteruk"
         ],
-        "duration": 630,
         "type": "course"
       },
       {
@@ -595,7 +577,6 @@
         "authors": [
           "Pragmatic Code School"
         ],
-        "duration": 667,
         "type": "course"
       },
       {
@@ -605,7 +586,6 @@
         "authors": [
           "Tim Short"
         ],
-        "duration": 201,
         "type": "course"
       },
       {
@@ -615,7 +595,6 @@
         "authors": [
           "Abdul Bari"
         ],
-        "duration": 3683,
         "type": "course"
       },
       {
@@ -625,7 +604,6 @@
         "authors": [
           "Dheeru Mundluru"
         ],
-        "duration": 4164,
         "type": "course"
       },
       {
@@ -635,7 +613,6 @@
         "authors": [
           "Imtiaz Ahmad"
         ],
-        "duration": 1054,
         "type": "course"
       },
       {
@@ -645,7 +622,6 @@
         "authors": [
           "in28Minutes Official"
         ],
-        "duration": 2284,
         "type": "course"
       },
       {
@@ -655,7 +631,6 @@
         "authors": [
           "Yassin Marco"
         ],
-        "duration": 330,
         "type": "course"
       },
       {
@@ -665,7 +640,6 @@
         "authors": [
           "Rahul Shetty"
         ],
-        "duration": 3280,
         "type": "course"
       },
       {
@@ -675,7 +649,6 @@
         "authors": [
           "Hemanth kumar"
         ],
-        "duration": 2718,
         "type": "course"
       },
       {
@@ -686,7 +659,6 @@
           "Andrii Piatakha",
           "Learn IT University"
         ],
-        "duration": 5361,
         "type": "course"
       },
       {
@@ -697,7 +669,6 @@
           "Tim Buchalka",
           "Tim Buchalka's Learn Programming Academy"
         ],
-        "duration": 7329,
         "type": "course"
       },
       {
@@ -707,7 +678,6 @@
         "authors": [
           "Vivek Sarkar"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -720,7 +690,6 @@
           "Andrew D. Hilton",
           "Susan H. Rodger"
         ],
-        "duration": 1146,
         "type": "course"
       },
       {
@@ -733,7 +702,6 @@
           "Elise Deitrick",
           "Dmitrii Suchkov"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -746,7 +714,6 @@
           "Grayson Lyvers",
           "Derek Parsons"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -756,7 +723,6 @@
         "authors": [
           "Brandon Krakowsky"
         ],
-        "duration": 2154,
         "type": "course"
       },
       {
@@ -768,7 +734,6 @@
           "Leo Porter",
           "Christine Alvarado"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -779,7 +744,6 @@
           "Noel J. Bergman",
           "Evan Bergman"
         ],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -790,7 +754,6 @@
           "Noel J. Bergman",
           "Evan Bergman"
         ],
-        "duration": 497,
         "type": "course"
       }
     ],

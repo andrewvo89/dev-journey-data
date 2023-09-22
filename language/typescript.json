@@ -483,7 +483,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -493,7 +492,6 @@
         "authors": [
           "Ania Kubow"
         ],
-        "duration": 194,
         "type": "course"
       },
       {
@@ -503,7 +501,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -513,7 +510,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 600,
         "type": "course"
       },
       {
@@ -523,7 +519,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 120,
         "type": "course"
       },
       {
@@ -533,7 +528,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -543,7 +537,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 180,
         "type": "course"
       },
       {
@@ -553,7 +546,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -563,7 +555,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -573,7 +564,6 @@
         "authors": [
           "Kenny Lin"
         ],
-        "duration": 60,
         "type": "course"
       },
       {
@@ -581,7 +571,6 @@
         "title": "Upgrade Your JavaScript OOP to TypeScript",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -589,7 +578,6 @@
         "title": "Typescript - Learn the fundamentals",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -597,7 +585,6 @@
         "title": "Typescript in React: Get started",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -605,7 +592,6 @@
         "title": "TypeScript Arrays",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -613,7 +599,6 @@
         "title": "Get Up and Running with TypeScript",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -621,7 +606,6 @@
         "title": "TypeScript Control Structures",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -629,7 +613,6 @@
         "title": "TypeScript Operators",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -637,7 +620,6 @@
         "title": "TypeScript String Properties and Methods",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -645,7 +627,6 @@
         "title": "TypeScript Variables and Data Types",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -655,7 +636,6 @@
         "authors": [
           "Jess Chadwick"
         ],
-        "duration": 68,
         "type": "course"
       },
       {
@@ -665,7 +645,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 52,
         "type": "course"
       },
       {
@@ -675,7 +654,6 @@
         "authors": [
           "Jess Chadwick"
         ],
-        "duration": 135,
         "type": "course"
       },
       {
@@ -685,7 +663,6 @@
         "authors": [
           "Emmanuel Henri"
         ],
-        "duration": 62,
         "type": "course"
       },
       {
@@ -695,7 +672,6 @@
         "authors": [
           "Brice Wilson"
         ],
-        "duration": 175,
         "type": "course"
       },
       {
@@ -705,7 +681,6 @@
         "authors": [
           "Simon Allardice"
         ],
-        "duration": 44,
         "type": "course"
       },
       {
@@ -716,7 +691,6 @@
           "Dan Wahlin",
           "John Papa"
         ],
-        "duration": 191,
         "type": "course"
       },
       {
@@ -726,7 +700,6 @@
         "authors": [
           "Angular University"
         ],
-        "duration": 872,
         "type": "course"
       },
       {
@@ -736,7 +709,6 @@
         "authors": [
           "Jordan Hudgens"
         ],
-        "duration": 473,
         "type": "course"
       },
       {
@@ -746,7 +718,6 @@
         "authors": [
           "Colt Steele"
         ],
-        "duration": 643,
         "type": "course"
       },
       {
@@ -756,7 +727,6 @@
         "authors": [
           "Basarat Ali Syed"
         ],
-        "duration": 219,
         "type": "course"
       },
       {
@@ -766,7 +736,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 1639,
         "type": "course"
       },
       {
@@ -776,7 +745,6 @@
         "authors": [
           "Maximilian Schwarzmüller"
         ],
-        "duration": 896,
         "type": "course"
       },
       {
@@ -786,7 +754,6 @@
         "authors": [
           "Alex Horea"
         ],
-        "duration": 656,
         "type": "course"
       }
     ],

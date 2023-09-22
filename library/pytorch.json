@@ -318,7 +318,6 @@
         "title": "Deep Neural Networks with PyTorch",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -326,7 +325,6 @@
         "title": "Deep Learning with PyTorch : Object Localization",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -334,7 +332,6 @@
         "title": "Deep Learning with PyTorch : Build an AutoEncoder",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -342,7 +339,6 @@
         "title": "Deep Learning with PyTorch : Generative Adversarial Network",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -350,7 +346,6 @@
         "title": "Deep Learning with PyTorch : Image Segmentation",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -358,7 +353,6 @@
         "title": "Deep Learning with PyTorch : Neural Style Transfer",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -366,7 +360,6 @@
         "title": "Facial Expression Recognition with PyTorch",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -374,7 +367,6 @@
         "title": "The Pytorch basics you need to start your ML projects",
         "platform": "Coursera",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -384,7 +376,6 @@
         "authors": [
           "Ismail Elezi"
         ],
-        "duration": 240,
         "type": "course"
       },
       {
@@ -394,7 +385,6 @@
         "authors": [
           "Helen Sun"
         ],
-        "duration": 56,
         "type": "course"
       },
       {
@@ -404,7 +394,6 @@
         "authors": [
           "Zhongyu Pan"
         ],
-        "duration": 41,
         "type": "course"
       },
       {
@@ -414,7 +403,6 @@
         "authors": [
           "Jonathan Fernandes"
         ],
-        "duration": 56,
         "type": "course"
       },
       {
@@ -422,7 +410,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -432,7 +419,6 @@
         "authors": [
           "Deep Learning Wizard"
         ],
-        "duration": 386,
         "type": "course"
       },
       {
@@ -443,7 +429,6 @@
           "Lazy Programmer Team",
           "Lazy Programmer Inc."
         ],
-        "duration": 1463,
         "type": "course"
       },
       {
@@ -456,7 +441,6 @@
           "Amer Sharaf",
           "Sarmad Tanveer"
         ],
-        "duration": 854,
         "type": "course"
       },
       {
@@ -466,7 +450,6 @@
         "authors": [
           "Jose Portilla"
         ],
-        "duration": 1020,
         "type": "course"
       },
       {
@@ -477,7 +460,6 @@
           "Andrei Neagoie",
           "Daniel Bourke"
         ],
-        "duration": 3134,
         "type": "course"
       },
       {
@@ -485,7 +467,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

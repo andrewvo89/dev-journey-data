@@ -139,7 +139,6 @@
         "authors": [
           "Brad Traversy"
         ],
-        "duration": 347,
         "type": "course"
       },
       {
@@ -149,7 +148,6 @@
         "authors": [
           "Ray Viljoen"
         ],
-        "duration": 478,
         "type": "course"
       },
       {
@@ -159,7 +157,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 476,
         "type": "course"
       },
       {
@@ -167,7 +164,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -177,7 +173,6 @@
         "authors": [
           "Ray Villalobos"
         ],
-        "duration": 114,
         "type": "course"
       },
       {
@@ -187,7 +182,6 @@
         "authors": [
           "Jake Trent"
         ],
-        "duration": 110,
         "type": "course"
       },
       {
@@ -195,7 +189,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -203,7 +196,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],

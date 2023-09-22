@@ -219,7 +219,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 2309,
         "type": "course"
       },
       {
@@ -230,7 +229,6 @@
           "Academind by Maximilian Schwarzmüller",
           "Maximilian Schwarzmüller"
         ],
-        "duration": 1717,
         "type": "course"
       },
       {
@@ -240,7 +238,6 @@
         "authors": [
           "Stephen Grider"
         ],
-        "duration": 994,
         "type": "course"
       },
       {
@@ -251,7 +248,6 @@
           "Andrei Neagoie",
           "Mo Binni"
         ],
-        "duration": 1645,
         "type": "course"
       },
       {
@@ -261,7 +257,6 @@
         "authors": [
           "Coding Revolution"
         ],
-        "duration": 2537,
         "type": "course"
       },
       {
@@ -271,7 +266,6 @@
         "authors": [
           "Jiwon Shin"
         ],
-        "duration": 420,
         "type": "course"
       },
       {
@@ -281,7 +275,6 @@
         "authors": [
           "Taught by Meta Staff"
         ],
-        "duration": 2186,
         "type": "course"
       },
       {
@@ -289,7 +282,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -299,7 +291,6 @@
         "authors": [
           "Samer Buna"
         ],
-        "duration": 260,
         "type": "course"
       },
       {
@@ -309,7 +300,6 @@
         "authors": [
           "Alex Banks"
         ],
-        "duration": 102,
         "type": "course"
       },
       {
@@ -319,7 +309,6 @@
         "authors": [
           "Reggie Dawson"
         ],
-        "duration": 151,
         "type": "course"
       },
       {
@@ -329,7 +318,6 @@
         "authors": [
           "Reggie Dawson"
         ],
-        "duration": 96,
         "type": "course"
       },
       {
@@ -339,7 +327,6 @@
         "authors": [
           "Richard Monson-Haefel"
         ],
-        "duration": 115,
         "type": "course"
       },
       {
@@ -349,7 +336,6 @@
         "authors": [
           "Reggie Dawson"
         ],
-        "duration": 158,
         "type": "course"
       },
       {
@@ -357,7 +343,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -365,7 +350,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       },
       {
@@ -373,7 +357,6 @@
         "title": "",
         "platform": "",
         "authors": [],
-        "duration": 0,
         "type": "course"
       }
     ],
