@@ -161,19 +161,11 @@
     ],
     "books": [
       {
-        "url": "https://github.com/dariubs/GoBooks",
-        "title": "",
-        "authors": [],
-        "pages": 0,
-        "type": "book"
-      },
-      {
         "url": "https://www.amazon.com/Distributed-Services-Go-Reliable-Maintainable/dp/1680507605",
         "title": "Distributed Services with Go: Your Guide to Reliable, Scalable, and Maintainable Systems",
         "authors": [
           "Travis Jeffery"
         ],
-        "pages": 225,
         "type": "book"
       },
       {
@@ -182,7 +174,6 @@
         "authors": [
           "Mike McGrath"
         ],
-        "pages": 192,
         "type": "book"
       },
       {
@@ -191,7 +182,6 @@
         "authors": [
           "Sufyan bin Uzayr"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -201,7 +191,6 @@
           "Alan Donovan",
           "Brian Kernighan"
         ],
-        "pages": 400,
         "type": "book"
       },
       {
@@ -210,7 +199,6 @@
         "authors": [
           "Nanik Tolaram"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -221,7 +209,6 @@
           "Brian Ketelsen",
           "Erik St. Martin"
         ],
-        "pages": 264,
         "type": "book"
       },
       {
@@ -230,14 +217,12 @@
         "authors": [
           "Matthew A. Titmus"
         ],
-        "pages": 400,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/",
         "title": "Concurrency in Go",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -246,21 +231,18 @@
         "authors": [
           "Bartlomiej Plotka"
         ],
-        "pages": 300,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/head-first-go/9781491969540/",
         "title": "Head First Go",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/introducing-go/9781491941997/",
         "title": "Introducing Go",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -269,7 +251,6 @@
         "authors": [
           "Jon Bodner"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -278,7 +259,6 @@
         "authors": [
           "Adam Freeman"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -287,7 +267,6 @@
         "authors": [
           "Matthew Boyle"
         ],
-        "pages": 204,
         "type": "book"
       },
       {
@@ -296,7 +275,6 @@
         "authors": [
           "Marian Montagnino"
         ],
-        "pages": 406,
         "type": "book"
       },
       {
@@ -305,7 +283,6 @@
         "authors": [
           "Burak Serdar"
         ],
-        "pages": 212,
         "type": "book"
       },
       {
@@ -314,7 +291,6 @@
         "authors": [
           "Michael Stack"
         ],
-        "pages": 384,
         "type": "book"
       },
       {
@@ -324,7 +300,6 @@
           "Nanik Tolaram",
           "Nick Glynn"
         ],
-        "pages": 302,
         "type": "book"
       },
       {
@@ -333,7 +308,6 @@
         "authors": [
           "Dylan Meeus"
         ],
-        "pages": 248,
         "type": "book"
       },
       {
@@ -342,7 +316,6 @@
         "authors": [
           "Mario Castro Contreras"
         ],
-        "pages": 402,
         "type": "book"
       },
       {
@@ -352,7 +325,6 @@
           "John Doak",
           "David Justice"
         ],
-        "pages": 634,
         "type": "book"
       },
       {
@@ -362,7 +334,6 @@
           "Gareth Seneque",
           "Darrell Chua"
         ],
-        "pages": 242,
         "type": "book"
       },
       {
@@ -371,7 +342,6 @@
         "authors": [
           "Corey Scott"
         ],
-        "pages": 346,
         "type": "book"
       },
       {
@@ -380,7 +350,6 @@
         "authors": [
           "Bob Strecansky"
         ],
-        "pages": 406,
         "type": "book"
       },
       {
@@ -389,7 +358,6 @@
         "authors": [
           "Naren Yellavula"
         ],
-        "pages": 404,
         "type": "book"
       },
       {
@@ -398,7 +366,6 @@
         "authors": [
           "Jyotiswarup Raiturkar"
         ],
-        "pages": 500,
         "type": "book"
       },
       {
@@ -407,7 +374,6 @@
         "authors": [
           "Bhagvan Kommadi"
         ],
-        "pages": 336,
         "type": "book"
       },
       {
@@ -416,7 +382,6 @@
         "authors": [
           "Mihalis Tsoukalos"
         ],
-        "pages": 798,
         "type": "book"
       },
       {
@@ -425,7 +390,6 @@
         "authors": [
           "Mihalis Tsoukalos"
         ],
-        "pages": 682,
         "type": "book"
       },
       {
@@ -434,7 +398,6 @@
         "authors": [
           "Alexander Shuiskov"
         ],
-        "pages": 328,
         "type": "book"
       },
       {
@@ -444,7 +407,6 @@
           "Nicolas Leiva",
           "Michael Kashin"
         ],
-        "pages": 442,
         "type": "book"
       },
       {
@@ -453,7 +415,6 @@
         "authors": [
           "Adelina Simion"
         ],
-        "pages": 342,
         "type": "book"
       }
     ],

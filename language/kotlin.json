@@ -100,14 +100,12 @@
         "url": "https://pragprog.com/titles/mfjetpack/kotlin-and-android-development-featuring-jetpack/",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://pragprog.com/titles/vskotlin/programming-kotlin/",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -116,7 +114,6 @@
         "authors": [
           "Pankaj Kumar"
         ],
-        "pages": 452,
         "type": "book"
       },
       {
@@ -125,7 +122,6 @@
         "authors": [
           "Marcin Moskala"
         ],
-        "pages": 446,
         "type": "book"
       },
       {
@@ -134,7 +130,6 @@
         "authors": [
           "Marcin Moskała"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -145,7 +140,6 @@
           "Rúnar Bjarnason",
           "Paul Chiusano"
         ],
-        "pages": 502,
         "type": "book"
       },
       {
@@ -154,7 +148,6 @@
         "authors": [
           "Marcin Moskała"
         ],
-        "pages": 342,
         "type": "book"
       },
       {
@@ -163,7 +156,6 @@
         "authors": [
           "Aleksei Sedunov"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -172,7 +164,6 @@
         "authors": [
           "Shubham Matta"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -182,7 +173,6 @@
           "Nilkani Mort",
           "Saurav Sau"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -192,7 +182,6 @@
           "Josh Skeen",
           "David Greenhalgh"
         ],
-        "pages": 480,
         "type": "book"
       },
       {
@@ -201,7 +190,6 @@
         "authors": [
           "August Lilleaas"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -210,7 +198,6 @@
         "authors": [
           "Pierre-Yves Saumont"
         ],
-        "pages": 480,
         "type": "book"
       },
       {
@@ -220,7 +207,6 @@
           "Dawn Griffiths",
           "David Griffiths"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -230,7 +216,6 @@
           "Duncan McGregor",
           "Nat Pryce"
         ],
-        "pages": 300,
         "type": "book"
       },
       {
@@ -239,7 +224,6 @@
         "authors": [
           "Ken Kousen"
         ],
-        "pages": 254,
         "type": "book"
       },
       {
@@ -251,7 +235,6 @@
           "Mike Dunn",
           "G. Blake Meike"
         ],
-        "pages": 325,
         "type": "book"
       },
       {
@@ -261,7 +244,6 @@
           "Igor Wojda",
           "Marcin Moskala"
         ],
-        "pages": 440,
         "type": "book"
       },
       {
@@ -270,7 +252,6 @@
         "authors": [
           "John Horton"
         ],
-        "pages": 698,
         "type": "book"
       },
       {
@@ -279,7 +260,6 @@
         "authors": [
           "Miloš Vasić"
         ],
-        "pages": 310,
         "type": "book"
       },
       {
@@ -289,7 +269,6 @@
           "Mario Arias",
           "Rivu Chakraborty"
         ],
-        "pages": 350,
         "type": "book"
       },
       {
@@ -299,7 +278,6 @@
           "Chandra Sekhar Nayak",
           "Rivu Chakraborty"
         ],
-        "pages": 220,
         "type": "book"
       },
       {
@@ -308,7 +286,6 @@
         "authors": [
           "Alexey Soshin"
         ],
-        "pages": 310,
         "type": "book"
       },
       {
@@ -317,7 +294,6 @@
         "authors": [
           "Juan Antonio Medina Iglesias"
         ],
-        "pages": 414,
         "type": "book"
       },
       {
@@ -327,7 +303,6 @@
           "Abid Khan",
           "Igor Kucherenko"
         ],
-        "pages": 370,
         "type": "book"
       },
       {
@@ -337,7 +312,6 @@
           "Hardik Trivedi",
           "Ameya Kulkarni"
         ],
-        "pages": 386,
         "type": "book"
       },
       {
@@ -348,7 +322,6 @@
           "Eran Boudjnah",
           "Alexandru Dumbravan\nand 1 more"
         ],
-        "pages": 704,
         "type": "book"
       },
       {
@@ -359,7 +332,6 @@
           "Eran Boudjnah",
           "Alexandru Dumbravan\n and 1 more"
         ],
-        "pages": 794,
         "type": "book"
       },
       {
@@ -368,7 +340,6 @@
         "authors": [
           "Catalin Ghita"
         ],
-        "pages": 472,
         "type": "book"
       },
       {
@@ -377,7 +348,6 @@
         "authors": [
           "Alexey Soshin"
         ],
-        "pages": 356,
         "type": "book"
       },
       {
@@ -386,7 +356,6 @@
         "authors": [
           "Raghavendra Rao K"
         ],
-        "pages": 388,
         "type": "book"
       },
       {
@@ -395,7 +364,6 @@
         "authors": [
           "Iyanu Adelekan"
         ],
-        "pages": 500,
         "type": "book"
       },
       {
@@ -404,7 +372,6 @@
         "authors": [
           "Marko Devcic"
         ],
-        "pages": 178,
         "type": "book"
       },
       {
@@ -413,7 +380,6 @@
         "authors": [
           "Samuel Urbanowicz"
         ],
-        "pages": 242,
         "type": "book"
       },
       {
@@ -422,7 +388,6 @@
         "authors": [
           "Miguel Angel Castiblanco Torres"
         ],
-        "pages": 266,
         "type": "book"
       },
       {
@@ -431,7 +396,6 @@
         "authors": [
           "Igor Kucherenko"
         ],
-        "pages": 316,
         "type": "book"
       },
       {
@@ -440,7 +404,6 @@
         "authors": [
           "Rivu Chakraborty"
         ],
-        "pages": 322,
         "type": "book"
       },
       {
@@ -449,7 +412,6 @@
         "authors": [
           "Róbert Nagy"
         ],
-        "pages": 184,
         "type": "book"
       }
     ],

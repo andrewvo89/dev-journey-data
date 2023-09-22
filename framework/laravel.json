@@ -94,25 +94,6 @@
         "authors": [
           "Oluwafemi Alofe"
         ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.amazon.com/Laravel-Update-PHP-Complete-CookBook/dp/B0BPKV33BT",
-        "title": "Laravel 9 (Update) PHP: A Complete Best Guide for Update Laravel 9: Laravel CookBook: Easy; Simple; Details; Coding; Step by Step;",
-        "authors": [
-          "Brendan Martin"
-        ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.amazon.com/Laravel-9-x-PHP-Learning-Easiest/dp/B0B5KQRTZY",
-        "title": "Laravel 9.x | PHP Learning Laravel with Easiest Way: The book will teach you Laravel 9.x step by step.",
-        "authors": [
-          "Andy Turner"
-        ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -122,7 +103,6 @@
           "Daniel Correa",
           "Paola Vallejo"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -131,7 +111,6 @@
         "authors": [
           "Matt Stauffer"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -140,7 +119,6 @@
         "authors": [
           "Roberto Butti"
         ],
-        "pages": 204,
         "type": "book"
       },
       {
@@ -150,7 +128,6 @@
           "Raphael Saunier",
           "Martin Bean"
         ],
-        "pages": 144,
         "type": "book"
       },
       {
@@ -160,7 +137,6 @@
           "Terry Matula",
           "Alfred Nutile"
         ],
-        "pages": 402,
         "type": "book"
       },
       {
@@ -169,7 +145,6 @@
         "authors": [
           "Terry Matula"
         ],
-        "pages": 272,
         "type": "book"
       }
     ],

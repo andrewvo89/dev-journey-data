@@ -182,7 +182,6 @@
         "authors": [
           "Kevin Hoffman"
         ],
-        "pages": 220,
         "type": "book"
       },
       {
@@ -191,7 +190,6 @@
         "authors": [
           "RONALD C. SHEFFIELD"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -200,7 +198,6 @@
         "authors": [
           "Nathan Metzler"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -210,7 +207,6 @@
           "Steve Klabnik",
           "Carol Nichols"
         ],
-        "pages": 553,
         "type": "book"
       },
       {
@@ -219,7 +215,6 @@
         "authors": [
           "Jon Gjengset"
         ],
-        "pages": 282,
         "type": "book"
       },
       {
@@ -228,7 +223,6 @@
         "authors": [
           "Carlo Milanesi"
         ],
-        "pages": 381,
         "type": "book"
       },
       {
@@ -237,7 +231,6 @@
         "authors": [
           "Ken Youens-Clark"
         ],
-        "pages": 350,
         "type": "book"
       },
       {
@@ -248,14 +241,12 @@
           "Jason Orendorff",
           "Leonora F . S. Tindall"
         ],
-        "pages": 738,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/programming-rust/9781491927274/",
         "title": "Programming Rust",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -264,7 +255,6 @@
         "authors": [
           "Mara Bos"
         ],
-        "pages": 150,
         "type": "book"
       },
       {
@@ -273,7 +263,6 @@
         "authors": [
           "Jim Blandy"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -282,7 +271,6 @@
         "authors": [
           "Carlo Milanesi"
         ],
-        "pages": 404,
         "type": "book"
       },
       {
@@ -291,7 +279,6 @@
         "authors": [
           "Brian L. Troutwine"
         ],
-        "pages": 462,
         "type": "book"
       },
       {
@@ -300,7 +287,6 @@
         "authors": [
           "Claus Matzinger"
         ],
-        "pages": 316,
         "type": "book"
       },
       {
@@ -309,7 +295,6 @@
         "authors": [
           "Andrew Johnson"
         ],
-        "pages": 249,
         "type": "book"
       },
       {
@@ -318,7 +303,6 @@
         "authors": [
           "Denis Kolodin"
         ],
-        "pages": 520,
         "type": "book"
       },
       {
@@ -328,7 +312,6 @@
           "Rahul Sharma",
           "Vesa Kaihlavirta"
         ],
-        "pages": 554,
         "type": "book"
       },
       {
@@ -337,7 +320,6 @@
         "authors": [
           "Abhishek Chanda"
         ],
-        "pages": 278,
         "type": "book"
       },
       {
@@ -346,7 +328,6 @@
         "authors": [
           "Ivo Balbaert"
         ],
-        "pages": 264,
         "type": "book"
       },
       {
@@ -356,7 +337,6 @@
           "Guillaume Gomez",
           "Antoni Boucher"
         ],
-        "pages": 454,
         "type": "book"
       },
       {
@@ -365,7 +345,6 @@
         "authors": [
           "Claus Matzinger"
         ],
-        "pages": 444,
         "type": "book"
       },
       {
@@ -374,7 +353,6 @@
         "authors": [
           "Daniel Arbuckle"
         ],
-        "pages": 180,
         "type": "book"
       },
       {
@@ -384,7 +362,6 @@
           "Jan Hohenheim",
           "Daniel Durante"
         ],
-        "pages": 360,
         "type": "book"
       },
       {
@@ -393,7 +370,6 @@
         "authors": [
           "Maxwell Flitton"
         ],
-        "pages": 666,
         "type": "book"
       },
       {
@@ -402,7 +378,6 @@
         "authors": [
           "Maxwell Flitton"
         ],
-        "pages": 394,
         "type": "book"
       },
       {
@@ -411,42 +386,36 @@
         "authors": [
           "Maxwell Flitton"
         ],
-        "pages": 384,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/code-like-a-pro-in-rust",
         "title": "Code Like a Pro in Rust",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/refactoring-to-rust",
         "title": "Refactoring to Rust",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-servers-services-and-apps",
         "title": "Rust Servers, Services, and Apps",
         "authors": [],
-        "pages": 328,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-web-development",
         "title": "Rust Web Development",
         "authors": [],
-        "pages": 400,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/rust-in-action",
         "title": "Rust in Action",
         "authors": [],
-        "pages": 456,
         "type": "book"
       }
     ],

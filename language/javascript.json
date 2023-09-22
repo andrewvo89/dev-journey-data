@@ -352,7 +352,6 @@
         "authors": [
           "Marijn Haverbeke"
         ],
-        "pages": 474,
         "type": "book"
       },
       {
@@ -361,7 +360,6 @@
         "authors": [
           "Chris Minnick"
         ],
-        "pages": 823,
         "type": "book"
       },
       {
@@ -370,7 +368,6 @@
         "authors": [
           "Jon Duckett"
         ],
-        "pages": 640,
         "type": "book"
       },
       {
@@ -382,7 +379,6 @@
           "Erik D. Gross",
           "Tech Academy"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -391,7 +387,6 @@
         "authors": [
           "Code Quickly"
         ],
-        "pages": 172,
         "type": "book"
       },
       {
@@ -400,7 +395,6 @@
         "authors": [
           "Michael McMillan"
         ],
-        "pages": 252,
         "type": "book"
       },
       {
@@ -410,7 +404,6 @@
           "Eric T. Freeman",
           "Elisabeth Robson"
         ],
-        "pages": 704,
         "type": "book"
       },
       {
@@ -419,7 +412,6 @@
         "authors": [
           "Lindsay Bassett"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -430,7 +422,6 @@
           "Matthew MacDonald",
           "Shelley Powers"
         ],
-        "pages": 538,
         "type": "book"
       },
       {
@@ -439,7 +430,6 @@
         "authors": [
           "Adam D. Scott"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -448,14 +438,12 @@
         "authors": [
           "David Flanagan"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/javascript-the-good/9780596517748/",
         "title": "JavaScript: The Good Parts",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -464,7 +452,6 @@
         "authors": [
           "Milecia McGregor"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -473,7 +460,6 @@
         "authors": [
           "Addy Osmani"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -483,7 +469,6 @@
           "Thomas Hunter",
           "Bryan English"
         ],
-        "pages": 200,
         "type": "book"
       },
       {
@@ -492,7 +477,6 @@
         "authors": [
           "Zachary Shute"
         ],
-        "pages": 330,
         "type": "book"
       },
       {
@@ -501,7 +485,6 @@
         "authors": [
           "Daniel Li"
         ],
-        "pages": 764,
         "type": "book"
       },
       {
@@ -510,7 +493,6 @@
         "authors": [
           "James Padolsey"
         ],
-        "pages": 548,
         "type": "book"
       },
       {
@@ -519,7 +501,6 @@
         "authors": [
           "Alessandro Segala"
         ],
-        "pages": 220,
         "type": "book"
       },
       {
@@ -528,7 +509,6 @@
         "authors": [
           "Sonyl Nagale"
         ],
-        "pages": 410,
         "type": "book"
       },
       {
@@ -537,7 +517,6 @@
         "authors": [
           "Ruben Oliva Ramos"
         ],
-        "pages": 298,
         "type": "book"
       },
       {
@@ -547,7 +526,6 @@
           "Bruno Joseph D'mello",
           "Sai S Sriparasa"
         ],
-        "pages": 226,
         "type": "book"
       },
       {
@@ -556,7 +534,6 @@
         "authors": [
           "Dani Akash S"
         ],
-        "pages": 298,
         "type": "book"
       },
       {
@@ -567,7 +544,6 @@
           "Maaike van Putten",
           "Codestars By Rob Percival"
         ],
-        "pages": 546,
         "type": "book"
       },
       {
@@ -576,7 +552,6 @@
         "authors": [
           "Eric Sarrion"
         ],
-        "pages": 336,
         "type": "book"
       },
       {
@@ -585,7 +560,6 @@
         "authors": [
           "Helder da Rocha"
         ],
-        "pages": 650,
         "type": "book"
       },
       {
@@ -594,7 +568,6 @@
         "authors": [
           "Loiane Groner"
         ],
-        "pages": 426,
         "type": "book"
       },
       {
@@ -603,7 +576,6 @@
         "authors": [
           "Federico Kereki"
         ],
-        "pages": 470,
         "type": "book"
       },
       {
@@ -612,7 +584,6 @@
         "authors": [
           "Federico Kereki"
         ],
-        "pages": 614,
         "type": "book"
       },
       {
@@ -622,7 +593,6 @@
           "Ved Antani",
           "Stoyan STEFANOV"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -631,7 +601,6 @@
         "authors": [
           "Matt Frisbie"
         ],
-        "pages": 1144,
         "type": "book"
       },
       {
@@ -642,7 +611,6 @@
           "Siyuan Gao",
           "Vinicius Isola\nand 1 more"
         ],
-        "pages": 664,
         "type": "book"
       },
       {
@@ -653,7 +621,6 @@
           "Jahred Love",
           "Daniel Rosenbaum\n and 5 more"
         ],
-        "pages": 802,
         "type": "book"
       }
     ],

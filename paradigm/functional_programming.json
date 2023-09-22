@@ -102,7 +102,6 @@
         "authors": [
           "Cristian Salcescu"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -111,7 +110,6 @@
         "authors": [
           "Minh Quang Tran"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -121,7 +119,6 @@
           "Paul Chiusano",
           "Rúnar Bjarnason"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -130,7 +127,6 @@
         "authors": [
           "Enrico Buonanno"
         ],
-        "pages": 446,
         "type": "book"
       },
       {
@@ -139,7 +135,6 @@
         "authors": [
           "Ivan Cukic"
         ],
-        "pages": 320,
         "type": "book"
       },
       {
@@ -148,7 +143,6 @@
         "authors": [
           "Greg Michaelson"
         ],
-        "pages": 338,
         "type": "book"
       },
       {
@@ -157,14 +151,12 @@
         "authors": [
           "Scott N. Walck"
         ],
-        "pages": 650,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/grokking-functional-programming",
         "title": "Grokking Functional Programming",
         "authors": [],
-        "pages": 520,
         "type": "book"
       },
       {
@@ -173,14 +165,12 @@
         "authors": [
           "Ben Weidig"
         ],
-        "pages": 275,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/functional-javascript/9781449360757/",
         "title": "Functional JavaScript",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -189,7 +179,6 @@
         "authors": [
           "Dean Wampler"
         ],
-        "pages": 89,
         "type": "book"
       },
       {
@@ -198,7 +187,6 @@
         "authors": [
           "David Mertz"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -207,7 +195,6 @@
         "authors": [
           "Simon J. Painter"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -216,7 +203,6 @@
         "authors": [
           "Neal Ford"
         ],
-        "pages": 180,
         "type": "book"
       },
       {
@@ -225,7 +211,6 @@
         "authors": [
           "Jack Widman"
         ],
-        "pages": 200,
         "type": "book"
       },
       {
@@ -235,7 +220,6 @@
           "Mario Arias",
           "Rivu Chakraborty"
         ],
-        "pages": 350,
         "type": "book"
       },
       {
@@ -244,7 +228,6 @@
         "authors": [
           "Dylan Meeus"
         ],
-        "pages": 248,
         "type": "book"
       },
       {
@@ -253,7 +236,6 @@
         "authors": [
           "Andrew Johnson"
         ],
-        "pages": 249,
         "type": "book"
       },
       {
@@ -262,7 +244,6 @@
         "authors": [
           "Alexandru Bolboaca"
         ],
-        "pages": 358,
         "type": "book"
       },
       {
@@ -271,7 +252,6 @@
         "authors": [
           "Remo H. Jansen"
         ],
-        "pages": 210,
         "type": "book"
       },
       {
@@ -280,7 +260,6 @@
         "authors": [
           "Wisnu Anggoro"
         ],
-        "pages": 304,
         "type": "book"
       },
       {
@@ -290,7 +269,6 @@
           "Atul S. Khot",
           "Raju Kumar Mishra"
         ],
-        "pages": 318,
         "type": "book"
       },
       {
@@ -299,7 +277,6 @@
         "authors": [
           "Richard M. Reese"
         ],
-        "pages": 296,
         "type": "book"
       },
       {
@@ -308,7 +285,6 @@
         "authors": [
           "Anatolii Kmetiuk"
         ],
-        "pages": 380,
         "type": "book"
       },
       {
@@ -317,7 +293,6 @@
         "authors": [
           "Federico Kereki"
         ],
-        "pages": 614,
         "type": "book"
       },
       {
@@ -326,7 +301,6 @@
         "authors": [
           "Atul S. Khot"
         ],
-        "pages": 298,
         "type": "book"
       },
       {
@@ -335,7 +309,6 @@
         "authors": [
           "Dr. Fatih Nayebi"
         ],
-        "pages": 316,
         "type": "book"
       }
     ],

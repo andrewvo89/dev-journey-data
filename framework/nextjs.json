@@ -118,7 +118,6 @@
         "authors": [
           "Andrei Tazetdinov"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -127,30 +126,12 @@
         "authors": [
           "Neo D. Truman"
         ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.amazon.com/NextJS-rendering-Different-methods-them-ebook/dp/B0C56GML8Y",
-        "title": "NextJS rendering: Different rendering methods with NextJS and how to use them",
-        "authors": [
-          "Kristijan Pajtasev"
-        ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.manning.com/books/next-js-in-action-cx",
-        "title": "Next.js in Action",
-        "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/the-jamstack-book",
         "title": "The Jamstack Book",
         "authors": [],
-        "pages": 280,
         "type": "book"
       },
       {
@@ -159,7 +140,6 @@
         "authors": [
           "Kirill Konshin"
         ],
-        "pages": 164,
         "type": "book"
       },
       {
@@ -168,7 +148,6 @@
         "authors": [
           "Alan Alickovic"
         ],
-        "pages": 230,
         "type": "book"
       },
       {
@@ -177,7 +156,6 @@
         "authors": [
           "Michele Riva"
         ],
-        "pages": 366,
         "type": "book"
       }
     ],

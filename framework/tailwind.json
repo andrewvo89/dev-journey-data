@@ -62,7 +62,6 @@
         "authors": [
           "Ivaylo Gerchev"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -71,7 +70,6 @@
         "authors": [
           "Noel Rappin"
         ],
-        "pages": 100,
         "type": "book"
       },
       {
@@ -80,7 +78,6 @@
         "authors": [
           "Roberto Rescigno"
         ],
-        "pages": 0,
         "type": "book"
       }
     ],

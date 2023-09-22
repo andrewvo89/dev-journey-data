@@ -174,7 +174,6 @@
         "authors": [
           "Daniel Voigt Godoy"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -183,7 +182,6 @@
         "authors": [
           "Daniel Voigt Godoy"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -192,7 +190,6 @@
         "authors": [
           "Daniel Voigt Godoy"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -201,14 +198,12 @@
         "authors": [
           "X.Y. Wang"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/deep-learning-with-pytorch",
         "title": "Deep Learning with PyTorch",
         "authors": [],
-        "pages": 520,
         "type": "book"
       },
       {
@@ -218,7 +213,6 @@
           "Jeremy Howard",
           "Sylvain Gugger"
         ],
-        "pages": 350,
         "type": "book"
       },
       {
@@ -228,7 +222,6 @@
           "Delip Rao",
           "Brian McMahan"
         ],
-        "pages": 256,
         "type": "book"
       },
       {
@@ -237,7 +230,6 @@
         "authors": [
           "Ian Pointer"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -246,7 +238,6 @@
         "authors": [
           "Joe Papa"
         ],
-        "pages": 265,
         "type": "book"
       },
       {
@@ -255,7 +246,6 @@
         "authors": [
           "Manifold AI Learning"
         ],
-        "pages": 7,
         "type": "book"
       },
       {
@@ -264,7 +254,6 @@
         "authors": [
           "Kunal Sawarkar"
         ],
-        "pages": 366,
         "type": "book"
       },
       {
@@ -274,7 +263,6 @@
           "John Hany",
           "Greg Walters"
         ],
-        "pages": 312,
         "type": "book"
       },
       {
@@ -283,7 +271,6 @@
         "authors": [
           "Ashish Ranjan Jha"
         ],
-        "pages": 450,
         "type": "book"
       },
       {
@@ -293,7 +280,6 @@
           "V Kishore Ayyadevara",
           "Yeshwanth Reddy"
         ],
-        "pages": 824,
         "type": "book"
       },
       {
@@ -302,7 +288,6 @@
         "authors": [
           "Yuxi (Hayden) Liu"
         ],
-        "pages": 340,
         "type": "book"
       },
       {
@@ -312,7 +297,6 @@
           "Sherin Thomas",
           "Sudhanshu Passi"
         ],
-        "pages": 250,
         "type": "book"
       },
       {
@@ -321,7 +305,6 @@
         "authors": [
           "Hyatt Saleh"
         ],
-        "pages": 330,
         "type": "book"
       }
     ],

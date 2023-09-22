@@ -294,7 +294,6 @@
         "authors": [
           "Adam Freeman"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -303,7 +302,6 @@
         "authors": [
           "Bledar Ramo"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -313,7 +311,6 @@
           "Stefan Baumgartner",
           "Smashing Magazine"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -322,7 +319,6 @@
         "authors": [
           "Basarat Ali Syed"
         ],
-        "pages": 286,
         "type": "book"
       },
       {
@@ -331,14 +327,12 @@
         "authors": [
           "X.Y. Wang"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/essential-typescript-5-third-edition",
         "title": "Essential TypeScript 5, Third Edition",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -347,14 +341,12 @@
         "authors": [
           "Vlad Riscutia"
         ],
-        "pages": 336,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/typescript-quickly",
         "title": "TypeScript Quickly",
         "authors": [],
-        "pages": 488,
         "type": "book"
       },
       {
@@ -363,7 +355,6 @@
         "authors": [
           "Josh Goldberg"
         ],
-        "pages": 200,
         "type": "book"
       },
       {
@@ -372,7 +363,6 @@
         "authors": [
           "Boris Cherny"
         ],
-        "pages": 322,
         "type": "book"
       },
       {
@@ -381,7 +371,6 @@
         "authors": [
           "Stefan Baumgartner"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -390,7 +379,6 @@
         "authors": [
           "Peter O'Hanlon"
         ],
-        "pages": 416,
         "type": "book"
       },
       {
@@ -399,7 +387,6 @@
         "authors": [
           "David Choi"
         ],
-        "pages": 648,
         "type": "book"
       },
       {
@@ -408,7 +395,6 @@
         "authors": [
           "Biharck Muniz Araújo"
         ],
-        "pages": 470,
         "type": "book"
       },
       {
@@ -417,7 +403,6 @@
         "authors": [
           "Carl Rippon"
         ],
-        "pages": 474,
         "type": "book"
       },
       {
@@ -426,7 +411,6 @@
         "authors": [
           "Nathan Rozentals"
         ],
-        "pages": 538,
         "type": "book"
       },
       {
@@ -435,7 +419,6 @@
         "authors": [
           "James Hickey"
         ],
-        "pages": 120,
         "type": "book"
       },
       {
@@ -446,7 +429,6 @@
           "Jordan Hudgens",
           "Rayon Hunte\nand 2 more"
         ],
-        "pages": 714,
         "type": "book"
       },
       {
@@ -455,7 +437,6 @@
         "authors": [
           "Theo Despoudis"
         ],
-        "pages": 350,
         "type": "book"
       },
       {
@@ -464,7 +445,6 @@
         "authors": [
           "Ivo Gabe de Wolff"
         ],
-        "pages": 288,
         "type": "book"
       },
       {
@@ -473,7 +453,6 @@
         "authors": [
           "Vilic Vane"
         ],
-        "pages": 256,
         "type": "book"
       },
       {
@@ -482,7 +461,6 @@
         "authors": [
           "Christopher Nance"
         ],
-        "pages": 182,
         "type": "book"
       },
       {
@@ -491,7 +469,6 @@
         "authors": [
           "Parth Ghiya"
         ],
-        "pages": 404,
         "type": "book"
       }
     ],

@@ -104,7 +104,6 @@
           "Jack Stouffer",
           "Gareth Dwyer\nand 1 more"
         ],
-        "pages": 160,
         "type": "book"
       },
       {
@@ -114,7 +113,6 @@
           "Charles Leifer",
           "Matthew Copperwaite"
         ],
-        "pages": 250,
         "type": "book"
       },
       {
@@ -123,7 +121,6 @@
         "authors": [
           "Jack Stouffer"
         ],
-        "pages": 288,
         "type": "book"
       },
       {
@@ -132,7 +129,6 @@
         "authors": [
           "Shalabh Aggarwal"
         ],
-        "pages": 302,
         "type": "book"
       },
       {
@@ -142,7 +138,6 @@
           "Daniel Gaspar",
           "Jack Stouffer"
         ],
-        "pages": 332,
         "type": "book"
       },
       {
@@ -151,7 +146,6 @@
         "authors": [
           "Gareth Dwyer"
         ],
-        "pages": 276,
         "type": "book"
       },
       {
@@ -160,7 +154,6 @@
         "authors": [
           "Shalabh Aggarwal"
         ],
-        "pages": 258,
         "type": "book"
       },
       {
@@ -169,7 +162,6 @@
         "authors": [
           "Miguel Grinberg"
         ],
-        "pages": 316,
         "type": "book"
       }
     ],

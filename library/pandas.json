@@ -150,7 +150,6 @@
         "authors": [
           "Daniel Y. Chen"
         ],
-        "pages": 376,
         "type": "book"
       },
       {
@@ -159,7 +158,6 @@
         "authors": [
           "Matt Harrison"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -169,7 +167,6 @@
           "Matt Harrison",
           "Michael Prentiss"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -178,14 +175,12 @@
         "authors": [
           "AI Publishing"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/pandas-in-action",
         "title": "Pandas in Action",
         "authors": [],
-        "pages": 440,
         "type": "book"
       },
       {
@@ -194,7 +189,6 @@
         "authors": [
           "Jake VanderPlas"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -203,7 +197,6 @@
         "authors": [
           "Wes McKinney"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -212,7 +205,6 @@
         "authors": [
           "Curtis Miller"
         ],
-        "pages": 168,
         "type": "book"
       },
       {
@@ -221,7 +213,6 @@
         "authors": [
           "Stefanie Molin"
         ],
-        "pages": 788,
         "type": "book"
       },
       {
@@ -230,7 +221,6 @@
         "authors": [
           "Stefanie Molin"
         ],
-        "pages": 740,
         "type": "book"
       },
       {
@@ -239,7 +229,6 @@
         "authors": [
           "Michael Heydt"
         ],
-        "pages": 504,
         "type": "book"
       },
       {
@@ -248,7 +237,6 @@
         "authors": [
           "Michael Heydt"
         ],
-        "pages": 298,
         "type": "book"
       },
       {
@@ -257,7 +245,6 @@
         "authors": [
           "Ashish Kumar"
         ],
-        "pages": 674,
         "type": "book"
       },
       {
@@ -267,7 +254,6 @@
           "Matt Harrison",
           "Theodore Petrou"
         ],
-        "pages": 626,
         "type": "book"
       },
       {
@@ -278,7 +264,6 @@
           "Saikat Basak",
           "Thomas V. Joseph\nand 1 more"
         ],
-        "pages": 744,
         "type": "book"
       }
     ],

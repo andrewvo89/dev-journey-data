@@ -162,7 +162,6 @@
           "Bert Bates",
           "Trisha Gee"
         ],
-        "pages": 688,
         "type": "book"
       },
       {
@@ -171,7 +170,6 @@
         "authors": [
           "Joshua Bloch"
         ],
-        "pages": 416,
         "type": "book"
       },
       {
@@ -180,7 +178,6 @@
         "authors": [
           "Mark Reed"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -190,7 +187,6 @@
           "LCF Publishing",
           "Jamie Chan"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -199,7 +195,6 @@
         "authors": [
           "Barry Burd"
         ],
-        "pages": 519,
         "type": "book"
       },
       {
@@ -208,7 +203,6 @@
         "authors": [
           "Bryson Payne"
         ],
-        "pages": 314,
         "type": "book"
       },
       {
@@ -217,7 +211,6 @@
         "authors": [
           "Doug Lowe"
         ],
-        "pages": 919,
         "type": "book"
       },
       {
@@ -226,7 +219,6 @@
         "authors": [
           "Herbert Schildt"
         ],
-        "pages": 1248,
         "type": "book"
       },
       {
@@ -236,14 +228,12 @@
           "Stuart Reges",
           "Marty Stepp"
         ],
-        "pages": 1232,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/learning-java/1565927184/",
         "title": "Learning Java",
         "authors": [],
-        "pages": 738,
         "type": "book"
       },
       {
@@ -254,7 +244,6 @@
           "Patrick Niemeyer",
           "Daniel Leuck"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -265,7 +254,6 @@
           "Jason Clark",
           "David Flanagan"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -274,7 +262,6 @@
         "authors": [
           "Ben Weidig"
         ],
-        "pages": 275,
         "type": "book"
       },
       {
@@ -283,7 +270,6 @@
         "authors": [
           "Scott Oaks"
         ],
-        "pages": 450,
         "type": "book"
       },
       {
@@ -292,7 +278,6 @@
         "authors": [
           "Ian F. Darwin"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -302,7 +287,6 @@
           "Maurice Naftalin",
           "Philip Wadler"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -312,14 +296,12 @@
           "Clement Escoffier",
           "Ken Finnigan"
         ],
-        "pages": 250,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/modern-java-in-action",
         "title": "Modern Java in Action",
         "authors": [],
-        "pages": 592,
         "type": "book"
       },
       {
@@ -328,7 +310,6 @@
         "authors": [
           "John Horton"
         ],
-        "pages": 686,
         "type": "book"
       },
       {
@@ -337,7 +318,6 @@
         "authors": [
           "Miroslav Wengner"
         ],
-        "pages": 266,
         "type": "book"
       },
       {
@@ -346,7 +326,6 @@
         "authors": [
           "Ken Fogel"
         ],
-        "pages": 354,
         "type": "book"
       },
       {
@@ -355,7 +334,6 @@
         "authors": [
           "Nick Samoylov"
         ],
-        "pages": 748,
         "type": "book"
       },
       {
@@ -364,7 +342,6 @@
         "authors": [
           "Alan Mellor"
         ],
-        "pages": 348,
         "type": "book"
       },
       {
@@ -374,7 +351,6 @@
           "Premanand Chandrasekaran",
           "Karthik Krishnan"
         ],
-        "pages": 302,
         "type": "book"
       },
       {
@@ -383,7 +359,6 @@
         "authors": [
           "Davi Vieira"
         ],
-        "pages": 460,
         "type": "book"
       },
       {
@@ -392,7 +367,6 @@
         "authors": [
           "Anghel Leonard"
         ],
-        "pages": 816,
         "type": "book"
       },
       {
@@ -401,7 +375,6 @@
         "authors": [
           "Giuseppe Bonocore"
         ],
-        "pages": 510,
         "type": "book"
       },
       {
@@ -411,7 +384,6 @@
           "Maaike van Putten",
           "Seán Kennedy"
         ],
-        "pages": 146,
         "type": "book"
       },
       {
@@ -420,7 +392,6 @@
         "authors": [
           "Anghel Leonard"
         ],
-        "pages": 788,
         "type": "book"
       }
     ],

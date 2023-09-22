@@ -174,14 +174,12 @@
         "authors": [
           "Ben Henick"
         ],
-        "pages": 352,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/web-design-playground-second-edition",
         "title": "Web Design Playground, Second Edition",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -191,7 +189,6 @@
           "Elisabeth Robson",
           "Eric Freeman"
         ],
-        "pages": 765,
         "type": "book"
       },
       {
@@ -200,7 +197,6 @@
         "authors": [
           "Jennifer Robbins"
         ],
-        "pages": 177,
         "type": "book"
       },
       {
@@ -211,7 +207,6 @@
           "Brett Jephson",
           "Rob Larsen\nand 2 more"
         ],
-        "pages": 700,
         "type": "book"
       },
       {
@@ -220,7 +215,6 @@
         "authors": [
           "Jon Duckett"
         ],
-        "pages": 512,
         "type": "book"
       },
       {
@@ -229,7 +223,6 @@
         "authors": [
           "Ben Frain"
         ],
-        "pages": 498,
         "type": "book"
       },
       {
@@ -238,7 +231,6 @@
         "authors": [
           "David DuRocher"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -247,7 +239,6 @@
         "authors": [
           "Jennifer Robbins"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -256,7 +247,6 @@
         "authors": [
           "Mark Myers"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -265,7 +255,6 @@
         "authors": [
           "MG Martin"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -274,7 +263,6 @@
         "authors": [
           "Andy Harris"
         ],
-        "pages": 0,
         "type": "book"
       }
     ],

@@ -119,7 +119,6 @@
           "Greg Lim",
           "Daniel Correa"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -128,7 +127,6 @@
         "authors": [
           "Christoper Bobola"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -137,7 +135,6 @@
         "authors": [
           "Floria Marland"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -146,14 +143,12 @@
         "authors": [
           "Shane Deam"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/svelte-and-sapper-in-action",
         "title": "Svelte and Sapper in Action",
         "authors": [],
-        "pages": 456,
         "type": "book"
       },
       {
@@ -162,7 +157,6 @@
         "authors": [
           "Simon Holthausen"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -171,7 +165,6 @@
         "authors": [
           "Daniel Irvine"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -180,7 +173,6 @@
         "authors": [
           "Alessandro Segala"
         ],
-        "pages": 168,
         "type": "book"
       },
       {
@@ -189,7 +181,6 @@
         "authors": [
           "Daniel Irvine"
         ],
-        "pages": 250,
         "type": "book"
       }
     ],

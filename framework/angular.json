@@ -142,7 +142,6 @@
         "authors": [
           "Jeremy Wilken"
         ],
-        "pages": 420,
         "type": "book"
       },
       {
@@ -152,7 +151,6 @@
           "Yakov Fain",
           "Anton Moiseev"
         ],
-        "pages": 531,
         "type": "book"
       },
       {
@@ -161,7 +159,6 @@
         "authors": [
           "Greg Lim"
         ],
-        "pages": 206,
         "type": "book"
       },
       {
@@ -173,7 +170,6 @@
           "Mike Giambalvo",
           "Craig Nishina"
         ],
-        "pages": 240,
         "type": "book"
       },
       {
@@ -185,7 +181,6 @@
           "Ari Lerner",
           "Carlos Taborda"
         ],
-        "pages": 626,
         "type": "book"
       },
       {
@@ -194,7 +189,6 @@
         "authors": [
           "Shyam Seshadri"
         ],
-        "pages": 334,
         "type": "book"
       },
       {
@@ -203,7 +197,6 @@
         "authors": [
           "Lamis Chebbi"
         ],
-        "pages": 224,
         "type": "book"
       },
       {
@@ -212,7 +205,6 @@
         "authors": [
           "Muhammad Ahsan Ayaz"
         ],
-        "pages": 652,
         "type": "book"
       },
       {
@@ -221,7 +213,6 @@
         "authors": [
           "Doguhan Uluca"
         ],
-        "pages": 824,
         "type": "book"
       },
       {
@@ -230,7 +221,6 @@
         "authors": [
           "Aristeidis Bampakos"
         ],
-        "pages": 344,
         "type": "book"
       },
       {
@@ -240,7 +230,6 @@
           "Aristeidis Bampakos",
           "Pablo Deeleman"
         ],
-        "pages": 446,
         "type": "book"
       }
     ],

@@ -111,7 +111,6 @@
           "Joel Murach",
           "Ray Harris"
         ],
-        "pages": 848,
         "type": "book"
       },
       {
@@ -121,7 +120,6 @@
           "LCF Publishing",
           "Jamie Chan"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -130,14 +128,12 @@
         "authors": [
           "Jon Duckett"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/100-php-mistakes-and-how-to-avoid-them",
         "title": "100 PHP Mistakes and How to Avoid Them",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -146,7 +142,6 @@
         "authors": [
           "Dagfinn Reiersøl"
         ],
-        "pages": 552,
         "type": "book"
       },
       {
@@ -156,7 +151,6 @@
           "Lynn Beighley",
           "Michael Morrison"
         ],
-        "pages": 812,
         "type": "book"
       },
       {
@@ -165,14 +159,12 @@
         "authors": [
           "Robin Nixon"
         ],
-        "pages": 832,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/php-cookbook/1565926811/",
         "title": "PHP Cookbook",
         "authors": [],
-        "pages": 640,
         "type": "book"
       },
       {
@@ -181,7 +173,6 @@
         "authors": [
           "Eric A. Mann"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -190,7 +181,6 @@
         "authors": [
           "Jack D. Herrington"
         ],
-        "pages": 468,
         "type": "book"
       },
       {
@@ -199,7 +189,6 @@
         "authors": [
           "Paul Hudson"
         ],
-        "pages": 372,
         "type": "book"
       },
       {
@@ -208,21 +197,18 @@
         "authors": [
           "Rasmus Lerdorf"
         ],
-        "pages": 136,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/programming-php-4th/9781492054122/",
         "title": "Programming PHP, 4th Edition",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/programming-php/1565926102/",
         "title": "Programming PHP",
         "authors": [],
-        "pages": 534,
         "type": "book"
       },
       {
@@ -232,7 +218,6 @@
           "Carsten Windler",
           "Alexandre Daubois"
         ],
-        "pages": 264,
         "type": "book"
       },
       {
@@ -243,7 +228,6 @@
           "Carlos Buenosvinos",
           "Christian Soronellas"
         ],
-        "pages": 394,
         "type": "book"
       },
       {
@@ -252,7 +236,6 @@
         "authors": [
           "Andrew Caya"
         ],
-        "pages": 278,
         "type": "book"
       },
       {
@@ -261,7 +244,6 @@
         "authors": [
           "Paul Jones"
         ],
-        "pages": 286,
         "type": "book"
       },
       {
@@ -270,7 +252,6 @@
         "authors": [
           "Mizanur Rahman"
         ],
-        "pages": 340,
         "type": "book"
       },
       {
@@ -279,7 +260,6 @@
         "authors": [
           "Doug Bierer"
         ],
-        "pages": 528,
         "type": "book"
       },
       {
@@ -289,7 +269,6 @@
           "Pablo Solar Vilariño",
           "Carlos Pérez Sánchez"
         ],
-        "pages": 392,
         "type": "book"
       },
       {
@@ -298,7 +277,6 @@
         "authors": [
           "Martin Sikora"
         ],
-        "pages": 364,
         "type": "book"
       },
       {
@@ -307,7 +285,6 @@
         "authors": [
           "Flávio Gomes da Silva Lisboa"
         ],
-        "pages": 394,
         "type": "book"
       },
       {
@@ -316,7 +293,6 @@
         "authors": [
           "Rainier Sarabia"
         ],
-        "pages": 336,
         "type": "book"
       },
       {
@@ -325,7 +301,6 @@
         "authors": [
           "Joseph Edmonds"
         ],
-        "pages": 420,
         "type": "book"
       },
       {
@@ -336,7 +311,6 @@
           "David Carr",
           "Markus Gray\n and 4 more"
         ],
-        "pages": 604,
         "type": "book"
       }
     ],

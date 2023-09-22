@@ -183,7 +183,6 @@
         "authors": [
           "Louie Stowell"
         ],
-        "pages": 95,
         "type": "book"
       },
       {
@@ -192,14 +191,12 @@
         "authors": [
           "CAROL VORDERMAN"
         ],
-        "pages": 224,
         "type": "book"
       },
       {
         "url": "https://www.amazon.com/Computer-Coding-Python-Projects-Step/dp/0241286867",
         "title": "Computer Coding Python Projects for Kids: A Step-by-Step Visual Guide",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -208,7 +205,6 @@
         "authors": [
           "Ramsey Hamilton"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -218,7 +214,6 @@
           "Kelvin Atmadibrata",
           "Kelvin  Atmadibrata"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -227,7 +222,6 @@
         "authors": [
           "Mark Clifferland"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -236,7 +230,6 @@
         "authors": [
           "Andrew Warner"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -245,14 +238,12 @@
         "authors": [
           "Eric Matthes"
         ],
-        "pages": 553,
         "type": "book"
       },
       {
         "url": "https://www.manning.com/books/python-how-to",
         "title": "Python How-To",
         "authors": [],
-        "pages": 504,
         "type": "book"
       },
       {
@@ -262,7 +253,6 @@
           "Harry Percival",
           "Bob Gregory"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -271,7 +261,6 @@
         "authors": [
           "Matheus Facure"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -280,7 +269,6 @@
         "authors": [
           "Kyran Dale"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -289,7 +277,6 @@
         "authors": [
           "Luciano Ramalho"
         ],
-        "pages": 850,
         "type": "book"
       },
       {
@@ -298,7 +285,6 @@
         "authors": [
           "Paul Barry"
         ],
-        "pages": 600,
         "type": "book"
       },
       {
@@ -308,7 +294,6 @@
           "Micha Gorelick",
           "Ian Ozsvald"
         ],
-        "pages": 450,
         "type": "book"
       },
       {
@@ -318,7 +303,6 @@
           "Andreas C. Müller",
           "Sarah Guido"
         ],
-        "pages": 400,
         "type": "book"
       },
       {
@@ -327,7 +311,6 @@
         "authors": [
           "Mark Lutz"
         ],
-        "pages": 1600,
         "type": "book"
       },
       {
@@ -337,7 +320,6 @@
           "Kyle Gallatin",
           "Chris Albon"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -347,7 +329,6 @@
           "David Beazley",
           "Brian K. Jones"
         ],
-        "pages": 706,
         "type": "book"
       },
       {
@@ -356,7 +337,6 @@
         "authors": [
           "Jake VanderPlas"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -365,7 +345,6 @@
         "authors": [
           "Wes McKinney"
         ],
-        "pages": 550,
         "type": "book"
       },
       {
@@ -377,7 +356,6 @@
           "Alfredo Deza",
           "Grig Gheorghiu"
         ],
-        "pages": 506,
         "type": "book"
       },
       {
@@ -389,7 +367,6 @@
           "Steve Holden",
           "Paul McGuire"
         ],
-        "pages": 600,
         "type": "book"
       },
       {
@@ -398,7 +375,6 @@
         "authors": [
           "Patrick Viafore"
         ],
-        "pages": 372,
         "type": "book"
       },
       {
@@ -407,7 +383,6 @@
         "authors": [
           "Ryan Mitchell"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -416,7 +391,6 @@
         "authors": [
           "Sherwin John C.Tragura"
         ],
-        "pages": 420,
         "type": "book"
       },
       {
@@ -425,7 +399,6 @@
         "authors": [
           "Abdulazeez Abdulazeez Adeshina"
         ],
-        "pages": 216,
         "type": "book"
       },
       {
@@ -434,7 +407,6 @@
         "authors": [
           "Aleksander Molak"
         ],
-        "pages": 456,
         "type": "book"
       },
       {
@@ -443,7 +415,6 @@
         "authors": [
           "Ayodele Oluleye"
         ],
-        "pages": 382,
         "type": "book"
       },
       {
@@ -453,7 +424,6 @@
           "Fabrizio Romano",
           "Heinrich Kruger"
         ],
-        "pages": 552,
         "type": "book"
       },
       {
@@ -462,7 +432,6 @@
         "authors": [
           "Andrew McMahon"
         ],
-        "pages": 9781837631964,
         "type": "book"
       },
       {
@@ -471,7 +440,6 @@
         "authors": [
           "Eric Chou"
         ],
-        "pages": 594,
         "type": "book"
       },
       {
@@ -480,7 +448,6 @@
         "authors": [
           "Michael Walker"
         ],
-        "pages": 436,
         "type": "book"
       },
       {
@@ -489,7 +456,6 @@
         "authors": [
           "Fahad Ali Sarwar"
         ],
-        "pages": 214,
         "type": "book"
       },
       {
@@ -499,7 +465,6 @@
           "Steven F. Lott",
           "Dusty Phillips"
         ],
-        "pages": 714,
         "type": "book"
       }
     ],

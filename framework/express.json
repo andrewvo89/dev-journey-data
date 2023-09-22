@@ -132,14 +132,12 @@
         "url": "https://jonathanleemartin.com/books/",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://link.springer.com/book/10.1007/978-1-4842-0037-7",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -148,7 +146,6 @@
         "authors": [
           "Evan Hahn"
         ],
-        "pages": 256,
         "type": "book"
       },
       {
@@ -158,7 +155,6 @@
           "Simon Holmes",
           "Clive Harber"
         ],
-        "pages": 504,
         "type": "book"
       },
       {
@@ -167,7 +163,6 @@
         "authors": [
           "Azat Mardan"
         ],
-        "pages": 152,
         "type": "book"
       },
       {
@@ -176,7 +171,6 @@
         "authors": [
           "Ethan Brown"
         ],
-        "pages": 330,
         "type": "book"
       },
       {
@@ -185,7 +179,6 @@
         "authors": [
           "Hage Yaaapa"
         ],
-        "pages": 236,
         "type": "book"
       },
       {
@@ -194,7 +187,6 @@
         "authors": [
           "Eddy Wilson Iriarte Koroliova"
         ],
-        "pages": 302,
         "type": "book"
       },
       {
@@ -203,7 +195,6 @@
         "authors": [
           "David Herron"
         ],
-        "pages": 248,
         "type": "book"
       }
     ],

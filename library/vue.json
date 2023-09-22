@@ -172,14 +172,12 @@
         "url": "https://leanpub.com/testingvuejscomponentswithjest",
         "title": "Testing Vue.js components with Jest",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://leanpub.com/vue-vite-typescript/c/jd2zz0brBNd9?ref=madewithvuejs.com",
         "title": "Large Scale Apps with Vue, Vite and TypeScript",
         "authors": [],
-        "pages": 263,
         "type": "book"
       },
       {
@@ -189,7 +187,6 @@
           "Alex Kyriakidis",
           "Evan You"
         ],
-        "pages": 297,
         "type": "book"
       },
       {
@@ -198,7 +195,6 @@
         "authors": [
           "Greg Lim"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -209,7 +205,6 @@
           "Nate Murray",
           "Ari Lerner"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -219,7 +214,6 @@
           "Marina Mosti",
           "Chris Fritz"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -228,7 +222,6 @@
         "authors": [
           "Edd Yerburgh"
         ],
-        "pages": 272,
         "type": "book"
       },
       {
@@ -238,7 +231,6 @@
           "Erik Hanchett",
           "Benjamin Listwon"
         ],
-        "pages": 304,
         "type": "book"
       },
       {
@@ -247,7 +239,6 @@
         "authors": [
           "Maya Shavin"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -256,7 +247,6 @@
         "authors": [
           "Callum Macrae"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -267,7 +257,6 @@
           "Hugo Di Francesco",
           "Clifford Gurney\nand 2 more"
         ],
-        "pages": 774,
         "type": "book"
       },
       {
@@ -276,7 +265,6 @@
         "authors": [
           "Anthony Gore"
         ],
-        "pages": 376,
         "type": "book"
       },
       {
@@ -285,7 +273,6 @@
         "authors": [
           "CHAU GUILLAUME"
         ],
-        "pages": 398,
         "type": "book"
       },
       {
@@ -294,7 +281,6 @@
         "authors": [
           "Mike Street"
         ],
-        "pages": 412,
         "type": "book"
       }
     ],

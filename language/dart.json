@@ -141,21 +141,18 @@
         "url": "https://www.kodeco.com/books/dart-apprentice-fundamentals",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.kodeco.com/books/dart-apprentice-beyond-the-basics",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
         "url": "https://www.kodeco.com/books/data-structures-algorithms-in-dart",
         "title": "",
         "authors": [],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -165,16 +162,6 @@
           "Gilad Bracha",
           "Erik Meijer"
         ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.amazon.com/Programming-Absolute-Beginners-step-step/dp/B0C6P8JSNW",
-        "title": "Dart Programming for Absolute Beginners: A step-by-step guide to learning Dart, perfect for beginners who have no prior programming experience.",
-        "authors": [
-          "Alex Klaus"
-        ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -184,7 +171,6 @@
           "Dr. Deepti Chopra",
           "Roopal Khurana"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -193,7 +179,6 @@
         "authors": [
           "Deven Joshi"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -203,7 +188,6 @@
           "TomorrowSKILLS",
           "Mr Mike Yu"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -212,7 +196,6 @@
         "authors": [
           "Nathan Metzler"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -223,7 +206,6 @@
           "Flask C. Netty",
           "Ado D. Pytorch"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -232,7 +214,6 @@
         "authors": [
           "Chris Buckett"
         ],
-        "pages": 424,
         "type": "book"
       },
       {
@@ -242,7 +223,6 @@
           "Kathy Walrath",
           "Seth Ladd"
         ],
-        "pages": 158,
         "type": "book"
       },
       {
@@ -251,7 +231,6 @@
         "authors": [
           "Ivo Balbaert"
         ],
-        "pages": 382,
         "type": "book"
       },
       {
@@ -260,7 +239,6 @@
         "authors": [
           "Sergey Akopkokhyants"
         ],
-        "pages": 346,
         "type": "book"
       },
       {
@@ -269,7 +247,6 @@
         "authors": [
           "David Mitchell"
         ],
-        "pages": 250,
         "type": "book"
       },
       {
@@ -278,7 +255,6 @@
         "authors": [
           "Ivo Balbaert"
         ],
-        "pages": 346,
         "type": "book"
       },
       {
@@ -288,7 +264,6 @@
           "Martin Sikora",
           "Krunal Jhaveri"
         ],
-        "pages": 232,
         "type": "book"
       },
       {
@@ -297,14 +272,12 @@
         "authors": [
           "Richard Rose"
         ],
-        "pages": 200,
         "type": "book"
       },
       {
         "url": "https://www.oreilly.com/library/view/what-is-dart/9781449333164/",
         "title": "What is Dart?",
         "authors": [],
-        "pages": 15,
         "type": "book"
       }
     ],

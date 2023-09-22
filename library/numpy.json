@@ -174,7 +174,6 @@
         "authors": [
           "Travis E. Oliphant PhD"
         ],
-        "pages": 364,
         "type": "book"
       },
       {
@@ -183,7 +182,6 @@
         "authors": [
           "Ivan Idris"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -192,7 +190,6 @@
         "authors": [
           "Robert Johansson"
         ],
-        "pages": 530,
         "type": "book"
       },
       {
@@ -201,7 +198,6 @@
         "authors": [
           "Ivan Idris"
         ],
-        "pages": 348,
         "type": "book"
       },
       {
@@ -210,7 +206,6 @@
         "authors": [
           "Eli Bressert"
         ],
-        "pages": 68,
         "type": "book"
       },
       {
@@ -219,7 +214,6 @@
         "authors": [
           "Curtis Miller"
         ],
-        "pages": 168,
         "type": "book"
       },
       {
@@ -228,7 +222,6 @@
         "authors": [
           "Ivan Idris"
         ],
-        "pages": 164,
         "type": "book"
       },
       {
@@ -238,7 +231,6 @@
           "Umit Mert Cakmak",
           "Mert Cuhadaroglu"
         ],
-        "pages": 248,
         "type": "book"
       },
       {
@@ -247,7 +239,6 @@
         "authors": [
           "Ivan Idris"
         ],
-        "pages": 310,
         "type": "book"
       },
       {
@@ -256,7 +247,6 @@
         "authors": [
           "Ivan Idris"
         ],
-        "pages": 348,
         "type": "book"
       },
       {
@@ -266,7 +256,6 @@
           "Ivan Idris",
           "NumPy"
         ],
-        "pages": 226,
         "type": "book"
       },
       {
@@ -277,7 +266,6 @@
           "Leo (Liang-Huan) Chin",
           "Tanmay Dutta\nand 1 more"
         ],
-        "pages": 156,
         "type": "book"
       }
     ],

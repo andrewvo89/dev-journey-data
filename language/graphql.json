@@ -132,7 +132,6 @@
         "url": "https://www.manning.com/books/graphql-in-action",
         "title": "GraphQL in Action",
         "authors": [],
-        "pages": 384,
         "type": "book"
       },
       {
@@ -142,16 +141,6 @@
           "Eve Porcello",
           "Alex Banks"
         ],
-        "pages": 0,
-        "type": "book"
-      },
-      {
-        "url": "https://www.oreilly.com/library/view/graphql-for-modern/9781492056850/",
-        "title": "GraphQL for Modern Commerce",
-        "authors": [
-          "Kelly Goetsch"
-        ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -160,7 +149,6 @@
         "authors": [
           "Greg Lim"
         ],
-        "pages": 0,
         "type": "book"
       },
       {
@@ -171,7 +159,6 @@
           "Dolev Farhi",
           "Opheliar Chan"
         ],
-        "pages": 313,
         "type": "book"
       },
       {
@@ -180,7 +167,6 @@
         "authors": [
           "Robin Wieruch"
         ],
-        "pages": 354,
         "type": "book"
       },
       {
@@ -189,7 +175,6 @@
         "authors": [
           "Sebastian Grebe"
         ],
-        "pages": 472,
         "type": "book"
       },
       {
@@ -198,7 +183,6 @@
         "authors": [
           "Ahmed Bouchefra"
         ],
-        "pages": 390,
         "type": "book"
       }
     ],
