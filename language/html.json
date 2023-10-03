@@ -400,31 +400,31 @@
         "type": "course"
       },
       {
-        "url": "https://learndigital.withgoogle.com/digitalgarage/course/build-your-first-web-pages-with-html-and-css",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "type": "course"
-      },
-      {
         "url": "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intro to HTML and CSS",
+        "platform": "Udacity",
+        "authors": [
+          "Cameron Pittman",
+          "James Parkes"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.simplilearn.com/free-html-course-for-beginners-skillup",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn the HTML Basics for Beginners - Free Online Course by Simplilearn",
+        "platform": "Simplilearn",
+        "authors": [
+          "Simplilearn"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.khanacademy.org/computing/computer-programming/html-css",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intro to HTML/CSS: Making webpages",
+        "platform": "Khan Academy",
+        "authors": [
+          "Khan Academy"
+        ],
         "type": "course"
       },
       {
@@ -485,17 +485,17 @@
     "misc": [
       {
         "url": "https://www.w3schools.com/html/",
-        "title": "",
+        "title": "HTML Tutorial",
         "type": "misc"
       },
       {
         "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
-        "title": "",
+        "title": "HTML: HyperText Markup Language | MDN",
         "type": "misc"
       },
       {
         "url": "https://webplatform.github.io/docs/html/",
-        "title": "",
+        "title": "HTML · WebPlatform Docs",
         "type": "misc"
       }
     ],

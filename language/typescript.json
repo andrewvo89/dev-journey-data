@@ -480,9 +480,11 @@
     "courses": [
       {
         "url": "https://codewithmosh.com/p/the-ultimate-typescript",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "The Ultimate TypeScript Course",
+        "platform": "Code with Mosh",
+        "authors": [
+          "Mosh Hamedani"
+        ],
         "type": "course"
       },
       {
@@ -568,65 +570,83 @@
       },
       {
         "url": "https://www.coursera.org/projects/javascript-oop-to-typescript",
-        "title": "Upgrade Your JavaScript OOP to TypeScript",
+        "title": "Project: Upgrade Your JavaScript OOP to TypeScript",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Harrison Kong"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/rudi-hinds-typescript-learn-fundamentals",
-        "title": "Typescript - Learn the fundamentals",
+        "title": "Project: Typescript - Learn the fundamentals",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Rudi Hinds"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/rudi-hinds-typescript-react-get-started",
-        "title": "Typescript in React: Get started",
+        "title": "Project: Typescript in React: Get started",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Rudi Hinds"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-arrays",
         "title": "TypeScript Arrays",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Chaitra Deshpande"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-beginner",
         "title": "Get Up and Running with TypeScript",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Harrison Kong"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-control-structures",
         "title": "TypeScript Control Structures",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Chaitra Deshpande"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-operators",
         "title": "TypeScript Operators",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Chaitra Deshpande"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-string-properties-and-methods",
         "title": "TypeScript String Properties and Methods",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Chaitra Deshpande"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/typescript-variables-and-data-types",
         "title": "TypeScript Variables and Data Types",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Chaitra Deshpande"
+        ],
         "type": "course"
       },
       {
@@ -760,47 +780,47 @@
     "misc": [
       {
         "url": "https://github.com/DefinitelyTyped/",
-        "title": "",
+        "title": "DefinitelyTyped GitHub",
         "type": "misc"
       },
       {
         "url": "https://learntypescript.dev/",
-        "title": "",
+        "title": "Learn TypeScript",
         "type": "misc"
       },
       {
         "url": "https://type-level-typescript.com/",
-        "title": "",
+        "title": "Type-Level TypeScript",
         "type": "misc"
       },
       {
         "url": "https://typescriptcourses.com/",
-        "title": "",
+        "title": "TypeScript Courses",
         "type": "misc"
       },
       {
         "url": "https://ui.dev/typescript",
-        "title": "",
+        "title": "UI.dev TypeScript",
         "type": "misc"
       },
       {
         "url": "https://www.totaltypescript.com/",
-        "title": "",
+        "title": "Total TypeScript",
         "type": "misc"
       },
       {
         "url": "https://www.typescriptcourse.com/",
-        "title": "",
+        "title": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
         "type": "misc"
       },
       {
         "url": "https://www.typescriptlang.org/docs/",
-        "title": "",
+        "title": "Documentation | TypeScript",
         "type": "misc"
       },
       {
         "url": "https://www.typescriptlang.org/play/",
-        "title": "",
+        "title": "Playground | TypeScript",
         "type": "misc"
       }
     ],

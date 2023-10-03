@@ -257,58 +257,74 @@
     "courses": [
       {
         "url": "https://codewithandrea.com/courses/flutter-animations-masterclass/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flutter Animations Masterclass",
+        "platform": "Code With Andrea",
+        "authors": [
+          "Andrea Bizzotto"
+        ],
         "type": "course"
       },
       {
         "url": "https://codewithandrea.com/courses/flutter-firebase-masterclass/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flutter Firebase Masterclass",
+        "platform": "Code With Andrea",
+        "authors": [
+          "Andrea Bizzotto"
+        ],
         "type": "course"
       },
       {
         "url": "https://codewithandrea.com/courses/flutter-foundations/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flutter Foundations",
+        "platform": "Code With Andrea",
+        "authors": [
+          "Andrea Bizzotto"
+        ],
         "type": "course"
       },
       {
         "url": "https://fireship.io/courses/flutter-firebase/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Ionic 4 Firebase Master Course",
+        "platform": "Fireship.io",
+        "authors": [
+          "Jeff Delaney"
+        ],
         "type": "course"
       },
       {
         "url": "https://fluttercrashcourse.seenickcode.com/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flutter Crash Course - a 100% free video series by @seenickcode",
+        "platform": "See Nick Code",
+        "authors": [
+          "Nick Manning"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "The Complete 2021 Flutter Development Bootcamp with Dart",
+        "platform": "App Brewery",
+        "authors": [
+          "Angela Yu"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/googlecloud-getting-started-with-flutter-development-guo1q",
         "title": "Getting started with Flutter Development",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Google Cloud Training"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.kodeco.com/flutter/paths/flutter-fundamentals",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flutter Fundamentals Learning path",
+        "platform": "Kodeco",
+        "authors": [
+          "Kodeco"
+        ],
         "type": "course"
       },
       {
@@ -340,9 +356,11 @@
       },
       {
         "url": "https://www.simplilearn.com/free-flutter-foundation-course-skillup",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Introduction to Flutter Course Online",
+        "platform": "Simplilearn",
+        "authors": [
+          "Aditya Thakur"
+        ],
         "type": "course"
       },
       {
@@ -414,42 +432,42 @@
     "misc": [
       {
         "url": "https://blog.flutterflow.io/",
-        "title": "",
+        "title": "FlutterFlow Blog",
         "type": "misc"
       },
       {
         "url": "https://codewithandrea.com/",
-        "title": "",
+        "title": "Code With Andrea: Dart, Flutter & Firebase tutorials and courses",
         "type": "misc"
       },
       {
         "url": "https://devglan.com/programming/flutter-article-feeds",
-        "title": "",
+        "title": "Flutter Article",
         "type": "misc"
       },
       {
         "url": "https://docs.flutter.dev/",
-        "title": "",
+        "title": "Flutter documentation",
         "type": "misc"
       },
       {
         "url": "https://flutterbyexample.com/",
-        "title": "",
+        "title": "Home",
         "type": "misc"
       },
       {
         "url": "https://fluttergems.dev/",
-        "title": "",
+        "title": "Flutter Gems - A Curated List of Top Dart and Flutter packages",
         "type": "misc"
       },
       {
         "url": "https://www.kodeco.com/flutter/",
-        "title": "",
+        "title": "Kodeco",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@flutterdev",
-        "title": "",
+        "title": "Flutter YouTube",
         "type": "misc"
       }
     ],

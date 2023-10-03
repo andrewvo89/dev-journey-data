@@ -291,30 +291,38 @@
     "courses": [
       {
         "url": "https://fireship.io/courses/vue/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Vue.js Quickstart Tutorial",
+        "platform": "Fireship.io",
+        "authors": [
+          "Fireship.io"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/production-vue/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Production-Grade Vue.js",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Ben Hong"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/vue-fundamentals/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Vue.js: The Core Concepts",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Sarah Drasner"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/vue-typescript/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Vue.js and TypeScript: Up and Running",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Daniel Rosenwasser"
+        ],
         "type": "course"
       },
       {
@@ -330,7 +338,9 @@
         "url": "https://www.codecademy.com/learn/learn-vue-js",
         "title": "Learn Vue.js",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -390,16 +400,21 @@
       },
       {
         "url": "https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Build Web Apps with Vue JS 3 & Firebase",
+        "platform": "Udemy",
+        "authors": [
+          "Shaun Pelling"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest)",
+        "platform": "Udemy",
+        "authors": [
+          "Andrei Neagoie",
+          "Luis Ramirez Jr."
+        ],
         "type": "course"
       },
       {
@@ -432,78 +447,83 @@
       },
       {
         "url": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+        "platform": "Udemy",
+        "authors": [
+          "Maximilian Schwarzmüller"
+        ],
         "type": "course"
       },
       {
         "url": "https://zerotomastery.io/courses/learn-vue-js/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest)",
+        "platform": "Zero To Mastery",
+        "authors": [
+          "Luis Ramirez Jr.",
+          "Andrei Neagoie"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://books.ninja-squad.com/vue",
-        "title": "",
+        "title": "Become a Ninja with Vue",
         "type": "misc"
       },
       {
         "url": "https://discord.com/invite/HBherRA",
-        "title": "",
+        "title": "Vue Discord",
         "type": "misc"
       },
       {
         "url": "https://learnvue.co/",
-        "title": "",
+        "title": "Learn Vue",
         "type": "misc"
       },
       {
         "url": "https://play.vuejs.org/",
-        "title": "",
+        "title": "Vue Playground",
         "type": "misc"
       },
       {
         "url": "https://theroadtoenterprise.com/books/vue-the-road-to-enterprise",
-        "title": "",
+        "title": "Vue: The Road to Enterprise",
         "type": "misc"
       },
       {
         "url": "https://vue-community.org/",
-        "title": "",
+        "title": "Vue Community",
         "type": "misc"
       },
       {
         "url": "https://vue-view.com/",
-        "title": "",
+        "title": "Vue View",
         "type": "misc"
       },
       {
         "url": "https://vuejs.org/guide/",
-        "title": "",
+        "title": "Vue Guide",
         "type": "misc"
       },
       {
         "url": "https://vuejsdevelopers.com/",
-        "title": "",
+        "title": "VueJS Developers",
         "type": "misc"
       },
       {
         "url": "https://vueschool.io/",
-        "title": "",
+        "title": "Vue School",
         "type": "misc"
       },
       {
         "url": "https://vuestorefront.io/",
-        "title": "",
+        "title": "Vue Storefront",
         "type": "misc"
       },
       {
         "url": "https://www.vuemastery.com/",
-        "title": "",
+        "title": "Vue Mastery | The Ultimate Learning Resource for Vue.js Developers",
         "type": "misc"
       }
     ],

@@ -161,9 +161,11 @@
       },
       {
         "url": "https://egghead.io/courses/build-a-desktop-application-with-electron",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Build a Desktop Application with Electron",
+        "platform": "egghead.io",
+        "authors": [
+          "Cameron Nokes"
+        ],
         "type": "course"
       },
       {
@@ -186,23 +188,27 @@
       },
       {
         "url": "https://frontendmasters.com/courses/electron-v2/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Electron v2",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Steve Kinney"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/electron/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Build cross-platform, desktop applications in JavaScript with Electron",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Steve Kinney"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://www.electronjs.org/docs/latest",
-        "title": "",
+        "title": "Electron | Latest",
         "type": "misc"
       }
     ],

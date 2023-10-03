@@ -279,9 +279,11 @@
       },
       {
         "url": "https://codewithmosh.com/p/the-ultimate-react-native-course",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "The Ultimate React Native Course",
+        "platform": "Code with Mosh",
+        "authors": [
+          "Mosh Hamedani"
+        ],
         "type": "course"
       },
       {
@@ -340,40 +342,47 @@
       },
       {
         "url": "https://zerotomastery.io/courses/learn-react-native/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn React Native",
+        "platform": "Zero to Mastery",
+        "authors": [
+          "Andrei Neagoie",
+          "Mo Binni"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/react-native-v2/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "React Native, v2",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Kadi Kraman"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/intermediate-react-native/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intermediate React Native",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Kadi Kraman"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://start-react-native.dev/",
-        "title": "",
+        "title": "Start React Native",
         "type": "misc"
       },
       {
         "url": "https://www.reactnativebyexample.com/",
-        "title": "",
+        "title": "React Native by Example",
         "type": "misc"
       },
       {
         "url": "https://reactnative.dev/docs/getting-started",
-        "title": "",
+        "title": "React Native · Learn once, write anywhere",
         "type": "misc"
       }
     ],

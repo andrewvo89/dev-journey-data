@@ -495,7 +495,9 @@
         "url": "https://www.pluralsight.com/cloud-guru/courses/introduction-to-python-scripting",
         "title": "Introduction to Python Scripting",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "A Cloud Guru"
+        ],
         "type": "course"
       },
       {
@@ -511,7 +513,9 @@
         "url": "https://www.codecademy.com/learn/learn-advanced-python",
         "title": "Learn Advanced Python 3",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -536,21 +540,27 @@
         "url": "https://www.codecademy.com/learn/learn-python-3",
         "title": "Learn Python 3",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/linear-regression-mssp",
         "title": "Linear Regression in Python",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/practical-data-cleaning",
         "title": "How to Clean Data with Python",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -633,7 +643,9 @@
         "url": "https://www.coursera.org/professional-certificates/google-it-automation",
         "title": "Google IT Automation with Python",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Google Cloud Certificates"
+        ],
         "type": "course"
       },
       {
@@ -652,14 +664,20 @@
         "url": "https://www.coursera.org/specializations/python",
         "title": "Python for Everybody",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Charles Russell Severance"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/specializations/python-3-programming",
         "title": "Python 3 Programming",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Steve Oney",
+          "Paul Resnick",
+          "Christopher Brooks"
+        ],
         "type": "course"
       },
       {
@@ -709,9 +727,11 @@
       },
       {
         "url": "https://www.udacity.com/course/introduction-to-python--ud1110",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Free Intro to Python Course",
+        "platform": "Udacity",
+        "authors": [
+          "Juno Lee"
+        ],
         "type": "course"
       },
       {
@@ -841,22 +861,22 @@
     "misc": [
       {
         "url": "https://docs.python.org/",
-        "title": "",
+        "title": "Python Docs",
         "type": "misc"
       },
       {
         "url": "https://learnpython.com/",
-        "title": "",
+        "title": "Learn Python Programming Online – Real Python",
         "type": "misc"
       },
       {
         "url": "https://pythonbooks.org/",
-        "title": "",
+        "title": "Pythonbooks - Learn Python the easy way !",
         "type": "misc"
       },
       {
         "url": "https://realpython.com/",
-        "title": "",
+        "title": "Real Python Tutorials",
         "type": "misc"
       }
     ],

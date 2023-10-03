@@ -404,7 +404,9 @@
         "url": "https://www.coursera.org/projects/intro-css-web-development",
         "title": "Introduction to CSS in Web Development",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Judy Richardson"
+        ],
         "type": "course"
       },
       {
@@ -436,9 +438,12 @@
       },
       {
         "url": "https://www.udacity.com/course/intro-to-html-and-css--ud001",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intro to HTML and CSS",
+        "platform": "Udacity",
+        "authors": [
+          "Cameron Pittman",
+          "James Parkes"
+        ],
         "type": "course"
       },
       {
@@ -526,22 +531,22 @@
     "misc": [
       {
         "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
-        "title": "",
+        "title": "Mozilla CSS Docs",
         "type": "misc"
       },
       {
         "url": "https://www.w3schools.com/cssref/index.php",
-        "title": "",
+        "title": "W3 Schools CSS Reference",
         "type": "misc"
       },
       {
         "url": "https://webplatform.github.io/docs/css/",
-        "title": "",
+        "title": "Web Platform CSS Reference",
         "type": "misc"
       },
       {
         "url": "https://www.kevinpowell.co/",
-        "title": "",
+        "title": "Kevin Powell",
         "type": "misc"
       }
     ],

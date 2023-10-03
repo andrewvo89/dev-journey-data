@@ -254,9 +254,11 @@
       },
       {
         "url": "https://www.coursera.org/projects/graphql-server-expressjs",
-        "title": "Make a GraphQL Server with ExpressJS",
+        "title": "Project: Make a GraphQL Server with ExpressJS [1.5 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Harrison Kong"
+        ],
         "type": "course"
       },
       {
@@ -281,32 +283,32 @@
     "misc": [
       {
         "url": "https://www.apollographql.com/tutorials/",
-        "title": "",
+        "title": "Apollo Basics",
         "type": "misc"
       },
       {
         "url": "https://book.productionreadygraphql.com/",
-        "title": "",
+        "title": "Production Ready GraphQL",
         "type": "misc"
       },
       {
         "url": "https://graphql.guide/",
-        "title": "",
+        "title": "The GraphQL Guide",
         "type": "misc"
       },
       {
         "url": "https://graphql.org/community/",
-        "title": "",
+        "title": "Community | GraphQL",
         "type": "misc"
       },
       {
         "url": "https://graphql.org/blog/",
-        "title": "",
+        "title": "Blog | GraphQL",
         "type": "misc"
       },
       {
         "url": "https://graphql.org/learn/",
-        "title": "",
+        "title": "Introduction to GraphQL | GraphQL",
         "type": "misc"
       }
     ],

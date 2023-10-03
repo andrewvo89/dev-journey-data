@@ -467,7 +467,9 @@
         "url": "https://www.codecademy.com/learn/intro-to-sql",
         "title": "Intro to SQL",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -483,42 +485,54 @@
         "url": "https://www.codecademy.com/learn/learn-sql",
         "title": "Learn SQL",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-sql-aggregate-functions",
         "title": "Learn SQL: Aggregate Functions",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/learn-sql-multiple-tables",
         "title": "Learn SQL: Multiple Tables",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/sql-analyzing-business-metrics",
         "title": "How to Analyze Business Metrics with SQL",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/sql-marketing",
         "title": "Learn Intermediate SQL for Marketers and Product Managers",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.codecademy.com/learn/sql-table-transformation",
         "title": "How to Transform Tables with SQL",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -534,7 +548,10 @@
         "url": "https://www.coursera.org/learn/sql-data-science",
         "title": "Databases and SQL for Data Science with Python",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Rav Ahuja",
+          "Hima Vasudevan"
+        ],
         "type": "course"
       },
       {
@@ -703,9 +720,11 @@
       },
       {
         "url": "https://www.khanacademy.org/computing/computer-programming/sql",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intro to SQL: Querying and managing data | Khan Academy",
+        "platform": "Khan Academy",
+        "authors": [
+          "Khan Academy"
+        ],
         "type": "course"
       },
       {
@@ -746,9 +765,11 @@
       },
       {
         "url": "https://www.udacity.com/course/sql-for-data-analysis--ud198",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "SQL for Data Analysis",
+        "platform": "Udacity",
+        "authors": [
+          "Derek Steer"
+        ],
         "type": "course"
       },
       {
@@ -860,27 +881,27 @@
     "misc": [
       {
         "url": "https://www.geeksforgeeks.org/medium/sql",
-        "title": "",
+        "title": "SQL - Medium Articles",
         "type": "misc"
       },
       {
         "url": "https://learnsql.com/",
-        "title": "",
+        "title": "SQL online courses | LearnSQL.com",
         "type": "misc"
       },
       {
         "url": "https://www.practicalsql.com/",
-        "title": "",
+        "title": "Practical SQL",
         "type": "misc"
       },
       {
         "url": "https://sql-performance-explained.com/",
-        "title": "",
+        "title": "SQL Performance Explained",
         "type": "misc"
       },
       {
         "url": "https://sqlpracticeproblems.com/",
-        "title": "",
+        "title": "SQL Practice Problems",
         "type": "misc"
       }
     ],

@@ -368,12 +368,12 @@
     "misc": [
       {
         "url": "https://www.labri.fr/perso/nrougier/from-python-to-numpy/",
-        "title": "",
+        "title": "From Python to Numpy",
         "type": "misc"
       },
       {
         "url": "https://numpy.org/doc/stable/",
-        "title": "",
+        "title": "NumPy v1.23 Manual",
         "type": "misc"
       }
     ],

@@ -628,13 +628,6 @@
     ],
     "courses": [
       {
-        "url": "https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "type": "course"
-      },
-      {
         "url": "https://scrimba.com/learn/basicjavascript",
         "title": "Learn Basic JavaScript",
         "platform": "Scrimba",
@@ -827,7 +820,10 @@
         "url": "https://www.coursera.org/specializations/computational-thinking-javascript",
         "title": "Computational Thinking with JavaScript",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Jeremy Singer",
+          "Quintin Cutts"
+        ],
         "type": "course"
       },
       {
@@ -1044,17 +1040,17 @@
     "misc": [
       {
         "url": "https://javascript.info/",
-        "title": "",
+        "title": "The Modern JavaScript Tutorial",
         "type": "misc"
       },
       {
         "url": "https://www.w3schools.com/jsrEF/default.asp",
-        "title": "",
+        "title": "JavaScript Reference",
         "type": "misc"
       },
       {
         "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
-        "title": "",
+        "title": "JavaScript | MDN",
         "type": "misc"
       }
     ],

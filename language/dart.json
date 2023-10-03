@@ -359,28 +359,36 @@
         "url": "https://www.coursera.org/projects/googlecloud-introduction-to-dart-z35cr",
         "title": "Introduction to Dart",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Google Cloud Training"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.educative.io/courses/learn-dart-first-step-to-flutter",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn Dart: First Step to Flutter",
+        "platform": "Educative",
+        "authors": [
+          "Educative"
+        ],
         "type": "course"
       },
       {
         "url": "https://fireship.io/courses/dart/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Dart - Full Course",
+        "platform": "Fireship",
+        "authors": [
+          "Jeff Delaney"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.educative.io/courses/developing-web-applications-with-dart",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Developing Web Applications with Dart",
+        "platform": "Educative",
+        "authors": [
+          "Educative"
+        ],
         "type": "course"
       },
       {
@@ -403,26 +411,28 @@
       },
       {
         "url": "https://zerotomastery.io/courses/learn-dart/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Mastering Dart",
+        "platform": "Zero to Mastery",
+        "authors": [
+          "Andrei Neagoie"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://dart.dev/guides",
-        "title": "",
+        "title": "Dart Guides",
         "type": "misc"
       },
       {
         "url": "https://news.dartlang.org/",
-        "title": "",
+        "title": "Dart News & Updates",
         "type": "misc"
       },
       {
         "url": "https://dart.academy/",
-        "title": "",
+        "title": "Dart Academy",
         "type": "misc"
       }
     ],

@@ -240,38 +240,42 @@
       },
       {
         "url": "https://www.educative.io/courses/mobile-apps-ionic-angular",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Mobile Apps with Ionic and Angular",
+        "platform": "Educative",
+        "authors": [
+          "Michael D. Callaghan"
+        ],
         "type": "course"
       },
       {
         "url": "https://fireship.io/courses/ionic/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Ionic 4 Firebase Master Course",
+        "platform": "Fireship.io",
+        "authors": [
+          "Jeff Delaney"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://ionicacademy.com/",
-        "title": "",
+        "title": "Ionic Academy | Learn Ionic Framework",
         "type": "misc"
       },
       {
         "url": "https://ionicframework.com/docs/",
-        "title": "",
+        "title": "Ionic Documentation",
         "type": "misc"
       },
       {
         "url": "https://go.ionic.io/hybrid-vs-native-guide",
-        "title": "",
+        "title": "Hybrid vs. Native Guide",
         "type": "misc"
       },
       {
         "url": "https://ionic.io/blog/tag/framework",
-        "title": "",
+        "title": "Ionic Blog - Framework",
         "type": "misc"
       }
     ],

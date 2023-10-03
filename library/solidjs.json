@@ -117,36 +117,38 @@
       },
       {
         "url": "https://frontendmasters.com/courses/reactivity-solidjs/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Introduction to Solid.js",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Ryan Carniato"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://playground.solidjs.com/",
-        "title": "",
+        "title": "SolidJS Playground",
         "type": "misc"
       },
       {
         "url": "https://www.solidjs.com/examples/",
-        "title": "",
+        "title": "SolidJS Examples",
         "type": "misc"
       },
       {
         "url": "https://www.solidjs.com/docs/latest/api",
-        "title": "",
+        "title": "SolidJS API",
         "type": "misc"
       },
       {
         "url": "https://www.reddit.com/r/solidjs",
-        "title": "",
+        "title": "SolidJS Reddit",
         "type": "misc"
       },
       {
         "url": "https://discord.com/invite/solidjs",
-        "title": "",
+        "title": "SolidJS Discord",
         "type": "misc"
       }
     ],

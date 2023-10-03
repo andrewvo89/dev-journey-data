@@ -317,56 +317,72 @@
         "url": "https://www.coursera.org/learn/deep-neural-networks-with-pytorch",
         "title": "Deep Neural Networks with PyTorch",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Joseph Santarcangelo"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/deep-learning-with-pytorch--object-localization",
         "title": "Deep Learning with PyTorch : Object Localization",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-build-an-autoencoder",
         "title": "Deep Learning with PyTorch : Build an AutoEncoder",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-generative-adversarial-network",
         "title": "Deep Learning with PyTorch : Generative Adversarial Network",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-image-segmentation",
         "title": "Deep Learning with PyTorch : Image Segmentation",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/deep-learning-with-pytorch-neural-style-transfer",
         "title": "Deep Learning with PyTorch : Neural Style Transfer",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/facial-expression-recognition-with-pytorch",
         "title": "Facial Expression Recognition with PyTorch",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parth Dhameliya"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/the-pytorch-basics-you-need-to-start-your-ml-projects",
         "title": "The Pytorch basics you need to start your ML projects",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Gaspard Baye"
+        ],
         "type": "course"
       },
       {
@@ -407,9 +423,15 @@
       },
       {
         "url": "https://www.udacity.com/course/deep-learning-pytorch--ud188",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Intro to Deep Learning with PyTorch",
+        "platform": "Udacity",
+        "authors": [
+          "Luis Serrano",
+          "Alexis Cook",
+          "Soumith Chintala",
+          "Cezanne Camacho",
+          "Mat Leonard"
+        ],
         "type": "course"
       },
       {
@@ -464,26 +486,28 @@
       },
       {
         "url": "https://zerotomastery.io/courses/learn-pytorch/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "PyTorch for Deep Learning",
+        "platform": "Zero to Mastery",
+        "authors": [
+          "Daniel Bourke"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://pytorch.org/resources/",
-        "title": "",
+        "title": "PyTorch",
         "type": "misc"
       },
       {
         "url": "https://pytorch.org/get-started/locally/",
-        "title": "",
+        "title": "PyTorch Get Started",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@PyTorch",
-        "title": "",
+        "title": "PyTorch YouTube",
         "type": "misc"
       }
     ],

@@ -549,9 +549,13 @@
       },
       {
         "url": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Kotlin Bootcamp for Programmers",
+        "platform": "Udacity",
+        "authors": [
+          "Aleks Haecky",
+          "Sean McQuillan",
+          "Asser Samak"
+        ],
         "type": "course"
       },
       {
@@ -638,27 +642,27 @@
     "misc": [
       {
         "url": "https://www.atomickotlin.com/",
-        "title": "",
+        "title": "Atomic Kotlin",
         "type": "misc"
       },
       {
         "url": "https://kotlinlang.org/education/",
-        "title": "",
+        "title": "Kotlin for Education | Kotlin",
         "type": "misc"
       },
       {
         "url": "https://developers.google.com/profile/badges/tier/courses/android/android-development-with-kotlin",
-        "title": "",
+        "title": "Android Development with Kotlin | Google Developers",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@Kotlin",
-        "title": "",
+        "title": "Kotlin YouTube",
         "type": "misc"
       },
       {
         "url": "https://www.kotlintutorialblog.com/",
-        "title": "",
+        "title": "Kotlin Tutorial Blog",
         "type": "misc"
       }
     ],

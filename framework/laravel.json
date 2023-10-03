@@ -246,27 +246,27 @@
     "misc": [
       {
         "url": "https://laracasts.com/",
-        "title": "",
+        "title": "Laracasts: Laravel, PHP, and JavaScript tutorials",
         "type": "misc"
       },
       {
         "url": "https://larachat.co/",
-        "title": "",
+        "title": "Larachat - Slack for Laravel Developers",
         "type": "misc"
       },
       {
         "url": "https://laravelarticle.com/",
-        "title": "",
+        "title": "Laravel Article",
         "type": "misc"
       },
       {
         "url": "https://laraveldaily.com/",
-        "title": "",
+        "title": "Laravel Daily - Quick Laravel Tips and Tutorials",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@LaravelPHP",
-        "title": "",
+        "title": "Laravel PHP YouTube",
         "type": "misc"
       }
     ],

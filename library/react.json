@@ -604,9 +604,11 @@
       },
       {
         "url": "https://fireship.io/courses/react/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "React - The full course",
+        "platform": "fireship.io",
+        "authors": [
+          "Jeff Delaney"
+        ],
         "type": "course"
       },
       {
@@ -737,9 +739,15 @@
       },
       {
         "url": "https://www.udacity.com/course/react-nanodegree--nd019",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "React",
+        "platform": "Udaicty",
+        "authors": [
+          "Tyler McGinnis",
+          "Alyssa Hope",
+          "Michael Tsamis",
+          "Andrew Wong",
+          "Richard Kalehoff"
+        ],
         "type": "course"
       },
       {
@@ -838,27 +846,27 @@
       },
       {
         "url": "https://epicreact.dev/",
-        "title": "",
+        "title": "Epic React",
         "type": "misc"
       },
       {
         "url": "https://reactresources.com/",
-        "title": "",
+        "title": "React Resources",
         "type": "misc"
       },
       {
         "url": "https://www.joyofreact.com/",
-        "title": "",
+        "title": "Joy of React",
         "type": "misc"
       },
       {
         "url": "https://reactjsexample.com/",
-        "title": "",
+        "title": "React JS Example",
         "type": "misc"
       },
       {
         "url": "https://madewithreact.com/",
-        "title": "",
+        "title": "Made with React",
         "type": "misc"
       }
     ],

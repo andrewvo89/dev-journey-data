@@ -377,14 +377,18 @@
         "url": "https://www.codecademy.com/learn/nonlinear-data-structures-in-swift",
         "title": "Introduction to Non-linear Data Structures in Swift",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/learn/advanced-ios-development",
         "title": "Advanced iOS Development",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Taught by Meta Staff"
+        ],
         "type": "course"
       },
       {
@@ -400,7 +404,9 @@
         "url": "https://www.coursera.org/learn/programming-fundamentals-swift",
         "title": "Programming Fundamentals in Swift",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Taught by Meta Staff"
+        ],
         "type": "course"
       },
       {
@@ -416,7 +422,9 @@
         "url": "https://www.coursera.org/learn/swift-programming",
         "title": "Introduction To Swift Programming",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Parham Aarabi"
+        ],
         "type": "course"
       },
       {
@@ -432,7 +440,13 @@
         "url": "https://www.coursera.org/specializations/ios-development",
         "title": "iOS Development for Creative Entrepreneurs",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Ralf Brockhaus",
+          "Justin-Nicholas Toyama",
+          "Frank Ayars",
+          "Don Patterson",
+          "Sam Kaufman"
+        ],
         "type": "course"
       },
       {
@@ -464,23 +478,29 @@
       },
       {
         "url": "https://www.pluralsight.com/courses/swift-ios-ui-unit-testing",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Swift iOS UI and Unit Testing",
+        "platform": "Pluralsight",
+        "authors": [
+          "Brett Romero"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.pluralsight.com/courses/swift3-fundamentals",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Swift Fundamentals",
+        "platform": "Pluralsight",
+        "authors": [
+          "Simon Allardice"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.udacity.com/course/swift-for-beginners--ud1022",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Swift for Beginners",
+        "platform": "Udacity",
+        "authors": [
+          "Jarrod Parkes"
+        ],
         "type": "course"
       },
       {
@@ -523,47 +543,47 @@
     "misc": [
       {
         "url": "https://codewithchris.com/",
-        "title": "",
+        "title": "Code With Chris",
         "type": "misc"
       },
       {
         "url": "https://developer.apple.com/learn/curriculum/",
-        "title": "",
+        "title": "Learn to code with Apple",
         "type": "misc"
       },
       {
         "url": "https://theswiftdev.com/",
-        "title": "",
+        "title": "The Swift Dev",
         "type": "misc"
       },
       {
         "url": "https://www.avanderlee.com/",
-        "title": "",
+        "title": "Avanderlee",
         "type": "misc"
       },
       {
         "url": "https://www.hackingwithswift.com/",
-        "title": "",
+        "title": "Hacking with Swift",
         "type": "misc"
       },
       {
         "url": "https://www.kodeco.com/ios/paths/learn",
-        "title": "",
+        "title": "iOS and SwiftUI for Beginners",
         "type": "misc"
       },
       {
         "url": "https://www.swift.org/documentation/",
-        "title": "",
+        "title": "Swift Documentation",
         "type": "misc"
       },
       {
         "url": "https://www.swiftdevjournal.com/",
-        "title": "",
+        "title": "Swift Dev Journal",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@iOSAcademy",
-        "title": "",
+        "title": "iOS Academy YouTube",
         "type": "misc"
       }
     ],

@@ -116,9 +116,12 @@
     "courses": [
       {
         "url": "https://vueschool.io/courses/nuxt-js-3-fundamentals",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Nuxt.js 3 Fundamentals",
+        "platform": "Vue School",
+        "authors": [
+          "Daniel Kelly",
+          "Alex Kyriakidis"
+        ],
         "type": "course"
       },
       {
@@ -151,23 +154,29 @@
       },
       {
         "url": "https://frontendmasters.com/courses/nuxt/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Nuxt.js",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Ben Hong"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/vue-nuxt-apps/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Vue and Nuxt.js Apps",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Sarah Drasner"
+        ],
         "type": "course"
       },
       {
         "url": "https://laracasts.com/series/nuxtjs-crash-course",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Nuxt.js Crash Course",
+        "platform": "Laracasts",
+        "authors": [
+          "Andre Madarang"
+        ],
         "type": "course"
       },
       {
@@ -181,36 +190,38 @@
       },
       {
         "url": "https://netninja.dev/p/nuxt-3-crash-course",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Nuxt 3 Crash Course",
+        "platform": "Net Ninja",
+        "authors": [
+          "Shaun Pelling"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://masteringnuxt.com/",
-        "title": "",
+        "title": "Mastering Nuxt",
         "type": "misc"
       },
       {
         "url": "https://content.nuxtjs.org/",
-        "title": "",
+        "title": "Nuxt Content",
         "type": "misc"
       },
       {
         "url": "https://www.vuemastery.com/",
-        "title": "",
+        "title": "Vue Mastery | The Ultimate Learning Resource for Vue.js Developers",
         "type": "misc"
       },
       {
         "url": "https://nuxt.com/docs",
-        "title": "",
+        "title": "Nuxt.js Documentation",
         "type": "misc"
       },
       {
         "url": "https://github.com/nuxt",
-        "title": "",
+        "title": "Nuxt GitHub",
         "type": "misc"
       }
     ],

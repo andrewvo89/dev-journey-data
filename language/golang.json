@@ -474,7 +474,9 @@
         "url": "https://www.coursera.org/projects/googlecloud-use-go-code-to-work-with-google-cloud-data-sources-05wo8",
         "title": "Use Go Code to Work with Google Cloud Data Sources",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Google Cloud Training"
+        ],
         "type": "course"
       },
       {
@@ -497,16 +499,20 @@
       },
       {
         "url": "https://www.udacity.com/course/golang--cd11970",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Go Language (Golang)",
+        "platform": "Udacity",
+        "authors": [
+          "Andrew Wong"
+        ],
         "type": "course"
       },
       {
         "url": "https://zerotomastery.io/courses/learn-golang/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Go Programming (Golang): The Complete Developer's Guide",
+        "platform": "Zero To Mastery",
+        "authors": [
+          "Jayson Lennon"
+        ],
         "type": "course"
       },
       {
@@ -531,22 +537,22 @@
     "misc": [
       {
         "url": "https://www.golang-book.com/",
-        "title": "",
+        "title": "An Introduction to Programming in Go",
         "type": "misc"
       },
       {
         "url": "https://go.dev/doc/",
-        "title": "",
+        "title": "Documentation - The Go Programming Language",
         "type": "misc"
       },
       {
         "url": "https://pkg.go.dev/",
-        "title": "",
+        "title": "pkg.go.dev: Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.",
         "type": "misc"
       },
       {
         "url": "https://go.dev/blog/",
-        "title": "",
+        "title": "The Go Programming Language Blog",
         "type": "misc"
       }
     ],

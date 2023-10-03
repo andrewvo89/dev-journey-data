@@ -168,30 +168,38 @@
     "courses": [
       {
         "url": "https://www.coursera.org/projects/python-flask",
-        "title": "Create Your First Web App with Python and Flask",
+        "title": "Project: Create Your First Web App with Python and Flask [2 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Amit Yadav"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/googlecloud-deploying-a-python-flask-web-application-to-app-engine-flexibl-2w3lz",
-        "title": "Deploying a Python Flask Web Application to App Engine Flexible",
+        "title": "Project: Deploying a Python Flask Web Application to App Engine Flexible [45 mins]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Google Cloud Training"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/flask-for-beginners-creating-an-application",
-        "title": "Flask for Beginners: Creating an Application",
+        "title": "Project: Flask for Beginners: Creating an Application [1.5 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "David Dalsveen"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/web-development-in-flask-build-your-first-website",
-        "title": "Web Development in Flask: Build Your First Website",
+        "title": "Project: Web Development in Flask: Build Your First Website [1.5 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "David Dalsveen"
+        ],
         "type": "course"
       },
       {
@@ -253,7 +261,9 @@
         "url": "https://www.codecademy.com/learn/learn-flask",
         "title": "Learn Flask",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
@@ -267,9 +277,11 @@
       },
       {
         "url": "https://www.educative.io/courses/flask-develop-web-applications-in-python",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Flask: Develop Web Applications in Python",
+        "platform": "Educative",
+        "authors": [
+          "Educative"
+        ],
         "type": "course"
       },
       {
@@ -285,7 +297,7 @@
     "misc": [
       {
         "url": "https://flask.palletsprojects.com/",
-        "title": "",
+        "title": "Welcome to Flask — Flask Documentation (2.1.x)",
         "type": "misc"
       }
     ],

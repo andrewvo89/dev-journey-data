@@ -436,9 +436,11 @@
     "courses": [
       {
         "url": "https://zerotomastery.io/courses/learn-rust/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Rust Programming: The Complete Developer's Guide",
+        "platform": "Zero To Mastery",
+        "authors": [
+          "Jayson Lennon"
+        ],
         "type": "course"
       },
       {
@@ -533,36 +535,38 @@
       },
       {
         "url": "https://www.educative.io/courses/learn-rust-from-scratch",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn Rust from Scratch",
+        "platform": "Educative",
+        "authors": [
+          "Educative"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://stevedonovan.github.io/rust-gentle-intro/",
-        "title": "",
+        "title": "A Gentle Introduction to Rust",
         "type": "misc"
       },
       {
         "url": "https://doc.rust-lang.org/",
-        "title": "",
+        "title": "The Rust Programming Language",
         "type": "misc"
       },
       {
         "url": "https://play.rust-lang.org/",
-        "title": "",
+        "title": "The Rust Playground",
         "type": "misc"
       },
       {
         "url": "https://blog.rust-lang.org/",
-        "title": "",
+        "title": "The Rust Programming Language Blog",
         "type": "misc"
       },
       {
         "url": "https://doc.rust-lang.org/rust-by-example/",
-        "title": "",
+        "title": "Introduction - Rust By Example",
         "type": "misc"
       }
     ],

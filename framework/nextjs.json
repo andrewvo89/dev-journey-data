@@ -192,16 +192,21 @@
       },
       {
         "url": "https://fireship.io/courses/nextjs/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Next.js Full Course",
+        "platform": "Fireship.io",
+        "authors": [
+          "Jeff Delaney"
+        ],
         "type": "course"
       },
       {
         "url": "https://zerotomastery.io/courses/learn-next-js/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn Next JS. Get Hired. | Complete Next.js Developer in 2023",
+        "platform": "Zero To Mastery",
+        "authors": [
+          "Ankita",
+          "Andrei"
+        ],
         "type": "course"
       },
       {
@@ -215,35 +220,41 @@
       },
       {
         "url": "https://www.coursera.org/projects/build-server-rendered-website-nextjs",
-        "title": "Build a Server Rendered Website with Next.js",
+        "title": "Project: Build a Server Rendered Website with Next.js [2 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "David Dalsveen"
+        ],
         "type": "course"
       },
       {
         "url": "https://frontendmasters.com/courses/next-js-v2/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Next.js v2",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Scott Moss"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.educative.io/courses/next-js-build-react-apps",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Next.js: Build React Apps",
+        "platform": "Educative",
+        "authors": [
+          "Eric Wallen"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://egghead.io/q/next",
-        "title": "",
+        "title": "Egghead - Next.js Tutorials",
         "type": "misc"
       },
       {
         "url": "https://nextjs.org/docs",
-        "title": "",
+        "title": "Next.js Documentation",
         "type": "misc"
       }
     ],

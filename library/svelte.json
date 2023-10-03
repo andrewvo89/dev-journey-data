@@ -189,16 +189,20 @@
     "courses": [
       {
         "url": "https://frontendmasters.com/courses/sveltekit/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "SvelteKit",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Rich Harris"
+        ],
         "type": "course"
       },
       {
         "url": "https://netninja.dev/p/svelte-for-beginners",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Svelte for Beginners",
+        "platform": "Net Ninja",
+        "authors": [
+          "The Net Ninja"
+        ],
         "type": "course"
       },
       {
@@ -269,27 +273,27 @@
     "misc": [
       {
         "url": "https://madewithsvelte.com/",
-        "title": "",
+        "title": "Made with Svelte",
         "type": "misc"
       },
       {
         "url": "https://flaviocopes.com/book/svelte/",
-        "title": "",
+        "title": "The Svelte Handbook",
         "type": "misc"
       },
       {
         "url": "https://www.joyofsvelte.com/",
-        "title": "",
+        "title": "Joy of Svelte",
         "type": "misc"
       },
       {
         "url": "https://svelte.dev/docs/",
-        "title": "",
+        "title": "Svelte Docs",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@SvelteSociety",
-        "title": "",
+        "title": "Svelte Society YouTube",
         "type": "misc"
       }
     ],

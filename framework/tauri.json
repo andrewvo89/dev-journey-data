@@ -103,17 +103,17 @@
     "misc": [
       {
         "url": "https://discord.com/invite/tauri",
-        "title": "",
+        "title": "Tauri Discord",
         "type": "misc"
       },
       {
         "url": "https://tauri.app/blog/",
-        "title": "",
+        "title": "Tauri Blog",
         "type": "misc"
       },
       {
         "url": "https://tauri.app/v1/guides/",
-        "title": "",
+        "title": "Tauri Guides",
         "type": "misc"
       }
     ],

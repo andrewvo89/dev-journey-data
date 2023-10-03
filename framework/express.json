@@ -199,21 +199,27 @@
         "url": "https://www.codecademy.com/learn/learn-express",
         "title": "Learn Express",
         "platform": "Codecademy",
-        "authors": [],
+        "authors": [
+          "Codecademy"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/graphql-server-expressjs",
-        "title": "Make a GraphQL Server with ExpressJS",
+        "title": "Project: Make a GraphQL Server with ExpressJS [1.5 hrs]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Harrison Kong"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/projects/nodejs-backend-basics-and-best-practices",
-        "title": "Node.js Backend Basics with Best Practices",
+        "title": "Project: Node.js Backend Basics with Best Practices [1 hr]",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Mohammed Yasser"
+        ],
         "type": "course"
       },
       {
@@ -304,7 +310,7 @@
     "misc": [
       {
         "url": "https://expressjs.com/",
-        "title": "",
+        "title": "Express - Node.js web application framework",
         "type": "misc"
       }
     ],

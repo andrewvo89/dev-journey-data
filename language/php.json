@@ -376,7 +376,9 @@
         "url": "https://www.coursera.org/learn/web-applications-php",
         "title": "Building Web Applications in PHP",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Charles Russell Severance"
+        ],
         "type": "course"
       },
       {
@@ -512,12 +514,12 @@
     "misc": [
       {
         "url": "https://phptherightway.com/",
-        "title": "",
+        "title": "PHP: The Right Way",
         "type": "misc"
       },
       {
         "url": "https://www.php.net/docs.php",
-        "title": "",
+        "title": "PHP: Documentation",
         "type": "misc"
       }
     ],

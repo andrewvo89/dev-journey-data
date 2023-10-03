@@ -119,13 +119,6 @@
         "type": "course"
       },
       {
-        "url": "https://egghead.io/courses/design-with-tailwind-css-masterclass-f0db",
-        "title": "",
-        "platform": "",
-        "authors": [],
-        "type": "course"
-      },
-      {
         "url": "https://www.pluralsight.com/courses/tailwind-css-3-fundamentals",
         "title": "TailwindCSS 3 Fundamentals",
         "platform": "Pluralsight",
@@ -136,31 +129,33 @@
       },
       {
         "url": "https://www.educative.io/courses/modern-css-tailwind",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Modern CSS with Tailwind",
+        "platform": "Educative",
+        "authors": [
+          "Educative"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://github.com/tailwindlabs/tailwindcss/discussions",
-        "title": "",
+        "title": "Tailwind CSS Discussions",
         "type": "misc"
       },
       {
         "url": "https://discord.com/invite/7NF8GNe",
-        "title": "",
+        "title": "Tailwind CSS Discord",
         "type": "misc"
       },
       {
         "url": "https://www.youtube.com/@TailwindLabs",
-        "title": "",
+        "title": "Tailwind CSS YouTube",
         "type": "misc"
       },
       {
         "url": "https://v2.tailwindcss.com/docs",
-        "title": "",
+        "title": "Tailwind CSS Docs",
         "type": "misc"
       }
     ],

@@ -319,30 +319,41 @@
     "courses": [
       {
         "url": "https://frontendmasters.com/courses/functional-first-steps/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Functional JavaScript First Steps",
+        "platform": "Frontend Masters",
+        "authors": [
+          "Anjana Vakil"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/learn/scala-functional-programming",
         "title": "Functional Programming Principles in Scala",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Martin Odersky"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.coursera.org/specializations/scala",
         "title": "Functional Programming in Scala",
         "platform": "Coursera",
-        "authors": [],
+        "authors": [
+          "Martin Odersky",
+          "Heather Miller",
+          "Viktor Kuncak",
+          "Aleksander Prokopec"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.educative.io/courses/mastering-functional-programming-ocaml-haskell",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Mastering Functional Programming: OCaml and Haskell",
+        "platform": "Educative.io",
+        "authors": [
+          "Minh Quang Tran"
+        ],
         "type": "course"
       },
       {
@@ -367,7 +378,9 @@
         "url": "https://www.pluralsight.com/courses/javascript-functional-programming-concepts4",
         "title": "Functional Programming Concepts in JavaScript",
         "platform": "Pluralsight",
-        "authors": [],
+        "authors": [
+          "PluralSight"
+        ],
         "type": "course"
       },
       {
@@ -399,30 +412,36 @@
       },
       {
         "url": "https://www.udemy.com/course/functional-programming-using-cpp/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Functional Programming using C++",
+        "platform": "Udemy",
+        "authors": [
+          "Tobias Hermann"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/functional-programming-with-java/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Learn Java Functional Programming with Lambdas & Streams",
+        "platform": "Udemy",
+        "authors": [
+          "in28Minutes Official"
+        ],
         "type": "course"
       },
       {
         "url": "https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/",
-        "title": "",
-        "platform": "",
-        "authors": [],
+        "title": "Scala & Functional Programming Essentials | Rock the JVM",
+        "platform": "Udemy",
+        "authors": [
+          "Daniel Ciocîrlan"
+        ],
         "type": "course"
       }
     ],
     "misc": [
       {
         "url": "https://github.com/xgrommx/awesome-functional-programming",
-        "title": "",
+        "title": "Awesome Functional Programming GitHub",
         "type": "misc"
       }
     ],
