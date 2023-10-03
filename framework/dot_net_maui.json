@@ -2,7 +2,7 @@
   "title": ".NET MAUI",
   "description": "",
   "dependencies": [
-    "language/c_sharp",
+    "language/c_sharp"
   ],
   "resources": {
     "articles": [],
