@@ -1,0 +1,14 @@
+{
+  "title": "Ruby on Rails",
+  "description": "",
+  "dependencies": [
+    "language/ruby"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "misc": [],
+    "videos": []
+  }
+}

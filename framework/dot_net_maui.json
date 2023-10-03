@@ -1,0 +1,14 @@
+{
+  "title": ".NET MAUI",
+  "description": "",
+  "dependencies": [
+    "language/c_sharp",
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "misc": [],
+    "videos": []
+  }
+}

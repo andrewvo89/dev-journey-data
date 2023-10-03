@@ -1,0 +1,14 @@
+{
+  "title": "Scikit Learn",
+  "description": "",
+  "dependencies": [
+    "language/python"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "misc": [],
+    "videos": []
+  }
+}

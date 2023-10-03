@@ -1,0 +1,14 @@
+{
+  "title": "Ruby",
+  "description": "",
+  "dependencies": [
+    "field/backend_development"
+  ],
+  "resources": {
+    "articles": [],
+    "books": [],
+    "courses": [],
+    "misc": [],
+    "videos": []
+  }
+}
